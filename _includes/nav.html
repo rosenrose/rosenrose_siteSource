@@ -19,7 +19,7 @@
       {% for link in site.navbar-links %}
         {% if link[1].first %}     
           <li class="navlinks-container">
-            <a href="/search"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></a>
+            <a href="/search"><img src="../assets/tipuesearch/search.png" class="tipue_search_icon" width="96"></a>
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
               {% for childlink in link[1] %}
