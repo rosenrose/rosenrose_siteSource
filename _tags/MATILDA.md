@@ -1,4 +1,0 @@
----
-name: MATILDA
-title: MATILDA
----

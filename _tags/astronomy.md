@@ -1,4 +1,0 @@
----
-name: astronomy
-title: astronomy
----
