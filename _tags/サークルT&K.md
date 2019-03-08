@@ -1,4 +1,4 @@
 ---
-name: サークルT&K
-title: サークルT&K
+name: "サークルT&K"
+title: "サークルT&K"
 ---
