@@ -1,4 +1,4 @@
 ---
-name: sugilight
-title: sugilight
+name: "sugilight"
+title: "sugilight"
 ---

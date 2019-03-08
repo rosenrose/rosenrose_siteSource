@@ -1,4 +1,4 @@
 ---
-name: DELI-TRE
-title: DELI-TRE
+name: "DELI-TRE"
+title: "DELI-TRE"
 ---

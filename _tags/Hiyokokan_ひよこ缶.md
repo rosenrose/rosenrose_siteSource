@@ -1,4 +1,4 @@
 ---
-name: Hiyokokan_ひよこ缶
-title: Hiyokokan_ひよこ缶
+name: "Hiyokokan_ひよこ缶"
+title: "Hiyokokan_ひよこ缶"
 ---

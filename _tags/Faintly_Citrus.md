@@ -1,4 +1,4 @@
 ---
-name: Faintly_Citrus
-title: Faintly_Citrus
+name: "Faintly_Citrus"
+title: "Faintly_Citrus"
 ---

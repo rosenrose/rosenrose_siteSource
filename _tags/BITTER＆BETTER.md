@@ -1,4 +1,4 @@
 ---
-name: BITTER＆BETTER
-title: BITTER＆BETTER
+name: "BITTER＆BETTER"
+title: "BITTER＆BETTER"
 ---

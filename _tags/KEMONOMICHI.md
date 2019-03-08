@@ -1,4 +1,4 @@
 ---
-name: KEMONOMICHI
-title: KEMONOMICHI
+name: "KEMONOMICHI"
+title: "KEMONOMICHI"
 ---

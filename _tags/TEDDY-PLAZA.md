@@ -1,4 +1,4 @@
 ---
-name: TEDDY-PLAZA
-title: TEDDY-PLAZA
+name: "TEDDY-PLAZA"
+title: "TEDDY-PLAZA"
 ---

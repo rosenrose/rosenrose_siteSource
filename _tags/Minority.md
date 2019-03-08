@@ -1,4 +1,4 @@
 ---
-name: Minority
-title: Minority
+name: "Minority"
+title: "Minority"
 ---

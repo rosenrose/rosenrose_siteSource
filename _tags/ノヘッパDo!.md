@@ -1,4 +1,4 @@
 ---
-name: ノヘッパDo!
-title: ノヘッパDo!
+name: "ノヘッパDo!"
+title: "ノヘッパDo!"
 ---

@@ -1,4 +1,4 @@
 ---
-name: Noya_Macoto
-title: Noya_Macoto
+name: "Noya_Macoto"
+title: "Noya_Macoto"
 ---

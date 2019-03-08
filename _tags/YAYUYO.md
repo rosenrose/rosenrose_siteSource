@@ -1,4 +1,4 @@
 ---
-name: YAYUYO
-title: YAYUYO
+name: "YAYUYO"
+title: "YAYUYO"
 ---

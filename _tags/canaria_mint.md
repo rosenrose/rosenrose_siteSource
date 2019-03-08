@@ -1,4 +1,4 @@
 ---
-name: canaria_mint
-title: canaria_mint
+name: "canaria_mint"
+title: "canaria_mint"
 ---

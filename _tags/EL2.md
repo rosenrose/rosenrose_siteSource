@@ -1,4 +1,4 @@
 ---
-name: EL2
-title: EL2
+name: "EL2"
+title: "EL2"
 ---

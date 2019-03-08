@@ -1,4 +1,4 @@
 ---
-name: winter_scenery
-title: winter_scenery
+name: "WINTER_SCENERY"
+title: "WINTER_SCENERY"
 ---

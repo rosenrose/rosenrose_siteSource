@@ -1,4 +1,4 @@
 ---
-name: ＋legacy
-title: ＋legacy
+name: "＋legacy"
+title: "＋legacy"
 ---

@@ -1,4 +1,4 @@
 ---
-name: angel_type
-title: angel_type
+name: "ANGEL_TYPE"
+title: "ANGEL_TYPE"
 ---

@@ -1,4 +1,4 @@
 ---
-name: YC-TV
-title: YC-TV
+name: "YC-TV"
+title: "YC-TV"
 ---

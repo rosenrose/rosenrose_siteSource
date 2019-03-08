@@ -1,4 +1,4 @@
 ---
-name: baneiro
-title: baneiro
+name: "baneiro"
+title: "baneiro"
 ---

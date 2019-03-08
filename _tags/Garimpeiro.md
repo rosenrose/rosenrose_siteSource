@@ -1,4 +1,4 @@
 ---
-name: Garimpeiro
-title: Garimpeiro
+name: "Garimpeiro"
+title: "Garimpeiro"
 ---

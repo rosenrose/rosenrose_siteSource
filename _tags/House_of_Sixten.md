@@ -1,4 +1,4 @@
 ---
-name: House_of_Sixten
-title: House_of_Sixten
+name: "House_of_Sixten"
+title: "House_of_Sixten"
 ---

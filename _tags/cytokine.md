@@ -1,4 +1,4 @@
 ---
-name: cytokine
-title: cytokine
+name: "CYTOKINE"
+title: "CYTOKINE"
 ---

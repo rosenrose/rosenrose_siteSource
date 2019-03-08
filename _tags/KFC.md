@@ -1,4 +1,4 @@
 ---
-name: KFC
-title: KFC
+name: "KFC"
+title: "KFC"
 ---

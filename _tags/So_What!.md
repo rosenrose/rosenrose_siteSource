@@ -1,4 +1,4 @@
 ---
-name: So_What!
-title: So_What!
+name: "So_What!"
+title: "So_What!"
 ---

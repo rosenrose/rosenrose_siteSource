@@ -1,4 +1,4 @@
 ---
-name: RED-SIGHT
-title: RED-SIGHT
+name: "RED-SIGHT"
+title: "RED-SIGHT"
 ---

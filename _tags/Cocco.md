@@ -1,4 +1,4 @@
 ---
-name: Cocco
-title: Cocco
+name: "COCCO"
+title: "COCCO"
 ---
