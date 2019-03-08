@@ -1,4 +1,4 @@
 ---
-name: @napluso
-title: "@napluso"
+name: "@napluso"
+title: @napluso
 ---
