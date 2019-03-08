@@ -179,7 +179,7 @@ article > img {
   position: absolute;
   left: 50%;
   width: 50px;
-  margin-top: -25px;
+  margin-top: -50px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -203,7 +203,7 @@ article > img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
-    margin-top: -50px;
+    margin-top: -90px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
