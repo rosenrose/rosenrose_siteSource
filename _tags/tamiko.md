@@ -1,4 +1,4 @@
 ---
-name: tamiko
-title: tamiko
+name: "tamiko"
+title: "tamiko"
 ---

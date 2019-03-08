@@ -1,4 +1,4 @@
 ---
-name: Chado
-title: Chado
+name: "Chado"
+title: "Chado"
 ---

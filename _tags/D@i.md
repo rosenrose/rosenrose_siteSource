@@ -1,4 +1,4 @@
 ---
-name: D@i
-title: D@i
+name: "D@i"
+title: "D@i"
 ---

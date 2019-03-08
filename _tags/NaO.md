@@ -1,4 +1,4 @@
 ---
-name: NaO
-title: NaO
+name: "NaO"
+title: "NaO"
 ---

@@ -1,4 +1,4 @@
 ---
-name: crowclock
-title: crowclock
+name: "crowclock"
+title: "crowclock"
 ---

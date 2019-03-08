@@ -1,4 +1,4 @@
 ---
-name: SWAY_WIND
-title: SWAY_WIND
+name: "SWAY_WIND"
+title: "SWAY_WIND"
 ---

@@ -1,4 +1,4 @@
 ---
-name: nyoi
-title: nyoi
+name: "nyoi"
+title: "nyoi"
 ---

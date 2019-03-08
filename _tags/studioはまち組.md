@@ -1,4 +1,4 @@
 ---
-name: studioはまち組
-title: studioはまち組
+name: "studioはまち組"
+title: "studioはまち組"
 ---

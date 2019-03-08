@@ -1,4 +1,4 @@
 ---
-name: INNER_PARADOX
-title: INNER_PARADOX
+name: "INNER_PARADOX"
+title: "INNER_PARADOX"
 ---

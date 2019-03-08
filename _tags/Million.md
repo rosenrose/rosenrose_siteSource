@@ -1,4 +1,4 @@
 ---
-name: Million
-title: Million
+name: "Million"
+title: "Million"
 ---

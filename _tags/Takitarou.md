@@ -1,4 +1,4 @@
 ---
-name: Takitarou
-title: Takitarou
+name: "Takitarou"
+title: "Takitarou"
 ---

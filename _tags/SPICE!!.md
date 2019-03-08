@@ -1,4 +1,4 @@
 ---
-name: SPICE!!
-title: SPICE!!
+name: "SPICE!!"
+title: "SPICE!!"
 ---

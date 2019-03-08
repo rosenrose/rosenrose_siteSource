@@ -1,4 +1,4 @@
 ---
-name: Justy
-title: Justy
+name: "Justy"
+title: "Justy"
 ---

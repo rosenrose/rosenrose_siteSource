@@ -1,4 +1,4 @@
 ---
-name: pellas
-title: pellas
+name: "pellas"
+title: "pellas"
 ---

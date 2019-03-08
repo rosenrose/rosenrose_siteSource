@@ -1,4 +1,4 @@
 ---
-name: cubeDrive
-title: cubeDrive
+name: "cubeDrive"
+title: "cubeDrive"
 ---

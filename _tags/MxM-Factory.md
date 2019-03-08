@@ -1,4 +1,4 @@
 ---
-name: MxM-Factory
-title: MxM-Factory
+name: "MxM-Factory"
+title: "MxM-Factory"
 ---

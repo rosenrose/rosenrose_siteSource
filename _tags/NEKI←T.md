@@ -1,4 +1,4 @@
 ---
-name: NEKI←T
-title: NEKI←T
+name: "NEKI←T"
+title: "NEKI←T"
 ---

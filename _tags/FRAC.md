@@ -1,4 +1,4 @@
 ---
-name: FRAC
-title: FRAC
+name: "FRAC"
+title: "FRAC"
 ---

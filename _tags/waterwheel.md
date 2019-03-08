@@ -1,4 +1,4 @@
 ---
-name: waterwheel
-title: waterwheel
+name: "waterwheel"
+title: "waterwheel"
 ---

@@ -1,4 +1,4 @@
 ---
-name: Citrus＊BW
-title: Citrus＊BW
+name: "Citrus＊BW"
+title: "Citrus＊BW"
 ---

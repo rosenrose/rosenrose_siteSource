@@ -1,4 +1,4 @@
 ---
-name: Re：Move
-title: Re：Move
+name: "Re：Move"
+title: "Re：Move"
 ---

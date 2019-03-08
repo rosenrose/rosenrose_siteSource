@@ -1,4 +1,4 @@
 ---
-name: ZK軍団
-title: ZK軍団
+name: "ZK軍団"
+title: "ZK軍団"
 ---
