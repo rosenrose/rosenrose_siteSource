@@ -1,4 +1,0 @@
----
-name: yaise
-title: yaise
----

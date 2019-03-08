@@ -1,4 +1,0 @@
----
-name: UkiUkiWatching
-title: UkiUkiWatching
----

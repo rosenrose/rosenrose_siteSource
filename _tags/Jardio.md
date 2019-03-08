@@ -1,4 +1,0 @@
----
-name: Jardio
-title: Jardio
----

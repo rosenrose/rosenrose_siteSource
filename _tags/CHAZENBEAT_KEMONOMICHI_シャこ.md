@@ -1,4 +1,0 @@
----
-name: CHAZENBEAT_KEMONOMICHI_シャこ
-title: CHAZENBEAT_KEMONOMICHI_シャこ
----

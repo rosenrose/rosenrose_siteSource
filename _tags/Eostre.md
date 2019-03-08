@@ -1,4 +1,0 @@
----
-name: Eostre
-title: Eostre
----

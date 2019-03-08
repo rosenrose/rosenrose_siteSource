@@ -1,4 +1,0 @@
----
-name: SignalMass
-title: SignalMass
----

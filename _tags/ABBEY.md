@@ -1,4 +1,0 @@
----
-name: ABBEY
-title: ABBEY
----

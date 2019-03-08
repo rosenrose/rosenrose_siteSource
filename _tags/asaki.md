@@ -1,4 +1,0 @@
----
-name: asaki
-title: asaki
----

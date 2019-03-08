@@ -1,4 +1,0 @@
----
-name: YASSY
-title: YASSY
----

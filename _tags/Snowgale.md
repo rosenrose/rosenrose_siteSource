@@ -1,4 +1,0 @@
----
-name: Snowgale
-title: Snowgale
----

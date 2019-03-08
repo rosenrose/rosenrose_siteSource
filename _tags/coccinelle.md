@@ -1,4 +1,0 @@
----
-name: coccinelle
-title: coccinelle
----

@@ -1,4 +1,0 @@
----
-name: NAYUTA
-title: NAYUTA
----

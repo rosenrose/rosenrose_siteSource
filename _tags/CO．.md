@@ -1,4 +1,0 @@
----
-name: CO．
-title: CO．
----

@@ -1,4 +1,0 @@
----
-name: irohasu
-title: irohasu
----

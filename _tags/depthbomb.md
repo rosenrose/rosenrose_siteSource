@@ -1,4 +1,0 @@
----
-name: depthbomb
-title: depthbomb
----

@@ -1,4 +1,0 @@
----
-name: KFC
-title: KFC
----

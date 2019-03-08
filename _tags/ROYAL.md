@@ -1,4 +1,0 @@
----
-name: royal
-title: royal
----

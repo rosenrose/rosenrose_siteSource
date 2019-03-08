@@ -1,4 +1,0 @@
----
-name: HaruTomo
-title: HaruTomo
----

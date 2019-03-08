@@ -1,4 +1,0 @@
----
-name: pfalz
-title: pfalz
----

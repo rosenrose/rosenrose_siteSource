@@ -1,4 +1,0 @@
----
-name: WindArTeam
-title: WindArTeam
----

@@ -1,4 +1,0 @@
----
-name: HOLLOWPLUS
-title: HOLLOWPLUS
----

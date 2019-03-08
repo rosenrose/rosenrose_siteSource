@@ -1,4 +1,0 @@
----
-name: sakimiya
-title: sakimiya
----

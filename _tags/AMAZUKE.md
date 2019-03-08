@@ -1,4 +1,0 @@
----
-name: AMAZUKE
-title: AMAZUKE
----

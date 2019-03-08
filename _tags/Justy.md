@@ -1,4 +1,0 @@
----
-name: Justy
-title: Justy
----

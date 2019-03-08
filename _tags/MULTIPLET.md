@@ -1,4 +1,0 @@
----
-name: MULTIPLET
-title: MULTIPLET
----

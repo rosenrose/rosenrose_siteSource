@@ -1,4 +1,0 @@
----
-name: POCAPOCA
-title: POCAPOCA
----

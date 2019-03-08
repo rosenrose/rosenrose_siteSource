@@ -1,4 +1,0 @@
----
-name: Fifiruu
-title: Fifiruu
----

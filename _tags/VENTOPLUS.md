@@ -1,4 +1,0 @@
----
-name: VENTOPLUS
-title: VENTOPLUS
----

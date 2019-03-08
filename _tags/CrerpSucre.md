@@ -1,4 +1,0 @@
----
-name: CrerpSucre
-title: CrerpSucre
----

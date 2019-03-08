@@ -1,4 +1,0 @@
----
-name: OrangePeco
-title: OrangePeco
----

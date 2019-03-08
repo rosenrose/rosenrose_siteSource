@@ -1,4 +1,0 @@
----
-name: gottamix
-title: gottamix
----

@@ -1,4 +1,0 @@
----
-name: FelisOvum
-title: FelisOvum
----

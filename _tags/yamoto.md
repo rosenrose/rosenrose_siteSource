@@ -1,4 +1,0 @@
----
-name: yamoto
-title: yamoto
----

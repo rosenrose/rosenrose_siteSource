@@ -1,4 +1,0 @@
----
-name: MILLION
-title: MILLION
----

@@ -1,4 +1,0 @@
----
-name: KALMIA
-title: KALMIA
----
