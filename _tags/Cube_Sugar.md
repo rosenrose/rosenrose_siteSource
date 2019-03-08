@@ -1,4 +1,4 @@
 ---
-name: Cube_Sugar
-title: Cube_Sugar
+name: "Cube_Sugar"
+title: "Cube_Sugar"
 ---

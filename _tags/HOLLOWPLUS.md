@@ -1,4 +1,4 @@
 ---
-name: HOLLOWPLUS
-title: HOLLOWPLUS
+name: "HOLLOWPLUS"
+title: "HOLLOWPLUS"
 ---

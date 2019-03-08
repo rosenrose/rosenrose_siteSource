@@ -1,4 +1,4 @@
 ---
-name: studio寿司くいねぇ
-title: studio寿司くいねぇ
+name: "studio寿司くいねぇ"
+title: "studio寿司くいねぇ"
 ---

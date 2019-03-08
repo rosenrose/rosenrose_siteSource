@@ -1,4 +1,4 @@
 ---
-name: Jubilee
-title: Jubilee
+name: "Jubilee"
+title: "Jubilee"
 ---

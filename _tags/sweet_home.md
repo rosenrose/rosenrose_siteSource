@@ -1,4 +1,4 @@
 ---
-name: sweet_home
-title: sweet_home
+name: "sweet_home"
+title: "sweet_home"
 ---

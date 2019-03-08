@@ -1,4 +1,4 @@
 ---
-name: Zinfandel
-title: Zinfandel
+name: "Zinfandel"
+title: "Zinfandel"
 ---

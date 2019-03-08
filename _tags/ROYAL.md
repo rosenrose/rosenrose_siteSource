@@ -1,4 +1,4 @@
 ---
-name: ROYAL
-title: ROYAL
+name: "ROYAL"
+title: "ROYAL"
 ---

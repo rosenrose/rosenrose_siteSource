@@ -1,4 +1,4 @@
 ---
-name: L＋
-title: L＋
+name: "L＋"
+title: "L＋"
 ---

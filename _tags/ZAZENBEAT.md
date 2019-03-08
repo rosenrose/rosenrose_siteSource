@@ -1,4 +1,4 @@
 ---
-name: ZAZENBEAT
-title: ZAZENBEAT
+name: "ZAZENBEAT"
+title: "ZAZENBEAT"
 ---

@@ -1,4 +1,4 @@
 ---
-name: Sixten
-title: Sixten
+name: "Sixten"
+title: "Sixten"
 ---

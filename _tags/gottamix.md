@@ -1,4 +1,4 @@
 ---
-name: gottamix
-title: gottamix
+name: "gottamix"
+title: "gottamix"
 ---

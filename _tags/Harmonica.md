@@ -1,4 +1,4 @@
 ---
-name: Harmonica
-title: Harmonica
+name: "Harmonica"
+title: "Harmonica"
 ---

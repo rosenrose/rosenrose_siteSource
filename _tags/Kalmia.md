@@ -1,4 +1,4 @@
 ---
-name: Kalmia
-title: Kalmia
+name: "Kalmia"
+title: "Kalmia"
 ---

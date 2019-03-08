@@ -1,4 +1,4 @@
 ---
-name: DerWald
-title: DerWald
+name: "DerWald"
+title: "DerWald"
 ---

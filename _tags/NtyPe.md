@@ -1,4 +1,4 @@
 ---
-name: NtyPe
-title: NtyPe
+name: "NtyPe"
+title: "NtyPe"
 ---

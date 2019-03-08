@@ -1,4 +1,4 @@
 ---
-name: AMAZUKE
-title: AMAZUKE
+name: "AMAZUKE"
+title: "AMAZUKE"
 ---

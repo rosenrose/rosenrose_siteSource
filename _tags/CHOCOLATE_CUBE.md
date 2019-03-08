@@ -1,4 +1,4 @@
 ---
-name: CHOCOLATE_CUBE
-title: CHOCOLATE_CUBE
+name: "CHOCOLATE_CUBE"
+title: "CHOCOLATE_CUBE"
 ---

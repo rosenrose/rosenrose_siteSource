@@ -1,4 +1,4 @@
 ---
-name: Lunatic_stage
-title: Lunatic_stage
+name: "Lunatic_stage"
+title: "Lunatic_stage"
 ---

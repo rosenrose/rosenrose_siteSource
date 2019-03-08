@@ -1,4 +1,4 @@
 ---
-name: Geppewi
-title: Geppewi
+name: "Geppewi"
+title: "Geppewi"
 ---

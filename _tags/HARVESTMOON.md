@@ -1,4 +1,4 @@
 ---
-name: HARVESTMOON
-title: HARVESTMOON
+name: "HARVESTMOON"
+title: "HARVESTMOON"
 ---

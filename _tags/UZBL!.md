@@ -1,4 +1,4 @@
 ---
-name: UZBL!
-title: UZBL!
+name: "UZBL!"
+title: "UZBL!"
 ---

@@ -1,4 +1,4 @@
 ---
-name: ごましおSTEAK
-title: ごましおSTEAK
+name: "ごましおSTEAK"
+title: "ごましおSTEAK"
 ---

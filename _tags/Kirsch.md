@@ -1,4 +1,4 @@
 ---
-name: Kirsch
-title: Kirsch
+name: "Kirsch"
+title: "Kirsch"
 ---

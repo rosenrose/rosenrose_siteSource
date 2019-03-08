@@ -1,4 +1,4 @@
 ---
-name: DJB2
-title: DJB2
+name: "DJB2"
+title: "DJB2"
 ---

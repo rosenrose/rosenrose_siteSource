@@ -1,4 +1,4 @@
 ---
-name: Yohitama
-title: Yohitama
+name: "Yohitama"
+title: "Yohitama"
 ---

@@ -1,4 +1,4 @@
 ---
-name: JohnSmith
-title: JohnSmith
+name: "JohnSmith"
+title: "JohnSmith"
 ---

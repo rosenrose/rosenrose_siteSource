@@ -1,4 +1,4 @@
 ---
-name: Check_Mate!
-title: Check_Mate!
+name: "Check_Mate!"
+title: "Check_Mate!"
 ---

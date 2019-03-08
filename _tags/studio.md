@@ -1,4 +1,4 @@
 ---
-name: "STUDIO"
-title: "STUDIO"
+name: "studio"
+title: "studio"
 ---

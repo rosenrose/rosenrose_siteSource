@@ -1,4 +1,4 @@
 ---
-name: HI-SCORE
-title: HI-SCORE
+name: "HI-SCORE"
+title: "HI-SCORE"
 ---

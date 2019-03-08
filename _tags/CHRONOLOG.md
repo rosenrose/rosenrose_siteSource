@@ -1,4 +1,4 @@
 ---
-name: CHRONOLOG
-title: CHRONOLOG
+name: "CHRONOLOG"
+title: "CHRONOLOG"
 ---

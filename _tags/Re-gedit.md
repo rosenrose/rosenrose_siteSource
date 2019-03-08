@@ -1,4 +1,4 @@
 ---
-name: Re-gedit
-title: Re-gedit
+name: "Re-gedit"
+title: "Re-gedit"
 ---

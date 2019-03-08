@@ -1,4 +1,4 @@
 ---
-name: MILK_BAR
-title: MILK_BAR
+name: "MILK_BAR"
+title: "MILK_BAR"
 ---

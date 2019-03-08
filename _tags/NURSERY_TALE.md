@@ -1,4 +1,4 @@
 ---
-name: NURSERY_TALE
-title: NURSERY_TALE
+name: "NURSERY_TALE"
+title: "NURSERY_TALE"
 ---

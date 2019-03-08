@@ -1,4 +1,4 @@
 ---
-name: Studio_Rimil
-title: Studio_Rimil
+name: "Studio_Rimil"
+title: "Studio_Rimil"
 ---

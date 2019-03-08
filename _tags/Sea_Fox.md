@@ -1,4 +1,4 @@
 ---
-name: Sea_Fox
-title: Sea_Fox
+name: "Sea_Fox"
+title: "Sea_Fox"
 ---

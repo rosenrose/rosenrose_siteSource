@@ -1,4 +1,4 @@
 ---
-name: INNOCENT_WORKS
-title: INNOCENT_WORKS
+name: "INNOCENT_WORKS"
+title: "INNOCENT_WORKS"
 ---

@@ -1,4 +1,4 @@
 ---
-name: Matsushiba_Electronics
-title: Matsushiba_Electronics
+name: "Matsushiba_Electronics"
+title: "Matsushiba_Electronics"
 ---

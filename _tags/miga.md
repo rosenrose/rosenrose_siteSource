@@ -1,4 +1,4 @@
 ---
-name: miga
-title: miga
+name: "miga"
+title: "miga"
 ---

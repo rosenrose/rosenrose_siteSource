@@ -1,4 +1,4 @@
 ---
-name: H2O
-title: H2O
+name: "H2O"
+title: "H2O"
 ---

@@ -1,4 +1,4 @@
 ---
-name: depthbomb
-title: depthbomb
+name: "depthbomb"
+title: "depthbomb"
 ---

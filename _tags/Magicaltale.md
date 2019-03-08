@@ -1,4 +1,4 @@
 ---
-name: Magicaltale
-title: Magicaltale
+name: "Magicaltale"
+title: "Magicaltale"
 ---

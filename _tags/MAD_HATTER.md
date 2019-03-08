@@ -1,4 +1,4 @@
 ---
-name: MAD_HATTER
-title: MAD_HATTER
+name: "MAD_HATTER"
+title: "MAD_HATTER"
 ---

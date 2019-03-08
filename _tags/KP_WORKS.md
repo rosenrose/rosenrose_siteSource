@@ -1,4 +1,4 @@
 ---
-name: KP_WORKS
-title: KP_WORKS
+name: "KP_WORKS"
+title: "KP_WORKS"
 ---

@@ -1,4 +1,4 @@
 ---
-name: Lazy★Lazy
-title: Lazy★Lazy
+name: "Lazy★Lazy"
+title: "Lazy★Lazy"
 ---

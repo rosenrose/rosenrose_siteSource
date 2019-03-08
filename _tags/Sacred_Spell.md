@@ -1,4 +1,4 @@
 ---
-name: Sacred_Spell
-title: Sacred_Spell
+name: "Sacred_Spell"
+title: "Sacred_Spell"
 ---

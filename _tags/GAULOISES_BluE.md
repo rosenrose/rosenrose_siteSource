@@ -1,4 +1,4 @@
 ---
-name: GAULOISES_BluE
-title: GAULOISES_BluE
+name: "GAULOISES_BluE"
+title: "GAULOISES_BluE"
 ---

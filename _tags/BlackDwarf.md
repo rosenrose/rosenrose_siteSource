@@ -1,4 +1,4 @@
 ---
-name: BlackDwarf
-title: BlackDwarf
+name: "BlackDwarf"
+title: "BlackDwarf"
 ---

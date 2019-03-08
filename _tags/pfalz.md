@@ -1,4 +1,4 @@
 ---
-name: pfalz
-title: pfalz
+name: "pfalz"
+title: "pfalz"
 ---

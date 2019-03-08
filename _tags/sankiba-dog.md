@@ -1,4 +1,4 @@
 ---
-name: sankiba-dog
-title: sankiba-dog
+name: "sankiba-dog"
+title: "sankiba-dog"
 ---

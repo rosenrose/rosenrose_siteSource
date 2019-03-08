@@ -1,4 +1,4 @@
 ---
-name: mazeltov
-title: mazeltov
+name: "mazeltov"
+title: "mazeltov"
 ---

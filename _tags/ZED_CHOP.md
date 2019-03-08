@@ -1,4 +1,4 @@
 ---
-name: ZED_CHOP
-title: ZED_CHOP
+name: "ZED_CHOP"
+title: "ZED_CHOP"
 ---

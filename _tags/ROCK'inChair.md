@@ -1,4 +1,4 @@
 ---
-name: ROCK'inChair
-title: ROCK'inChair
+name: "ROCK'inChair"
+title: "ROCK'inChair"
 ---

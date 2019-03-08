@@ -1,4 +1,4 @@
 ---
-name: capsicum
-title: capsicum
+name: "capsicum"
+title: "capsicum"
 ---

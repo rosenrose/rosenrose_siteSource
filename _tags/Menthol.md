@@ -1,4 +1,4 @@
 ---
-name: Menthol
-title: Menthol
+name: "Menthol"
+title: "Menthol"
 ---

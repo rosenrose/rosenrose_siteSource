@@ -1,4 +1,4 @@
 ---
-name: Free_Note
-title: Free_Note
+name: "Free_Note"
+title: "Free_Note"
 ---

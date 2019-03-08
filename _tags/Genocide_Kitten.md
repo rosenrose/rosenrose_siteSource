@@ -1,4 +1,4 @@
 ---
-name: Genocide_Kitten
-title: Genocide_Kitten
+name: "Genocide_Kitten"
+title: "Genocide_Kitten"
 ---

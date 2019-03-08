@@ -1,4 +1,4 @@
 ---
-name: WindArTeam
-title: WindArTeam
+name: "WindArTeam"
+title: "WindArTeam"
 ---

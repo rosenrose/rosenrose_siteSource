@@ -1,4 +1,4 @@
 ---
-name: えむ／nagakiya
-title: えむ／nagakiya
+name: "えむ／nagakiya"
+title: "えむ／nagakiya"
 ---
