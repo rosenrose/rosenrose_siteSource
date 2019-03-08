@@ -90,7 +90,7 @@ img {
   max-width: 100%;
 }
 
-article.article img {
+div.article img {
   width: 100%;
   display: block;
   margin-left: auto;
