@@ -1,0 +1,4 @@
+---
+name: Minority
+title: Minority
+---

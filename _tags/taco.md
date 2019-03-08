@@ -1,4 +1,4 @@
 ---
-name: taco
-title: taco
+name: TACO
+title: TACO
 ---

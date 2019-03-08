@@ -1,4 +1,4 @@
 ---
-name: astronomy
-title: astronomy
+name: ASTRONOMY
+title: ASTRONOMY
 ---
