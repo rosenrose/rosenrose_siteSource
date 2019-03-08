@@ -1,4 +1,4 @@
 ---
-name: "Area-s"
-title: "Area-s"
+name: "Area-S"
+title: "Area-S"
 ---

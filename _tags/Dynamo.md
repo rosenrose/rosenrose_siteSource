@@ -1,4 +1,4 @@
 ---
-name: "DYNAMO"
-title: "DYNAMO"
+name: "Dynamo"
+title: "Dynamo"
 ---
