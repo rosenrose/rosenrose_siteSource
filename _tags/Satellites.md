@@ -1,4 +1,4 @@
 ---
-name: Satellites
-title: Satellites
+name: "Satellites"
+title: "Satellites"
 ---

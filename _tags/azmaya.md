@@ -1,4 +1,4 @@
 ---
-name: azmaya
-title: azmaya
+name: "azmaya"
+title: "azmaya"
 ---

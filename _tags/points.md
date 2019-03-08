@@ -1,4 +1,4 @@
 ---
-name: points
-title: points
+name: "points"
+title: "points"
 ---

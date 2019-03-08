@@ -1,4 +1,4 @@
 ---
-name: GP-KIDS
-title: GP-KIDS
+name: "GP-KIDS"
+title: "GP-KIDS"
 ---

@@ -1,4 +1,4 @@
 ---
-name: SoNと壱
-title: SoNと壱
+name: "SoNと壱"
+title: "SoNと壱"
 ---

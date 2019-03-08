@@ -1,4 +1,4 @@
 ---
-name: PURE
-title: PURE
+name: "PURE"
+title: "PURE"
 ---

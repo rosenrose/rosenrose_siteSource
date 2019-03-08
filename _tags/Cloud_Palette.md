@@ -1,4 +1,4 @@
 ---
-name: Cloud_Palette
-title: Cloud_Palette
+name: "Cloud_Palette"
+title: "Cloud_Palette"
 ---

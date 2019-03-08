@@ -1,4 +1,4 @@
 ---
-name: magifuro蒟蒻
-title: magifuro蒟蒻
+name: "magifuro蒟蒻"
+title: "magifuro蒟蒻"
 ---

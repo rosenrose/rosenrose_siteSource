@@ -1,4 +1,4 @@
 ---
-name: Bellman
-title: Bellman
+name: "Bellman"
+title: "Bellman"
 ---

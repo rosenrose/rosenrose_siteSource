@@ -1,4 +1,4 @@
 ---
-name: 型k式
-title: 型k式
+name: "型K式"
+title: "型K式"
 ---

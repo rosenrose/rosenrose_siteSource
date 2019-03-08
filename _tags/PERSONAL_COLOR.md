@@ -1,4 +1,4 @@
 ---
-name: PERSONAL_COLOR
-title: PERSONAL_COLOR
+name: "PERSONAL_COLOR"
+title: "PERSONAL_COLOR"
 ---

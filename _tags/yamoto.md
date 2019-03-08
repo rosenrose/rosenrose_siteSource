@@ -1,4 +1,4 @@
 ---
-name: yamoto
-title: yamoto
+name: "yamoto"
+title: "yamoto"
 ---

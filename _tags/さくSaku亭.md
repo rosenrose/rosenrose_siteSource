@@ -1,4 +1,4 @@
 ---
-name: さくSaku亭
-title: さくSaku亭
+name: "さくsaku亭"
+title: "さくsaku亭"
 ---

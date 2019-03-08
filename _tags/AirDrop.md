@@ -1,4 +1,4 @@
 ---
-name: AirDrop
-title: AirDrop
+name: "airdrop"
+title: "airdrop"
 ---

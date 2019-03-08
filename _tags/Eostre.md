@@ -1,4 +1,4 @@
 ---
-name: Eostre
-title: Eostre
+name: "Eostre"
+title: "Eostre"
 ---

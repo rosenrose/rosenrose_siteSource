@@ -1,4 +1,4 @@
 ---
-name: Public_Planet
-title: Public_Planet
+name: "Public_Planet"
+title: "Public_Planet"
 ---

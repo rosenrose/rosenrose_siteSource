@@ -1,4 +1,4 @@
 ---
-name: えあxぐら
-title: えあxぐら
+name: "えあxぐら"
+title: "えあxぐら"
 ---

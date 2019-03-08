@@ -1,4 +1,4 @@
 ---
-name: KirororO
-title: KirororO
+name: "KirororO"
+title: "KirororO"
 ---

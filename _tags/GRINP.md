@@ -1,4 +1,4 @@
 ---
-name: GRINP
-title: GRINP
+name: "GRINP"
+title: "GRINP"
 ---

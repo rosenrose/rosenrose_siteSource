@@ -1,4 +1,4 @@
 ---
-name: SEVENTHRUN
-title: SEVENTHRUN
+name: "SEVENTHRUN"
+title: "SEVENTHRUN"
 ---

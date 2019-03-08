@@ -1,4 +1,4 @@
 ---
-name: (YsY)STUDIO
-title: (YsY)STUDIO
+name: "(YsY)STUDIO"
+title: "(YsY)STUDIO"
 ---

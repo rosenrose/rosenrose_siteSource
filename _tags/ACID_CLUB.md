@@ -1,4 +1,4 @@
 ---
-name: ACID_CLUB
-title: ACID_CLUB
+name: "ACID_CLUB"
+title: "ACID_CLUB"
 ---

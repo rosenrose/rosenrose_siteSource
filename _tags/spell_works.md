@@ -1,4 +1,4 @@
 ---
-name: spell_works
-title: spell_works
+name: "spell_works"
+title: "spell_works"
 ---
