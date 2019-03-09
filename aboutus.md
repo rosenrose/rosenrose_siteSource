@@ -6,7 +6,8 @@ subtitle:
 
 동방 동인지들을 정리하는 곳.
 
-제보나 문의는 https://github.com/rosenrose/rosenrose.github.io/issues
+제보나 문의는 <a href="https://github.com/rosenrose/rosenrose.github.io/issues">
+https://github.com/rosenrose/rosenrose.github.io/issues</a>
 
 이미지 서버는 전적으로 개인 NAS에 의존하고 있음.
 
@@ -24,8 +25,8 @@ subtitle:
   * https://www.sunmism.com
   * https://lilybin.tistory.com
   * https://touhoustory.tistory.com
-  * https://nonicname.tistory.com
-  
+  * https://nonicname.tistory.com  
+
   * https://blog.naver.com/leejb200
   * https://blog.naver.com/ksi1449
   * https://blog.naver.com/ass_hole
