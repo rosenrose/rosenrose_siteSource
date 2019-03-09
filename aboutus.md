@@ -25,8 +25,8 @@ https://github.com/rosenrose/rosenrose.github.io/issues</a>
   * https://www.sunmism.com
   * https://lilybin.tistory.com
   * https://touhoustory.tistory.com
-  * https://nonicname.tistory.com  
-
+  * https://nonicname.tistory.com
+<br/>
   * https://blog.naver.com/leejb200
   * https://blog.naver.com/ksi1449
   * https://blog.naver.com/ass_hole
