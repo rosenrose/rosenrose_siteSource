@@ -48,3 +48,4 @@ https://github.com/rosenrose/rosenrose.github.io/issues</a>
   * https://blog.naver.com/kaidoukaoru
   * https://blog.naver.com/rlawlsdn1492
   * https://blog.naver.com/yummy772
+  * https://blog.naver.com/kuilooo
