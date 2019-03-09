@@ -12,24 +12,20 @@ subtitle:
 
 ---
 
-현재 보유한 자료들:
+업로드 완료된 자료:
 
   * https://ghaptouhou.tistory.com
+
+
+앞으로 올릴 자료:
+
   * https://blog.daum.net/sniperriflesr
   * https://enlsparker.blogspot.com
   * https://www.sunmism.com
   * https://lilybin.tistory.com
   * https://touhoustory.tistory.com
   * https://nonicname.tistory.com
-
-
-업로드하고 있는 자료들:
-
-  * https://ghaptouhou.tistory.com
-
-
-앞으로 올릴 자료들:
-
+  
   * https://blog.naver.com/leejb200
   * https://blog.naver.com/ksi1449
   * https://blog.naver.com/ass_hole
