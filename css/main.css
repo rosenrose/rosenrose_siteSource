@@ -98,6 +98,10 @@ div.article img {
   margin-right: auto;
 }
 
+div.posts-list > article {
+  float: left;
+}
+
 .disqus-comments {
   margin-top: 30px;
 }
