@@ -6,7 +6,7 @@ subtitle:
 
 동방 동인지들을 정리하는 곳.
 
-제보나 문의는 <a href="https://github.com/rosenrose/rosenrose.github.io/issues">
+제보 및 문의는 댓글 달거나 <a href="https://github.com/rosenrose/rosenrose.github.io/issues">
 https://github.com/rosenrose/rosenrose.github.io/issues</a>
 
 이미지 서버는 전적으로 개인 NAS에 의존하고 있음.
