@@ -72,6 +72,7 @@ use-site-title: true
       </li>
     {% endfor %}
   {% endif %}
+  <li>{{ count }}</li>
   {% assign end_2 = paginator.total_pages | minus:2 %}
   {% if paginator.page <= end_2 %}
     {% assign next_1 = paginator.page | plus:1 %}
@@ -84,7 +85,7 @@ use-site-title: true
   {% endif %}
   {% if paginator.page < paginator.total_pages %}
   <li class="end">
-    <a href="/page{{ paginator.total_pages }}">마지막 페이지 &rarr;</a>
+    <a href="/page{{ paginator.total_pages }}">끝 페이지 &rarr;</a>
   </li>
   {% endif %}
 </ul>
