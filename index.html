@@ -65,25 +65,20 @@ use-site-title: true
   </li>
   {% endif %}
   {% if paginator.page >= 3 %}
-    {% assign prev_2 = paginator.page %}
-    {{ prev_2 | minus:2 }}
-    {% assign prev_1 = paginator.page %}
-    {{ prev_1 | minus:1 }}
+    {% capture prev_2 %}{{ paginator.page | minus:2 }}{% endcapture %}
+    {% capture prev_1 %}{{ paginator.page | minus:1 }}{% endcapture %}
     {% for count in (prev_2..prev_1) %}
-      <li">
+      <li>
         <a href="/page{{ count }}">count</a>
       </li>
     {% endfor %}
   {% endif %}
-  {% assign end_2 = paginator.total_pages %}
-  {{ end_2 | minus:2 }}
+  {% capture end_2 %}{{ paginator.total_pages | minus:2 }}{% endcapture %}
   {% if paginator.page <= end_2 %}
-    {% assign next_2 = paginator.page %}
-    {{ next_2 | plus:2 }}
-    {% assign next_1 = paginator.page %}
-    {{ next_1 | plus:1 }}
+    {% capture next_2 %}{{ paginator.page | plus:2 }}{% endcapture %}
+    {% capture next_1 %}{{ paginator.page | plus:1 }}{% endcapture %}
     {% for count in (next_1..next_2) %}
-      <li">
+      <li>
         <a href="/page{{ count }}">count</a>
       </li>
     {% endfor %}
