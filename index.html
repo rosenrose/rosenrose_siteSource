@@ -60,7 +60,8 @@ use-site-title: true
 <ul class="pager main-pager">
   {% if paginator.page > 1 %}
   <li class="home">
-    <a href="{{ site.url }}">&larr; 첫 페이지</a>
+    <!--<a href="{{ site.url }}">&larr; 첫 페이지</a>-->
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 다음 페이지</a>
   </li>
   {% endif %}
   {% if paginator.page >= 3 %}
@@ -89,7 +90,8 @@ use-site-title: true
   {% endif %}
   {% if paginator.page < paginator.total_pages %}
   <li class="end">
-    <a href="/page{{ paginator.total_pages }}">마지막 페이지 &rarr;</a>
+    <!--<a href="/page{{ paginator.total_pages }}">마지막 페이지 &rarr;</a>-->
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">이전 페이지 &rarr;</a>
   </li>
   {% endif %}
 </ul>
