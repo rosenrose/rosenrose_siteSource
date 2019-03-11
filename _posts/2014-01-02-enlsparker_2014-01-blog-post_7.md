@@ -83,13 +83,15 @@ image: enlsparker/2014-01-blog-post_7/001.jpg
 <img src="{{ site.nasurl }}/enlsparker/2014-01-blog-post_7/024.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
-</div></div><div class="tagTrail">
+</div></div><br/>
+<div class="tagTrail">
 <p>태그: </p>
 <ul>
 <li>동인지</li>
 <li>柚子桃ジャム</li>
 </ul>
-</div>
+</div><br/>
+
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/01/2014-01-blog-post_7.html</p>
 <br/>

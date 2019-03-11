@@ -102,13 +102,15 @@ image: enlsparker/2014-01-blog-post/001.jpg
 <div style="text-align: center;">
 <br/></div>
 <div style="clear: both;"></div>
-</div></div><div class="tagTrail">
+</div></div><br/>
+<div class="tagTrail">
 <p>태그: </p>
 <ul>
 <li>동인지</li>
 <li>ハラペーニョチップス</li>
 </ul>
-</div>
+</div><br/>
+
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/01/2014-01-blog-post.html</p>
 <br/>

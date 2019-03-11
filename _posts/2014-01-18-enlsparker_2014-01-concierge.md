@@ -253,12 +253,14 @@ http://www.sunmism.com/526 http://www.sunmism.com/535<br/>
 <img src="{{ site.nasurl }}/enlsparker/2014-01-concierge/081.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
-</div></div><div class="tagTrail">
+</div></div><br/>
+<div class="tagTrail">
 <p>태그: </p>
 <ul>
 <li>합동인지</li>
 </ul>
-</div>
+</div><br/>
+
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/01/2014-01-concierge.html</p>
 <br/>

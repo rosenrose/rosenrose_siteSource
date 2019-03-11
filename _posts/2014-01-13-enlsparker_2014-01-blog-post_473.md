@@ -26,13 +26,15 @@ image: enlsparker/2014-01-blog-post_473/001.jpg
 <img src="{{ site.nasurl }}/enlsparker/2014-01-blog-post_473/006.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
-</div></div><div class="tagTrail">
+</div></div><br/>
+<div class="tagTrail">
 <p>태그: </p>
 <ul>
 <li>동인지</li>
 <li>くらっしゅハウス</li>
 </ul>
-</div>
+</div><br/>
+
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/01/2014-01-blog-post_473.html</p>
 <br/>

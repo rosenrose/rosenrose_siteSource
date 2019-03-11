@@ -122,14 +122,16 @@ image: enlsparker/2014-01-blog-post_12/001.jpg
 <li>hounori</li>
 </ul>
 </div><br/>
-</div><div class="tagTrail">
+</div><br/>
+<div class="tagTrail">
 <p>태그: </p>
 <ul>
 <li>합동인지</li>
 <li>火鳥でできるもん!</li>
 <li>hounori</li>
 </ul>
-</div>
+</div><br/>
+
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/01/2014-01-blog-post_12.html</p>
 <br/>
