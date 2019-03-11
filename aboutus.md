@@ -4,7 +4,7 @@ title: About
 subtitle:
 ---
 
-동방 동인지들을 정리하는 곳.
+동방 동인지들을 정리하는 곳. 번역을 하는 게 아니라 여러 사이트에 있는 자료를 모아둘 뿐임. 다만 태그는 따로 추가할 때도 있음. 중복 여부도 신경쓰지 않음.
 
 제보 및 문의는 댓글을 달거나 <a href="https://github.com/rosenrose/rosenrose.github.io/issues">여기로.</a>
 
