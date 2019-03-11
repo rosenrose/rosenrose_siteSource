@@ -58,26 +58,26 @@ use-site-title: true
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
-  {% if paginator.page < 3 %}
+  {% if paginator.page > 1 %}
   <li class="home">
     <a href="{{ site.url }}">&larr; 첫 페이지</a>
   </li>
   {% endif %}
-  {% if paginator.page > 3 %}
+  {% if paginator.page >= 3 %}
     {% for count in (paginator.page-2..paginator.page-1) %}
       <li">
         <a href="/page{{ count }}">count</a>
       </li>
     {% endfor %}
   {% endif %}
-  {% if paginator.page < paginator.total_pages-2 %}
+  {% if paginator.page <= paginator.total_pages-2 %}
     {% for count in (paginator.page+1..paginator.page+2) %}
       <li">
         <a href="/page{{ count }}">count</a>
       </li>
     {% endfor %}
   {% endif %}
-  {% if paginator.page > paginator.total_pages-2 %}
+  {% if paginator.page < paginator.total_pages %}
   <li class="end">
     <a href="/page{{ paginator.total_pages }}">마지막 페이지 &rarr;</a>
   </li>
