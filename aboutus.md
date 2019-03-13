@@ -21,7 +21,7 @@ subtitle:
   * https://nonicname.tistory.com
   
   
-업로드 완료된 자료:
+업로드 완료된 자료: 
 
   * https://ghaptouhou.tistory.com
 
