@@ -23,5 +23,5 @@ image: "ghapgithub/2019-03-13_meirin of fury/001.jpg"
 </div><br/>
 
 <br/>
-<p id="refer"></p>
+<p id="refer">http://ghapbackup.github.io/2019/03/13/武士的魂-御月ユウヤ-meirin-of-fury/</p>
 <br/>
