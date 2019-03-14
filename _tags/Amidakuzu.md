@@ -1,0 +1,4 @@
+---
+name: "Amidakuzu"
+title: "Amidakuzu"
+---

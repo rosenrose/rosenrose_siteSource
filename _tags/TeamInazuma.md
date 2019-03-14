@@ -1,0 +1,4 @@
+---
+name: "TeamInazuma"
+title: "TeamInazuma"
+---
