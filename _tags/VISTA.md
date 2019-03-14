@@ -1,4 +1,0 @@
----
-name: "VISTA"
-title: "VISTA"
----

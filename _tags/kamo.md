@@ -1,4 +1,0 @@
----
-name: "kamo"
-title: "kamo"
----

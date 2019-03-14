@@ -1,4 +1,0 @@
----
-name: "SeaFox"
-title: "SeaFox"
----

@@ -1,4 +1,0 @@
----
-name: "Nayuta"
-title: "Nayuta"
----

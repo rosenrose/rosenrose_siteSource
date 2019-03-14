@@ -1,4 +1,0 @@
----
-name: "KEMONOMCHI"
-title: "KEMONOMCHI"
----

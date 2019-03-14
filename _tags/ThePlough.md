@@ -1,4 +1,0 @@
----
-name: "ThePlough"
-title: "ThePlough"
----

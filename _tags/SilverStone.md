@@ -1,4 +1,0 @@
----
-name: "SilverStone"
-title: "SilverStone"
----

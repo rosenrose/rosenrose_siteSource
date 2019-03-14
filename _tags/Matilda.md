@@ -1,4 +1,0 @@
----
-name: "Matilda"
-title: "Matilda"
----

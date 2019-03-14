@@ -1,4 +1,0 @@
----
-name: "seemu"
-title: "seemu"
----

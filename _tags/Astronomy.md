@@ -1,4 +1,0 @@
----
-name: "Astronomy"
-title: "Astronomy"
----

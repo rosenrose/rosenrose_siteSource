@@ -1,4 +1,0 @@
----
-name: "CHAZENBEAT"
-title: "CHAZENBEAT"
----

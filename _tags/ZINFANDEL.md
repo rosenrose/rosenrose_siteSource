@@ -1,4 +1,0 @@
----
-name: "ZINFANDEL"
-title: "ZINFANDEL"
----

@@ -1,4 +1,0 @@
----
-name: "araco"
-title: "araco"
----

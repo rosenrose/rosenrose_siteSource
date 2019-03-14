@@ -1,4 +1,0 @@
----
-name: "SEIRENSEN"
-title: "SEIRENSEN"
----

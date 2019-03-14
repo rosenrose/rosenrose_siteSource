@@ -1,4 +1,0 @@
----
-name: "kurudaz"
-title: "kurudaz"
----

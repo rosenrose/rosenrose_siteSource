@@ -1,4 +1,0 @@
----
-name: "paseri"
-title: "paseri"
----

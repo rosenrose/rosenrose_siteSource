@@ -1,4 +1,0 @@
----
-name: "baneiro"
-title: "baneiro"
----

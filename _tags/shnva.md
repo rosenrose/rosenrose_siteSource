@@ -1,4 +1,0 @@
----
-name: "shnva"
-title: "shnva"
----

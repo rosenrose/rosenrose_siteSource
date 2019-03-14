@@ -1,4 +1,0 @@
----
-name: "BIBASUKU"
-title: "BIBASUKU"
----

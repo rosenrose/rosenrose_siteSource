@@ -1,4 +1,0 @@
----
-name: "Restart"
-title: "Restart"
----

@@ -1,4 +1,0 @@
----
-name: "hounori"
-title: "hounori"
----

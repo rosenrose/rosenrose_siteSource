@@ -1,4 +1,0 @@
----
-name: "LM"
-title: "LM"
----

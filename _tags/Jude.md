@@ -1,4 +1,0 @@
----
-name: "Jude"
-title: "Jude"
----

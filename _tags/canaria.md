@@ -1,4 +1,0 @@
----
-name: "canaria"
-title: "canaria"
----

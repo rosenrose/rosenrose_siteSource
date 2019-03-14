@@ -1,4 +1,0 @@
----
-name: "NURSERYTALE"
-title: "NURSERYTALE"
----

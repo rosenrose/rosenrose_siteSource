@@ -1,4 +1,0 @@
----
-name: "GATON"
-title: "GATON"
----

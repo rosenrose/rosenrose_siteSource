@@ -1,4 +1,0 @@
----
-name: "studio"
-title: "studio"
----
