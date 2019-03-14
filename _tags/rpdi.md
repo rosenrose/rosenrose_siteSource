@@ -1,4 +1,0 @@
----
-name: "rpdi"
-title: "rpdi"
----

@@ -1,4 +1,0 @@
----
-name: "KIRSCH"
-title: "KIRSCH"
----

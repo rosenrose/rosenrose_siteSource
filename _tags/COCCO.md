@@ -1,4 +1,0 @@
----
-name: "COCCO"
-title: "COCCO"
----

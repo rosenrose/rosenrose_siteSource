@@ -1,4 +1,0 @@
----
-name: "SaltyYard"
-title: "SaltyYard"
----

@@ -1,4 +1,0 @@
----
-name: "RUMP"
-title: "RUMP"
----

@@ -1,4 +1,0 @@
----
-name: "Grinp"
-title: "Grinp"
----

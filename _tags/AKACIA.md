@@ -1,4 +1,0 @@
----
-name: "AKACIA"
-title: "AKACIA"
----

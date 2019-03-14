@@ -1,4 +1,0 @@
----
-name: "FLIPFLOPs"
-title: "FLIPFLOPs"
----

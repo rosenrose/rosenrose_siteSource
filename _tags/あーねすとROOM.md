@@ -1,4 +1,0 @@
----
-name: "あーねすとROOM"
-title: "あーねすとROOM"
----

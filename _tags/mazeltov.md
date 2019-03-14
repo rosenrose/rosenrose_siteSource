@@ -1,4 +1,0 @@
----
-name: "mazeltov"
-title: "mazeltov"
----

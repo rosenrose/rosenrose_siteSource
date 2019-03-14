@@ -1,4 +1,0 @@
----
-name: "nyoi"
-title: "nyoi"
----

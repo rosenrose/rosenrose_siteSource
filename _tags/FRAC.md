@@ -1,4 +1,0 @@
----
-name: "FRAC"
-title: "FRAC"
----

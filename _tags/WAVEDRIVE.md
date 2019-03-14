@@ -1,4 +1,0 @@
----
-name: "WAVEDRIVE"
-title: "WAVEDRIVE"
----

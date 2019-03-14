@@ -1,4 +1,0 @@
----
-name: "taco"
-title: "taco"
----

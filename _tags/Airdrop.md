@@ -1,4 +1,0 @@
----
-name: "Airdrop"
-title: "Airdrop"
----

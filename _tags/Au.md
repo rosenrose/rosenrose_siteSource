@@ -1,4 +1,0 @@
----
-name: "Au"
-title: "Au"
----

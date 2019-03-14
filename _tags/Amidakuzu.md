@@ -1,4 +1,0 @@
----
-name: "Amidakuzu"
-title: "Amidakuzu"
----

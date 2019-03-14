@@ -1,4 +1,0 @@
----
-name: "miga"
-title: "miga"
----

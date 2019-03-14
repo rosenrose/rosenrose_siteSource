@@ -1,4 +1,0 @@
----
-name: "nayuta"
-title: "nayuta"
----

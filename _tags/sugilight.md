@@ -1,4 +1,0 @@
----
-name: "sugilight"
-title: "sugilight"
----

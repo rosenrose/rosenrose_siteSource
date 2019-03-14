@@ -1,4 +1,0 @@
----
-name: "HARUTOMO"
-title: "HARUTOMO"
----

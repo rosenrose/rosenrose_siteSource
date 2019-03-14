@@ -1,4 +1,0 @@
----
-name: "Sixten"
-title: "Sixten"
----

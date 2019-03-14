@@ -1,4 +1,0 @@
----
-name: "LEMLAML"
-title: "LEMLAML"
----

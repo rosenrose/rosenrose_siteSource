@@ -1,4 +1,0 @@
----
-name: "POINTS"
-title: "POINTS"
----
