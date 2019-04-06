@@ -1,4 +1,0 @@
----
-name: "SHISHIしじみ"
-title: "SHISHIしじみ"
----

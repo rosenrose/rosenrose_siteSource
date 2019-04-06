@@ -1,7 +1,7 @@
 ---
 title: "억지 동-방-"
 tags: "기타동인지 以絵会友"
-image: "enlsparker/2014-01-httpwww/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-01-httpwww/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6410925254621503303" itemprop="description articleBody">
@@ -43,3 +43,4 @@ image: "enlsparker/2014-01-httpwww/001.jpg"
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/01/2014-01-httpwww.html</p>
 <br/>
+

@@ -1,0 +1,34 @@
+---
+title: 랜덤
+layout: page
+page_title: Random
+permalink: /randompage/
+---
+
+<script>
+  var comingFromPost = document.referrer;
+
+  function linkToRandomBlogPost() {
+    var allPosts = [{% for post in site.posts %}
+      "{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"{% unless post.previous == nil %},{% endunless %}
+    {% endfor %}];
+
+    var i = 0;
+    do {
+      var randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)];
+      i++;}
+    while (comingFromPost.includes(randomPostLink) || i > 10)
+
+    if (i > 10 && comingFromPost !== "{{ site.baseurl }}/random") {
+      randomPostLink = "{{ site.baseurl }}/random";}
+
+    if (i > 10 && comingFromPost === "{{ site.baseurl }}/random") {
+      randomPostLink = "{{ site.baseurl }}/tags"
+    }
+
+    return randomPostLink;
+  }
+
+  location.replace(linkToRandomBlogPost())
+
+</script>

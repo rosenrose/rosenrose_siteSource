@@ -1,1 +1,20 @@
-fd70aa9e2c457b98c36335065adffd117012fab9
+// 로컬 빌드 직전 git status - fd70aa9e2c457b98c36335065adffd117012fab9
+
+search2.json
+"content"  : {{ post.content | jsonify }}
+
+새로 만드는 링크에 site.baseurl을 신경쓸 것(index.html, search.html, random.html 등)
+
+site.nasurl 추가: index.html, _layouts/tag.html, _includes/nav.html
+
+포스트 너비 조정: _layouts/post.html
+
+메인 페이지 너비 조정: _layouts/page.html
+
+// 까먹음 git reset --hard 74e419f1565dfcc2822063cc12d6f653a43fbc60
+
+
+css 추가: pagerMover
+
+ghapgithup 코드 부분 예외처리
+

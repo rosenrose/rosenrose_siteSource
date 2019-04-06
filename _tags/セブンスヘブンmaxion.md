@@ -1,0 +1,4 @@
+---
+name: "セブンスヘブンmaxion"
+title: "セブンスヘブンmaxion"
+---

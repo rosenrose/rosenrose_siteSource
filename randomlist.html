@@ -1,0 +1,78 @@
+---
+title: 랜덤 리스트
+layout: page
+page_title: Random List
+permalink: /randomlist/
+---
+
+<div id="cover" class="container"
+    {% if page.image %}style="background-image: url({{ page.image }});"{% endif %}><div>
+    <div>
+        <h1 style="display:inline;">{{ page.title | default: page.name }}</h1>
+        <input type="button" value="다시" onclick="reload();" style="color:#404040;display:inline;margin:0px 15px;" />
+    </div>
+</div>
+
+<div id="content" class="container">
+    <div id="tag-content" role="main">
+        <ul id="post-list">
+            <script type="text/javascript">
+                var ul = document.getElementById("post-list");
+                var postUrl = [{% for post in site.posts %}
+                    "{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"{% unless post.previous == nil %},{% endunless %}
+                    {% endfor %}];
+                var postTitle = [{% for post in site.posts %}
+                    "{{ post.title | escape }}"{% unless post.previous == nil %},{% endunless %}
+                    {% endfor %}];
+                var postImg = [{% for post in site.posts %}
+                    "{{ post.image }}"{% unless post.previous == nil %},{% endunless %}
+                    {% endfor %}];
+                var count = 15;
+
+                for(var i=0; i<count; i++) {
+                    var li = document.createElement("li");
+                    li.setAttribute("class","post-item post ");
+                    var a1 = document.createElement("a");
+                    a1.setAttribute("href","");
+                    a1.setAttribute("class","link1");
+                    var h3 = document.createElement("h3");
+                    h3.setAttribute("class","post-title");
+                    h3.innerHTML = "";
+                    a1.appendChild(h3);
+                    li.appendChild(a1);
+                    ul.appendChild(li);
+
+                    var div = document.createElement("div");
+                    div.setAttribute("class","post-image");
+                    var a2 = document.createElement("a");
+                    a2.setAttribute("href","");
+                    a2.setAttribute("class","link2");
+                    var img = document.createElement("img");
+                    img.setAttribute("src","");
+                    img.setAttribute("class","image");
+                    a2.appendChild(img);
+                    div.appendChild(a2);
+                    ul.appendChild(div);
+                }
+
+                function reload() {
+                    var indexArray = new Array();
+
+                    for(var i=0; i<count; ) {
+                        var random = Math.floor(Math.random() * postUrl.length);
+                        if(indexArray.hasOwnProperty(random)) {
+                            continue
+                        }
+                        indexArray.push(random)
+                        document.getElementsByClassName("link1")[i].href = postUrl[random];
+                        document.getElementsByClassName("post-title")[i].innerHTML = postTitle[random];
+                        document.getElementsByClassName("link2")[i].href = postUrl[random];
+                        document.getElementsByClassName("image")[i].src = postImg[random];
+                        i++;                            
+                    }
+                }
+                reload();
+            </script>
+        </ul>
+    </div>
+</div>

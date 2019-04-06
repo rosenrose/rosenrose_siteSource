@@ -1,4 +1,0 @@
----
-name: "AirDrop"
-title: "AirDrop"
----

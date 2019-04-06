@@ -1,0 +1,4 @@
+---
+name: "multicollinearity"
+title: "multicollinearity"
+---

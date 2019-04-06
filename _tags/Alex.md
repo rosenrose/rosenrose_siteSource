@@ -1,4 +1,0 @@
----
-name: "Alex"
-title: "Alex"
----

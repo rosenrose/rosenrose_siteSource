@@ -1,4 +1,0 @@
----
-name: "-Sakimiya-"
-title: "-Sakimiya-"
----

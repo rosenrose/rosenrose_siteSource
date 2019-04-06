@@ -1,4 +1,0 @@
----
-name: "Sw"
-title: "Sw"
----

@@ -1,4 +1,0 @@
----
-name: "Katzeh"
-title: "Katzeh"
----

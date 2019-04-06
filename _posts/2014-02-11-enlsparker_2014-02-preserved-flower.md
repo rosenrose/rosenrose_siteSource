@@ -1,111 +1,111 @@
 ---
 title: "Preserved flower"
-tags: "동인지 MATILDA"
-image: "enlsparker/2014-02-preserved-flower/001.jpg"
+tags: "동인지 matilda"
+image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-preserved-flower/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8798040384094074302" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/001.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://sunmism.com/181">선미즘</a><br/>
 <br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/002.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/003.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/004.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/005.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/006.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/007.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/008.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/009.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/010.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/011.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/012.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/013.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/014.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/015.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/016.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/017.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/018.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/019.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/020.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/021.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/022.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/023.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/024.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/024.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/025.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/025.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/026.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/026.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/027.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/027.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/028.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/028.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/029.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/029.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/030.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/030.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/031.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/031.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/032.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/032.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.nasurl }}/enlsparker/2014-02-preserved-flower/033.jpg"/></div>
+<img src="{{ site.imgserver3 }}/enlsparker/2014-02-preserved-flower/033.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>
@@ -120,3 +120,4 @@ image: "enlsparker/2014-02-preserved-flower/001.jpg"
 <br/>
 <p id="refer">https://enlsparker.blogspot.com/2014/02/2014-02-preserved-flower.html</p>
 <br/>
+

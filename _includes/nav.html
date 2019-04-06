@@ -16,13 +16,7 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li>
-          <a href="/search"><img src="{{ site.url }}/img/search.png" width="49"></a>
-        </li>
-        <li>
-          <a href="/search2">Search</a>
-        </li>        
-      {% for link in site.navbar-links %}
+      <!--{% for link in site.navbar-links %}
         {% if link[1].first %}     
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
@@ -39,7 +33,13 @@
             {% include navbarlink.html link=link %}
           </li>
         {% endif %}
-        {% endfor %}
+        {% endfor %}-->
+        <li><a href="{{ site.baseurl }}/fsearch">전체 검색</a></li>
+        <li><a href="{{ site.baseurl }}/qsearch">빠른 검색</a></li>
+        <li><a href="{{ site.baseurl }}/randompage">랜덤 페이지</a></li>
+        <li><a href="{{ site.baseurl }}/randomlist">랜덤 리스트</a></li>
+        <li><a href="{{ site.baseurl }}/tags">태그</a></li>
+        <li><a href="{{ site.baseurl }}/about">정보</a></li>
       </ul>
     </div>
 
@@ -47,7 +47,7 @@
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
 	    <a href="{{ site.url }}">
-	      <img class="avatar-img" src="{{ site.nasurl }}/{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" />
+	      <img class="avatar-img" src="{{ page.image }}" />
 		</a>
 	  </div>
 	</div>

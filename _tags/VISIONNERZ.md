@@ -1,4 +1,0 @@
----
-name: "VISIONNERZ"
-title: "VISIONNERZ"
----

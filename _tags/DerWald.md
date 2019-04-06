@@ -1,4 +1,0 @@
----
-name: "DerWald"
-title: "DerWald"
----

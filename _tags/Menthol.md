@@ -1,4 +1,0 @@
----
-name: "Menthol"
-title: "Menthol"
----

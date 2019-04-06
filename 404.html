@@ -5,9 +5,17 @@ permalink: /404.html
 ---
 
 <div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
+  <h1></h1>
   <br/>
 
-  <img src="{{ site.baseurl }}/img/404.jpg" />
+  <img id="404img" />
+  <script>
+    var imgArray = new Array();
+    imgArray[0] = "{{ site.baseurl }}/img/404.jpg";
+    imgArray[1] = "{{ site.baseurl }}/img/404_sagume.jpg";
+
+    var random = Math.floor(Math.random() * imgArray.length);
+    var image = document.getElementById("404img");    
+    image.src = imgArray[random];
+  </script>
 </div>

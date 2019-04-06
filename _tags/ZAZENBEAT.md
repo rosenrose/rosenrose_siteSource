@@ -1,4 +1,0 @@
----
-name: "ZAZENBEAT"
-title: "ZAZENBEAT"
----

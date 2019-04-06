@@ -1,4 +1,0 @@
----
-name: "HAM"
-title: "HAM"
----

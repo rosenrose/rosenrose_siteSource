@@ -1,0 +1,4 @@
+---
+name: "minority"
+title: "minority"
+---

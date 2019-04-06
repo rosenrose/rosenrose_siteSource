@@ -1,4 +1,0 @@
----
-name: "Jubilee"
-title: "Jubilee"
----

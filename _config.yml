@@ -6,7 +6,19 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://rosenrose.github.io"
 baseurl: ""
-nasurl: "http://crazytempler.ipdisk.co.kr:81/publist/HDD1/Public/doujin"
+#nasurl: "http://crazytempler.ipdisk.co.kr:81/publist/HDD1/Public/doujin"
+
+imgserver1: "https://rosenrose.s3.amazonaws.com/doujin"
+imgserver2: "https://franch4569.s3.amazonaws.com/doujin"
+#ghap
+
+imgserver3: "https://kjw4569.s3.amazonaws.com/doujin"
+#enlsparker
+
+imgserver4: "https://franch122.s3.amazonaws.com/doujin"
+#sunmism, sniperriflesr
+
+imgserver5: "https://kjw122.s3.amazonaws.com/doujin"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -24,10 +36,12 @@ description: "동방 동인지"
 
 # List of links in the navigation bar
 navbar-links:
-  Tags: "tags"
-  About: "aboutus"
-
-    
+  전체 검색: "fsearch"
+  제목 검색: "qsearch"
+  태그: "tags"
+  랜덤 페이지: "randompage"
+  랜덤 리스트: "randomlist"  
+  이 곳은?: "aboutus"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -103,7 +117,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-137254721-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -147,7 +161,7 @@ title-separator: "-"
 timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 10
 encoding: utf-8
 kramdown:
@@ -193,6 +207,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - restore.txt
+  - /test
 
 # prose.io config
 prose:
@@ -250,5 +266,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+search_provider: "google"
+google:
+  search_engine_id: "009745835481055354123:n-gyosnz6cu"
+
+future: true
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

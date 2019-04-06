@@ -1,4 +1,0 @@
----
-name: "Lesport"
-title: "Lesport"
----

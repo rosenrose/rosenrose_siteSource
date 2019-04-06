@@ -1,4 +1,0 @@
----
-name: "Million"
-title: "Million"
----

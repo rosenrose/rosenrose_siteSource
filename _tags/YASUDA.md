@@ -1,4 +1,0 @@
----
-name: "YASUDA"
-title: "YASUDA"
----

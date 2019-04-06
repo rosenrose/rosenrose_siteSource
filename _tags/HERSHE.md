@@ -1,4 +1,0 @@
----
-name: "HERSHE"
-title: "HERSHE"
----
