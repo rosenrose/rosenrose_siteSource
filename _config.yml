@@ -11,14 +11,18 @@ baseurl: ""
 imgserver1: "https://rosenrose.s3.amazonaws.com/doujin"
 imgserver2: "https://franch4569.s3.amazonaws.com/doujin"
 #ghap
-
 imgserver3: "https://kjw4569.s3.amazonaws.com/doujin"
 #enlsparker
-
 imgserver4: "https://franch122.s3.amazonaws.com/doujin"
 #sunmism, sniperriflesr
-
 imgserver5: "https://kjw122.s3.amazonaws.com/doujin"
+imgserver6: "https://franch122hanmail2.s3.amazonaws.com/doujin"
+imgserver7: "https://franch122paran.s3.amazonaws.com/doujin"
+imgserver8: "https://franch122tistory.s3.amazonaws.com/doujin"
+imgserver9: "https://kjw4569-2.s3.amazonaws.com/doujin"
+imgserver10: "https://rosentemplerdaum.s3.amazonaws.com/doujin"
+imgserver11: "https://rosentemplerhanmail.s3.amazonaws.com/doujin"
+imgserver12: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"

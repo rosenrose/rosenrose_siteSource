@@ -29,4 +29,3 @@ comments: true
 
   * https://ghaptouhou.tistory.com
   * https://www.sunmism.com
-  * https://enlsparker.blogspot.com
