@@ -1,18 +1,18 @@
 ---
 title: "평소에도 눈치채지 못할 레벨로 나왔었다"
 tags: "スペース人 스페이스진 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2258/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2258/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2258/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2258/001.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2258/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2258/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2258/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2258/003.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2258/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2258/004.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><span style="; ">픽시브 쪽 작가 말 번역 / 태그 / 역식자 코멘트</span></b></font></p>

@@ -1,14 +1,14 @@
 ---
 title: "40년만의 만남"
 tags: "海野プリン 海之天切 캐릭터_레이센_우동게인_이나바 캐릭터_링고 캐릭터_세이란 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3099/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3099/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3099/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/3099/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3099/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/3099/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : 40年振りの</b></p>

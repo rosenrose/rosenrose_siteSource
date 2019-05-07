@@ -1,77 +1,77 @@
 ---
 title: "Envy Doll"
 tags: "동인지 天災族"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-05-envy-doll/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-05-envy-doll/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8490035228743103688" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/001.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/002.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/003.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/004.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/005.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/006.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/007.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/008.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/009.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/010.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/011.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/012.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/013.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/014.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/015.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/016.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/017.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/018.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/019.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/020.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/021.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-envy-doll/022.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-05-envy-doll/022.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

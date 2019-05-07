@@ -1,13 +1,13 @@
 ---
 title: "모코 하렘"
 tags: "ぶーわ_‏ 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/758/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/758/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/758/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/758/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/758/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/758/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : 今日の東方４コマ</b></p>
 <p style="text-align: center;"><b><br/></b></p>

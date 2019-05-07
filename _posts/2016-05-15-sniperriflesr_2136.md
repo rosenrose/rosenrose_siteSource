@@ -1,32 +1,32 @@
 ---
 title: "레지스탕스·레지스탕스"
 tags: "柴朗 46． 舟人 캐릭터_호쥬_누에 캐릭터_후타츠이와_마미조 캐릭터_키진_세이자 이벤트_東方幻仙郷3 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2136/001.png"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2136/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/001.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/003.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/004.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/005.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/005.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/006.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/006.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/007.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/007.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/008.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/008.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/009.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/009.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/010.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/010.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2136/011.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2136/011.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원본 공개중 [ 작가 픽시브 ] : <a class="tx-link" href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56800505" target="_blank">http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56800505</a></b></p>

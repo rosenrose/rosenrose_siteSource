@@ -1,45 +1,45 @@
 ---
 title: "칠색 이모션"
 tags: "おいなり 오이나리 天災族 천재족 캐릭터_하타노_코코로 캐릭터_메디슨_멜랑콜리 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 캐릭터_토요사토미미노_미코 이벤트_七色魔女の人形舞踏会。3 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/315/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/315/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/315/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/315/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>이벤트 : </strong><b>七色魔女の人形舞踏会。3 </b></p>

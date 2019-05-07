@@ -1,13 +1,13 @@
 ---
 title: "광기, 새로운 지평"
 tags: "色めきオーバードライブ 캐릭터_레이센_우동게인_이나바 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1293/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1293/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1293/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1293/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1293/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1293/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>クラ鈴という可能性</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

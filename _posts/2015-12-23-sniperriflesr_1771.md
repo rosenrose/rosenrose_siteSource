@@ -1,13 +1,13 @@
 ---
 title: "엇갈리게 전달되는 마음"
 tags: "いもバロン 캐릭터_하타노_코코로 캐릭터_모리치카_린노스케 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1771/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1771/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1771/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1771/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1771/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1771/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : すれ違いの心通信</b></p>

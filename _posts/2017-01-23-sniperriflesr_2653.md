@@ -1,13 +1,13 @@
 ---
 title: "그래보여도 너의 장기 완전히 썩은건 아니구나-"
 tags: "ジェット虚無僧 제트코무소 캐릭터_미야코_요시카 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2653/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2653/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2653/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2653/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2653/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2653/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

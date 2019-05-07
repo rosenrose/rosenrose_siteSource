@@ -1,92 +1,92 @@
 ---
 title: "Go for it"
 tags: "동인지 gp-kids"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-11-go-for-it/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-11-go-for-it/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3774457089683201565" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/001.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/002.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/003.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/004.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/005.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/006.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/007.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/008.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/009.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/010.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/011.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/012.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/013.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/014.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/015.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/016.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/017.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/018.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/019.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/020.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/021.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/022.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/023.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/024.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/024.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/025.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/025.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/026.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/026.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-go-for-it/027.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-11-go-for-it/027.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

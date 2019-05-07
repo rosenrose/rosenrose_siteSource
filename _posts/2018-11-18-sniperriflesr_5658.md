@@ -1,15 +1,15 @@
 ---
 title: "치르노를 응원하는 대요정"
 tags: "めぶら 原稿のため低浮上めぶら @mebura_kazama めだま渓谷 캐릭터_대요정 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5658/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5658/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5658/001.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5658/001.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5658/002.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5658/002.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5658/003.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5658/003.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>チルノを応援する大妖精。</b></font></p>

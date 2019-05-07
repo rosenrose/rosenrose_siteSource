@@ -1,21 +1,21 @@
 ---
 title: "레이사쿠 단풍잎 만화"
 tags: "暇人でらっくす @himajinsan0401 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5679/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5679/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5679/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5679/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5679/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5679/002.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5679/003.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5679/003.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5679/004.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5679/004.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5679/005.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5679/005.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5679/006.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5679/006.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;">원제 : もみじと霊咲！百合注意</b></p>

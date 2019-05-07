@@ -1,17 +1,17 @@
 ---
 title: "잘 때 얼굴"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5094/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5094/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5094/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5094/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5094/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5094/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5094/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5094/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5094/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5094/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

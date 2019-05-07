@@ -1,13 +1,13 @@
 ---
 title: "설명 부족은 죄를 만든다"
 tags: "futa なべぞこ 나베조코 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/918/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/918/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/918/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/918/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/918/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/918/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>言葉足らずは罪作り </b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

@@ -1,17 +1,17 @@
 ---
 title: "사구메가 된장국 끓이는 만화"
 tags: "cwarock 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1555/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1555/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1555/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1555/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1555/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1555/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1555/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1555/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1555/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1555/004.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;">일제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>サグメガみそ汁沸かす漫画</b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : cwarock</b></p>

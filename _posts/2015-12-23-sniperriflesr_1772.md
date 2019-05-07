@@ -1,13 +1,13 @@
 ---
 title: "홍루몽에 나와야했던 사구메쨩이 메밀국수를 먹고 있을 뿐인 1컷 만화를 그려봤다"
 tags: "皆村春樹 캐릭터_키신_사구메 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1772/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1772/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1772/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1772/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1772/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1772/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>2015년 11월 2일</b></p>
 <p style="TEXT-ALIGN: center"></p>

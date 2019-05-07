@@ -1,13 +1,13 @@
 ---
 title: "사라져 가는 사랑에 공물을"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카자미_유카 캐릭터_카미시라사와_케이네 캐릭터_키진_세이자 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3237/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/3237/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3237/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/3237/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3237/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/3237/002.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

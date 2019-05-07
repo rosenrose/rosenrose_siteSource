@@ -1,13 +1,13 @@
 ---
 title: "물밑의 꿈"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2597/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2597/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2597/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2597/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2597/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2597/002.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>水底の夢</b></font><br/></p>

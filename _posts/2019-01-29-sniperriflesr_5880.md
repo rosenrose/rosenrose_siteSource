@@ -1,11 +1,11 @@
 ---
 title: "와카사기랑 카게로 영혼 바뀌는 만화"
 tags: "cwarock 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5880/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5880/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5880/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5880/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

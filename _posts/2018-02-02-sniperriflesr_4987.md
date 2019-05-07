@@ -1,13 +1,13 @@
 ---
 title: "「그을린 치르노」 다른 캐릭터로 예를 들면?"
 tags: "悪餓鬼 @warugaki9841 ルナティック少年院 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4987/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4987/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4987/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/4987/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4987/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/4987/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

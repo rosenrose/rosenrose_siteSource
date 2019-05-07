@@ -1,13 +1,13 @@
 ---
 title: "마리사의 여자력은 의외로 높아"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/911/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/911/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/911/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/911/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/911/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/911/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

@@ -1,17 +1,17 @@
 ---
 title: "임신해버린건가.."
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_소악마 캐릭터_파츄리_널릿지 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1476/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1476/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1476/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1476/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1476/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1476/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1476/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1476/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1476/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1476/004.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-size: 9pt; line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif;">출품[?] :</b><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"> : </b><font face="돋움, dotum, verdana, sans-serif"><b>東方版深夜のシコキャラ真剣お絵描きビュルビュルアンアン一本勝負 </b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

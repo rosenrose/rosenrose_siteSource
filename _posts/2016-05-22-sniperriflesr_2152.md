@@ -1,13 +1,13 @@
 ---
 title: "기대에 응하고싶다"
 tags: "futa なべぞこ 나베조코 캐릭터_타타라_코가사 캐릭터_루미아 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2152/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2152/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2152/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2152/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2152/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2152/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><span style="; ">원제 :</span></b><font color="#000000" face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><b> </b></font><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b>子どもの期待に応えたい</b></font></p>

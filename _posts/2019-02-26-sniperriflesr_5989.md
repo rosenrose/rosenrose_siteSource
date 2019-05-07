@@ -1,13 +1,13 @@
 ---
 title: "흑백론자 에이키"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_토요사토미미노_미코 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5989/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5989/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5989/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5989/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5989/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5989/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

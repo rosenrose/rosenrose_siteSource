@@ -1,59 +1,59 @@
 ---
 title: "스즈나 로직"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_모토오리_코스즈 캐릭터_후타츠이와_마미조 캐릭터_히지리_뱌쿠렌 캐릭터_호쥬_누에 이벤트_c86 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/297/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/297/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/019.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/020.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/021.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/022.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/023.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/024.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/297/025.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/297/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>

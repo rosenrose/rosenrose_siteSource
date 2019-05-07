@@ -1,16 +1,16 @@
 ---
 title: "친척 아줌마같이 성가시게 휘감겨오는 카케로우"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_이누바시리_모미지 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5308/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5308/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b></b><br/></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5308/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5308/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5308/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5308/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5308/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5308/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

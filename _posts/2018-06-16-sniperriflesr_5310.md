@@ -1,14 +1,14 @@
 ---
 title: "카케로 짱과 점점 친해진다"
 tags: "夜霧 よぎり @mofumisutin 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5310/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5310/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5310/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5310/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5310/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5310/002.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

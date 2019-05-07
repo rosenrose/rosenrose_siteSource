@@ -1,17 +1,17 @@
 ---
 title: "오랜만의 마리사"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5285/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5285/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5285/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5285/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5285/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5285/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5285/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5285/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5285/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5285/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

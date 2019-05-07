@@ -1,13 +1,13 @@
 ---
 title: "보탑 찬스"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_나즈린 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2472/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2472/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2472/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/2472/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2472/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/2472/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><br/></p>

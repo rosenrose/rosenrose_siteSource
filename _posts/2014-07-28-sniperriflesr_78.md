@@ -1,7 +1,7 @@
 ---
 title: "소텐구소화 [ 小天狗小話 ]"
 tags: "makino ukiukiwatching! 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/78/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/78/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
@@ -11,25 +11,25 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/78/001.jpg"
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/78/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/78/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><strong>서클 : UkiUkiWatching!</strong></p>
 <p style="TEXT-ALIGN: center"><strong></strong> </p>
 <p style="TEXT-ALIGN: center"><strong>작가 : makino</strong></p>

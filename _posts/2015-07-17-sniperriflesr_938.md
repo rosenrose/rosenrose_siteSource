@@ -1,15 +1,15 @@
 ---
 title: "사랑하는 야작 18화"
 tags: "みつもと 미츠모토 캐릭터_키리사메_마리사 캐릭터_후지와라노_모코우 사랑하는_야작_[完]"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/938/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/938/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/938/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/938/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style="line-height: 19.2000007629395px; text-align: start;">-------------------------------------------------------------------------------------------------------------------------</span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/938/002.gif"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/938/002.gif"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><br/></p>

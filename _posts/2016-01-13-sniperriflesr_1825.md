@@ -1,13 +1,13 @@
 ---
 title: "한가함을 견디기 힘든 신의 분도도"
 tags: "ベル助 ベルの巣 캐릭터_키신_사구메 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1825/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1825/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1825/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1825/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1825/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1825/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><span style="; ">분도도 : 피규어나 프라모델로 싸움놀이를 하는 것</span></b></p>

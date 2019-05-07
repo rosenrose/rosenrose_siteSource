@@ -1,13 +1,13 @@
 ---
 title: "나란히 도레사구"
 tags: "ふみ切‏ @papiermesser 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4926/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/4926/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4926/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/4926/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4926/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/4926/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

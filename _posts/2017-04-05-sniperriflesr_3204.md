@@ -1,13 +1,13 @@
 ---
 title: "어둠보다 울리는 목소리"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_이나바_테위 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3204/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3204/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3204/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3204/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3204/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3204/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
@@ -28,7 +28,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3204/001.jpg"
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b>어둠에서 울려퍼지는 목소리<br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b></b><br/></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3204/003.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3204/003.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b>카게로 서당 영입(이라 쓰고 납치라 읽는다) 편에서 나왔던 떡밥을 드디어 풀었습니다.</b></font></p>

@@ -1,15 +1,15 @@
 ---
 title: "천년이 걸릴지라도, 당신을 기다리겠습니다"
 tags: "kaze 弐維鏡像 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/736/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/736/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/736/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/736/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/736/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/736/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/736/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/736/003.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>千年だろうと、あなたを待ち続けます</b></font></p>

@@ -1,13 +1,13 @@
 ---
 title: "선물이 기대된다 우사"
 tags: "憂鬱しゃん @merakoring 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4976/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/4976/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4976/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/4976/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4976/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/4976/002.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,14 +1,14 @@
 ---
 title: "깊어지지 않는 밤은 없다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2594/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2594/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2594/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2594/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2594/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2594/002.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

@@ -1,14 +1,14 @@
 ---
 title: "한번이라도 좋으니 밟아 주십시오"
 tags: "うぐいす餅 @3535carrot 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5672/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5672/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5672/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5672/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5672/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5672/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>「一回で良いから踏んでください」って土下座して頼み込めば嫌々ながらも優しく踏み踏みしてくれる幽谷響子ちゃん</b></font></p>

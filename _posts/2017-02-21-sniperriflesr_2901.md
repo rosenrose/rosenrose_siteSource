@@ -1,13 +1,13 @@
 ---
 title: "주부 휴업의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2901/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2901/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2901/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2901/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2901/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2901/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><span style="; ">주부 휴업의 날</span></b></font></p>

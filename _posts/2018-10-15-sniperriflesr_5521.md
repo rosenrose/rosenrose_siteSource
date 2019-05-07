@@ -1,14 +1,14 @@
 ---
 title: "환상향 지랄의 법칙 -1"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_히지리_뱌쿠렌 캐릭터_우사미_스미레코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5521/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5521/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5521/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5521/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5521/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5521/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

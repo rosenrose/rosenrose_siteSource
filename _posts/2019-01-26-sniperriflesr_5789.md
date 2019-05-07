@@ -1,13 +1,13 @@
 ---
 title: "졸린 유유코"
 tags: "赤崎セカイ @kireinatetete 캐릭터_사이교우지_유유코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5789/001.png"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5789/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><font color="#6600ff"><b><span style="; "></span><br/></b></font></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5789/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5789/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><font color="#6600ff"><b><span style="; "></span></b></font></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5789/002.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5789/002.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><font color="#6600ff"><b><span style="; "><br/></span></b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><font color="#6600ff"><b><span style="; "><br/></span></b></font></p>

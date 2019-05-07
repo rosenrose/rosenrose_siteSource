@@ -1,13 +1,13 @@
 ---
 title: "그 몸에 흐르는 것"
 tags: "えなみ教授 에나미교수 캐릭터_치르노 캐릭터_첸 캐릭터_키진_세이자 캐릭터_호쥬_누에 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2055/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2055/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2055/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2055/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2055/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2055/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>その体を巡るもの</b></font><br/></p>
@@ -27,7 +27,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2055/001.jpg"
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "></span><br/></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2055/003.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2055/003.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><span style="; ">역식자 코멘트</span><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6;"><font color="#0900ff" face="돋움, dotum, verdana, sans-serif"><b><span style="; ">박살천사 도쿠로쨩은 가시 달린 방망이(마법의 스틱이라 주장하는)으로</span></b></font></p>

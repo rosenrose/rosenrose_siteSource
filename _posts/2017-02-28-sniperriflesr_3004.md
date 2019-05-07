@@ -1,14 +1,14 @@
 ---
 title: "하지마 사토리 코이시"
 tags: "ゆぬき_うた 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3004/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/3004/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><span style="; "><b></b><br/></span></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3004/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/3004/001.jpg"/></p>
 <p style="text-align: center;"><span style="; "><b></b></span></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3004/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/3004/002.jpg"/></p>
 <p style="text-align: center;"><span style="; "><b><br/></b></span></p>
 <p style="text-align: center;"><span style="; "><b><br/></b></span></p>
 <p style="text-align: center;"><span style="; "><b><br/></b></span></p>

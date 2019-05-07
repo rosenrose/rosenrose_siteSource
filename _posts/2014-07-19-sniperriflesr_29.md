@@ -1,45 +1,45 @@
 ---
 title: "아가씨는 메이드님"
 tags: "neji_kirio angeltype 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/29/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/29/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/29/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/29/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><strong>(C81) (同人誌) [ANGELTYPE] お嬢様はメイド様 (東方) (非エロ)</strong></p>

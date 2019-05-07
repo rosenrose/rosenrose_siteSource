@@ -1,11 +1,11 @@
 ---
 title: "비트코인 탑승 실패한 시온 그려봤음"
 tags: "clownp 캐릭터_요리가미_시온 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5462/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5462/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5462/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5462/001.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

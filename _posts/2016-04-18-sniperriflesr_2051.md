@@ -1,13 +1,13 @@
 ---
 title: "케이네 흉내"
 tags: "えなみ教授 에나미교수 캐릭터_후지와라노_모코우 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2051/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2051/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2051/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2051/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2051/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2051/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
@@ -27,7 +27,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2051/001.jpg"
 <p style="TEXT-ALIGN: center">다른 번역</p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2051/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2051/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 </div><br/>
 <div class="another">

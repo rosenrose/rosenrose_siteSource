@@ -1,11 +1,11 @@
 ---
 title: "비봉 나이트메어 다이어리 만화"
 tags: "ㅇㅇ 124．54 캐릭터_우사미_스미레코 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5633/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5633/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5633/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5633/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

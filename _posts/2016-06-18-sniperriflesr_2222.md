@@ -1,14 +1,14 @@
 ---
 title: "리얼충 폭파 삼총사"
 tags: "古河おどろ よまいり先生 캐릭터_코메이지_코이시 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_히메카이도_하타테 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2222/001.png"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2222/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2222/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2222/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2222/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2222/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b>트위터 제목 : こいし「リア充爆破三銃士をつれてきたよ！」</b></p>

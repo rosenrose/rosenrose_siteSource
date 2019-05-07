@@ -1,13 +1,13 @@
 ---
 title: "한 명당 하나씩"
 tags: "futa なべぞこ 나베조코 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/653/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/653/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/653/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/653/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/653/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/653/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>ひとり一個まで </b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

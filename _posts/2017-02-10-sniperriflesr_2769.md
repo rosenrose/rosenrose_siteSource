@@ -1,19 +1,19 @@
 ---
 title: "휘침성 만화"
 tags: "캐릭터_세키반키 캐릭터_와카사기히메 캐릭터_이누바시리_모미지 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2769/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2769/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2769/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2769/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2769/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2769/002.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2769/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2769/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2769/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2769/004.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2769/005.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2769/005.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

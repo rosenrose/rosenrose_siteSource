@@ -1,14 +1,14 @@
 ---
 title: "안 일어나"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5300/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5300/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5300/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5300/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5300/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5300/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

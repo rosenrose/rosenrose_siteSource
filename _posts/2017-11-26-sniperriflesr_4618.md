@@ -1,17 +1,17 @@
 ---
 title: "아큐 vs 옷키나"
 tags: "インド僧 いんどの宮殿! 캐릭터_마타라_오키나 캐릭터_히에다노_아큐 캐릭터_이터니티_라바 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4618/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/4618/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4618/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/4618/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4618/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/4618/002.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4618/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/4618/003.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4618/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/4618/004.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,13 +1,13 @@
 ---
 title: "짝사랑 , 하고있습니다"
 tags: "6 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_토요사토미미노_미코 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/837/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/837/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/837/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/837/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">작가 : 6</b><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

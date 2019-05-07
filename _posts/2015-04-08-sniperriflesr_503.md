@@ -1,39 +1,39 @@
 ---
 title: "지금 네 곁에 있어 !!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_앨리스_마가트로이드 캐릭터_상하이 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_샤메이마루_아야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 이벤트_comi_comi_14 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/503/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/503/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/002.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/008.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/008.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/015.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.2; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style="font-size: 9pt;"><b>관련작 : 이것이 우리 도서관 사서 !! [ </b></span><strong style="line-height: 1.6; font-size: 9pt;"><span style="font-size: 9pt;">これが私の図書館員 ! ] [これが私のライブラリアン！]</span></strong></p>
 <p style="text-align: center;"></p>
@@ -41,113 +41,113 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/503/001.jpg"
 <p style="line-height: 1.2; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><br/></strong></p>
 <p style="line-height: 1.2; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong>[ 소악마와 파츄리의 첫만남을 다룬 동인지 입니다만. 현재 이 이야기가 나오고 4년 후에나 나온 동인지입니다 ]</strong></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/023.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/024.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/025.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/026.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/026.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/027.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/027.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/028.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/028.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/029.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/029.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/030.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/030.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/031.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/031.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/032.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/032.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/033.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/033.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/034.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/034.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/035.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/035.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/036.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/036.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/037.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/037.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/038.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/038.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/039.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/039.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/040.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/040.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/041.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/041.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/042.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/042.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/043.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/043.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/044.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/044.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/045.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/045.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/046.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/046.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/047.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/047.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/048.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/048.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/049.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/049.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/050.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/050.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/051.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/051.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/052.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/052.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/053.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/053.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/054.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/054.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/055.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/055.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/056.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/056.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/057.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/057.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/058.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/058.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/059.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/059.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/060.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/060.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/061.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/061.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/062.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/062.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/063.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/063.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/064.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/064.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/065.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/065.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/066.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/066.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/067.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/067.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/068.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/068.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/503/069.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/503/069.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong>이벤트 : Comi Comi 14</strong></p>
 <p style="text-align: center;"><br/><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>今、あなたのとなりにいるの!</b></font></p>

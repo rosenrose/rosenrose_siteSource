@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 43"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_야고코로_에이린 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2190/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2190/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2190/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2190/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">연관물</span></b></p>

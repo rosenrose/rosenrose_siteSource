@@ -1,11 +1,11 @@
 ---
 title: "어느쪽이 좋아?"
 tags: "미샤 캐릭터_타타라_코가사 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1119/001.png"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1119/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1119/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1119/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">작가 : 미샤</b><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

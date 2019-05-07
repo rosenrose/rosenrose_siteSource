@@ -1,16 +1,16 @@
 ---
 title: "홍마관 좆같아서 때려치는 사쿠야"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5740/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5740/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5740/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5740/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5740/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5740/002.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5740/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5740/003.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ㅋㄷㅇㅇ [ 49.175 ]</b></p>

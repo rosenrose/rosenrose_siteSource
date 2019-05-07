@@ -1,29 +1,29 @@
 ---
 title: "텐구의 접책"
 tags: "川科 木綿シリコン moment_silicon 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2423/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2423/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2423/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2423/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

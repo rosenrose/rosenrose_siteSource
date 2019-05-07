@@ -1,25 +1,25 @@
 ---
 title: "바이오 놀이 1"
 tags: "にーこ 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 바이오_놀이"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2685/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2685/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2685/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2685/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><span style=' font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana;  font-size: 13px;  text-align: start; ; '>작가 코멘트</span><br style='color: rgb(85, 85, 85); font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana; font-size: 13px; text-align: start; background-color: rgb(238, 238, 238);'/><span style=' font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana;  font-size: 13px;  text-align: start; ; '>이건 좀비인가요?</span><br style='color: rgb(85, 85, 85); font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana; font-size: 13px; text-align: start; background-color: rgb(238, 238, 238);'/><span style=' font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana;  font-size: 13px;  text-align: start; ; '>아니요, 그녀는 요우무입니다!</span><br/></p>
 <p style="text-align: center;"><br/></p>

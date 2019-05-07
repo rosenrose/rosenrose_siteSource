@@ -1,11 +1,11 @@
 ---
 title: "눈을 뜬 여고생"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_스미레코 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1388/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1388/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1388/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1388/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><span style="; ">원제 :</span></b><font color="#000000" face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><b> </b></font><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b>目覚める女子高生（東方外來韋編の要素が含まれます）</b></font></p>

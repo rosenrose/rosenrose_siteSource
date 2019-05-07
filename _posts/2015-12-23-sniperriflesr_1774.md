@@ -1,13 +1,13 @@
 ---
 title: "사구메씨에게 이런 느낌으로 강요당했으면 좋겠다"
 tags: "不死森トンカツ メガトン・エクスプレス 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1774/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1774/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1774/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1774/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1774/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1774/002.png"/></p>
 <p style="text-align: center;"><b>출품[?] : #深夜の真剣お絵描き60分一本勝負  [ 심야의 진지한 60분 그림 단판 승부 ]<br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : サグメさんにこんな感じで迫られたい </b></p>

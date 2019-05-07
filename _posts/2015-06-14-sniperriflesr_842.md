@@ -1,13 +1,13 @@
 ---
 title: "더블 스포일러 기념 !"
 tags: "リンメイ 健全パラドックス 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/842/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/842/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/842/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/842/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/842/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/842/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : ダブルスポイラー記念！</b></p>

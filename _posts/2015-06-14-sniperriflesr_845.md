@@ -1,13 +1,13 @@
 ---
 title: "작디작은 현장"
 tags: "リンメイ 健全パラドックス 캐릭터_타타라_코가사 캐릭터_나즈린 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/845/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/845/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/845/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/845/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/845/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/845/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>小さな小さな賢将</b></font></p>

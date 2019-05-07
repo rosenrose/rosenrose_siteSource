@@ -1,13 +1,13 @@
 ---
 title: "사나에 씨의 3가지 타입"
 tags: "enoki_koishi 트위터 캐릭터_코치야_사나에 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1632/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1632/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1632/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1632/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1632/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1632/002.jpg"/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><b>원제 : 東風谷早苗は大きく分けて３タイプ</b></p>
 <p style="text-align: center;"><b><br/></b></p>

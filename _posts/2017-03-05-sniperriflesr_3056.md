@@ -1,13 +1,13 @@
 ---
 title: "당신이 좋아하는 콘파쿠 요우무는 어느쪽?"
 tags: "三日月ネコ 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3056/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/3056/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3056/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/3056/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3056/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/3056/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

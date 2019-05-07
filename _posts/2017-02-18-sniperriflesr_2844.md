@@ -1,7 +1,7 @@
 ---
 title: "달의 꿈, 그 끝에...... (전편)"
 tags: "アドン丸 캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_히에다노_아큐 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_야쿠모_유카리 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_파츄리_널릿지 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_후지와라노_모코우 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2844/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2844/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
@@ -12,11 +12,11 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2844/001.jpg"
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2844/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2844/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2844/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2844/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2844/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2844/003.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b><span style="; ">연관물</span></b></p>
 <p style="text-align: center;"><br/></p>

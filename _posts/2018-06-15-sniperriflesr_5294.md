@@ -1,26 +1,26 @@
 ---
 title: "태어난 날의 이야기"
 tags: "ワイテイ @yt__ 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5294/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5294/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font><br/></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/005.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/005.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/006.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/006.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/007.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/007.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5294/008.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5294/008.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

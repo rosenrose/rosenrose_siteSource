@@ -1,13 +1,13 @@
 ---
 title: "카구야로부터의 한 마디"
 tags: "ガードベント淳 캐릭터_호라이산_카구야 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5326/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/5326/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5326/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5326/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5326/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5326/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

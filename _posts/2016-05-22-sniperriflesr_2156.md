@@ -1,13 +1,13 @@
 ---
 title: "냉정하게 생각해보면"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2156/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2156/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2156/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2156/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2156/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2156/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><span style="; ">원제 :</span></b><font color="#000000" face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><b> </b></font><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b>冷静に考えて</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; "><br/></span></b></p>

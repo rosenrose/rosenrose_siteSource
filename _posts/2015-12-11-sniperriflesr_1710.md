@@ -1,27 +1,27 @@
 ---
 title: "촬영놀이중"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1710/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1710/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/001.jpg"/></p>
 <p style="text-align: center;">「아, 아직도 찍는건가요? 지금 저 이상한 표정 짓진 않았겠죠?」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/002.jpg"/></p>
 <p style="text-align: center;">「(사진을 찍는건 이렇게 긴장되는거였구나...)」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/003.jpg"/></p>
 <p style="text-align: center;">「한 번 더 하는 건가요? 뭐 근처에 아무도 없으니까 괜찮지만요」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/004.jpg"/></p>
 <p style="text-align: center;">「...잘 나오고있나요? 목소리밖에 안 들리면 곤란한데...」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/005.jpg"/></p>
 <p style="text-align: center;">「(사람들이 보면 어쩌려고 이러는걸까?)」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/006.jpg"/></p>
 <p style="text-align: center;">「왜 찍는거야? 에? ...아니아니 얼마나 늦은시간인데 누가 보기라도 하면 내가 흉한 꼴이 되잖아」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/007.jpg"/></p>
 <p style="text-align: center;">「아, 괜찮아 괜찮아 너는 아무것도 하지말고 사진만 찍으면되니까.」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/008.jpg"/></p>
 <p style="text-align: center;">「적어도 옷은 갈아입게 해주지 않을래? 내일도 입어야 되서 더러워지면 좀…」<br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1710/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1710/009.jpg"/></p>
 <p style="text-align: center;">「어, …언제부터 보고 있었어…?」<br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

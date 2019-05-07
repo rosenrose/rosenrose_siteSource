@@ -1,17 +1,17 @@
 ---
 title: "마법사의 선물"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2509/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2509/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2509/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2509/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2509/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2509/002.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2509/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2509/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2509/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2509/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

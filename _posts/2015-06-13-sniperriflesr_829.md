@@ -1,14 +1,14 @@
 ---
 title: "모코우는 어떻게 할까?"
 tags: "6 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/829/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/829/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/829/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/829/001.jpg"/></p>
 <p style="text-align: center;"><span style=" font-family: Arial, sans-serif;  font-size: 16px;  line-height: 22px;  text-align: left;  white-space: pre-wrap; ; "><b>작가 코멘트 : 타임게이지가 20%이하로 떨어지면 비밀 선택지가 뜨게된다 두근두근 </b></span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/829/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/829/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;">작가 : 6</b><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>출연 : 후지와라노 모코우 , 카미시라사와 케이네</b></p>
@@ -25,7 +25,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/829/001.jpg"
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">+만화</span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/829/003.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/829/003.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">작가 코멘트 " </span></b><span style=" font-family: Arial, sans-serif;  font-size: 16px;  line-height: 22px;  white-space: pre-wrap; ; ">모코케네가 공중데이트한걸 본 후토. 이 때의 후토는 손에 꼽을 정도로 끈질기고 귀찮게 굴었다고한다. &lt;토지코 자서전 발췌&gt; </span><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Arial, sans-serif;  font-size: 16px;  line-height: 22px;  white-space: pre-wrap; ; "><br/></span></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Arial, sans-serif;  font-size: 10pt;  line-height: 22px;  white-space: pre-wrap; ; "><b>- 출연 : 모노노베노 후토</b></span></p>

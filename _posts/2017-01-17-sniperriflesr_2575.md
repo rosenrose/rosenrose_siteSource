@@ -1,13 +1,13 @@
 ---
 title: "깊은 사랑"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_카자미_유카 캐릭터_첸 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2575/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2575/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2575/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2575/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2575/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2575/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b><span style="; ">역식자 코멘트</span></b></p>
@@ -15,7 +15,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2575/001.png"
 <p style="text-align: center;"><b><span style="; ">멀라이온은 이거</span><span style="; ">입니다.</span></b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2575/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2575/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

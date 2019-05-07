@@ -1,12 +1,12 @@
 ---
 title: "마이크로 비키니입고 복싱하는 죠시온자매"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_요리가미_시온 캐릭터_요리가미_조온 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5657/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5657/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5657/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5657/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><span style="; ">작가 코멘트</span></b></p>

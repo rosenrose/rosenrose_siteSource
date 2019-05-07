@@ -1,13 +1,13 @@
 ---
 title: "공포"
 tags: "けぬー 케누 ちりわぁく 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_와타츠키노_요리히메 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1681/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1681/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1681/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1681/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1681/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1681/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><strong><font face="돋움, dotum, verdana, sans-serif">2015년 9월 4일</font></strong></p>

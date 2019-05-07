@@ -1,13 +1,13 @@
 ---
 title: "그 분노도 슬픔도"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_코메이지_코이시 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2043/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2043/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2043/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2043/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2043/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2043/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
@@ -27,7 +27,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2043/001.jpg"
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2043/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2043/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 </div><br/>
 <div class="another">

@@ -1,57 +1,57 @@
 ---
 title: "소녀들과 가위바위보로 옷 벗기기"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1532/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1532/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/023.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1532/024.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1532/024.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">서클 : </b><font face="돋움, dotum, verdana, sans-serif"><b>サンセットビーチ</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

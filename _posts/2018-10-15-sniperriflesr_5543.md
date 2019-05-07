@@ -1,17 +1,17 @@
 ---
 title: "코이시의 남자친구에게 최악의 접근을 하는 언니와 그 후."
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5543/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5543/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5543/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5543/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5543/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5543/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5543/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5543/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5543/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/5543/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

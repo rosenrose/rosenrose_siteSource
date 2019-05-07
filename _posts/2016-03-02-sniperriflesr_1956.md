@@ -1,35 +1,35 @@
 ---
 title: "마리사 천국"
 tags: "あまず 아마즈 amaz 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_앨리스_마가트로이드 캐릭터_카와시로_니토리 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 캐릭터_코치야_사나에 이벤트_例大祭_12 이벤트_예대제_12 합동-귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1956/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1956/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/007.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>레이무 : 네 분신이니까 네가 돌봐줘 !</b></p>
 <p style="text-align: center;"><b>앨리스 마가트로이드 : 마리사-♡ 마리사-♡ 마리사-♡</b></p>
 <p style="text-align: center;"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  line-height: 15.6px;  text-align: start; ; ">이렇게 갑작스럽게 정답이라니...</span><br/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><span style="; ">[ 구스트랑씨가 알려주신 ]</span></b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/009.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>파츄리 : 줄여서 마리타마.</b></p>
 <p style="text-align: center;"><b>마리사 : 데리타마 같네-</b></p>
@@ -39,47 +39,47 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1956/001.jpg"
 <p style="text-align: center;"><b>소쇄한 메이드예요.</b></p>
 <p style="text-align: center;"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/017.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>잘도 살아있네요가 저 일본어임 [ ... ]</b></p>
 <p style="text-align: center;"><b>급해서 대충하신게 아닐까 추론</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/018.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>레이무 : 동인지에서 자주 본 녀석이다</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/023.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/023.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style=" font-family: 굴림, Gulim;  font-size: 13px;  line-height: 16px;  text-align: left; ; "><b>마리사 : 집 안에서 뿐이긴 하지만 !</b></span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/024.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/025.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1956/026.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1956/026.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">이벤트 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>例大祭 12 [ 예대제 12 ]</b></font></p>
 <p style="text-align: center;"><br/><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>まりさだらけ</b></font></p>

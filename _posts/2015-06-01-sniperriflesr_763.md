@@ -1,13 +1,13 @@
 ---
 title: "이것이 나의 주인님"
 tags: "さぺ 사구 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/763/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/763/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/763/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/763/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/763/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/763/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>これが私の御主人様</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

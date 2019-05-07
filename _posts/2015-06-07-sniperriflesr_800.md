@@ -1,33 +1,33 @@
 ---
 title: "코코로안"
 tags: "ふあん亭 후앙정 캐릭터_모노노베노_후토 캐릭터_하타노_코코로 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 캐릭터_토요사토미미노_미코 이벤트_例大祭_12 이벤트_예대제_12 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/800/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/800/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/800/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/800/012.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

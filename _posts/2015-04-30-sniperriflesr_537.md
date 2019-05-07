@@ -1,13 +1,13 @@
 ---
 title: "유카링의 소녀다움"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카자미_유카 캐릭터_릴리_화이트 캐릭터_리리카_프리즘리버 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/537/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/537/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/537/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/537/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/537/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/537/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>ゆうかりん乙女チックわーるど</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

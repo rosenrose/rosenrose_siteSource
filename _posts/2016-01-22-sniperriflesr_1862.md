@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 37"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1862/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1862/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1862/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1862/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; ">일어제목 : 泣かないよパルスィちゃん！ 37</span></b><br/></p>

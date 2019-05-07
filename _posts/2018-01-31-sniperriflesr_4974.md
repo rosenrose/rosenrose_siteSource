@@ -1,16 +1,16 @@
 ---
 title: "죠온쟝에게 어울리는 수영복을 가지고 왔어!"
 tags: "たこらいす @takorice_r ready．set．go! 캐릭터_요리가미_조온 캐릭터_요리가미_시온 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4974/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4974/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4974/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/4974/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4974/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/4974/002.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4974/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/4974/003.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

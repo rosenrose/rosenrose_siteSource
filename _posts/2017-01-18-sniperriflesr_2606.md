@@ -1,14 +1,14 @@
 ---
 title: "시간에 상냥하게 시간에 엄격하게"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2606/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2606/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2606/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2606/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2606/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2606/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b><span style="; "></span><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><span style="; "><b>역식자 코멘트</b></span></p>

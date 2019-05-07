@@ -1,13 +1,13 @@
 ---
 title: "사나에에게 헤카T를 입혀보았다"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_코치야_사나에 캐릭터_모리야_스와코 캐릭터_헤카티아_라피스라줄리 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1974/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1974/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1974/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1974/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1974/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1974/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>早苗にヘカT絶対似合うって昨日言ったので着せてみました </b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/><strong>서클 : 薬味さらい [ 야쿠미사라이 ][ 양념갈퀴 ][ 양념다음다음 ]</strong></p>

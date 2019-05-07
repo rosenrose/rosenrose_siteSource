@@ -1,59 +1,59 @@
 ---
 title: "중2병은 통과의례"
 tags: "麒麟たろう マキシマムディアッカ 캐릭터_야고코로_에이린 캐릭터_사이교우지_유유코 캐릭터_키리사메_마리사 캐릭터_콘파쿠_요우무 캐릭터_샤메이마루_아야 이벤트_c83 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1447/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1447/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/023.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/024.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1447/025.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1447/025.jpg"/></p>
 <p style="text-align: center;"><font color="#323232" face="Lucida Grande, Hiragino Kaku Gothic ProN, Meiryo, sans-serif" style="font-size: 13px; line-height: 24px; text-align: start;"><span style="font-size: 12px;  line-height: 18px; ; ">*</span></font><span style="text-align: start;  font-family: 'Lucida Grande', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;  line-height: 18px; ; ">미스티 레인(MISTY RAIN)은 일본어로 霧雨, 즉 키리사메</span><br/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>이벤트 : C83</b></p>

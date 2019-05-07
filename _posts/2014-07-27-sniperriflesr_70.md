@@ -1,25 +1,25 @@
 ---
 title: "뇌내꽃밭목장"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 캐릭터_호쥬_누에 캐릭터_나즈린 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/70/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/70/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/70/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/70/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>서클 : ギロチン銀座 [ </strong><strong>길로틴긴자 ]</strong></p>
 <p style="TEXT-ALIGN: center"><strong> </strong></p>

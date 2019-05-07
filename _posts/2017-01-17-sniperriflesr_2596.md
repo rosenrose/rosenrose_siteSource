@@ -1,13 +1,13 @@
 ---
 title: "사람 사냥"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_키진_세이자 캐릭터_플랑드르_스칼렛 캐릭터_첸 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2596/001.png"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2596/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2596/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2596/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2596/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2596/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><span style="; "></span><span style="; ">역식자 코멘트</span></p>
 <p style="text-align: center;"><br/></p>

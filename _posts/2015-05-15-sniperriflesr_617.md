@@ -1,13 +1,13 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 야쿠모 유카리"
 tags: "ユーキ 캐릭터_야쿠모_유카리 캐릭터_키진_세이자 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/617/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/617/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/617/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/617/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/617/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/617/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : 反逆の正邪略して「反正」(正邪中心4コマ) vs. 八雲紫</b></p>
 <p style="text-align: center;"><b><br/></b></p>

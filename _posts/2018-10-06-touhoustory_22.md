@@ -1,10 +1,10 @@
 ---
 title: "키리타니 웹코믹 36"
 tags: "그림_번역／키리타니"
-image: "https://rosenrose.s3.amazonaws.com/doujin/touhoustory/22/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/touhoustory/22/001.png"
 ---
 <div class="article">
-<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/22/001.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(119, 119, 119); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 12px; letter-spacing: -1px; text-align: center;"><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14pt;">桐谷(@kiri_tani_)</span><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14pt;"></span><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14pt;"></span></span></p> </div></div><br/>
+<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver7 }}/touhoustory/22/001.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(119, 119, 119); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 12px; letter-spacing: -1px; text-align: center;"><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14pt;">桐谷(@kiri_tani_)</span><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14pt;"></span><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14pt;"></span></span></p> </div></div><br/>
 <div class="tagTrail">
 </div><br/>
 <div class="another">

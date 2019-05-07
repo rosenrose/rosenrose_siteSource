@@ -1,19 +1,19 @@
 ---
 title: "호시구마 유우기에 대한 기묘한 소문"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_이부키_스이카 캐릭터_호시구마_유기 캐릭터_야고코로_에이린 이벤트_미상 약"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/317/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/317/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/317/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/317/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/317/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/317/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/317/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/317/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/317/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/317/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/317/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/317/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>연관작 : <a href="http://blog.daum.net/sniperriflesr/194" target="_blank">http://blog.daum.net/sniperriflesr/194</a> [ 우타가이 ]</strong></p>

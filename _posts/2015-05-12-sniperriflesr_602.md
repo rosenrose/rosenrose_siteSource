@@ -1,13 +1,13 @@
 ---
 title: "걱정이에요"
 tags: "futa なべぞこ 나베조코 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/602/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/602/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/602/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/602/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/602/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/602/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : 心配なんです </b></p>

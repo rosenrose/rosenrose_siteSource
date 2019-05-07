@@ -1,25 +1,25 @@
 ---
 title: "역병신은 멋진 직업"
 tags: "じぜる 지제루 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5767/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5767/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/005.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/005.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/006.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/006.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/007.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/007.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5767/008.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5767/008.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

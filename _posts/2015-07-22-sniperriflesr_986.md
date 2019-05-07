@@ -1,13 +1,13 @@
 ---
 title: "사랑하는 야작 17화 그 후"
 tags: "みつもと 미츠모토 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 사랑하는_야작_[完]"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/986/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/986/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/986/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/986/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/986/002.gif"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/986/002.gif"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : 恋する夜雀 その17 のその後</b></p>
 <p style="text-align: center;"><b><br/></b></p>

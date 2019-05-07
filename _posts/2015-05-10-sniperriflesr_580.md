@@ -1,13 +1,13 @@
 ---
 title: "카구야의 수면 의지력 !!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/580/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/580/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/580/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/580/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/580/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/580/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>輝夜の寝続ける意志力！！！</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

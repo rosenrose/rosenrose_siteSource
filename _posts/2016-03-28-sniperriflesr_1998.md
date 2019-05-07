@@ -1,49 +1,49 @@
 ---
 title: "월면 다다미 넉장 반"
 tags: "じぜる 지제루 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_순호 캐릭터_레이센_우동게인_이나바 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1998/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1998/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1998/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1998/020.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;">연관작 </b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

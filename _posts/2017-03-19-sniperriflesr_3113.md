@@ -1,13 +1,13 @@
 ---
 title: "솔직해지라고"
 tags: "綾杉つばき 아야스기_츠바키 まにまに。 마니마니 manimani。 캐릭터_호라이산_카구야 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3113/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/3113/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3113/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3113/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3113/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3113/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><span style="; ">원제 : </span></strong><strong style="line-height: 1.6;"><font color="#000000" face="돋움, dotum, verdana, sans-serif">輝夜、今日の一言２６</font><br/></strong></p>

@@ -1,13 +1,13 @@
 ---
 title: "가다랑어포의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2744/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2744/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2744/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2744/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2744/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2744/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

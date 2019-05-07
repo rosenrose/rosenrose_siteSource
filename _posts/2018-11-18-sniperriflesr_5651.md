@@ -1,13 +1,13 @@
 ---
 title: "가슴은 기대에 부푼다"
 tags: "ヒスタミンc @histaminec ツリムラ 캐릭터_카와시로_니토리 캐릭터_샤메이마루_아야 캐릭터_키리사메_마리사 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5651/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5651/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5651/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5651/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5651/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5651/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">역식자 코멘트</span></b></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>

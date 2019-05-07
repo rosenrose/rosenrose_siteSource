@@ -1,12 +1,12 @@
 ---
 title: "동갤러를 바라보는 이치린"
 tags: "보비 캐릭터_쿠모이_이치린 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5620/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5620/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5620/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5620/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : 보비</b></p>

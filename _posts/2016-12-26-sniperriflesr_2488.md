@@ -1,13 +1,13 @@
 ---
 title: "무서운 메리씨"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2488/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2488/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2488/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2488/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2488/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2488/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;">원제 : 今週は恐怖のメリーさん４コマ</b></p>

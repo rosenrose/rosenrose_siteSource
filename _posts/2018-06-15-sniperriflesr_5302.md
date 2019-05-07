@@ -1,16 +1,16 @@
 ---
 title: "벗는만큼 늘어난다"
 tags: "캐릭터_클라운피스 캐릭터_순호 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5302/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5302/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><span style="; "><br/></span></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5302/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5302/001.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5302/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5302/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5302/003.PNG"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5302/003.PNG"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><span style="; "><br/></span></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><span style="; "><br/></span></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><span style="; ">원제 : ?</span></b><br/></p>

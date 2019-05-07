@@ -1,13 +1,13 @@
 ---
 title: "바다보다 깊은 그 사랑"
 tags: "えなみ教授 에나미교수 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2018/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2018/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2018/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2018/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2018/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2018/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>海より深きその愛で</b></font></p>
@@ -30,7 +30,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2018/001.jpg"
 <p style="TEXT-ALIGN: center">다른 번역</p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2018/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2018/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 </div><br/>
 <div class="another">

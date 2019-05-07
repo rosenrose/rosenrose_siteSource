@@ -1,11 +1,11 @@
 ---
 title: "거짓말은 하지 않았어"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1083/001.png"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1083/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1083/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1083/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 : 6</b></p>
 <p style="text-align: center;"><b><br/></b></p>

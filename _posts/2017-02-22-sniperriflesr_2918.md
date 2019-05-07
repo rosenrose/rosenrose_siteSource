@@ -1,15 +1,15 @@
 ---
 title: "사토리자매 4컷만화"
 tags: "캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2918/001.png"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2918/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2918/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2918/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2918/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2918/002.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2918/003.gif"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2918/003.gif"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

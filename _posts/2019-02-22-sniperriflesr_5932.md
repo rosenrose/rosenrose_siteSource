@@ -1,12 +1,12 @@
 ---
 title: "순호한테 잘못걸려서 상아라고 착각당한채 두들겨맞는 청아"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_순호 캐릭터_카쿠_세이가 캐릭터_청아 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5932/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5932/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5932/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5932/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ㅋㄷㅇㅇ [ 49.175 ]</b></p>

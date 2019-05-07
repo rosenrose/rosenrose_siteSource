@@ -1,16 +1,16 @@
 ---
 title: "달에 있을 때 있었을만한 컷만화"
 tags: "唯野影吉 カゲ路 캐릭터_링고 캐릭터_레이센_우동게인_이나바 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1232/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1232/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1232/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1232/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1232/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1232/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>원제 : -</b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

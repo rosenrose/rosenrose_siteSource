@@ -1,77 +1,77 @@
 ---
 title: "Princess week"
 tags: "동인지 赤橙"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-princess-week/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-02-princess-week/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2399485276685943242" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/001.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/002.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/003.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/004.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/005.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/006.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/007.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/008.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/009.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/010.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/011.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/012.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/013.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/014.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/015.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/016.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/017.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/018.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/019.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/020.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/021.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-princess-week/022.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-02-princess-week/022.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

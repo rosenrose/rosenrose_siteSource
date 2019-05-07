@@ -1,13 +1,13 @@
 ---
 title: "돌발적인 사토린"
 tags: "ルホホーホ・ルーホホ 캐릭터_코메이지_사토리 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3146/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/3146/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3146/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3146/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3146/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3146/002.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

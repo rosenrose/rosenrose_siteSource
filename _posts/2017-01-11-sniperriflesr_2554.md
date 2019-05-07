@@ -1,11 +1,11 @@
 ---
 title: "불닭준코면"
 tags: "woogoon 우군 캐릭터_순호 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2554/001.png"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2554/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2554/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/2554/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;">작가 : Woogoon [ 우군 ]</b><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,45 +1,45 @@
 ---
 title: "sepia"
 tags: "甘党 amatou 아마토우 hitomishiri 히토미시리 ひとみしり 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 캐릭터_소악마 캐릭터_이자요이_사쿠야 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/160/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/160/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/160/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/160/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>

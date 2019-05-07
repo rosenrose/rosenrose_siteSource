@@ -1,7 +1,7 @@
 ---
 title: "감주전은 위험해 책"
 tags: "あまず 아마즈 amaz 캐릭터_클라운피스 캐릭터_키리사메_마리사 캐릭터_세이란 캐릭터_순호 캐릭터_키신_사구메 캐릭터_코치야_사나에 캐릭터_헤카티아_라피스라줄리 캐릭터_링고 캐릭터_도레미_스위트 캐릭터_이나바_테위 캐릭터_하쿠레이_레이무 캐릭터_야사카_카나코 이벤트_秋季例大祭2 이벤트_추계예대제_2 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3278/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3278/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b><br/></font></p>
@@ -31,34 +31,34 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3278/001.png"
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
 <p style="line-height: 1.6; text-align: center;"></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b><br/></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><span style="; ">azmaya입니다.</span></b></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/003.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/003.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/004.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/004.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/005.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/005.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/006.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/006.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/007.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/007.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/008.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/008.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/009.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/009.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/010.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/010.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/011.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/011.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/012.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/012.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b><span style="; ">번역 보충 : 마셔도 마셔도 끝이 없어... [ Helios님께서 도와주셨습니다 ]</span></b></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3278/013.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3278/013.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><br/></b></font></p>

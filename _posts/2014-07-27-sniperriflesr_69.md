@@ -1,41 +1,41 @@
 ---
 title: "감기에 걸렸다면 그것밖에 없어!!"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_키리사메_마리사 캐릭터_사이교우지_유유코 캐릭터_앨리스_마가트로이드 캐릭터_콘파쿠_요우무 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/69/001.png"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/69/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/001.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/001.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/002.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/002.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/003.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/003.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/004.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/004.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/005.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/005.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/006.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/006.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/007.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/007.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/008.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/008.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/009.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/009.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/010.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/010.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/011.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/011.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/012.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/012.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/013.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/013.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/014.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/014.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/015.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/015.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/69/016.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver10 }}/sniperriflesr/69/016.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p align="center" style="margin: 0px; padding: 0px; text-align: center; line-height: 1;"><font color="#000000"><b><span style="; ">연관물</span></b></font></p>

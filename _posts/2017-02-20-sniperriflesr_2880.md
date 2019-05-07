@@ -1,13 +1,13 @@
 ---
 title: "동백의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2880/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2880/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2880/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2880/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2880/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2880/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b><span style="; "></span><span style="; ">동백의 날</span></b></p>

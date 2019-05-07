@@ -1,19 +1,19 @@
 ---
 title: "포옹의 날"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1209/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1209/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1209/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1209/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>진상</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1209/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1209/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : 6</b></p>

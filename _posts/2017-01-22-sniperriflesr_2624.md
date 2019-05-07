@@ -1,13 +1,13 @@
 ---
 title: "장난스런 Kiss……？"
 tags: "奴ー羅へッグ 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2624/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2624/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2624/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2624/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2624/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2624/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : イタズラなKiss……？</b></p>

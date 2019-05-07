@@ -1,13 +1,13 @@
 ---
 title: "해냈네 사구쨩!"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키신_사구메 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1781/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1781/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1781/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1781/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1781/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1781/002.jpg"/></p>
 <p style="text-align: center;"><b>2015년 12월 11일</b></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

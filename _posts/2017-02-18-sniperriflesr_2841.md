@@ -1,13 +1,13 @@
 ---
 title: "고양이를 좋아하는 사람의 행동 1"
 tags: "たまはな 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2841/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2841/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2841/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2841/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2841/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2841/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : さとりさまんが①</b></p>

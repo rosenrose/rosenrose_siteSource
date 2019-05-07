@@ -1,15 +1,15 @@
 ---
 title: "오늘은 팬티 무슨 색?"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_첸 캐릭터_이나바_테위 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2035/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2035/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  line-height: 15.6px; ; ">미안 집에 두고 왔어 -&gt; 미안, 우리 집에도 있어</span><br/></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  line-height: 15.6px; ; ">[ Gustrans 씨가 도움주셨습니다 ]</span></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2035/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2035/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2035/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2035/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>落書き４コマ詰め合わセット</b></font><br/></p>
@@ -26,7 +26,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2035/001.jpg"
 <p style="TEXT-ALIGN: center">다른 번역</p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2035/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2035/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 </div><br/>
 <div class="another">

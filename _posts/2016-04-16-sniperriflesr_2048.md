@@ -1,13 +1,13 @@
 ---
 title: "선택지"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_키진_세이자 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2048/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2048/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2048/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2048/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2048/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2048/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
@@ -28,7 +28,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2048/001.jpg"
 <p style="TEXT-ALIGN: center">다른 번역</p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2048/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2048/003.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><span style=" font-family: dotum;  font-size: 9pt; ; "><b>역식자 코멘트</b></span></p>
 <p style="TEXT-ALIGN: center"><span style=" font-family: dotum;  font-size: 9pt; ; "><b><br/></b></span></p>

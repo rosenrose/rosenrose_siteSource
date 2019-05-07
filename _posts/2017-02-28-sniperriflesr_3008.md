@@ -1,15 +1,15 @@
 ---
 title: "루미아와 루미아군"
 tags: "お茶 캐릭터_루미아 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3008/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/3008/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><span style="; "><br/></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3008/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/3008/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3008/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/3008/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255); text-align: center;"><span style="; "><br/></span></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; background-color: rgb(255, 255, 255); text-align: center;"><span style="; "><br/></span></p>

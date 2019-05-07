@@ -1,29 +1,29 @@
 ---
 title: "세이신묘 작은 이야기 3~5"
 tags: "みもと 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1886/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1886/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1886/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1886/010.jpg"/></p>
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"><b>원제 : 小話1,2</b></p>

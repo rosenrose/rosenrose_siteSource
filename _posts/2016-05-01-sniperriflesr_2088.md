@@ -1,13 +1,13 @@
 ---
 title: "부디, 죽지 말아주셔요"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2088/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2088/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2088/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2088/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2088/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2088/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>君死にたまふことなかれ</b></font></p>
@@ -26,7 +26,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2088/001.jpg"
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2088/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2088/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>

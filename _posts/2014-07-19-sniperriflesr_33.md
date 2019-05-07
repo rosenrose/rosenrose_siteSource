@@ -1,45 +1,45 @@
 ---
 title: "환상 트라우마틱"
 tags: "ネジキリオ 네지키리오 angeltype 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_레이센_우동게인_이나바 캐릭터_하쿠레이_레이무 캐릭터_리글_나이트버그 캐릭터_코메이지_코이시 이벤트_c80 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/33/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/33/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/33/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/33/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><strong><img src="{{ site.imgserver4 }}/sniperriflesr/33/018.jpg"/></strong></p>
+<p style="TEXT-ALIGN: center"><strong><img src="{{ site.imgserver12 }}/sniperriflesr/33/018.jpg"/></strong></p>
 <p style="TEXT-ALIGN: center"><strong></strong> </p>
 <p style="TEXT-ALIGN: center"><strong></strong> </p>
 <p style="TEXT-ALIGN: center"><strong>원제 : 幻想トラウマティック<br/>이벤트 : C80 </strong></p>

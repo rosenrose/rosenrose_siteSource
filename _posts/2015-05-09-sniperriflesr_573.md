@@ -1,13 +1,13 @@
 ---
 title: "라이코의 태고 교실!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_호리카와_라이코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/573/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/573/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/573/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/573/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/573/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/573/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>雷鼓の和太鼓教室！</b></font></p>

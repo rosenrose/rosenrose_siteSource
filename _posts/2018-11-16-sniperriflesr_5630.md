@@ -1,14 +1,14 @@
 ---
 title: "할로윈 짤"
 tags: "ㅇㅇ 121．137 캐릭터_순호 캐릭터_콘파쿠_요우무 캐릭터_이자요이_사쿠야 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5630/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5630/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5630/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5630/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5630/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5630/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ㅇㅇ ( 121.137 )</b></p>

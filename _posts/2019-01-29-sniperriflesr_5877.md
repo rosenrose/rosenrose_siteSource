@@ -1,11 +1,11 @@
 ---
 title: "토끼 모자 쓴 순호"
 tags: "느응 캐릭터_순호 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5877/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5877/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5877/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5877/001.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

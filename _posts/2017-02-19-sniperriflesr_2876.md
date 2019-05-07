@@ -1,13 +1,13 @@
 ---
 title: "토끼의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2876/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2876/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2876/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2876/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2876/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/2876/002.png"/></p>
 <p style="text-align: center;"><span style="; "><b>토끼의 날</b></span></p>
 <p style="text-align: center;"><span style="; "><b>* 토끼의 영어 단어인 "bunny(バニー)"를 날짜로 해석한 것. 8(はち = ば), 2(に), 1(いち = ー[ィ(장음 기호)])</b></span></p>
 <p style="text-align: center;"><br/></p>

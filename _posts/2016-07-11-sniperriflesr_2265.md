@@ -1,13 +1,13 @@
 ---
 title: "사랑 수만큼의 목숨이 있다"
 tags: "えなみ教授 에나미교수 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_나즈린 캐릭터_첸 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2265/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2265/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2265/001.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2265/001.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2265/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2265/002.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>
@@ -29,7 +29,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2265/001.jpg"
 <p style="line-height: 1.6; text-align: center;"><b><font color="#0900ff" face="돋움, dotum, verdana, sans-serif"><span style="; ">사랑의 수 만큼 생명이 있다</span></font><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><font color="#0900ff" face="돋움, dotum, verdana, sans-serif"><span style="; "><br/></span></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><font color="#0900ff" face="돋움, dotum, verdana, sans-serif"><span style="; "></span><br/></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2265/003.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2265/003.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><font color="#0900ff" face="돋움, dotum, verdana, sans-serif"><span style="; "><br/></span></font></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; "><br/></span></b></p>
 </div><br/>

@@ -1,13 +1,13 @@
 ---
 title: "천인쨩과 빈곤신쨩"
 tags: "ワイテイ @yt__ 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5107/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/5107/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5107/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5107/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5107/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5107/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><span style="; ">연관물</span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

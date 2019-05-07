@@ -1,13 +1,13 @@
 ---
 title: "다듬지 않은 태자님은 헝클어진 머리"
 tags: "春雨 하루사메 @harusame13 運命のイカスミ 운명의_이카스미 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4992/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/4992/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4992/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/4992/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4992/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/4992/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,13 +1,13 @@
 ---
 title: "All T-shirts"
 tags: "白色粉筆線 캐릭터_순호 캐릭터_준코 캐릭터_헤카티아_라피스라줄리 캐릭터_코치야_사나에 캐릭터_레이센_우동게인_이나바 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1202/001.png"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1202/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1202/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1202/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1202/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1202/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">작가 : </b><font face="돋움, dotum, verdana, sans-serif"><b>白色粉筆線</b></font></p>

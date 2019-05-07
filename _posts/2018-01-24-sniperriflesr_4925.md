@@ -1,14 +1,14 @@
 ---
 title: "가난 신과 옷의 신"
 tags: "アズキ @azukiranatuine azuki_shot 캐릭터_헤카티아_라피스라줄리 캐릭터_요리가미_시온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4925/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/4925/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4925/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/4925/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4925/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/4925/002.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

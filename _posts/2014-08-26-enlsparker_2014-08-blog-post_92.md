@@ -1,41 +1,41 @@
 ---
 title: "비를 피하다"
 tags: "동인지 personal_color"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_92/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_92/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6765252010767160904" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/001.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://sunmism.com/2075">선미즘</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/002.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/003.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/004.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/005.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/006.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/007.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/008.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/009.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-08-blog-post_92/010.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2014-08-blog-post_92/010.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

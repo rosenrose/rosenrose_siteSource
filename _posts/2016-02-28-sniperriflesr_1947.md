@@ -1,11 +1,11 @@
 ---
 title: "준코이모 미아 데려다주는 만화"
 tags: "woogoon 동갤 캐릭터_준코 캐릭터_카미시라사와_케이네 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1947/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1947/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1947/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1947/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">작가 : Woogoon [ 동갤 ]</b><br/></p>

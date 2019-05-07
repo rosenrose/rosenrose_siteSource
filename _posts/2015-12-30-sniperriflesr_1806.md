@@ -1,13 +1,13 @@
 ---
 title: "아날로그지만 사구메쨩 그리는 법"
 tags: "唖秋 캐릭터_키신_사구메 캐릭터_도레미_스위트 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1806/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1806/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1806/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1806/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1806/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1806/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b>2015년 11월 24일</b></p>
 <p style="text-align: center;"><b><br/></b></p>

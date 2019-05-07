@@ -1,12 +1,12 @@
 ---
 title: "포로가된 굼애님"
 tags: "야퍄퍄 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5837/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5837/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5837/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5837/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : 야퍄퍄</b></p>

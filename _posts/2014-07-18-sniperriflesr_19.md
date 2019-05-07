@@ -1,65 +1,65 @@
 ---
 title: "좀 더! 꼬마 플랑 ~친밀도 업 대작전!~"
 tags: "캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 캐릭터_치르노 캐릭터_홍_메이링 캐릭터_하쿠레이_레이무 캐릭터_소악마 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/19/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/19/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/019.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/020.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/021.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/022.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/023.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/024.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/025.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/026.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/026.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/027.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/027.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/028.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/028.jpg"/></p>
 <p style="text-align: center;"><b> <span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px;  font-size: 9pt; ; ">플랑짱 우후후(폭소</span></b></p>
 <p style="text-align: center;"><b><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">올해도 특별 영화가 많을 것 같아서 기쁜 만큼</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">울트라 만제로나 W&amp;OOO …기대되네요, 우후후</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">그러고 보니 SHF도 여러 가지…</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">…탈선해버렸네요.</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">뭐, 그런고로 꼬마 플랑 2권째가 되겠습니다!</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">매번 말합니다만! 즐겁게! 받아주시면! 하핫!</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">그저 힘내는 누나. 오제우님＊ 진심 힘내세요(아</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">바바…아, 아니, 죄송합니다, 아무것도 아닙(시무룩</span></b></p>
 <p style="text-align: center;"><b><br/></b></p>
@@ -67,7 +67,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/19/001.jpg"
 <p style="text-align: center;"><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; "><span style="; "><br/></span></span></p>
 <p style="text-align: center;"><font color="#6600ff" face="dotum, Apple Gothic, sans-serif"><span style="line-height: 18px; ; ">요청자 [ sniperrifle ] : 후기 매끄럽게 번역하는 역식가님들을 그저 높게 쳐다봐야하겠네요</span></font></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/19/029.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/19/029.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>

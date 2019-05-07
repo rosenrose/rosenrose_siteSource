@@ -1,77 +1,77 @@
 ---
 title: "Shooting Bullet"
 tags: "동인지 風に靡く巣箱"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-12-shooting-bullet/001.jpg"
+image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-12-shooting-bullet/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8178287017448500878" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/001.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://blog.naver.com/drangonred/220188933190">가스타 번역가의 공방</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/002.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/003.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/004.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/005.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/006.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/007.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/008.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/009.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/010.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/011.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/012.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/013.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/014.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/015.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/016.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/017.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/018.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/019.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/020.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/021.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-12-shooting-bullet/022.jpg"/></div>
+<img src="{{ site.imgserver4 }}/enlsparker/2014-12-shooting-bullet/022.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

@@ -1,13 +1,13 @@
 ---
 title: "앨리스씨가 팬티를 보여주었다"
 tags: "星レーズン @starraisins 캐릭터_앨리스_마가트로이드 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5987/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5987/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5987/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5987/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5987/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5987/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

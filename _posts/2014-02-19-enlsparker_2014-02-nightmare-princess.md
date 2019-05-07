@@ -1,71 +1,71 @@
 ---
 title: "NightmarE PrincesS"
 tags: "동인지 angel_type"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-nightmare-princess/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-02-nightmare-princess/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5388190291818818992" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/001.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/001.jpg"/></div>
 <br/>
 <a name="more"></a>http://www.sunmism.com/786<br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/002.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/003.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/004.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/005.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/006.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/007.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/008.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/009.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/010.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/011.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/012.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/013.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/014.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/015.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/016.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/017.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/018.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/019.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-nightmare-princess/020.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-02-nightmare-princess/020.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

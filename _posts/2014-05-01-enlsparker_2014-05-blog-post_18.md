@@ -1,47 +1,47 @@
 ---
 title: "한밤중의 태양"
 tags: "동인지 さくsaku亭"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_18/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6190375040111791971" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/001.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/002.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/003.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/004.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/005.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/006.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/007.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/008.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/009.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/010.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/011.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-blog-post_18/012.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-05-blog-post_18/012.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

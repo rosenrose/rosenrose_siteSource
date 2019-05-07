@@ -1,14 +1,14 @@
 ---
 title: "쿄코를 보고 레이센한테 귀엽다는 소리를 들으려고 같은 행동을 해보는 소녀틱한 테위"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5639/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5639/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5639/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5639/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5639/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5639/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>前回の響子ちゃんを見て私も鈴仙に可愛いと思ってもらいたくて</b></font></p>

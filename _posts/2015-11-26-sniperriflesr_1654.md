@@ -1,13 +1,13 @@
 ---
 title: "아..이제 먹히는구나..."
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1654/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1654/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1654/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1654/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1654/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1654/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;">서클 : </b><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;"><b>あまもりウィークリー</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;">작가 : </b><font face="돋움, dotum, verdana, sans-serif"><b>シクシク [ 시쿠시쿠 ]</b></font></p>

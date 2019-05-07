@@ -1,14 +1,14 @@
 ---
 title: "좀 더 나이를 먹으면"
 tags: "縞城依月 @p_2k 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5305/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5305/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5305/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5305/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5305/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5305/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>大きくなったら・・・・</b></font></p>

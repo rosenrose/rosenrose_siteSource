@@ -1,26 +1,26 @@
 ---
 title: "사구메 vs. 순호"
 tags: "紅ずわい @beni_zuwai red_snow_倶楽部 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5799/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/5799/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/005.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/005.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/006.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/006.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/007.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/007.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5799/008.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/5799/008.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : サグメVS純狐</b></p>

@@ -1,13 +1,13 @@
 ---
 title: "몇 번이나 다시 태어나도"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3051/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/3051/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3051/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/3051/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3051/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/3051/002.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

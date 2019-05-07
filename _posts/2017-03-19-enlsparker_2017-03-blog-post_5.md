@@ -1,35 +1,35 @@
 ---
 title: "서교토에서 할로윈이 대유행하고 있는 것 같습니다!"
 tags: "동인지 poprication"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-03-blog-post_5/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-03-blog-post_5/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6654870083663413821" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/001.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/001.png"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://www.touhouinside.com/">Touhou Inside</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/002.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/003.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/003.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/004.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/005.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/006.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/007.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-03-blog-post_5/008.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-03-blog-post_5/008.png"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

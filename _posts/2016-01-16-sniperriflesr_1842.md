@@ -1,15 +1,15 @@
 ---
 title: "5천명 뽑아주기 도전 란님"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_야쿠모_란 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1842/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1842/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1842/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1842/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1842/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1842/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center">2016 1 16</p>

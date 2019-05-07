@@ -1,70 +1,70 @@
 ---
 title: "귀를 기울이다"
 tags: "うりうり show_and_tell 캐릭터_후타츠이와_마미조 캐릭터_하쿠레이_레이무 캐릭터_모토오리_코스즈 이벤트_例大祭12 이벤트_예대제_12 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2281/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2281/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/001.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/003.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/004.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/005.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/006.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/007.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/008.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/009.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/010.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/011.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/012.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/013.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/014.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/015.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/016.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/017.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/018.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/019.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/020.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/021.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/022.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/023.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/023.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/024.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/024.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/025.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/025.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/026.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/026.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/027.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/027.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/028.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/028.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/029.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/029.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2281/030.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2281/030.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">이벤트 : </b><font face="돋움, dotum, verdana, sans-serif"><b>例大祭12 [ 예대제 12 ]</b></font></p>

@@ -1,13 +1,13 @@
 ---
 title: "마음이 더럽혀지더라도"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_나즈린 캐릭터_무라사_미나미츠 캐릭터_카소다니_쿄코 캐릭터_쿠모이_이치린 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3194/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3194/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3194/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/3194/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3194/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/3194/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>今週は心は汚れてもナズーリンさん4コマ</b></font></p>

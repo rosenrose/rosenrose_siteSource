@@ -1,15 +1,15 @@
 ---
 title: "저는 다 기억한답니다"
 tags: "ふみ切‏ @papiermesser 캐릭터_코마노_아운 캐릭터_아운 캐릭터_요리가미_시온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5279/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5279/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"></font><br/></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5279/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5279/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5279/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5279/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

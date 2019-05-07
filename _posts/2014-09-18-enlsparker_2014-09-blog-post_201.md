@@ -1,59 +1,59 @@
 ---
 title: "이고모리 연화"
 tags: "동인지 疲労熊"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_201/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_201/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1358987702555038723" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/001.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/002.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/003.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/004.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/005.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/006.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/007.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/008.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/009.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/010.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/011.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/011.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/012.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/012.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/013.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/013.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/014.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/014.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/015.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/015.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_201/016.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-09-blog-post_201/016.png"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

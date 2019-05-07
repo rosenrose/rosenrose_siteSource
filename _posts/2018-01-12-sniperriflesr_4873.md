@@ -1,11 +1,11 @@
 ---
 title: "마리사 전역한 만화"
 tags: "륜 121．183 캐릭터_키리사메_마리사 캐릭터_미마 캐릭터_호쥬_누에 캐릭터_후지와라노_모코우 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4873/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4873/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4873/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/4873/001.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

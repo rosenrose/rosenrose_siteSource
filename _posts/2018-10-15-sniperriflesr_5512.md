@@ -1,11 +1,11 @@
 ---
 title: "아 이거 못핤것갓은대"
 tags: "썅 ssyang 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5512/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5512/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5512/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5512/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 49"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_카소다니_쿄코 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2200/001.png"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2200/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2200/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2200/001.png"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;"><span style="; ">일어제목 : 泣かないよパルスィちゃん！ 49</span></b><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">작가 : 퓨엔테 [ ピュエンテ ] [ fuente ]</span></b></p>

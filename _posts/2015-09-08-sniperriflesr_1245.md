@@ -1,13 +1,13 @@
 ---
 title: "울지않아 파르시쨩! 17"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1245/001.png"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1245/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1245/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1245/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1245/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1245/002.png"/></p>
 <p style="text-align: center;"><b><span style="; ">연관물</span></b></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 19.2px; text-align: center;"><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b><span style="line-height: 12px;">울지않아 파르시쨩! 번외편 3 [ </span></b><span style="line-height: 12px;"><b>泣かないよパルスィちゃん！番外編3 ]</b></span><b><br/></b></font></p>

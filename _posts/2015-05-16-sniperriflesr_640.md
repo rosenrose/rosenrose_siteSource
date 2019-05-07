@@ -1,13 +1,13 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 호시구마 유기"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_코메이지_사토리 캐릭터_와카사기히메 캐릭터_호시구마_유기 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/640/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/640/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/640/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/640/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/640/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/640/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : 反逆の正邪略して「反正」(正邪中心4コマ) vs. </b><font face="돋움, dotum, verdana, sans-serif"><b>星熊勇儀</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

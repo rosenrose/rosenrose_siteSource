@@ -1,13 +1,13 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 이바라키 카센"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_이바라키_카센 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/631/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/631/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/631/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/631/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/631/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/631/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : 反逆の正邪略して「反正」(正邪中心4コマ) vs. </b><font face="돋움, dotum, verdana, sans-serif"><b>茨木華扇</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

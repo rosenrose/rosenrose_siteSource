@@ -1,18 +1,18 @@
 ---
 title: "신부의 상처 받은 표정 연습"
 tags: "お茶漬け 캐릭터_앨리스_마가트로이드 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2255/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2255/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2255/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2255/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2255/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2255/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="color: rgb(255, 0, 0); font-family: 돋움, dotum, verdana, sans-serif;">이왕 하는 김에: 이 이후에 사과하러 왔습니다 -&gt;</b><br/></p>
 <p style="text-align: center;"><b style="color: rgb(255, 0, 0); font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="text-align: center;"><b style="color: rgb(255, 0, 0); font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2255/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2255/003.jpg"/></p>
 <p style="text-align: center;"><b style="color: rgb(255, 0, 0); font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

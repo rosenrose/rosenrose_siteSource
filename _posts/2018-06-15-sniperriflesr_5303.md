@@ -1,13 +1,13 @@
 ---
 title: "우동게 → 순호"
 tags: "しぐま @signalmass signalmass 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5303/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5303/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5303/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5303/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5303/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5303/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

@@ -1,37 +1,37 @@
 ---
 title: "끝없는 세계"
 tags: "双 소우 赤橙 적등 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 이벤트_c74 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/323/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/323/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/323/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/323/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>이벤트 : C74</strong></p>

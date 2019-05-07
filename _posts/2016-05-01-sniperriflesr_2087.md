@@ -1,13 +1,13 @@
 ---
 title: "적어도 웃는얼굴로"
 tags: "えなみ教授 에나미교수 캐릭터_치르노 캐릭터_호쥬_누에 캐릭터_리글_나이트버그 캐릭터_키진_세이자 캐릭터_하타노_코코로 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2087/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2087/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2087/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2087/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2087/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2087/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>せめて笑顔で</b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
@@ -25,7 +25,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2087/001.jpg"
 <p style="text-align: left;"><b><br/></b></p>
 <p style="text-align: left;"><b><br/></b></p>
 <p style="text-align: left;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2087/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2087/003.png"/></p>
 <p style="text-align: left;"><b><br/></b></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

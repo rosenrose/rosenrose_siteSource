@@ -1,11 +1,11 @@
 ---
 title: "고참의 횡포"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_리글_나이트버그 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/832/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/832/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/832/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/832/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">작가 : 6</b><br/></p>

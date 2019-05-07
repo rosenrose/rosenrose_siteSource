@@ -1,12 +1,12 @@
 ---
 title: "시키랑 카센이 서로한테 설교"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이바라키_카센 캐릭터_시키에이키_야마나자두 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5698/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5698/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5698/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5698/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ㅋㄷㅇㅇ [ 49.175 ]</b></p>

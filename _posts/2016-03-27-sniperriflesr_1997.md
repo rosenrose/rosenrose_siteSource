@@ -1,13 +1,13 @@
 ---
 title: "요괴의 산의 세분을 데려와봤습니다"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_샤메이마루_아야 캐릭터_코치야_사나에 캐릭터_카와시로_니토리 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1997/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1997/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1997/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1997/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1997/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1997/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>妖怪の山身売り三銃士を連れて来たよ。</b></font></p>

@@ -1,14 +1,14 @@
 ---
 title: "금지 워드"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5518/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5518/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5518/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5518/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5518/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5518/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>禁止ワード</b></font></p>

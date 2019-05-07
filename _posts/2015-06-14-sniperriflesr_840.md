@@ -1,11 +1,11 @@
 ---
 title: "케이네로 눈빛/시선떡밥"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/840/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/840/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/840/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/840/001.jpg"/></p>
 <p style="text-align: center;"><b>작가 : 6<br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>출연 : 카미시라사와 케이네 , 후지와라노 모코우</b></p>

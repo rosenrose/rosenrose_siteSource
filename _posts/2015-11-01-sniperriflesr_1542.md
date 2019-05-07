@@ -1,13 +1,13 @@
 ---
 title: "미적지근한 파르시"
 tags: "夏谷リオ オーガウィロウ 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1542/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1542/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1542/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1542/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1542/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1542/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>출품 [ ? ] : 深夜の真剣お絵描き60分一本勝負</b></p>

@@ -1,45 +1,45 @@
 ---
 title: "늠름하게 피는 꽃같은 그대에게"
 tags: "桐島りおな riona_kirishima silverstone 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/125/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/125/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/125/018.png"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver2 }}/sniperriflesr/125/018.png"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>원제 : 凛と咲く花のような君へ</strong></p>

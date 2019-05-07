@@ -1,14 +1,14 @@
 ---
 title: "게임 코너"
 tags: "しお @shioshio1600 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5715/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5715/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5715/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5715/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5715/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5715/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

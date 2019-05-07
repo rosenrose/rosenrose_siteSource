@@ -1,11 +1,11 @@
 ---
 title: "카케로 꼬리 만지작 만지작"
 tags: "고r로 @yoon_gwar0 ㅁㄴㅇㄹ 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5917/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5917/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5917/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5917/001.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

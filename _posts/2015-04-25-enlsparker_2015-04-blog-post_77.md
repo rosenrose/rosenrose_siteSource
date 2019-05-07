@@ -1,116 +1,116 @@
 ---
 title: "후토투성이"
 tags: "동인지 ふあん亭"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_77/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_77/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4850442938152331038" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/001.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/001.png"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/002.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/003.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/003.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/004.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/005.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/006.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/007.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/008.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/009.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/010.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/011.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/011.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/012.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/012.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/013.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/013.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/014.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/014.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/015.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/015.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/016.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/016.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/017.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/017.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/018.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/018.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/019.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/019.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/020.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/020.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/021.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/021.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/022.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/022.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/023.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/023.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/024.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/024.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/025.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/025.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/026.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/026.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/027.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/027.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/028.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/028.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/029.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/029.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/030.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/030.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/031.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/031.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/032.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/032.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/033.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/033.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/034.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/034.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2015-04-blog-post_77/035.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2015-04-blog-post_77/035.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

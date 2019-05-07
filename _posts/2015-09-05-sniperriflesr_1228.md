@@ -1,11 +1,11 @@
 ---
 title: "재채기 레미요리"
 tags: "6 캐릭터_레밀리아_스칼렛 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1228/001.png"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1228/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1228/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/1228/001.png"/></p>
 <p style="line-height: 19.2000007629395px; text-align: center;"><b><span style="; ">연관작</span></b></p>
 <p style="line-height: 19.2000007629395px; text-align: center;"><b><br/></b></p>
 <p style="line-height: 19.2000007629395px; text-align: center;"><b>레미 코풀어주는 욧쨩 - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/1227" target="_blank">http://blog.daum.net/sniperriflesr/1227</a></b></p>

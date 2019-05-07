@@ -1,14 +1,14 @@
 ---
 title: "침식"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_쿠모이_이치린 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3023/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3023/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3023/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3023/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3023/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3023/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>侵蝕</b></font><br/></p>

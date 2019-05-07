@@ -1,13 +1,13 @@
 ---
 title: "카게로우랑 와카사기히메가 이름을 부르는 만화"
 tags: "アリヌ 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1390/001.png"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1390/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1390/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1390/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1390/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1390/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : かげわかが名前を呼ぶだけ</b></p>

@@ -1,10 +1,10 @@
 ---
 title: "로쿠넨 짤 26~29"
 tags: "그림_번역／로쿠넨"
-image: "https://rosenrose.s3.amazonaws.com/doujin/touhoustory/27/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/touhoustory/27/001.png"
 ---
 <div class="article">
-<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/27/001.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/27/002.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/27/003.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/27/004.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(119, 119, 119); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 14pt; letter-spacing: -1px;">ろくねん(@6nen)</span><span style="font-size: 14pt;"></span></p> </div></div><br/>
+<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/27/001.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/27/002.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/27/003.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/27/004.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(119, 119, 119); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 14pt; letter-spacing: -1px;">ろくねん(@6nen)</span><span style="font-size: 14pt;"></span></p> </div></div><br/>
 <div class="tagTrail">
 </div><br/>
 <div class="another">

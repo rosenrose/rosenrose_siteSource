@@ -1,13 +1,13 @@
 ---
 title: "동갤러들이 클라운에게 품은 감정"
 tags: "지상인 동프갤 캐릭터_클라운피스 왜곡된_사랑"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1162/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1162/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1162/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1162/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1162/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1162/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : 지상인 [ 동프갤 ]</b></p>

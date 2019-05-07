@@ -1,13 +1,13 @@
 ---
 title: "수중호흡의 ○○○○"
 tags: "futa なべぞこ 나베조코 캐릭터_클라운피스 캐릭터_야사카_카나코 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1299/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1299/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1299/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1299/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1299/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1299/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><span style="; ">원제 :</span></b><font color="#000000" face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><b> </b></font><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b>水中呼吸の○○○○</b></font></p>

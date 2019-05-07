@@ -1,13 +1,13 @@
 ---
 title: "단언하는 시련"
 tags: "斜谷_多希 はすたに_たき 斜谷横町 캐릭터_키신_사구메 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1756/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1756/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1756/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1756/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1756/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1756/002.jpg"/></p>
 <p style="line-height: 19.2px; text-align: center;"><b style="line-height: 12px; font-family: SDWebKidsCartoon; font-size: 9pt;"><span style="; ">연관물</span></b></p>
 <p style="line-height: 19.2px; text-align: center;"><b style="line-height: 12px; font-family: SDWebKidsCartoon; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 19.2px; text-align: center;"><b style="line-height: 12px; font-family: SDWebKidsCartoon; font-size: 9pt;">인내 [ </b><font face="SDWebKidsCartoon"><span style="line-height: 12px;"><b>東方４コマ「はぶ・あ・ぶれいく東方」582 ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/1755" target="_blank">http://blog.daum.net/sniperriflesr/1755</a> <span style="; ">[ 웹코믹 ]</span> [ 2015년 12월 3일 ]</b></span></font></p>

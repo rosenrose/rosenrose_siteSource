@@ -1,12 +1,12 @@
 ---
 title: "맥주 마시는 오린"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_카엔뵤_린 캐릭터_오린 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5680/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5680/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5680/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5680/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

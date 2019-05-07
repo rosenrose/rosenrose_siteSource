@@ -1,13 +1,13 @@
 ---
 title: "히나쨩으로 여러가지 표정을 연습해보자!"
 tags: "いすぃ 캐릭터_카기야마_히나 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1448/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1448/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1448/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1448/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1448/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1448/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="font-size: 13px; color: rgb(30, 30, 30); font-family: Gulim, 굴림; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="; "><b>작가 코멘트 : </b></span></p>
 <p style="font-size: 13px; color: rgb(30, 30, 30); font-family: Gulim, 굴림; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="; "><b>왼쪽 위부터 </b></span></p>

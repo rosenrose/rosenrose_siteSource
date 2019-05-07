@@ -1,23 +1,23 @@
 ---
 title: "eratoho 코이시단독엔딩"
 tags: "g소리 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1381/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1381/001.jpg"
 ---
 <div class="article">
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"><br/></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/001.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/001.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/002.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/002.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/003.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/003.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/004.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/004.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/005.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/005.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/006.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/006.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"></p>
-<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver4 }}/sniperriflesr/1381/007.jpg"/></p>
+<p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); text-align: center; background-color: rgb(247, 247, 247);"><img src="{{ site.imgserver8 }}/sniperriflesr/1381/007.jpg"/></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"><font color="#000000" face="sans-serif"><br/></font></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"><font color="#000000" face="sans-serif"><br/></font></p>
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"><font color="#000000" face="sans-serif"><br/></font></p>

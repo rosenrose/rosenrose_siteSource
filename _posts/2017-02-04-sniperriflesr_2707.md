@@ -1,53 +1,53 @@
 ---
 title: "바이오 놀이 15"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_콘파쿠_요우무 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 바이오_놀이"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2707/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2707/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/001.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/002.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/003.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/004.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/005.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/006.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/007.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/008.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/009.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/010.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/011.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/012.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/013.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/014.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/015.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/016.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/017.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/018.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/019.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/020.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/021.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "></span></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2707/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/2707/022.jpg"/></p>
 <p style="text-align: center;"><b><span style="; "><br/></span></b></p>
 <p style="text-align: center;"><b><span style="; "><br/></span></b></p>
 <p style="text-align: center;"><b><span style="; "><br/></span></b></p>

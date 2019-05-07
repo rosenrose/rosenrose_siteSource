@@ -1,71 +1,71 @@
 ---
 title: "더욱 더! 꼬마 플랑 ~ 레밀리아 ☆브레이크~"
 tags: "캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 캐릭터_키리사메_마리사 캐릭터_이자요이_사쿠야 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/20/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/20/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/019.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/020.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/021.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/022.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/023.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/024.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/025.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/026.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/026.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/027.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/027.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/028.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/028.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/029.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/029.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/030.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/030.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/031.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/031.jpg"/></p>
 <p style="text-align: center;"><b> <span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px;  font-size: 9pt; ; ">후기</span></b></p>
 <p style="text-align: center;"><b><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">플랑짱 우후후의 후(폭소</span></b></p>
 <p style="text-align: center;"><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style="font-weight: bold;  font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">처음 뵙는 분도 그렇지 않은 분도…</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style="font-weight: bold;  font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">안녕하세요!* 이치미입니다!(폭소</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style="font-weight: bold;  font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">역주: 일본에는 아침 인사, 점심 인사, 저녁 인사가 나뉘는데 원본에서는 그걸 전부 섞어서 적혀있었습니다.</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style="font-weight: bold;  font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">꼬마 플랑도 3권째가 됬습니다!</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style="font-weight: bold;  font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">이번에는 오제우님＊이 꽤나 눈에 띄었습니다만 w(아</span><br style="color: rgb(51, 51, 51); font-family: dotum, 'Apple Gothic', sans-serif; line-height: 18px; background-color: rgb(255, 255, 255);"/><span style="font-weight: bold;  font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; ">플랑은 아직까지 작은 그대로입니다!(폭소</span></p>
@@ -77,7 +77,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/20/001.jpg"
 <p style="text-align: center;"><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px;  text-align: left; ; "><b>이번에는 전보다는 덜하네요.. 다행히.. 그래도 뭔 말을 하고 싶으신 건지 모를 때도 역시 있네요.. 어휴...</b></span><b><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; "><br/></span></b></p>
 <p style="TEXT-ALIGN: center"><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; "><br/></span></p>
 <p style="TEXT-ALIGN: center"><span style=" font-family: dotum, 'Apple Gothic', sans-serif;  line-height: 18px; ; "><br/></span></p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/20/032.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver1 }}/sniperriflesr/20/032.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>출연 : 소악마 , 파츄리 노우릿지 , 플랑도르 스칼렛 , 홍 메이링 , 레밀리아 스칼렛 , 키리사메 마리사 , 이자요이 사쿠야</strong></p>

@@ -1,13 +1,13 @@
 ---
 title: "마리사네 할로윈"
 tags: "鮫かまぼこ @samekamanew 月鮫工房 캐릭터_마타라_오키나 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_플랑드르_스칼렛 캐릭터_카와시로_니토리 캐릭터_파츄리_널릿지 캐릭터_헤카티아_라피스라줄리 캐릭터_야타데라_나루미 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/4989/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/4989/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4989/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/4989/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/4989/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/4989/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

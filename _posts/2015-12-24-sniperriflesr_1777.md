@@ -1,18 +1,18 @@
 ---
 title: "고요한 밤을 보내게 하지 않는 세이자쨩"
 tags: "ハトの水槽 캐릭터_키신_사구메 캐릭터_키진_세이자 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1777/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1777/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1777/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1777/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><b>2015/11/23</b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1777/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1777/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><b>2015/11/28</b></p>
 <p style="TEXT-ALIGN: center"><b></b><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1777/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1777/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><b><br/></b></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><b>2015/11/27</b><br/></p>

@@ -1,11 +1,11 @@
 ---
 title: "모코우x케이네"
 tags: "캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/39/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/39/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/39/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver5 }}/sniperriflesr/39/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>

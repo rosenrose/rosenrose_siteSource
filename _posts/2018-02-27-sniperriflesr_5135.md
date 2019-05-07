@@ -1,13 +1,13 @@
 ---
 title: "섹시 포즈"
 tags: "チマq @timaq3m あばらんち 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5135/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5135/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5135/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5135/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5135/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5135/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><span style="font-size: 9pt;">해시 태그 : </span></b><a class="twitter-hashtag pretty-link js-nav" data-query-source="hashtag_click" dir="ltr" href="https://twitter.com/hashtag/%E4%BE%9D%E7%A5%9E%E7%B4%AB%E8%8B%91?src=hash" style='background: rgb(245, 248, 250); color: rgb(29, 161, 242); font-family: "Segoe UI", Arial, sans-serif; font-size: 14px; white-space: pre-wrap;'><span style="font-size: 9pt;">#依神紫苑</span></a><span style=' font-family: "Segoe UI", Arial, sans-serif;  font-size: 9pt;  white-space: pre-wrap; ; '> </span><a class="twitter-hashtag pretty-link js-nav" data-query-source="hashtag_click" dir="ltr" href="https://twitter.com/hashtag/%E7%AC%AC14%E5%9B%9E%E6%9D%B1%E6%96%B9Project%E4%BA%BA%E6%B0%97%E6%8A%95%E7%A5%A8?src=hash" style='background: rgb(245, 248, 250); color: rgb(29, 161, 242); outline: 0px; font-family: "Segoe UI", Arial, sans-serif; font-size: 14px; white-space: pre-wrap;'><span style="font-size: 9pt;">#</span><span style="text-decoration-line: underline; font-size: 9pt;">第14回東方Project人気投票</span></a></p>

@@ -1,13 +1,13 @@
 ---
 title: "죽고싶어"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/780/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/780/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/780/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/780/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/780/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/780/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>蓬莱人の悩み </b></font><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt; line-height: 1.6;">[ .. 제목은 적어도 이거였어요.. ]</b></p>

@@ -1,13 +1,13 @@
 ---
 title: "토지코쨩은 부끄러워하는 순간 한 번에 공략하는 게 저는 정답이라고 생각합니다"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1671/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1671/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1671/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1671/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1671/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1671/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b>원제 : 屠自古ちゃんはデレた瞬間一気に攻めるのが私は正解だと思うんです </b></p>
 <p style="text-align: center;"><b><br/></b></p>

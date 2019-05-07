@@ -1,11 +1,11 @@
 ---
 title: "아가씨와 외출하기"
 tags: "곡물시리즈 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_키진_세이자 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_첸 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1949/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1949/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1949/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1949/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : 곡물시리즈 </b></p>

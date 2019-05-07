@@ -1,13 +1,13 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 리글 나이트버그"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_키진_세이자 캐릭터_와카사기히메 캐릭터_리글_나이트버그 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/725/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/725/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/725/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/725/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/725/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/725/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : 反逆の正邪略して「反正」(正邪中心4コマ) vs. リグル・ナイトバグ</b></p>
 <p style="text-align: center;"><b><br/></b></p>

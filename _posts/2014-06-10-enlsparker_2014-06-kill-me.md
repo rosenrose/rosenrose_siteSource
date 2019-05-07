@@ -1,65 +1,65 @@
 ---
 title: "KILL ME"
 tags: "동인지 ふあん亭"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-06-kill-me/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-06-kill-me/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5762317958387822927" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/001.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/002.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/003.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/004.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/005.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/006.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/007.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/008.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/009.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/010.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/011.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/012.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/013.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/014.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/015.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/016.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/017.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-06-kill-me/018.jpg"/></div>
+<img src="{{ site.imgserver12 }}/enlsparker/2014-06-kill-me/018.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

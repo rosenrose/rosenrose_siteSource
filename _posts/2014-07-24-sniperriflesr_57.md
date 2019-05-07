@@ -1,11 +1,11 @@
 ---
 title: "물거울 예고편"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 시리어스_어두움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/57/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/57/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/57/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver7 }}/sniperriflesr/57/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>연관물:</strong></p>

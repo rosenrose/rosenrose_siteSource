@@ -1,13 +1,13 @@
 ---
 title: "우둔한 현자"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_야쿠모_유카리 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2056/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2056/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2056/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2056/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2056/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2056/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>愚鈍な賢者</b></font><br/></p>
@@ -25,7 +25,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2056/001.jpg"
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2056/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/2056/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 </div><br/>
 <div class="another">

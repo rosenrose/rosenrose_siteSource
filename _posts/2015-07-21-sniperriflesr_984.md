@@ -1,11 +1,11 @@
 ---
 title: "네가 뭘 알아?"
 tags: "미샤 캐릭터_타타라_코가사 캐릭터_호쥬_누에 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/984/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/984/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/984/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/984/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : 미샤</b></p>

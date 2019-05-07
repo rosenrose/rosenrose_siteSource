@@ -1,11 +1,11 @@
 ---
 title: "언니가세상에서 제일좋은죠온"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_요리가미_시온 캐릭터_요리가미_조온 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/6005/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/6005/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/6005/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/6005/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

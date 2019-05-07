@@ -1,13 +1,13 @@
 ---
 title: "꼬리"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_세키반키 캐릭터_미스티아_로렐라이 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5506/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5506/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"></span><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5506/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5506/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"></span></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5506/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5506/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"><br/></span></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

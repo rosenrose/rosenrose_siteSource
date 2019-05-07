@@ -1,15 +1,15 @@
 ---
 title: "꽤 기분 좋게 해주었다"
 tags: "ろくねん @6nen 캐릭터_야사카_카나코 캐릭터_모리야_스와코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5622/001.png"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5622/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5622/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5622/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5622/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5622/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><span style="font-size: 9pt;">해시 태그 : </span></b></font><a class="twitter-hashtag pretty-link js-nav" data-query-source="hashtag_click" dir="ltr" href="https://twitter.com/hashtag/%E6%B7%B1%E5%A4%9C%E3%81%AE%E7%9C%9F%E5%89%A3%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D60%E5%88%86%E4%B8%80%E6%9C%AC%E5%8B%9D%E8%B2%A0?src=hash" style='background: rgb(255, 255, 255); color: rgb(157, 88, 46); outline: 0px; font-family: "Segoe UI", Arial, sans-serif; font-size: 27px; letter-spacing: 0.27px; white-space: pre-wrap;'><span style="font-size: 9pt;">#</span><span style="text-decoration-line: underline; font-size: 9pt;">深夜の真剣お絵描き60分一本勝負</span></a></p>

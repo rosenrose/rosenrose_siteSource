@@ -1,41 +1,41 @@
 ---
 title: "작은 거랑 큰 거랑"
 tags: "めぐみや seemu 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 이벤트_例大祭11 이벤트_예대제_11 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/138/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/138/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/138/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver9 }}/sniperriflesr/138/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>이벤트 : 例大祭11 [ 예대제 11 ]</strong></p>

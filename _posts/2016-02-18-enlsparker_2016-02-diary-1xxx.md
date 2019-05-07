@@ -1,104 +1,104 @@
 ---
 title: "Diary - 1/xxx"
 tags: "동인지 赤色バニラ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-02-diary-1xxx/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-02-diary-1xxx/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5282063615098664845" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/001.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/001.png"/></div>
 <a name="more"></a><br/>
 출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/002.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/003.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/003.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/004.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/005.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/006.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/007.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/008.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/009.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/010.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/011.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/011.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/012.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/012.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/013.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/013.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/014.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/014.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/015.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/015.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/016.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/016.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/017.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/017.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/018.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/018.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/019.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/019.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/020.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/020.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/021.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/021.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/022.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/022.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/023.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/023.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/024.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/024.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/025.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/025.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/026.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/026.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/027.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/027.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/028.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/028.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/029.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/029.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/030.png"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/030.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-02-diary-1xxx/031.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2016-02-diary-1xxx/031.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

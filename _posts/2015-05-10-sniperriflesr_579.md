@@ -1,13 +1,13 @@
 ---
 title: "신묘마루쨩은 정말 정직해"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_히나나위_텐시 캐릭터_레밀리아_스칼렛 캐릭터_스쿠나_신묘마루 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/579/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/579/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/579/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/579/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/579/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/579/002.png"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>針妙丸たんマジ正直者</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : ジェット虚無僧 [ 제트 코무소 ]</b></p>

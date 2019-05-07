@@ -1,107 +1,107 @@
 ---
 title: "초필살기"
 tags: "기타동인지 ventoplus"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_92/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_92/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8323801793213990947" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/001.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/001.png"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/002.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/003.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/003.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/004.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/005.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/006.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/007.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/008.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/009.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/010.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/011.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/011.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/012.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/012.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/013.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/013.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/014.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/014.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/015.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/015.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/016.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/016.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/017.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/017.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/018.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/018.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/019.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/019.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/020.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/020.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/021.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/021.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/022.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/022.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/023.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/023.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/024.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/024.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/025.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/025.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/026.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/026.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/027.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/027.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/028.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/028.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/029.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/029.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/030.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/030.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/031.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/031.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-05-blog-post_92/032.png"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2017-05-blog-post_92/032.png"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

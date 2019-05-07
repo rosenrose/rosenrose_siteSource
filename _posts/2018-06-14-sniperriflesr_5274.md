@@ -1,15 +1,15 @@
 ---
 title: "모코우가 카구야를 짝사랑"
 tags: "トンファー あぶお @abuosann 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5274/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5274/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5274/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5274/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5274/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5274/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><b><span style="; ">연관물</span></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>

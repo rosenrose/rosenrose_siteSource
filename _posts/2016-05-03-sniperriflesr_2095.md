@@ -1,13 +1,13 @@
 ---
 title: "한 해의 목표"
 tags: "えなみ教授 에나미교수 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2095/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2095/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2095/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2095/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2095/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2095/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>一年の計は</b></font></p>
@@ -22,7 +22,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2095/001.jpg"
 <p style="TEXT-ALIGN: center">다른 번역</p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2095/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2095/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b><span style="; "></span><span style="; ">서브리미널 효과는 그겁니다.</span></b></p>

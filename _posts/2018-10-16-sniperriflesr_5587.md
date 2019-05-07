@@ -1,14 +1,14 @@
 ---
 title: "마리사의 연애"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5587/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5587/001.png"
 ---
 <div class="article">
 <p style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5587/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5587/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5587/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5587/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center;"><b><br/></b></p>

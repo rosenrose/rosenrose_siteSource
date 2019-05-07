@@ -1,13 +1,13 @@
 ---
 title: "어떠한 악의조차없는 완벽한 사고로 우연히"
 tags: "緑肉 @midori_niku しもふりグリーンミート 캐릭터_쿠모이_이치린 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5179/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5179/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5179/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5179/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5179/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/5179/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><span style="; ">탈의실에서 이치린씨의 럭키팬티를 봐버려,</span></b></p>
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>

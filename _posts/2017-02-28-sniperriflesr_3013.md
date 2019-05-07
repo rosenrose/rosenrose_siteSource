@@ -1,14 +1,14 @@
 ---
 title: "코이시"
 tags: "斗伝 eye_splice 캐릭터_코메이지_코이시 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3013/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3013/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3013/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3013/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3013/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3013/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

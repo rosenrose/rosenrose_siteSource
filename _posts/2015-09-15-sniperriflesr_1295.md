@@ -1,11 +1,11 @@
 ---
 title: "이별 통고"
 tags: "93 동프갤 캐릭터_호시구마_유기 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1295/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1295/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1295/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/1295/001.jpg"/></p>
 <p style="text-align: center;">광석이형 노래듣고 삘받아서 그렸음.<br/></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><br/></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><br/></p>

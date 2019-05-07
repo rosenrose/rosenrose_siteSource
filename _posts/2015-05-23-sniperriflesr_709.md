@@ -1,13 +1,13 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 파츄리 노우릿지"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_소악마 캐릭터_키진_세이자 캐릭터_파츄리_널릿지 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/709/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/709/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/709/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/709/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/709/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/709/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><b>反逆の正邪略して「反正」(正邪中心4コマ) vs. </b></font><font face="돋움, dotum, verdana, sans-serif"><b>パチュリー・ノーレッジ</b></font></p>

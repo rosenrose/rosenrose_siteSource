@@ -1,13 +1,13 @@
 ---
 title: "얼빠진 사선"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_소가노_토지코 캐릭터_카쿠_세이가 약"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2215/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2215/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2215/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2215/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2215/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2215/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><span style="; ">역식자 코멘트</span></p>
 <p style="text-align: center;"><span style="; "><br/></span></p>

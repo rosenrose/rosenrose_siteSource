@@ -1,42 +1,42 @@
 ---
 title: "작은 마법사와 평범한 세계"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー vivitgray 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 이벤트_恋のまほうは魔理沙におまかせ！5 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1878/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1878/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/001.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/002.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/003.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/004.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/005.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/005.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/006.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/006.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/007.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/007.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/008.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/008.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/009.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/009.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/010.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/010.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/011.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/011.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/012.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/012.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></strong></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/013.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/013.png"/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><span style="; ">이건 표지에 색을 입힌 것</span></b></font></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1878/014.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1878/014.png"/></p>
 <p style="text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">이벤트 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>恋のまほうは魔理沙におまかせ！５</b></font><br/></p>

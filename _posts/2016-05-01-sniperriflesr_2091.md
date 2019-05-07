@@ -1,13 +1,13 @@
 ---
 title: "짐승"
 tags: "えなみ教授 에나미교수 캐릭터_키리사메_마리사 캐릭터_첸 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_란 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_하타노_코코로 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2091/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2091/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2091/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/2091/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2091/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/2091/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>獣</b></font></p>
@@ -28,7 +28,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2091/001.jpg"
 <p style="TEXT-ALIGN: center"><b><br/></b></p>
 <p style="TEXT-ALIGN: center"><b><br/></b></p>
 <p style="TEXT-ALIGN: center"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2091/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/2091/003.png"/></p>
 <p style="TEXT-ALIGN: center"><b><br/></b></p>
 <p style="TEXT-ALIGN: center"><b><br/></b></p>
 <p style="TEXT-ALIGN: center"><b><span style="; ">칠판 ㅋㅋㅋ 케이네 몬스터헌터 시작했어 ㅋㅋㅋ</span></b></p>

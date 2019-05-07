@@ -1,14 +1,14 @@
 ---
 title: "사랑하는 야작 16화"
 tags: "みつもと 미츠모토 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_미스티아_로렐라이 사랑하는_야작_[完]"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/935/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/935/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/935/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/935/001.jpg"/></p>
 <p style="text-align: center;"><span style="line-height: 19.2000007629395px; text-align: start;">-------------------------------------------------------------------------------------------------------------------------</span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/935/002.gif"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/935/002.gif"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

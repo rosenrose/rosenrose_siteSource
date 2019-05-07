@@ -1,26 +1,26 @@
 ---
 title: "NEGOTO"
 tags: "シクシク 시쿠시쿠 @sisikuku あまもりウィークリー 캐릭터_키신_사구메 캐릭터_도레미_스위트 이벤트_例大祭15 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5979/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5979/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span><br/></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/003.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/003.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/004.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/004.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/005.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/005.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/006.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/006.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/007.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/007.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "></span></font></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5979/008.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/5979/008.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "><br/></span></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "><br/></span></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><span style="; "><br/></span></font></b></p>

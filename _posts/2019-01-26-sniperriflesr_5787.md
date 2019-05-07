@@ -1,12 +1,12 @@
 ---
 title: "아싸 메리"
 tags: "슈퍼홍야 211．58 캐릭터_마에리베리_한 캐릭터_메리 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5787/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5787/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5787/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5787/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : 슈퍼홍야 ( 211.58 )</b></p>

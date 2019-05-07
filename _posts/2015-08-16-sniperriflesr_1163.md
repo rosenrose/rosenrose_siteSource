@@ -1,11 +1,11 @@
 ---
 title: "왜 얘를 왕따로 만들어"
 tags: "동프갤 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1163/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1163/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1163/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1163/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : .[ 동프갤 ]</b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

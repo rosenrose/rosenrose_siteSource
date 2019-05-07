@@ -1,13 +1,13 @@
 ---
 title: "에이린과 사구메"
 tags: "三味線 캐릭터_키신_사구메 캐릭터_야고코로_에이린 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1693/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1693/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1693/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1693/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1693/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1693/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">출품작 : </b><a class="twitter-hashtag pretty-link js-nav" data-query-source="hashtag_click" dir="ltr" href="https://twitter.com/hashtag/%E5%A7%94%E8%A8%97%E5%86%8D%E9%96%8B%E3%81%BE%E3%81%A7%E6%AF%8E%E6%97%A5%E3%82%B5%E3%82%B0%E3%83%A1%E6%BC%AB%E7%94%BB%E6%8F%8F%E3%81%8F?src=hash" style="color: rgb(47, 194, 239); font-family: Arial, sans-serif; outline: 0px; font-size: 28px; letter-spacing: 0.28px; line-height: 34px; white-space: pre-wrap; background: rgb(255, 255, 255);" target="_blank"><span style="text-decoration: underline; font-size: 9pt;">委託再開まで毎日サグメ漫画描く</span></a><span style=" font-family: Arial, sans-serif;  font-size: 9pt;  letter-spacing: 0.28px;  line-height: 34px;  white-space: pre-wrap; ; "> </span></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Arial, sans-serif;  font-size: 9pt;  letter-spacing: 0.28px;  line-height: 34px;  white-space: pre-wrap; ; ">[ </span><font color="#292f33" face="Arial, sans-serif"><span style="letter-spacing: 0.28px; line-height: 34px; white-space: pre-wrap;">위탁 재개까지 매일 사구메 만화 그리기 ]</span></font></p>

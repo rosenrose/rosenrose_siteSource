@@ -1,25 +1,25 @@
 ---
 title: "부드러운 뺨"
 tags: "るーらら @luurara64 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 캐릭터_히나나위_텐시 캐릭터_요리가미_시온 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5971/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5971/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/003.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/003.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/004.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/004.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/005.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/005.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/006.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/006.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/007.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/007.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5971/008.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5971/008.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

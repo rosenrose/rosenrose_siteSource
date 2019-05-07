@@ -1,15 +1,15 @@
 ---
 title: "신간의 위탁 시작"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3156/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/3156/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3156/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3156/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3156/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3156/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3156/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/3156/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"></p>
 <p style="line-height: 1.6; text-align: center;"><br/></p>

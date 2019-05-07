@@ -1,11 +1,11 @@
 ---
 title: "응 보고있어"
 tags: "6 캐릭터_순호 캐릭터_준코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1241/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1241/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1241/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1241/001.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : 6</b></p>
 <p style="text-align: center;"><b><br/></b></p>

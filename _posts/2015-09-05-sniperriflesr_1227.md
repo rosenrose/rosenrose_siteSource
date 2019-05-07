@@ -1,11 +1,11 @@
 ---
 title: "레미 코풀어주는 욧쨩"
 tags: "노랑오리 캐릭터_레밀리아_스칼렛 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1227/001.png"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1227/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1227/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1227/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b><span style="; ">연관작</span></b></p>
 <p style="text-align: center;"><b><br/></b></p>

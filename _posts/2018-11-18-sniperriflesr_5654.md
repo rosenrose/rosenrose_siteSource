@@ -1,17 +1,17 @@
 ---
 title: "다이쨩을 희롱하자!"
 tags: "にげサポ @nigesapo 캐릭터_대요정 캐릭터_치르노 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5654/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5654/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5654/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5654/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5654/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5654/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5654/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5654/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5654/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/5654/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;">원제 : 大ちゃんに嫌がらせしよう！【２コマ漫画】</b></p>

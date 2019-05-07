@@ -1,11 +1,11 @@
 ---
 title: "로리스 쨩과 치코 쨩 1~2"
 tags: "けぬー ちりわぁく 캐릭터_히나나위_텐시 캐릭터_앨리스_마가트로이드 캐릭터_나가에_이쿠 캐릭터_상하이 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/921/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/921/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/921/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/921/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>로리스 쨩과 치코 쨩*</b></p>
 <p style="text-align: center;"><b><br/></b></p>
@@ -19,7 +19,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/921/001.jpg"
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b style="line-height: 19.2000007629395px;">때는 흐르고…→</b><b><br/></b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/921/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/921/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;">원제 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>ロリスちゃんと地子ちゃん</b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/><strong style="line-height: 1.6;">서클 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>ちりわぁく</b></font></p>

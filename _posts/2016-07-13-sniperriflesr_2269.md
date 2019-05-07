@@ -1,17 +1,17 @@
 ---
 title: "플랑쨩에게 바브미를 느끼며 어리광부리고 싶다"
 tags: "タナカラ 餅月トランペット 캐릭터_플랑드르_스칼렛 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2269/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2269/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2269/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2269/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2269/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2269/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2269/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2269/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2269/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2269/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px;"><b><span style="; ">バブみ: 발음은 바브미. 연하에게서 모성애를 갈구한다는 오덕 용어.</span></b></span></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px;"><b><span style="; ">オギャり: 바브미와 합쳐져 돌봐지고 싶다는 늬앙스로 쓴다는 듯.</span></b></span></p>

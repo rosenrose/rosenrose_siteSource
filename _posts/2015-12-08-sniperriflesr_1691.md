@@ -1,13 +1,13 @@
 ---
 title: "사구메와 에이린과 우유"
 tags: "三味線 캐릭터_키신_사구메 캐릭터_야고코로_에이린 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_호라이산_카구야 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1691/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1691/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1691/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1691/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1691/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1691/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><br/></p>

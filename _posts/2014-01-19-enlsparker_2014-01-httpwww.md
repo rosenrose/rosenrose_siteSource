@@ -1,34 +1,34 @@
 ---
 title: "억지 동-방-"
 tags: "기타동인지 以絵会友"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-01-httpwww/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-01-httpwww/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6410925254621503303" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/001.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/002.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/003.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/004.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/005.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/006.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/007.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="2014-01-httpwww_억지 동-방-/008.jpg"/></div>
+<img src="{{ site.imgserver5 }}/enlsparker/2014-01-httpwww/008.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

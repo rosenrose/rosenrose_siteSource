@@ -1,17 +1,17 @@
 ---
 title: "맥을 키우고 싶은 사구메님"
 tags: "じぜる 지제루 캐릭터_키신_사구메 캐릭터_링고 캐릭터_세이란 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2005/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2005/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2005/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2005/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2005/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2005/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2005/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2005/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2005/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2005/004.jpg"/></p>
 <p style="text-align: center;"><font face="SDWebKidsCartoon" style="line-height: 19.2px;"><span style="line-height: 12px;"><b><span style="; ">연관물</span></b></span></font></p>
 <p style="text-align: center;"><font face="SDWebKidsCartoon" style="line-height: 19.2px;"><span style="line-height: 12px;"><b><br/></b></span></font></p>
 <p style="text-align: center;"><font face="SDWebKidsCartoon" style="line-height: 19.2px;"><span style="line-height: 12px;"><b>맥을 키우고싶은 사구메님 [ </b></span></font><font face="SDWebKidsCartoon"><span style="line-height: 12px;"><b>バクを飼いたいサグメさま ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/2005" target="_blank">http://blog.daum.net/sniperriflesr/2005</a> <span style="; ">[ 웹코믹 ]</span>[ 2016년 3월 30일 ]</b></span></font></p>

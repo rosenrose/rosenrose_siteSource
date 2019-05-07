@@ -1,10 +1,10 @@
 ---
 title: "키리타니 웹코믹 37"
 tags: "그림_번역／키리타니"
-image: "https://rosenrose.s3.amazonaws.com/doujin/touhoustory/25/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/touhoustory/25/001.png"
 ---
 <div class="article">
-<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/25/001.png"/></p><p style="text-align: center; clear: none; float: none;"><span style="font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 18.6667px; letter-spacing: -1px;">桐谷(@kiri_tani_)</span></p> </div></div><br/>
+<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver5 }}/touhoustory/25/001.png"/></p><p style="text-align: center; clear: none; float: none;"><span style="font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 18.6667px; letter-spacing: -1px;">桐谷(@kiri_tani_)</span></p> </div></div><br/>
 <div class="tagTrail">
 </div><br/>
 <div class="another">

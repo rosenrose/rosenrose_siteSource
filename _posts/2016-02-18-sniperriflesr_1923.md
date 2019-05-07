@@ -1,11 +1,11 @@
 ---
 title: "준코이모 주유소 알바하는 만화"
 tags: "woogoon 동갤 캐릭터_준코 캐릭터_카와시로_니토리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1923/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1923/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1923/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1923/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : Woogoon [ 동갤 ]</b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

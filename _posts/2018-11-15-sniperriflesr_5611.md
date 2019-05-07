@@ -1,14 +1,14 @@
 ---
 title: "다이쨩에게 깨끗한 한표를 !"
 tags: "にげサポ @nigesapo にげるサポート 캐릭터_대요정 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5611/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5611/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5611/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5611/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5611/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5611/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><font face="돋움, dotum, verdana, sans-serif"><span style="; ">제목 번역 파파고 참조했씁니다</span></font></b></p>

@@ -1,15 +1,15 @@
 ---
 title: "산업혁명의 시작 방법"
 tags: "たっちゃん 캐릭터_야사카_카나코 캐릭터_하쿠레이_레이무 캐릭터_레이우지_우츠호 캐릭터_오쿠 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3112/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3112/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3112/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/3112/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3112/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/3112/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><br/></p>

@@ -1,13 +1,13 @@
 ---
 title: "에이린과 노팬티 수행"
 tags: "三味線 캐릭터_키신_사구메 캐릭터_야고코로_에이린 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 캐릭터_호라이산_카구야 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1770/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1770/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1770/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1770/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1770/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1770/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>永琳とノーパン修行 </b></font><br/></p>

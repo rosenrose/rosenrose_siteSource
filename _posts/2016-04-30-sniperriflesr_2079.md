@@ -1,13 +1,13 @@
 ---
 title: "그럼 뛰어오르는 일따윈"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_이나바_테위 캐릭터_호라이산_카구야 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2079/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2079/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2079/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2079/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2079/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/2079/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>跳ねることなど</b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

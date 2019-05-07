@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 번외편6"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2173/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2173/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2173/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2173/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 19.2px; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; ">일어제목 : </span></b><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b>泣かないよパルスィちゃん！番外編6</b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

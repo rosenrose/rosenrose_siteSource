@@ -1,18 +1,18 @@
 ---
 title: "불사의 상처"
 tags: "えなみ教授 에나미교수 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2034/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2034/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2034/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2034/001.jpg"/></p>
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"><br/><strong>원문: 「そらきれいも言えなくなった」<br/>기존: 「하늘이 예뻐 외에도 말 할 수 있었다」<br/>수정: 「"하늘이 맑구나"도 말할 수 없게 되었다」<br/><br/>역식자 분이 미상(?)인 관계로 여기에 올리고 갑니다...</strong></p>
 <p style="text-align: center;"><strong></strong> </p>
 <p style="text-align: center;"><strong></strong> </p>
 <p style="text-align: center;"><strong>Helios님께서 도움을 주셨습니다</strong></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2034/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2034/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>不死の傷</b></font><br/></p>
@@ -32,7 +32,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2034/001.jpg"
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2034/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2034/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 </div><br/>
 <div class="another">

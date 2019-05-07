@@ -1,29 +1,29 @@
 ---
 title: "삼 더하기 일"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 삼_더하기_일"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/606/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/606/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/606/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/606/010.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; text-align: center; background-color: rgb(58, 58, 58);">안녕하세요, 처음인 분들은 처음 뵙겠습니다. <br/><span id="callbacknestkkk5701tistorycom2002488" style="width: 1px; height: 1px; float: right;"></span>평소 분들은 잘 지내셨습니까. <br/>더위나 추위로 컨디션 관리를 할 수 없습니다.<br/>비봉린을 기대하시고 계셨던 분들이 있었다면 죄송합니다. <br/>먼저 완성한 것부터 투고했습니다.<br/>처음엔 숨돌리기는 겸 그릴 게 필요한데―…라고 생각해 4컷으로 해 보았습니다만, <br/>전혀 숨돌리기가 되지 않았습니다. 확실히 진심. 뭐 즐거웠으니 상관없습니다만.<br/>현대풍 패러디라는 것으로 개변, 독자 설정이 다수 있습니다. <br/>한편, 기본적으로 점주가 사랑받고 있기 때문에, <br/>그러한 설정에 저항이 있는 분은 열람을 추천할 수 없습니다.<br/>향후도 이 설정으로 여러가지 그려 가고 싶다고 생각하기 때문에, <br/>다음 거에 대한 앙케이트를 받을까 합니다. 협력해시면 고맙겠습니다.<br/>[7월 26일 14시 추신]<br/>무려, 이 작품의 SS를 りーくー씨께서 써 주셨습니다! <br/>이미 감사 감격 빗발침입니다. 그 작품은 이쪽에서→『<a href="http://kkk5701.egloos.com/5029535#5029535_1" style="color: rgb(153, 153, 153);" target="blank"><u><font color="#0066cc">삼 더하기 일</font></u></a>』<br/>SS만이 가능한 심리 묘사가 착실하게 되어 있어, 훌륭한 내용이 되어 있습니다. by futa<br/><br/>*앙케이트 결과 번역해 봤습니다.<br/></p>
 <p style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; text-align: center; background-color: rgb(58, 58, 58);"></p>

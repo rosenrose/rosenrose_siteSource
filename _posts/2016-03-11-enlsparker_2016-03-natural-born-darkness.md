@@ -1,104 +1,104 @@
 ---
 title: "Natural Born Darkness"
 tags: "동인지 ふあん亭"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-03-natural-born-darkness/001.jpg"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-03-natural-born-darkness/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1702574422722603219" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/001.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/001.jpg"/></div>
 <a name="more"></a>출처 : <a href="http://blog.naver.com/drangonred/220201436248">가스타 번역가의 번역 공방</a><br/>
 <br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/002.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/003.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/004.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/005.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/006.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/007.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/008.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/009.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/010.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/011.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/012.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/013.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/014.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/015.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/016.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/017.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/018.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/019.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/020.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/021.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/022.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/023.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/024.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/024.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/025.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/025.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/026.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/026.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/027.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/027.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/028.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/028.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/029.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/029.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/030.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/030.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2016-03-natural-born-darkness/031.jpg"/></div>
+<img src="{{ site.imgserver11 }}/enlsparker/2016-03-natural-born-darkness/031.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

@@ -1,74 +1,74 @@
 ---
 title: "아야님 정말 싫어요!"
 tags: "氷川_翔 히카와_쇼 ととねみぎ さくsaku亭 saku-2_tei 사쿠사쿠데이 かるーあみるく kahluamilk 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_이바라키_카센 캐릭터_우사미_스미레코 캐릭터_이부키_스이카 캐릭터_레밀리아_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_루미아 캐릭터_카쿠_세이가 이벤트_c90 합동-귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3271/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3271/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/011.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">- 대사 출처</span><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">마음대로 손이라던가 말하지마 - http://ghaptouhou.tistory.com/798</span><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">(4페이지 - 어느 쪽이 더욱 훌륭한 개인지 승부입니다!)</span><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">(8페이지 - 손 / 아앗-! 샤메이마루 선수의 손을 물었습니다! 물리고 말았습니다! / 이거 참 낭패로군요!!)</span><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">폭풍경보 24시 - http://ghaptouhou.tistory.com/463</span><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">(6페이지 - 그리고 모미지에겐 마지막 한명인 이 아이를!! / 사람 말 좀 들으라고요!!!)</span><br/></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; "><br/></span></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; "><br/></span></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">Helios님께서 도와주셨습니다</span></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/020.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/021.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/022.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/023.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/024.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/024.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">- 카센의 말</span><br style="font-family: 돋움, dotum, verdana, sans-serif; text-align: start; background-color: rgb(241, 241, 241);"/><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">괜찮아(ダイジョウブ)</span><br/></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; "><br/></span></p>
 <p style="text-align: center;"><span style="font-family: 돋움, dotum, verdana, sans-serif;  text-align: start; ; ">Helios님께서 도움주셨습니다</span></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/025.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/026.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/026.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/027.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/027.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3271/028.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/3271/028.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><font color="#333333">이벤트 : C90</font></strong></p>

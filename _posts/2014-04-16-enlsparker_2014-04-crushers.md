@@ -1,98 +1,98 @@
 ---
 title: "나리유키! crushers﻿"
 tags: "犬と下僕の会 동인지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-04-crushers/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-04-crushers/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3839506169224019547" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/001.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/002.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/002.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/003.jpg"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/004.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/004.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/005.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/005.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/006.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/006.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/007.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/007.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/008.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/008.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/009.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/009.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/010.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/010.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/011.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/011.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/012.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/012.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/013.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/013.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/014.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/014.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/015.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/015.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/016.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/016.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/017.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/017.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/018.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/018.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/019.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/019.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/020.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/020.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/021.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/021.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/022.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/022.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/023.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/023.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/024.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/024.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/025.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/025.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/026.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/026.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/027.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/027.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/028.JPG"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/028.JPG"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-04-crushers/029.png"/></div>
+<img src="{{ site.imgserver9 }}/enlsparker/2014-04-crushers/029.png"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

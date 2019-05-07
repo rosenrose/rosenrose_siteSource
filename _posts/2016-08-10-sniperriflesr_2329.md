@@ -1,11 +1,11 @@
 ---
 title: "아마노자쿠"
 tags: "针鼠修罗 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 시리어스_슬픔"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2329/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2329/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2329/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2329/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : 天邪鬼</b></p>

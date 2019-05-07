@@ -1,53 +1,53 @@
 ---
 title: "클라운피스가 옷을 갈아입을 뿐인 책"
 tags: "동인지 くらっしゅハウス"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_10/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_10/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8117512728916471378" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/001.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/001.png"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://n930u.tistory.com/6">폐지 번역소</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/002.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/003.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/004.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/005.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/006.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/007.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/008.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/009.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/010.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/011.png"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/011.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/012.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/013.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-12-blog-post_10/014.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-12-blog-post_10/014.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

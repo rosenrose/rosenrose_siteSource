@@ -1,14 +1,14 @@
 ---
 title: "시온쨩은 자신도 모르게 누군가를 꾀는 소질이 있어 보임"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5603/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5603/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5603/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5603/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5603/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5603/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style=""><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

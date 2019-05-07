@@ -1,11 +1,11 @@
 ---
 title: "린저씨 사구메님 만화"
 tags: "woogoon 우군 캐릭터_키신_사구메 캐릭터_세이란 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2553/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2553/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2553/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2553/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

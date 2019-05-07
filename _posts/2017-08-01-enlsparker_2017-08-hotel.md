@@ -1,65 +1,65 @@
 ---
 title: "HOTEL 지령전"
 tags: "동인지 平成ストロベリー"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-08-hotel/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-08-hotel/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7650134548972698629" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/001.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://gall.dcinside.com/board/view/?id=touhou&amp;no=5119171">동방프로젝트 갤러리</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/002.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/003.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/004.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/005.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/006.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/007.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/008.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/009.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/010.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/011.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/012.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/013.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/014.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/015.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/016.png"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/016.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/017.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2017-08-hotel/018.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2017-08-hotel/018.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

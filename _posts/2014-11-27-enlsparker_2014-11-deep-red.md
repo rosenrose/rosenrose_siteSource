@@ -1,65 +1,65 @@
 ---
 title: "DEEP RED"
 tags: "동인지 pure"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-11-deep-red/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-11-deep-red/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8735128552475363556" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/001.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/002.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/003.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/003.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/004.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/005.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/006.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/007.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/008.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/009.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/010.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/011.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/011.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/012.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/012.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/013.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/013.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/014.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/014.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/015.png"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/015.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/016.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/017.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-11-deep-red/018.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-11-deep-red/018.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

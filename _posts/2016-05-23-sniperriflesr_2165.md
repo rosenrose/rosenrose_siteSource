@@ -1,14 +1,14 @@
 ---
 title: "와카사기쨩"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2165/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2165/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2165/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2165/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2165/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2165/002.png"/></p>
 <p style="line-height: 19.2px; text-align: center;"><b><span style="; ">연관작</span></b></p>
 <p style="line-height: 19.2px; text-align: center;"><font face="SDWebKidsCartoon" style="line-height: 19.2px;"><span style="line-height: 12px;"><b><br/></b></span></font></p>
 <p style="line-height: 19.2px; text-align: center;"><font face="SDWebKidsCartoon" style="line-height: 19.2px;"><span style="line-height: 12px;"><b><br/></b></span></font></p>

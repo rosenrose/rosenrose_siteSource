@@ -1,93 +1,93 @@
 ---
 title: "영원할 순 없어"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_후지와라노_모코우 이벤트_c82 시리어스_슬픔"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/175/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/175/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/004.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/005.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/006.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/007.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/008.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/009.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/010.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/011.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/011.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/012.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/012.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/013.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/013.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/014.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/015.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/016.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/017.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/017.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/018.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/018.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/019.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/020.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/020.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/021.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/021.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/022.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/022.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/023.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/023.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/024.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/024.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/025.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/025.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/026.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/026.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/027.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/027.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/028.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/028.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/029.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/029.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/030.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/030.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/031.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/031.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/032.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/032.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/033.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/033.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/034.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/034.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/035.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/035.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/036.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/036.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/037.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/037.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/038.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/038.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/039.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/039.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/040.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/040.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/041.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/041.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/175/042.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver6 }}/sniperriflesr/175/042.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>연관물 :</strong></p>
 <p style="TEXT-ALIGN: center"><strong></strong> </p>

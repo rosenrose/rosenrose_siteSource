@@ -1,15 +1,15 @@
 ---
 title: "모든 것을 이해한 사구메님"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_키신_사구메 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1804/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1804/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1804/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1804/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1804/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1804/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>「八意様が天才だからうどんちゃんが月でサグメ様と遭遇することを見越してたまごボーロのお土産を持たせてそれで全てを理解するサグメ様」というフォロワーさんのリプが可愛すぎて描いてしまったけど、こんな紺珠伝って…</b></font></p>

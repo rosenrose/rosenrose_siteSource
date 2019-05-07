@@ -1,19 +1,19 @@
 ---
 title: "낙서 4컷 포에버 1~5"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_코메이지_코이시 캐릭터_플랑드르_스칼렛 캐릭터_키진_세이자 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_카자미_유카 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_토요사토미미노_미코 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2754/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2754/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>다른 번역</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">이유 [ らくがき４コマフォーエバー ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/2059" target="_blank">http://blog.daum.net/sniperriflesr/2059</a> <span style="; ">[ 웹코믹 ]</span>[ 2014년 9월 12일 ]</b><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/003.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style="; "><b>역식자 코멘트</b></span></p>
@@ -26,14 +26,14 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2754/001.png"
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">마음의 죽음 [ らくがき４コマフォーエバー ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/2016" target="_blank">http://blog.daum.net/sniperriflesr/2016</a> <span style="; ">[ 웹코믹 ]</span>[ 2014년 9월 12일 ]</b><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/004.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;">다른 번역</p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">슬픈 운명 [ らくがき４コマフォーエバー ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/2060" target="_blank">http://blog.daum.net/sniperriflesr/2060</a> <span style="; ">[ 웹코믹 ]</span>[ 2014년 9월 12일 ]</b><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/005.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/005.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style="; "><b>역식자 코멘트</b></span></p>
@@ -61,15 +61,15 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2754/001.png"
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;">씨뿌리기 [ らくがき４コマフォーエバー ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/2061" target="_blank">http://blog.daum.net/sniperriflesr/2061</a> <span style="; ">[ 웹코믹 ]</span> [ 2014년 9월 12일 ]</b><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2754/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2754/010.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

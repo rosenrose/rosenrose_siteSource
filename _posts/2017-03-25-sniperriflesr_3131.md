@@ -1,13 +1,13 @@
 ---
 title: "명탐정 사나에"
 tags: "ナイスタック 나이스택 캐릭터_후지와라노_모코우 캐릭터_코치야_사나에 캐릭터_치르노 캐릭터_타타라_코가사 약"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3131/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3131/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3131/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3131/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3131/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3131/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; text-align: center; font-size: 9pt; line-height: 1.6;">원제 : 去年のゲスト原稿</b><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;">작가 : </b><font face="돋움, dotum, verdana, sans-serif"><b>ナイスタック [ 나이스택 ]</b></font></p>

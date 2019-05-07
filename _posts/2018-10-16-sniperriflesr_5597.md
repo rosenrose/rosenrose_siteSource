@@ -1,13 +1,13 @@
 ---
 title: "히지미코랑 죠온쟝"
 tags: "桐谷 @kiri_tani_ 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5597/001.png"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5597/001.png"
 ---
 <div class="article">
 <p style="line-height: 19.2px; text-align: center;"><br/></p>
-<p style="line-height: 19.2px; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5597/001.png"/></p>
+<p style="line-height: 19.2px; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5597/001.png"/></p>
 <p style="line-height: 19.2px; text-align: center;"><br/></p>
-<p style="line-height: 19.2px; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5597/002.png"/></p>
+<p style="line-height: 19.2px; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/5597/002.png"/></p>
 <p style="line-height: 19.2px; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

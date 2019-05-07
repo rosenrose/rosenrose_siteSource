@@ -1,13 +1,13 @@
 ---
 title: "사구메님에게 야단맞는 바쿠"
 tags: "黒羽ラピッド 쿠로바네_라피드 ラピスラズリ鉱石 캐릭터_키신_사구메 캐릭터_도레미_스위트 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1871/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1871/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1871/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1871/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1871/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1871/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>サグメ様に叱られる獏 </b></font><br/></p>

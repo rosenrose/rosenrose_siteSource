@@ -1,11 +1,11 @@
 ---
 title: "동방향림당 ~비공식광고~"
 tags: "う～太 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_키리사메_마리사 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_토키코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_콘파쿠_요우무 캐릭터_히에다노_아큐 캐릭터_샤메이마루_아야 캐릭터_야쿠모_유카리 캐릭터_릴리_화이트 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1901/001.png"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1901/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1901/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver12 }}/sniperriflesr/1901/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

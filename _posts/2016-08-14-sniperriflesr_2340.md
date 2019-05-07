@@ -1,13 +1,13 @@
 ---
 title: "후룸라이드 타는 신묘말"
 tags: "六合ダイスケ 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2340/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2340/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2340/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2340/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><b><img src="{{ site.imgserver4 }}/sniperriflesr/2340/002.jpg"/></b></p>
+<p style="text-align: center;"><b><img src="{{ site.imgserver6 }}/sniperriflesr/2340/002.jpg"/></b></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : -</b></p>

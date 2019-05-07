@@ -1,19 +1,19 @@
 ---
 title: "뜬소문에 의한 피해"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_코메이지_코이시 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2595/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2595/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
-<p style="text-align: center;"><b><img src="{{ site.imgserver4 }}/sniperriflesr/2595/001.png"/></b></p>
+<p style="text-align: center;"><b><img src="{{ site.imgserver11 }}/sniperriflesr/2595/001.png"/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
-<p style="text-align: center;"><b><img src="{{ site.imgserver4 }}/sniperriflesr/2595/002.png"/></b></p>
+<p style="text-align: center;"><b><img src="{{ site.imgserver11 }}/sniperriflesr/2595/002.png"/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><span style="; "><b>기타노 다케시는 이 분입니다.</b></span></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
-<p style="text-align: center;"><b><img src="{{ site.imgserver4 }}/sniperriflesr/2595/003.jpg"/></b></p>
+<p style="text-align: center;"><b><img src="{{ site.imgserver11 }}/sniperriflesr/2595/003.jpg"/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><span style="; "><b>일본의 배우겸 코미디언으로, 앞서 말했듯이 영화 배틀로얄에 교사역으로 나와</b></span></p>
 <p style="text-align: center;"><b><br/></b></p>

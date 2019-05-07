@@ -1,16 +1,16 @@
 ---
 title: "영원정 인턴 레이센"
 tags: "ㅋㄷㅇㅇ 49．175 @wannabekb 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5895/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5895/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5895/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5895/001.jpg"/></p>
 <p style="text-align: center;"><b></b></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5895/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5895/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ㅋㄷㅇㅇ [ 49.175 ][ @wannabekb ]</b></p>

@@ -1,14 +1,14 @@
 ---
 title: "지옥 센스"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_후지와라노_모코우 캐릭터_루미아 캐릭터_대요정 캐릭터_치르노 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5548/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5548/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5548/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5548/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5548/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5548/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;">원제 : 地獄センス</b></p>

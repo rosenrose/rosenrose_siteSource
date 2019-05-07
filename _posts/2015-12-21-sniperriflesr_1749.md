@@ -1,13 +1,13 @@
 ---
 title: "서로 양보하는 죽음의 천사"
 tags: "けぬー 케누 ちりわぁく 캐릭터_키신_사구메 캐릭터_사리엘 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1749/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1749/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1749/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1749/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1749/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1749/002.jpg"/></p>
 <p style="text-align: center;"><b>사구메 「(침묵이 타당한가)」</b><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>2015년 12월 14일</b></p>

@@ -1,11 +1,11 @@
 ---
 title: "존내 시건방진 텐시"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_히나나위_텐시 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5785/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5785/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5785/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5785/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

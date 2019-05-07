@@ -1,13 +1,13 @@
 ---
 title: "역할놀이☆플랑DOLL 2"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_루미아 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2076/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2076/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2076/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2076/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2076/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/2076/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><font color="#ff0000"><b><br/></b></font></p>
 <p style="text-align: center;"><br/></p>

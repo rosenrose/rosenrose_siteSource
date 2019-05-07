@@ -1,13 +1,13 @@
 ---
 title: "어제 장보러 갈때 본 광경"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_렌코 캐릭터_메디슨_멜랑콜리 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/905/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/905/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/905/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/905/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/905/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/905/002.jpg"/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>昨日買い物に行くときに見た光景</b></font><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">서클 : </span></b><b style="font-size: 9pt; line-height: 19.2000007629395px;"><span style="; ">なべぞこ [ 나베조코 ]</span></b></p>

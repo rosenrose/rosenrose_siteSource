@@ -1,11 +1,11 @@
 ---
 title: "준코 힐링시켜주는 만화"
 tags: "woogoon 동갤 캐릭터_순호 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1797/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1797/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1797/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1797/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : Woogoon [ 동갤 ]</b></p>

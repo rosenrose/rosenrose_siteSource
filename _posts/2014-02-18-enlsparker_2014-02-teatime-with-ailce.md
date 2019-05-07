@@ -1,38 +1,38 @@
 ---
 title: "Teatime with Ailce"
 tags: "동인지 ているこんちぇると(仮)"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-teatime-with-ailce/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-02-teatime-with-ailce/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6329292904171178728" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/001.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/002.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/003.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/004.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/005.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/006.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/007.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/008.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-teatime-with-ailce/009.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-02-teatime-with-ailce/009.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

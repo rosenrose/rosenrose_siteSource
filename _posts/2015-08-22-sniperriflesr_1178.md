@@ -1,11 +1,11 @@
 ---
 title: "꺾는 만화"
 tags: "しろし 시로시 電派絵師団 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1178/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1178/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1178/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/1178/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: left;"><b><span style=" font-family: Arial, sans-serif;  font-size: 16px;  line-height: 22px;  text-align: left;  white-space: pre-wrap; ; ">蓮子ちゃんと仲良くしてたら彼女の友達のメリーさんが突然腕を組んできて（あれっもしかしてこの子俺のこと好きで嫉妬しちゃったのかなおっぱいおっきくてやわらかいな蓮子ちゃんからメリーさんに乗り換えます）ってなったところで腕を折られる </span><br/></b></p>
 <p style="text-align: left;"><span style=" font-family: Arial, sans-serif;  font-size: 16px;  line-height: 22px;  text-align: left;  white-space: pre-wrap; ; "><b><br/></b></span></p>
@@ -13,13 +13,13 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1178/001.png"
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: left; background-color: rgb(255, 255, 255);"><b>(어라이아이혹시나를좋아해서질투해버린걸까슴가가크고부드러워서렌코쨩에서메리씨로갈아탑니다)</b></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: left; background-color: rgb(255, 255, 255);"><b>그렇게 되려고 할때 팔을 꺾여버린다</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1178/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/1178/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1178/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/1178/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1178/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/1178/004.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1178/005.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/1178/005.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : 怪異</b></p>

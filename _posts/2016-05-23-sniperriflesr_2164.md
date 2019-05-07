@@ -1,13 +1,13 @@
 ---
 title: "반키쨩"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2164/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2164/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2164/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2164/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2164/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/2164/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b><span style="; ">연관작</span></b></p>
 <p style="line-height: 19.2px; text-align: center;"><font face="SDWebKidsCartoon" style="line-height: 19.2px;"><span style="line-height: 12px;"><b><br/></b></span></font></p>

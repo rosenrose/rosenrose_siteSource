@@ -1,13 +1,13 @@
 ---
 title: "하트풀 오마케 만화"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/649/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/649/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/649/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/649/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/649/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver10 }}/sniperriflesr/649/002.jpg"/></p>
 <p style="line-height: 19.2000007629395px; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">연관물</b></p>
 <p style="line-height: 19.2000007629395px; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><font color="#0900ff"><span style="line-height: 14.3999996185303px; ; ">하트풀 모리야가 만화 [ </span></font></b><b style="font-size: 9pt; line-height: 19.2000007629395px;">ハートフル守矢家マンガ ] - </b><font face="돋움, dotum, verdana, sans-serif"><b><a class="tx-link" href="http://blog.daum.net/sniperriflesr/648" target="_blank">http://blog.daum.net/sniperriflesr/648</a> </b></font><b><br/></b></p>

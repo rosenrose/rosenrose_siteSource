@@ -1,13 +1,13 @@
 ---
 title: "저기. 어머니?"
 tags: "ハトの水槽 캐릭터_신키 캐릭터_앨리스_마가트로이드 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/926/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/926/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/926/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/926/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/926/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/926/002.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

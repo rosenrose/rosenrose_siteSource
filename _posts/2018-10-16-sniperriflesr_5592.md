@@ -1,23 +1,23 @@
 ---
 title: "아무래도 쑥쓰러워하게 만들고 싶었다"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5592/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5592/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver4 }}/sniperriflesr/5592/001.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver8 }}/sniperriflesr/5592/001.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver4 }}/sniperriflesr/5592/002.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver8 }}/sniperriflesr/5592/002.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver4 }}/sniperriflesr/5592/003.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver8 }}/sniperriflesr/5592/003.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver4 }}/sniperriflesr/5592/004.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver8 }}/sniperriflesr/5592/004.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver4 }}/sniperriflesr/5592/005.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver8 }}/sniperriflesr/5592/005.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver4 }}/sniperriflesr/5592/006.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><img src="{{ site.imgserver8 }}/sniperriflesr/5592/006.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center; "><br/></p>
 <p style="text-align: center; "><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; "><br/></b></p>
 <p style="text-align: center; "><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; "><br/></b></p>

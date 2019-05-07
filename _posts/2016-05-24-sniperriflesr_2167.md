@@ -1,14 +1,14 @@
 ---
 title: "밝혀지는 새로운 사실"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2167/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2167/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2167/001.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2167/001.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2167/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/2167/002.png"/></p>
 <p style="line-height: 19.2px; text-align: center;"><font face="SDWebKidsCartoon"><span style="line-height: 12px;"><b><span style="; ">연관작</span></b></span></font></p>
 <p style="line-height: 19.2px; text-align: center;"><font face="SDWebKidsCartoon"><span style="line-height: 12px;"><b><br/></b></span></font></p>
 <p style="line-height: 19.2px; text-align: center;"><font face="SDWebKidsCartoon"><span style="line-height: 12px;"><b>밝혀지는 새로운 사실 [ 明かされる新事実 ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/2167" target="_blank">http://blog.daum.net/sniperriflesr/2167</a> <span style="; ">[ 웹코믹 ]</span>[ 2013년 11월 28일 ]</b></span></font></p>

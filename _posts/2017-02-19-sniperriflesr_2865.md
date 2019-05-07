@@ -1,13 +1,13 @@
 ---
 title: "KISS 22"
 tags: "信號 英雄☆作戰 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2865/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2865/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2865/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2865/001.png"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2865/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2865/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

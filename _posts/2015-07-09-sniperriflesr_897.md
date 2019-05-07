@@ -1,15 +1,15 @@
 ---
 title: "사랑하는 야작 4화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 사랑하는_야작_[完]"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/897/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/897/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/897/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/897/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style="line-height: 19.2000007629395px; text-align: start;">-------------------------------------------------------------------------------------------------------------------------</span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/897/002.gif"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/897/002.gif"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

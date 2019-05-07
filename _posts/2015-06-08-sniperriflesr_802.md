@@ -1,13 +1,13 @@
 ---
 title: "주문 제작은 어려워"
 tags: "futa なべぞこ 나베조코 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/802/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/802/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/802/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/802/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/802/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/802/002.jpg"/></p>
 <p style="text-align: center;"><b>연관작</b></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 19.2000007629395px;">값을 매길 수 없는 소인 [ 小人プライスレス ] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/731" target="_blank">http://blog.daum.net/sniperriflesr/731</a></b><br/></p>

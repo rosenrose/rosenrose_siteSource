@@ -1,12 +1,12 @@
 ---
 title: "생선굽는 빙어"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5926/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5926/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5926/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5926/001.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ㅋㄷㅇㅇ ( 49.175 )</b></p>

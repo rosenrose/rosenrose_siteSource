@@ -1,15 +1,15 @@
 ---
 title: "사랑하는 야작 21화"
 tags: "みつもと 미츠모토 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 사랑하는_야작_[完]"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/941/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/941/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/941/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/941/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style="line-height: 19.2000007629395px; text-align: start;">-------------------------------------------------------------------------------------------------------------------------</span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/941/002.gif"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/941/002.gif"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif" style="line-height: 1.6; font-size: 9pt;"><b>恋する夜雀 その21</b></font><br/></p>

@@ -1,13 +1,13 @@
 ---
 title: "그 희망, 그 절망"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_토라마루_쇼 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2615/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2615/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2615/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2615/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2615/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/2615/002.png"/></p>
 <p style="text-align: center;"><b></b></p>
 <p style="text-align: center;"><b><span style="; ">역식자 코멘트</span></b></p>
 <p style="text-align: center;"><b><br/></b></p>

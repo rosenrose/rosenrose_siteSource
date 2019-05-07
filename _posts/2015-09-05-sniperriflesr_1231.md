@@ -1,25 +1,25 @@
 ---
 title: "우리들은 앞으로도 쭈욱 친구야 ♥ / 물론 보고 있지 않는다"
 tags: "チマq たこ 캐릭터_레이센_우동게인_이나바 캐릭터_순호 캐릭터_준코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1231/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1231/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1231/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1231/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1231/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1231/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 : チマQ</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>출연 : 레이센 우돈게인 이나바 , 순호 [ 준코 ]</b></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1231/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1231/003.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1231/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1231/004.png"/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 : たこ<br/></b></p>

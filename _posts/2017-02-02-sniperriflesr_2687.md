@@ -1,27 +1,27 @@
 ---
 title: "바이오 놀이 3"
 tags: "にーこ 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_치르노 바이오_놀이"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2687/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2687/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2687/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2687/009.jpg"/></p>
 <p style="text-align: center;"><span style="; "></span><br/></p>
 <p style='color: rgb(85, 85, 85); line-height: 20.8px; font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana; font-size: 13px; background-color: rgb(238, 238, 238); text-align: center;'><span style="; ">작가 코멘트</span><br/><span style="; ">또 이어집니다. 처음 보시는 분은 바이오놀이 1부터 봐주시면 기쁘겠습니다.</span><br/><span style="; ">늦어졌지만, 채점, 즐겨찾기, 코멘트 등 정말로 감사합니다.</span></p>
 <p style='color: rgb(85, 85, 85); line-height: 20.8px; font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana; font-size: 13px; background-color: rgb(238, 238, 238); text-align: center;'><span style="; ">그것만을 위해 그리고 있는 점도 있기에 정말로 격려가 됩니다. 특히 유유 님의 기행을 그릴 때 ㅋㅋㅋ.</span><br/><span style="; ">투고속도는 별 반 개 정도지만 부디 가볍게 심심풀이로 봐주시면 기쁘겠습니다. 특히 이번엔 ㅋㅋㅋ</span><br/><span style="; ">-그녀는 지나치게 오래 살았을 겁니다. 그러기에 더욱 단순한 놀이도 몸과 마음을 다해 즐기는 걸지도 모르죠.</span><span style="; "></span></p>

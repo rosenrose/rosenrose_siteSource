@@ -1,13 +1,13 @@
 ---
 title: "그리고 진실이 남았다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3083/001.png"
+image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/3083/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3083/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/3083/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3083/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver11 }}/sniperriflesr/3083/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b><span style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></span><span style=" font-family: dotum;  font-size: 9pt; ; ">번아웃 증후군은 죽을 힘을 다해 뭔가를 한 후에</span><span style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></span></b></p>
 <p style="color: rgb(102, 102, 102); font-family: dotum; background-color: rgb(255, 255, 255); text-align: center;"><b><br/></b></p>
 <p style="color: rgb(102, 102, 102); font-family: dotum; background-color: rgb(255, 255, 255); text-align: center;"><span style="; "><b>모든 의욕을 상실하는 증상입니다.</b></span></p>

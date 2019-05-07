@@ -1,12 +1,12 @@
 ---
 title: "좋아하는 사람으로부터 이런 말을 들어버렸다"
 tags: "느응 캐릭터_순호 이메레스"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5705/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5705/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5705/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5705/001.png"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 번외편4"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_코치야_사나에 캐릭터_모리야_스와코 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1577/001.png"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1577/001.png"
 ---
 <div class="article">
 <p style="line-height: 19.2px; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><span style="; "></span><br/></b></p>
-<p style="line-height: 19.2px; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1577/001.png"/></p>
+<p style="line-height: 19.2px; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1577/001.png"/></p>
 <p style="line-height: 19.2px; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>
 <p style="line-height: 19.2px; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>
 <p style="line-height: 19.2px; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>

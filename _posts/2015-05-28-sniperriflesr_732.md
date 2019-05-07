@@ -1,13 +1,13 @@
 ---
 title: "그-런건가를 따라해보았습니다 !"
 tags: "ジェット虚無僧 제트코무소 캐릭터_코치야_사나에 캐릭터_루미아 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/732/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/732/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/732/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/732/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/732/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/732/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;">출품[?] : <a class="tx-link" href="https://twitter.com/hashtag/%E6%B7%B1%E5%A4%9C%E3%81%AE%E7%9C%9F%E5%89%A3%E3%81%8A%E7%B5%B5%E6%8F%8F%E3%81%8D60%E5%88%86%E4%B8%80%E6%9C%AC%E5%8B%9D%E8%B2%A0?src=hash" target="_blank">深夜の真剣お絵描き60分一本勝負</a> [ 심야의 진지한 60분 그림 단판 승부 ]</b><br/></p>

@@ -1,13 +1,13 @@
 ---
 title: "다우너츠"
 tags: "yaise 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3058/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/3058/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3058/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/3058/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3058/002.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/3058/002.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

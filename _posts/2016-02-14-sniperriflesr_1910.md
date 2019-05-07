@@ -1,11 +1,11 @@
 ---
 title: "클라비스의 니케"
 tags: "じぜる 지제루 캐릭터_키신_사구메 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_스쿠나_신묘마루 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_세이란 캐릭터_링고 이벤트_c89 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/001.jpg"/></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>クラヴィスのニケ</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>클라비스의 니케</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>클라비스 - 열쇠의 라틴어</b></span></p>
@@ -16,21 +16,21 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
 <p class="바탕글" style="font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><font color="#123456" face="돋움"><b><span style="; ">륜님 댓글 :</span></b></font></p>
 <p class="바탕글" style="font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style=" font-family: 굴림, Gulim;  line-height: 16px;  text-align: left; ; ">니케→승리의 여신, 클라비에(claviers)→불어로 키보드</span><font color="#123456" face="돋움"><b><br/></b></font></p>
 <p class="바탕글" style="font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style=" font-family: 굴림, Gulim;  line-height: 16px;  text-align: left; ; ">사구메가 레이무의 승리를 불러온 여신이고 그녀는 의사소통을 표지판으로 하니 키보드의 여신이라는 소리입니다.</span><span style=" font-family: 굴림, Gulim;  line-height: 16px;  text-align: left; ; "><br/></span></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/003.jpg"/></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>목차</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>큐쨩과 사구메님</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>클라비스의 니케</b></span></p>
 <p style="text-align: center;"></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움; ; "><b>보너스 트랙</b></span></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/004.jpg"/></p>
 <p style="text-align: center;"><span style=" font-family: Dotum, 돋움, sans-serif;  font-size: 13.3333px;  line-height: 19px; ; "><b><span style="; ">4번째 컷 링고의 대사 :</span></b></span></p>
 <p style="text-align: center;"><span style=" font-family: Dotum, 돋움, sans-serif;  font-size: 13.3333px;  line-height: 19px; ; "><b><br/></b></span></p>
 <p style="text-align: center;"><span style=" font-family: Dotum, 돋움, sans-serif;  font-size: 13.3333px;  line-height: 19px; ; "><b>그리고 굉장히 끼어들기 힘들어</b></span><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/006.jpg"/></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b><span style="; ">우측 상단</span></b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b><br/></b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>동방감주전 엑스트라 스테이지의 이야기</b></span></p>
@@ -39,24 +39,24 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
 <p style="TEXT-ALIGN: center"></p>
 <p class="바탕글" style="padding: 0px; margin: 0px; color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 24px; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>클라비스의 니케</b></span></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/011.jpg"/></p>
 <p style="text-align: center;"><b>끝</b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/012.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/012.jpg"/></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>클라비스의 니케</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>원작 상하이앨리스환악단 님</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>발행자 지제루</b></span></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>인쇄 주식회사그래픽 님</b></span></p>
 <p style="text-align: center;"></p>
 <p class="바탕글" style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: 돋움;"><b>발행일 2015 . 12 . 30</b></span></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/013.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/013.jpg"/></p>
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; "><b><span style="; ">우측 상단 빨간 글씨 :</span></b></span></p>
 <p style="text-align: center;"><b style="color: rgb(30, 30, 30); font-family: 돋움; font-size: 13px; line-height: 24px;">보너스 트랙 01.</b><br/></p>
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; "><b><br/></b></span></p>
@@ -69,7 +69,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b><span style="; ">4번째 컷 레이무 대사 :</span></b></span></p>
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b>어깨가 결리네</b></span><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b><br/></b></span></p>
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; "><b><br/></b></span></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/014.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/014.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; ">우측 상단 :</span></b></p>
 <p style="text-align: center;"><b><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; ">보너스트랙 2</span></b></p>
@@ -80,15 +80,15 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; "><b><span style="; ">4번째 컷 레이무 대사 :</span></b></span></p>
 <p style="text-align: center;"><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; "><b>이해했어</b></span><span style=" font-family: 돋움;  font-size: 13px;  line-height: 24px; ; "><br/></span></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/015.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/015.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/016.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/016.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/017.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/017.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>[ 이 페이지는 ㅁㅁㅁ님이 이전에 식질하셨던. ]</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/018.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/018.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>이벤트 : C89</b></p>
@@ -117,7 +117,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
 <p style="TEXT-ALIGN: center">아마 지제루님이 저기서 보고 그린 것이</p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1910/019.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1910/019.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center">이거 아닐까라는 글을 식자님이 작성하셨더군요 [ 니케의 여신상 ]<br/></p>

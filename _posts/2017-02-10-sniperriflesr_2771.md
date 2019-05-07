@@ -1,13 +1,13 @@
 ---
 title: "메리&렌코"
 tags: "みづきいちご_原稿いちご 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2771/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2771/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2771/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2771/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2771/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2771/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>

@@ -1,14 +1,14 @@
 ---
 title: "새전 1만엔 정도 넣으면 가슴 쓰게 해 줄 것 같은 무녀"
 tags: "赤崎セカイ @kireinatetete 캐릭터_하쿠레이_레이무 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5802/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5802/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>
 <p style="line-height: 1.6; text-align: center;"><font color="#6600ff" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><span style="; "></span><br/></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5802/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5802/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><font color="#6600ff" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><span style="; "></span></b></font></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5802/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/5802/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><font color="#6600ff" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><span style="; "><br/></span></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font color="#6600ff" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><span style="; "><br/></span></b></font></p>
 <p style="line-height: 1.6; text-align: center;"><font color="#6600ff" style="font-family: 돋움, dotum, verdana, sans-serif;"><b><span style="; ">원제 : </span></b></font><font color="#000000" face="돋움, dotum, verdana, sans-serif"><b>お賽銭一万円くらい入れたらおっぱい使わせてくれそうな巫女</b></font></p>

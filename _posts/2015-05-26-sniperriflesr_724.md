@@ -1,15 +1,15 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 플랑도르 스칼렛"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_키진_세이자 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/724/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/724/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/724/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/724/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><b><img src="{{ site.imgserver4 }}/sniperriflesr/724/002.jpg"/></b></p>
+<p style="text-align: center;"><b><img src="{{ site.imgserver2 }}/sniperriflesr/724/002.jpg"/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : 反逆の正邪略して「反正」(正邪中心4コマ) vs. フランドール・スカーレット</b></p>
 <p style="text-align: center;"><b><br/></b></p>

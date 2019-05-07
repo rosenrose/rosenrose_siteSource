@@ -1,59 +1,59 @@
 ---
 title: "이누사쿠야 안테나"
 tags: "동인지 angel_type"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_373/001.png"
+image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_373/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4507778059797917364" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/001.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/001.png"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://cafe.naver.com/touhouheadquarters">동방사령부</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/002.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/002.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/003.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/004.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/004.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/005.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/005.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/006.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/006.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/007.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/007.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/008.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/008.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/009.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/009.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/010.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/010.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/011.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/012.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/012.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/013.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/013.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/014.png"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/014.png"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/015.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-blog-post_373/016.jpg"/></div>
+<img src="{{ site.imgserver1 }}/enlsparker/2014-09-blog-post_373/016.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

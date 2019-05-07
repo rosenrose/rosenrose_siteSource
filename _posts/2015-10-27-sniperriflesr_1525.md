@@ -1,48 +1,48 @@
 ---
 title: "영원정의 간호사 + 그후의 한장면"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1525/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1525/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/001.jpg"/></p>
 <p style="text-align: center;"><b>"자, 안 아프게 해줄테니까"</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><b>"몸의 곳곳까지 간병해줄게"</b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>"...옆에서 잔다니. 괜찮지만"</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>" 아직 일, 안 끝났으니까. ...1시간만이야?"</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/003.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>"부은 곳, 아프시죠?"</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>"안심해주세요. 저, 열심히 할테니..."</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/004.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>"부끄러운 곳 보여버렸어..."</b><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/005.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>"나를 지명한거야?"</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>"거친 듯한 치료가 되버릴지도 모르지만, 그래도 괜찮다면"</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/010.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1525/011.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/1525/011.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b>작가 : ハマー [ 헤머 ]</b></p>

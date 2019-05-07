@@ -1,13 +1,13 @@
 ---
 title: "반짝이는 것"
 tags: "至る イスタンブール・ハイソックス 캐릭터_호라이산_카구야 캐릭터_야사카_카나코 캐릭터_레이우지_우츠호 캐릭터_오쿠 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3094/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3094/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3094/001.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3094/001.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3094/002.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/3094/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><span style="; ">연관물</span></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;">반짝이는 것 [ </b><font face="돋움, dotum, verdana, sans-serif"><b>【東方４コマ】ろくぼす！【９】] - <a class="tx-link" href="http://blog.daum.net/sniperriflesr/3094" target="_blank">http://blog.daum.net/sniperriflesr/3094</a> <span style="; ">[ 웹코믹 ]</span>[ 2011년 5월 27일 ]</b></font></p>

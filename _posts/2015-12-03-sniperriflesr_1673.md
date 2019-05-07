@@ -1,13 +1,13 @@
 ---
 title: "이건 말하자면 칙명이야, 나는 천신[아마츠카미] 부분으로서......(핑계)"
 tags: "春雨 運命のイカスミ 캐릭터_키신_사구메 캐릭터_코메이지_사토리 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1673/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1673/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1673/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1673/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1673/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1673/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>Drawn : 2015년 11월 19일</b></p>

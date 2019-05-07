@@ -1,83 +1,83 @@
 ---
 title: "Magus Magic Show"
 tags: "동인지 はやあか"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-magus-magic-show/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-09-magus-magic-show/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4128522311931422782" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/001.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/001.jpg"/></div>
 <br/>
 <a name="more"></a>출처 : <a href="http://sunmism.com/2864">선미즘</a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/002.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/003.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/004.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/005.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/006.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/007.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/008.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/009.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/010.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/011.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/012.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/013.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/014.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/015.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/016.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/017.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/018.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/019.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/020.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/021.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/022.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/023.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-magus-magic-show/024.jpg"/></div>
+<img src="{{ site.imgserver8 }}/enlsparker/2014-09-magus-magic-show/024.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

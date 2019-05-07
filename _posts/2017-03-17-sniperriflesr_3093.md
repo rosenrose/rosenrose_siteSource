@@ -1,13 +1,13 @@
 ---
 title: "무서운 코마쨩"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3093/001.png"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3093/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3093/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/3093/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3093/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/3093/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

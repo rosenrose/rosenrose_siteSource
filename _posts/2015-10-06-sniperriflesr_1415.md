@@ -1,20 +1,20 @@
 ---
 title: "사구메 취조/심문하는 짤 / 이메레스 하나"
 tags: "銀守ツツム 無賃乗車 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1415/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1415/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1415/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1415/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 코멘트 : 솔직하게 자수한 후 웃는 얼굴로 "눈치가 없네, 거짓말인게 당연하잖아" 라며 웃으며 말하는 사구메</b></p>
 <p style="text-align: center;"><b>이 사구메는 인간이기때문에 등에 날개가 없다.</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1415/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1415/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 : 銀守ツツム</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1415/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1415/003.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 : 無賃乗車</b></p>
 <p style="text-align: center;"><b><br/></b></p>

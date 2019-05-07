@@ -1,13 +1,13 @@
 ---
 title: "⑨라도 감기에 걸린다고!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_치르노 캐릭터_대요정 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/569/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/569/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/569/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/569/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/569/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/569/002.png"/></p>
 <p style="text-align: center;"><b>원제 : ⑨でも風邪を引く！！</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : ジェット虚無僧 [ 제트 코무소 ]</b></p>

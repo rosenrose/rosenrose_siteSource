@@ -1,27 +1,27 @@
 ---
 title: "핏쨩과 헤카티아 만화"
 tags: "kongthegrain 곡물시리즈 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_와타츠키노_요리히메 캐릭터_우사미_스미레코 캐릭터_세키반키 캐릭터_이마이즈미_카케로 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1891/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1891/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1891/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1891/009.jpg"/></p>
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"><b>작가 : KONGtheGrain [ 곡물시리즈 ]</b></p>
 <p style="text-align: center;"><strong></strong> </p>

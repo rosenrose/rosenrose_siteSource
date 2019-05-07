@@ -1,11 +1,11 @@
 ---
 title: "감주전 체험판 반응 만화"
 tags: "콥등잉여 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1066/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1066/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1066/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1066/001.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>작가 : 콥등잉여</b></p>
 <p style="text-align: center;"><b><br/></b></p>

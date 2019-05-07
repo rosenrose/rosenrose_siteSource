@@ -1,34 +1,34 @@
 ---
 title: "2011-2012 Touhou Project Calendar"
 tags: "합동인지 neko_worki neko_works"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-2011-2012-touhou-project-calendar/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-2011-2012-touhou-project-calendar/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3869449774852039151" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/001.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/><br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/002.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/003.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/004.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/005.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/006.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/007.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/008.jpg"/></div>
+<img src="{{ site.imgserver7 }}/enlsparker/2014-09-2011-2012-touhou-project-calendar/008.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

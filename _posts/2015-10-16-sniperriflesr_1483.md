@@ -1,20 +1,20 @@
 ---
 title: "태풍을 대비해서 / 설화인 사구메씨"
 tags: "真菜 ぽて [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1483/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1483/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1483/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1483/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1483/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1483/002.png"/></p>
 <p style="text-align: center;"><b>원제 : 台風に備えて</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : 真菜</b></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1483/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1483/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1483/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/1483/004.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : ゼッカーサグメさん</b></p>
 <p style="text-align: center;"><b><br/></b></p>

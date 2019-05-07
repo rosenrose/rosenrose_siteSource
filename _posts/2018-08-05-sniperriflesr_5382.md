@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 섬머 홀리데이"
 tags: "べにしゃけ @benisyakedon_ex @benisyakedon poprication 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 캐릭터_모리치카_린노스케 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 캐릭터_카자미_유카 캐릭터_코치야_사나에 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_써니_밀크 캐릭터_리글_나이트버그 캐릭터_미스티아_로렐라이 이벤트_c90 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5382/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5382/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>
@@ -9,73 +9,73 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5382/001.jpg"
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/001.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/001.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/003.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/003.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/004.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/004.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/005.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/005.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/006.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/006.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/007.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/007.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/008.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/008.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/009.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/009.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/010.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/010.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/011.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/011.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/012.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/012.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/013.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/013.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/014.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/014.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/015.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/015.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/016.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/016.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/017.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/017.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/018.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/018.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/019.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/019.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/020.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/020.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/021.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/021.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/022.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/022.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/023.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/023.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/024.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/024.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/025.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/025.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/026.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/026.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/027.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/027.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/028.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/028.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/029.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/029.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/030.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/030.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/031.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/031.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/032.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/032.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/033.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/033.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5382/034.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/5382/034.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>

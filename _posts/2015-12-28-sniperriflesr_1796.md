@@ -1,11 +1,11 @@
 ---
 title: "사구메 목소리 내게 하는 만화"
 tags: "woogoon 동갤 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1796/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1796/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1796/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1796/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b>작가 : Woogoon [ 동갤 ]</b></p>

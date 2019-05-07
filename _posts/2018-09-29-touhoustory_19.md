@@ -1,10 +1,10 @@
 ---
 title: "키리타니 웹코믹 33~35"
 tags: "그림_번역／키리타니"
-image: "https://rosenrose.s3.amazonaws.com/doujin/touhoustory/19/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/touhoustory/19/001.jpg"
 ---
 <div class="article">
-<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/19/001.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/19/002.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver1 }}/touhoustory/19/003.png"/></p><p style="text-align: center;"><span style="font-size: 14pt;"></span><span style="font-size: 18.6667px;">桐谷(@kiri_tani_)</span></p> </div></div><br/>
+<div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver10 }}/touhoustory/19/001.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver10 }}/touhoustory/19/002.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver10 }}/touhoustory/19/003.png"/></p><p style="text-align: center;"><span style="font-size: 14pt;"></span><span style="font-size: 18.6667px;">桐谷(@kiri_tani_)</span></p> </div></div><br/>
 <div class="tagTrail">
 </div><br/>
 <div class="another">

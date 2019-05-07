@@ -1,14 +1,14 @@
 ---
 title: "미즈하시 파르시란"
 tags: "もりゅー ゆきや @moryu 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5986/001.png"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5986/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"></span><br/></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5986/001.png"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5986/001.png"/></p>
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"></span></p>
-<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5986/002.jpg"/></p>
+<p style="line-height: 1.6; text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/5986/002.jpg"/></p>
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"><br/></span></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

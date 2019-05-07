@@ -1,15 +1,15 @@
 ---
 title: "칠석 [ 처음에 빌었던 소원 ]"
 tags: "シノアサ 시노아사 vivit_gray 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_슬픔"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/129/001.jpg"
+image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/129/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/129/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/129/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/129/002.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/129/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/129/003.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver12 }}/sniperriflesr/129/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="text-align: center;"><b> 영상화 : <a class="tx-link" href="http://blog.daum.net/sniperriflesr/665" target="_blank">http://blog.daum.net/sniperriflesr/665</a></b></p>
 <p style="TEXT-ALIGN: center"> </p>

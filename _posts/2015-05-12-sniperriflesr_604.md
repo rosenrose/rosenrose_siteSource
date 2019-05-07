@@ -1,13 +1,13 @@
 ---
 title: "전력의 승부"
 tags: "futa なべぞこ 나베조코 캐릭터_스쿠나_신묘마루 캐릭터_이부키_스이카 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/604/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/604/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/604/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/604/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/604/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/604/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>원제 : 全力の勝負 </b></p>
 <p style="text-align: center;"><b><br/></b></p>

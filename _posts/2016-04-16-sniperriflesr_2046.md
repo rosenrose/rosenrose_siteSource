@@ -1,13 +1,13 @@
 ---
 title: "거짓된 구제"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2046/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2046/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Gulim, 굴림;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b><br/></b></span></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2046/001.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2046/001.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Gulim, 굴림;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b></b></span></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2046/002.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2046/002.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Gulim, 굴림;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b></b></span></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: Gulim, 굴림; line-height: 24px; color: rgb(30, 30, 30); font-size: 13px; text-align: left;"><span style="; ">역식자 코멘트 : </span></b></p>
@@ -17,7 +17,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2046/001.jpg"
 <p style="text-align: center;"><font color="#ff00dd" face="Gulim, 굴림"><span style="font-size: 13px; line-height: 24px;"><b>옛날엔 초등학생들 직렬병렬 실험세트나 장난감에 많이 들어갔었는데</b></span></font></p>
 <p style="text-align: center;"><font color="#ff00dd" face="Gulim, 굴림"><span style="font-size: 13px; line-height: 24px;"><b><br/></b></span></font></p>
 <p style="text-align: center;"><font color="#ff00dd" face="Gulim, 굴림"><span style="font-size: 13px; line-height: 24px;"><b>요즘은 전자기기 소형화 때문에 거의 안 쓰임</b></span></font></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2046/003.jpg"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2046/003.jpg"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Gulim, 굴림;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b><span style="; "><br/></span></b></span></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>
@@ -37,7 +37,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2046/001.jpg"
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "></span><br/></b></p>
-<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2046/004.png"/></p>
+<p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2046/004.png"/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: left;"><b><span style="; "><br/></span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,13 +1,13 @@
 ---
 title: "강하게 살아라!! 유카링!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_야쿠모_란 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/527/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/527/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/527/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/527/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/527/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/527/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><br/></p>

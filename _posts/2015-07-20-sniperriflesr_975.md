@@ -1,14 +1,14 @@
 ---
 title: "사랑하는 야작 53,54화 [ 完 ]"
 tags: "みつもと 미츠모토 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 사랑하는_야작_[完]"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/975/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/975/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/975/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/975/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/975/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/975/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>恋する夜雀 その53と54 【完結】</b></font></p>

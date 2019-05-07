@@ -1,11 +1,11 @@
 ---
 title: "야쿠모가의 여우외모"
 tags: "futa なべぞこ 나베조코 캐릭터_야쿠모_란 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/909/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/909/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/909/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/909/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>八雲家のキツネ枠 </b></font></p>

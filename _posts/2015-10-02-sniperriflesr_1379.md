@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 번외편3"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_샤메이마루_아야 캐릭터_아키_미노리코 캐릭터_아키_시즈하 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1379/001.png"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1379/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1379/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver8 }}/sniperriflesr/1379/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="; ">연관물</span></b></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

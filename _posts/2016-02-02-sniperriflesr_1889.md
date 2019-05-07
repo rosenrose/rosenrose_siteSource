@@ -1,21 +1,21 @@
 ---
 title: "모코우와 케이네 만화"
 tags: "kongthegrain 곡물시리즈 캐릭터_하쿠레이_레이무 캐릭터_야고코로_에이린 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_이부키_스이카 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1889/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1889/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1889/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1889/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1889/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1889/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1889/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1889/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1889/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1889/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1889/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1889/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1889/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1889/006.jpg"/></p>
 <p style="text-align: center;"><b></b> </p>
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"><b>작가 : KONGtheGrain [ 곡물시리즈 ]</b></p>

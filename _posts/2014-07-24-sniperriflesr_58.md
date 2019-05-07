@@ -1,11 +1,11 @@
 ---
 title: "「물거울」은 이런 느낌으로 되어있습니다"
 tags: "캐릭터_리글_나이트버그 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/58/001.jpg"
+image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/58/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/58/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver8 }}/sniperriflesr/58/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p align="center" jquery1272960908718="12">아사츠키당의 초 시리어스 동인지 물거울, </p>

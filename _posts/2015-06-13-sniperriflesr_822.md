@@ -1,13 +1,13 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 후지와라노 모코우"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_키진_세이자 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 반역의_세이자"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/822/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/822/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/822/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/822/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/822/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/822/002.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;">원제 : 反逆の正邪略して「反正」(正邪中心4コマ) vs. </b><font face="돋움, dotum, verdana, sans-serif"><b>藤原妹紅</b></font></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

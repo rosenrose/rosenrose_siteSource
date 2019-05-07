@@ -1,11 +1,11 @@
 ---
 title: "케이네에게만 있는 것은?"
 tags: "6 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1410/001.png"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1410/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1410/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/1410/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b><br/></b></p>

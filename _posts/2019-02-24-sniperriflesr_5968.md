@@ -1,12 +1,12 @@
 ---
 title: "요괴의 내구성"
 tags: "100 000원의행복 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5968/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5968/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5968/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/5968/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><b><br/></b></p>

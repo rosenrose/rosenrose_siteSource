@@ -1,19 +1,19 @@
 ---
 title: "애기와 순호 만화"
 tags: "륜 캐릭터_순호 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 시리어스_슬픔"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1801/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1801/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1801/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1801/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1801/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1801/002.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1801/003.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1801/003.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1801/004.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1801/004.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1801/005.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1801/005.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);">순호는 설정상 자식의 죽음으로 인하여 자기가 누군지 잊을 정도의 복수심만을 품게 됩니다.</p>
@@ -29,7 +29,7 @@ image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1801/001.png"
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size: 13.3333px; line-height: 13.3333px;">이제 저는 훨씬 더 </span><span style="font-size: 13.3333px; line-height: 13.3333px;">오랫동안 미루고 미루던</span><span style="font-size: 13.3333px; line-height: 13.3333px;"> 동방 쿵푸허슬을 그릴 수 있게 되었</span><span style="font-size: 13.3333px; line-height: 13.3333px;">습니다</span><span style="font-size: 13.3333px; line-height: 13.3333px;">.</span></p>
 <p style="color: rgb(30, 30, 30); font-family: Gulim, 굴림; font-size: 13px; line-height: 24px; background-color: rgb(255, 255, 255);"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1801/006.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1801/006.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"></p>
 <p style="TEXT-ALIGN: center"></p>

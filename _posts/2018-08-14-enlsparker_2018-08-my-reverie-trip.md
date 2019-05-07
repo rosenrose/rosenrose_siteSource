@@ -1,109 +1,109 @@
 ---
 title: "MY REVERIE TRIP"
 tags: "동인지 こげコロッケ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-08-my-reverie-trip/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-08-my-reverie-trip/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4452518571758248870" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/001.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/><br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/002.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/003.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/004.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/005.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/006.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/007.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/008.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/009.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/010.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/011.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/012.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/013.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/014.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/015.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/016.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/017.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/018.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/019.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/020.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/021.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/022.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/023.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/024.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/024.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/025.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/025.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/026.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/026.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/027.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/027.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/028.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/028.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/029.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/029.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/030.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/030.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/031.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/031.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/032.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/032.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2018-08-my-reverie-trip/033.jpg"/></div>
+<img src="{{ site.imgserver6 }}/enlsparker/2018-08-my-reverie-trip/033.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

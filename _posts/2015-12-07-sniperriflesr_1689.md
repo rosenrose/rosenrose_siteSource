@@ -1,13 +1,13 @@
 ---
 title: "토끼들에게 물어보았다"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_링고 캐릭터_키신_사구메 캐릭터_세이란 캐릭터_레이센_우동게인_이나바 캐릭터_레이센 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_이나바_테위 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1689/001.jpg"
+image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1689/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1689/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1689/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1689/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver9 }}/sniperriflesr/1689/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </b><font face="돋움, dotum, verdana, sans-serif"><b>兎達に聞いた </b></font></p>

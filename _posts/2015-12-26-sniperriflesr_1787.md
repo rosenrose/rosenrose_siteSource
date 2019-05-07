@@ -1,11 +1,11 @@
 ---
 title: "울지않아 파르시쨩! 번외편5"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1787/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1787/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1787/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/1787/001.png"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

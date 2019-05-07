@@ -1,13 +1,13 @@
 ---
 title: "망할 댓글용 무료 소재"
 tags: "moiky もの 雨樋座 캐릭터_키신_사구메 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1751/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1751/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1751/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1751/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1751/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1751/002.jpg"/></p>
 <p style="text-align: center;"><b>2015년 11월 27일</b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><span style="; ">여기서 진척이란</span></b></p>

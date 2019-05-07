@@ -1,14 +1,14 @@
 ---
 title: "알돈노후유알"
 tags: "woogoon 우군 캐릭터_신키 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2555/001.png"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2555/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><embed allowfullscreen="true" autostart="true" enablehtmlaccess="true" height="180" src="https://player.bgmstore.net/kfOzj" width="422" x-allowscriptaccess="always"/><br/><a href="http://bgmstore.net/view/kfOzj" target="_blank">BGM정보 : 브금저장소 - http://bgmstore.net/view/kfOzj</a></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2555/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/2555/001.png"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;">작가 : Woogoon [ 우군 ]</b><br/></p>

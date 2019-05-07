@@ -1,16 +1,16 @@
 ---
 title: "좋아하는 캐릭터들을 노래방에 데리고 가보았다"
 tags: "けぬー ちりわぁく 캐릭터_히나나위_텐시 캐릭터_앨리스_마가트로이드 캐릭터_나가에_이쿠 캐릭터_상하이 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_신키 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/989/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/989/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/989/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/989/001.jpg"/></p>
 <p style="text-align: center;">앨리스 「(네가 지금 하고 있는 건 이미 오래된 거야…!!」</p>
 <p style="text-align: center;">사토리 「코이시를 모르겠어…」</p>
 <p style="text-align: center;">텐시 「그냥 화 나」</p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/989/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/989/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;">원제 : </strong><font face="돋움, dotum, verdana, sans-serif"><b>好きなキャラ達（６人）をカラオケに行かせてみた。</b></font><br/></p>

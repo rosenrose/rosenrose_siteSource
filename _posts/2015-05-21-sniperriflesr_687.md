@@ -1,13 +1,13 @@
 ---
 title: "사토리님의 졸업앨범"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/687/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/687/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/687/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/687/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/687/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver3 }}/sniperriflesr/687/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b>연관작 : <a class="tx-link" href="http://blog.daum.net/sniperriflesr/791" target="_blank">http://blog.daum.net/sniperriflesr/791</a> [ 화장 ]</b></p>
 <p style="text-align: center;"><br/></p>

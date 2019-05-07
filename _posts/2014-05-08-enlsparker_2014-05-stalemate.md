@@ -1,77 +1,77 @@
 ---
 title: "STALEMATE"
 tags: "기타동인지 waterwheel"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-05-stalemate/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-05-stalemate/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-679004825221451334" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/001.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/002.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/003.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/004.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/005.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/006.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/007.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/008.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/009.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/010.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/011.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/012.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/013.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/014.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/015.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/016.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/017.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/018.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/019.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/020.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/021.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-05-stalemate/022.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-05-stalemate/022.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

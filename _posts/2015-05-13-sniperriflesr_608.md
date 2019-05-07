@@ -1,29 +1,29 @@
 ---
 title: "삼 더하기 일 + 케이네"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_카미시라사와_케이네 삼_더하기_일"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/608/001.jpg"
+image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/608/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/002.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/004.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/004.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/005.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/005.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/006.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/006.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/007.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/007.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/008.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/008.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/009.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/009.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/608/010.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver6 }}/sniperriflesr/608/010.jpg"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><span style=" font-family: dotum;  line-height: 18px; ; ">처음인 분들은 처음 뵙겠습니다. </span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span id="callbacknestkkk5701tistorycom2044428" style=" font-family: dotum;  line-height: 18px;  width: 1px;  height: 1px;  float: right; ; "></span><span style=" font-family: dotum;  line-height: 18px; ; ">평소의 분들은 기다리게 해서 죄송합니다.</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">전편로부터 저스트1개월이 됐기 때문에….</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; "><span style="; ">앙케이트가 너무 접전이었으므로, 니토리와 동시에 투고할까 생각하고 있었습니다만,</span><span style="; "> </span></span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; "><span style="; ">전편 투고로부터 사이가 너무 비었으므로 먼저 만들어진 케이네 선생님 편을 투고했습니다.</span><span style="; "> </span></span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">니토리에 투표해 주신 분들, 죄송합니다만 조금만 더 기다려 주세요.</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">린노스케 커플링, 독자 설정등에 저항이 있는 분은 열람하지 마시길, 부탁 드립니다.</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">[8월 30일 13시 55분 추신]</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">이것 참, 또다시 고맙게도 りーくー씨에 의한 SS화!!→『</span><a href="http://kkk5701.egloos.com/5031177" style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);" target="blank"><u><font color="#0066cc"><span style="; ">삼 더하기 일 ＋케이네</span></font></u></a><span style=" font-family: dotum;  line-height: 18px; ; ">』</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">뭐랄까, 제 착상이 이렇게나 퍼져 갈 줄은…</span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; "><span style="; ">그리고, 앨리스의 외로움을 객관적으로 보니…왠지 미안 킥킥킥</span><span style="; "> </span></span><br style="color: rgb(153, 153, 153); font-family: dotum; line-height: 18px; background-color: rgb(58, 58, 58);"/><span style=" font-family: dotum;  line-height: 18px; ; ">조만간 점주 독점시켜줄게. by futa</span><br/></p>
 <p style="text-align: center;"><span style=" font-family: dotum;  line-height: 18px; ; "><br/></span></p>

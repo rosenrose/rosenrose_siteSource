@@ -1,110 +1,110 @@
 ---
 title: "MagicStar MagicRunner"
 tags: "합동인지 gp-kids"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-magicstar-magicrunner/001.jpg"
+image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-02-magicstar-magicrunner/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6326496091492133440" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/001.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/001.jpg"/></div>
 <br/>
 <a name="more"></a>http://www.sunmism.com/398<br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/002.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/003.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/004.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/005.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/006.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/007.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/008.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/009.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/010.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/011.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/012.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/013.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/014.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/015.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/016.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/017.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/018.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/019.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/020.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/021.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/022.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/023.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/024.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/024.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/025.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/025.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/026.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/026.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/027.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/027.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/028.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/028.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/029.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/029.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/030.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/030.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/031.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/031.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/032.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/032.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-02-magicstar-magicrunner/033.jpg"/></div>
+<img src="{{ site.imgserver10 }}/enlsparker/2014-02-magicstar-magicrunner/033.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

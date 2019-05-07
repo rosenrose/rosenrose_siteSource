@@ -1,13 +1,13 @@
 ---
 title: "기껏 수화를 배웠는데 전혀 전해지지 않는 사구메님"
 tags: "手負い 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1758/001.jpg"
+image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1758/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/1758/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver5 }}/sniperriflesr/1758/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><b><img src="{{ site.imgserver4 }}/sniperriflesr/1758/002.png"/></b></p>
+<p style="text-align: center;"><b><img src="{{ site.imgserver5 }}/sniperriflesr/1758/002.png"/></b></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>원제 : せっかく手話を覚えたのに全然伝わらないサグメ様 </b></p>

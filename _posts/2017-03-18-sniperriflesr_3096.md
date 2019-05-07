@@ -1,14 +1,14 @@
 ---
 title: "발렌타인 모미지땅"
 tags: "おのみや 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3096/001.jpg"
+image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3096/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3096/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/3096/001.jpg"/></p>
 <p style="text-align: center;"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/3096/002.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver1 }}/sniperriflesr/3096/002.png"/></p>
 <p style="text-align: center;"><br/></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><b></b></p>

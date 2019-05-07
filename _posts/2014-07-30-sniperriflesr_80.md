@@ -1,11 +1,11 @@
 ---
 title: "반복되는 일상"
 tags: "しろし 電派絵師団 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 시리어스_어두움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/80/001.jpg"
+image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/80/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
-<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver4 }}/sniperriflesr/80/001.jpg"/></p>
+<p style="TEXT-ALIGN: center"><img src="{{ site.imgserver3 }}/sniperriflesr/80/001.jpg"/></p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"> </p>
 <p style="TEXT-ALIGN: center"><strong>서클 : </strong><b>電派絵師団</b></p>

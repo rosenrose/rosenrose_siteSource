@@ -1,15 +1,15 @@
 ---
 title: "친구를 데려온 레이센"
 tags: "スペース人 스페이스진 캐릭터_이나바_테위 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2253/001.jpg"
+image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2253/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2253/001.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2253/001.jpg"/></p>
 <p style="text-align: center;"><span style=" font-family: 굴림, Gulim;  font-size: 13px;  line-height: 16px; ; "><b>레이센이랑 사이가 좋은 남자의 플래그를 전력으로 분쇄해버리는 에린 (거짓말은 치고 있지 않음)</b></span><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2253/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2253/002.jpg"/></p>
 <p style="text-align: center;"><span style=" font-family: 굴림, Gulim;  font-size: 13px;  line-height: 16px; ; "><b>그리고 공주님이 아무렇지도 않게 합세</b></span><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/2253/003.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver7 }}/sniperriflesr/2253/003.jpg"/></p>
 <p style="TEXT-ALIGN: center"></p>
 <p style="text-align: center;"><span style=" font-family: 굴림, Gulim;  font-size: 13px;  line-height: 16px; ; "><b>테위의 천연덕스러운 합세</b></span><br/></p>
 <p style="TEXT-ALIGN: center"><br/></p>

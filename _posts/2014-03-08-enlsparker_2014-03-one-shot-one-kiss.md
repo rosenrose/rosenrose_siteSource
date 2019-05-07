@@ -1,86 +1,86 @@
 ---
 title: "One Shot, One Kiss."
 tags: "동인지 red-sight"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-03-one-shot-one-kiss/001.jpg"
+image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-03-one-shot-one-kiss/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4125886960407451477" itemprop="description articleBody">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/001.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/001.jpg"/></div>
 <br/>
 <a name="more"></a><br/>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/002.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/002.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/003.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/003.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/004.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/004.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/005.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/005.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/006.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/006.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/007.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/007.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/008.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/008.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/009.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/009.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/010.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/010.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/011.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/011.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/012.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/012.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/013.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/013.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/014.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/014.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/015.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/015.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/016.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/016.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/017.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/017.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/018.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/018.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/019.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/019.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/020.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/020.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/021.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/021.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/022.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/022.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/023.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/023.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/024.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/024.jpg"/></div>
 <br/>
 <div class="separator" style="clear: both; text-align: center;">
-<img src="{{ site.imgserver3 }}/enlsparker/2014-03-one-shot-one-kiss/025.jpg"/></div>
+<img src="{{ site.imgserver2 }}/enlsparker/2014-03-one-shot-one-kiss/025.jpg"/></div>
 <br/>
 <div style="clear: both;"></div>
 </div></div><br/>

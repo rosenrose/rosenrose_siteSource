@@ -1,14 +1,14 @@
 ---
 title: "순호 스타일의 마키나"
 tags: "shan シャン @shan0x0shan 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_마타라_오키나 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5753/001.png"
+image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5753/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b></b><br/></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5753/001.png"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5753/001.png"/></p>
 <p style="text-align: center;"><b></b></p>
-<p style="text-align: center;"><img src="{{ site.imgserver4 }}/sniperriflesr/5753/002.jpg"/></p>
+<p style="text-align: center;"><img src="{{ site.imgserver2 }}/sniperriflesr/5753/002.jpg"/></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b><br/></b></p>
 <p style="text-align: center;"><b>작가 : shan [ シャン ][ </b><b style="font-size: 9pt;">@shan0x0shan ]</b></p>
