@@ -22,20 +22,20 @@ sitemap:
   reload();	
 </script>
 <ul>
-  <li><p>동방</p></li>
-  <li><p>동방_동인지</p></li>
-  <li><p>동방_동인지／ㄴ이쪽_번역</p></li>
-  <li><p>동방_웹코믹</p></li>
-  <li><p>동방_웹코믹／ㄴ이쪽_번역</p></li>
-  <li><p>동방／동인지(백합)</p></li>
-  <li><p>동방／동인지</p></li>
-  <li><p>동방／동인지／이쪽_번역</p></li>
-  <li><p>동방／번역．동인지</p></li>
-  <li><p>동방／번역．웹코믹</p></li>
-  <li><p>동방／웹코믹&영상(백합)</p></li>
-  <li><p>동방／웹코믹</p></li>
-  <li><p>동인지</p></li>
-  <li><p>웹코믹</p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방">동방</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방_동인지">동방_동인지</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방_동인지／ㄴ이쪽_번역">동방_동인지／ㄴ이쪽_번역</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방_웹코믹">동방_웹코믹</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방_웹코믹／ㄴ이쪽_번역">동방_웹코믹／ㄴ이쪽_번역</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／동인지(백합)">동방／동인지(백합)</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／동인지">동방／동인지</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／동인지／이쪽_번역">동방／동인지／이쪽_번역</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／번역．동인지">동방／번역．동인지</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／번역．웹코믹">동방／번역．웹코믹</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／웹코믹&영상(백합)">동방／웹코믹&영상(백합)</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동방／웹코믹">동방／웹코믹</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/동인지">동인지</a></p></li>
+  <li><p><a href="{{ site.baseurl }}/tags/웹코믹">웹코믹</a></p></li>
   <hr>
 {% for tag in site.tags %}
   <li>
