@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 36화"
 tags: "みつもと 미츠모토 캐릭터_카미시라사와_케이네 캐릭터_야쿠모_유카리 사랑하는_야작_[完]"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/956/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/956/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

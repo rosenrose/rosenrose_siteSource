@@ -1,7 +1,7 @@
 ---
 title: "화락"
 tags: "동인지 letra"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_59/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-05-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8879869547668080088" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "이 몸의 변명은 108식까지 있다네"
 tags: "futa なべぞこ 나베조코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/917/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/917/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

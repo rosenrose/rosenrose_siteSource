@@ -1,7 +1,7 @@
 ---
 title: "심야 참새식당 [ 네번째잔 ]"
 tags: "ねことうふ 네코두부 grinp 캐릭터_모노노베노_후토 캐릭터_토요사토미미노_미코 캐릭터_미스티아_로렐라이 캐릭터_카소다니_쿄코 캐릭터_타타라_코가사 캐릭터_이바라키_카센 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_이부키_스이카 캐릭터_홍_메이링 캐릭터_콘파쿠_요우무 캐릭터_레이센_우동게인_이나바 캐릭터_나즈린 캐릭터_코치야_사나에 캐릭터_샤메이마루_아야 이벤트_博麗神社_例大祭_10 심야_참새식당"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/222/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/222/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

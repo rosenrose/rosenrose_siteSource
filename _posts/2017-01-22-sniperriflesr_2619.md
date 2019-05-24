@@ -1,7 +1,7 @@
 ---
 title: "착각"
 tags: "怪談一恥 캐릭터_세키반키 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2619/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2619/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

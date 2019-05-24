@@ -1,7 +1,7 @@
 ---
 title: "사쿠야에게의 보답"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/684/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/684/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "제대로! 구웠어요 유카씨"
 tags: "동인지 柚子桃ジャム"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_3/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-05-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7455607369556781636" itemprop="description articleBody">

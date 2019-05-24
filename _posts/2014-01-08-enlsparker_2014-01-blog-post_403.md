@@ -1,7 +1,7 @@
 ---
 title: "어린 요무의 일기"
 tags: "緊急回避 동인지"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-01-blog-post_403/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-01-blog-post_403/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5831339695327677150" itemprop="description articleBody">

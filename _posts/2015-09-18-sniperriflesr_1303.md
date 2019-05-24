@@ -1,7 +1,7 @@
 ---
 title: "광기의 요정과 광기어린 무릎베개"
 tags: "노랑오리 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1303/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1303/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

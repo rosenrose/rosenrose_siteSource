@@ -1,7 +1,7 @@
 ---
 title: "더욱 더! 꼬마 플랑 ~ 레밀리아 ☆브레이크~"
 tags: "캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 캐릭터_키리사메_마리사 캐릭터_이자요이_사쿠야 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/20/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/20/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

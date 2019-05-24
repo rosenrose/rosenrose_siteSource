@@ -1,7 +1,7 @@
 ---
 title: "명련사 그림일기 4"
 tags: "かたぎり eh？ 캐릭터_카소다니_쿄코 캐릭터_미스티아_로렐라이 캐릭터_호쥬_누에 캐릭터_나즈린 캐릭터_토라마루_쇼 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 이벤트_紅楼夢_12 이벤트_홍루몽_12 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2540/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2540/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "급하게 나갈 준비를 하는 렌코"
 tags: "しろし 시로시 電派絵師団 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2832/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2832/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

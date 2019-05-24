@@ -1,7 +1,7 @@
 ---
 title: "모두의 집"
 tags: "동인지 アトキンソン"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_49/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-12-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7279601713266636046" itemprop="description articleBody">

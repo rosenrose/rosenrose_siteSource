@@ -1,7 +1,7 @@
 ---
 title: "사나에씨는 친절해"
 tags: "スペース人 스페이스진 캐릭터_코치야_사나에 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2837/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2837/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "Alice in Witchforest"
 tags: "銀一 은방울꽃 akacia 아카시아 캐릭터_앨리스_마가트로이드 시리어스_진지"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/204/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/204/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

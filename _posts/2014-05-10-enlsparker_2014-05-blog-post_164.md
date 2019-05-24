@@ -1,7 +1,7 @@
 ---
 title: "동방스카파라다이스 오케스트라"
 tags: "합동인지"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_164/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-05-blog-post_164/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8054986436506680926" itemprop="description articleBody">

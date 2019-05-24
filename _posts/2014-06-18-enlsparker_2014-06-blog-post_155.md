@@ -1,7 +1,7 @@
 ---
 title: "무녀무녀 스이카 - 모리야 신사에서 옛날이야기"
 tags: "동인지 葉庭の出店"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_155/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-06-blog-post_155/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7570708183462682564" itemprop="description articleBody">

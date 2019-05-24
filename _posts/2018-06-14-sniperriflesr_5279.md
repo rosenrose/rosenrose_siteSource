@@ -1,7 +1,7 @@
 ---
 title: "저는 다 기억한답니다"
 tags: "ふみ切‏ @papiermesser 캐릭터_코마노_아운 캐릭터_아운 캐릭터_요리가미_시온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5279/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5279/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

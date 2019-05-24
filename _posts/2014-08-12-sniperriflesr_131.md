@@ -1,7 +1,7 @@
 ---
 title: "케이네선생님은 21시만 되면 졸려"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/131/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/131/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

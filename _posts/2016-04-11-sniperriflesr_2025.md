@@ -1,7 +1,7 @@
 ---
 title: "바보에겐 보이지 않는 옷"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2025/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2025/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

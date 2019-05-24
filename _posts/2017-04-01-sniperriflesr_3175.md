@@ -1,7 +1,7 @@
 ---
 title: "만작 두 번째"
 tags: "まくわうに 마쿠와우니 うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_세키반키 캐릭터_토요사토미미노_미코 캐릭터_와카사기히메 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_이마이즈미_카케로 캐릭터_히지리_뱌쿠렌 캐릭터_모노노베노_후토 캐릭터_쿠모이_이치린 캐릭터_히에다노_아큐 캐릭터_후타츠이와_마미조 이벤트_c88 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3175/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3175/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

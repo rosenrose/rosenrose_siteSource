@@ -1,7 +1,7 @@
 ---
 title: "한밤중의 Boy Meets Girl"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_境界から視えた外界-廻- 이벤트_경계로부터_보이는_바깥_회 시리어스_밝음"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/354/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/354/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

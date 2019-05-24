@@ -1,7 +1,7 @@
 ---
 title: "오토메 인트루더"
 tags: "동인지 ギロチン銀座"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_41/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_41/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-217148440575174456" itemprop="description articleBody">

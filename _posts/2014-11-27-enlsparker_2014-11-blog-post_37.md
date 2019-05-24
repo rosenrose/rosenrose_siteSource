@@ -1,7 +1,7 @@
 ---
 title: "뿔이 자라지 않아 고민인 분께"
 tags: "동인지 public_planet"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_37/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6876891631795805351" itemprop="description articleBody">

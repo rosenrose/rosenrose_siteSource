@@ -1,7 +1,7 @@
 ---
 title: "이건 말하자면 칙명이야, 나는 천신[아마츠카미] 부분으로서......(핑계)"
 tags: "春雨 運命のイカスミ 캐릭터_키신_사구메 캐릭터_코메이지_사토리 [번역]_짤"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1673/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1673/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

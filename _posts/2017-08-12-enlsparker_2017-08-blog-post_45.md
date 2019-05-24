@@ -1,7 +1,7 @@
 ---
 title: "굴레의 묘지 그 아래"
 tags: "동인지 paseri"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post_45/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-08-blog-post_45/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1040325676955209026" itemprop="description articleBody">

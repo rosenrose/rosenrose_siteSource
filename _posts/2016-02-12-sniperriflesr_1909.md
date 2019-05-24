@@ -1,7 +1,7 @@
 ---
 title: "Magic&Wizard's"
 tags: "じぜる 지제루 캐릭터_레밀리아_스칼렛 캐릭터_소악마 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1909/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1909/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "8학년 구락부"
 tags: "鳥居すみ airdrop 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_야쿠모_유카리 이벤트_c83 시리어스_어두움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1051/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1051/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

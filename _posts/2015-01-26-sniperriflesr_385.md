@@ -1,7 +1,7 @@
 ---
 title: "곤혹의 섀도우 울프"
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_히에다노_아큐 캐릭터_코치야_사나에 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 이벤트_예대제_11 이벤트_例大祭_11 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/385/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/385/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

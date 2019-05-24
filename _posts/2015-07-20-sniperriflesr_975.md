@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 53,54화 [ 完 ]"
 tags: "みつもと 미츠모토 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 사랑하는_야작_[完]"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/975/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/975/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

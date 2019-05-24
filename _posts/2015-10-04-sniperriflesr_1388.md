@@ -1,7 +1,7 @@
 ---
 title: "눈을 뜬 여고생"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_스미레코 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1388/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1388/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "너를 좋아한다고 전하고 싶어 !!"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 이벤트_예대제11 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/153/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/153/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

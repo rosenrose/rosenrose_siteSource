@@ -1,7 +1,7 @@
 ---
 title: "좋아해 츄츄!"
 tags: "九品そういん kuhou_souin 쿠호우_소우인 たまごやき tamagoyaki 타마고야키 캐릭터_코치야_사나에 캐릭터_레이센_우동게인_이나바 캐릭터_콘파쿠_요우무 캐릭터_야사카_카나코 캐릭터_모리야_스와코 약"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/151/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/151/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

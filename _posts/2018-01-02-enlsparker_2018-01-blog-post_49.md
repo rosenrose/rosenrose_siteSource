@@ -1,7 +1,7 @@
 ---
 title: "인간, 이자요이 사쿠야"
 tags: "동인지 personal_color"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_49/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-01-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5955654594560712901" itemprop="description articleBody">

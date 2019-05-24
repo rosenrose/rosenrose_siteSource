@@ -1,7 +1,7 @@
 ---
 title: "유카는 누님이시다"
 tags: "동인지 有機化合物"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_37/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-08-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4617084986352733021" itemprop="description articleBody">

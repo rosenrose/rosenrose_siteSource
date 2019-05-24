@@ -1,7 +1,7 @@
 ---
 title: "감주전 캐릭터 관계도"
 tags: "miata 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_레이센_우동게인_이나바 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2782/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2782/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>

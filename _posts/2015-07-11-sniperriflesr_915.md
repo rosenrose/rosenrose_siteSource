@@ -1,7 +1,7 @@
 ---
 title: "공원이나 강변에 떨어져 있던 사춘기의 추억"
 tags: "futa なべぞこ 나베조코 캐릭터_히지리_뱌쿠렌 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/915/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/915/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

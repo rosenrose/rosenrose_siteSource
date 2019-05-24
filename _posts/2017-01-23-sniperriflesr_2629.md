@@ -1,7 +1,7 @@
 ---
 title: "복실복실"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2629/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2629/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

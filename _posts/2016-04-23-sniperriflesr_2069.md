@@ -1,7 +1,7 @@
 ---
 title: "화제의 태고"
 tags: "えなみ教授 에나미교수 캐릭터_플랑드르_스칼렛 캐릭터_호리카와_라이코 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_첸 캐릭터_호쥬_누에 캐릭터_키진_세이자 급식첸_만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2069/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2069/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

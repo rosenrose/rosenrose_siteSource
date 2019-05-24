@@ -1,7 +1,7 @@
 ---
 title: "염마님 섬머 타임"
 tags: "동인지 蓮華座"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_89/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-12-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4288842454139325650" itemprop="description articleBody">

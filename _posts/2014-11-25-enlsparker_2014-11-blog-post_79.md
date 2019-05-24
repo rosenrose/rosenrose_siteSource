@@ -1,7 +1,7 @@
 ---
 title: "고마워 키리사메 마리사"
 tags: "동인지 ふあん亭"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_79/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1764766240329303145" itemprop="description articleBody">

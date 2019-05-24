@@ -1,7 +1,7 @@
 ---
 title: "헬멧 착용"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_히지리_뱌쿠렌 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/811/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/811/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

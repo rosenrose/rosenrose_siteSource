@@ -1,7 +1,7 @@
 ---
 title: "수중호흡의 ○○○○"
 tags: "futa なべぞこ 나베조코 캐릭터_클라운피스 캐릭터_야사카_카나코 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1299/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1299/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

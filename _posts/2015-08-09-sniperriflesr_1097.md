@@ -1,7 +1,7 @@
 ---
 title: "카제하후리・코치야 사나에 1X년의 기적"
 tags: "大出長介 쵸스케 ヘルメットが直せません i_can't_repair_the_m3_tactical_helmet sir_! 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_모리야_스와코 이벤트_c81 시리어스_어두움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1097/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1097/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

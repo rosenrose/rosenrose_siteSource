@@ -1,7 +1,7 @@
 ---
 title: "구월은 잃어버린 달"
 tags: "じぜる 지제루 캐릭터_세이란 캐릭터_링고 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_키신_사구메 캐릭터_클라운피스 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5768/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5768/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

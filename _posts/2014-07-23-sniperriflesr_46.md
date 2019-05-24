@@ -1,7 +1,7 @@
 ---
 title: "텐코괴롭히기는 Easy"
 tags: "makino ukiukiwatching 캐릭터_히나나위_텐시 캐릭터_이자요이_사쿠야 캐릭터_앨리스_마가트로이드 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_레이센_우동게인_이나바 캐릭터_레밀리아_스칼렛 캐릭터_나가에_이쿠 캐릭터_샤메이마루_아야 캐릭터_오노즈카_코마치 캐릭터_콘파쿠_요우무 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/46/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/46/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

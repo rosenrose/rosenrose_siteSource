@@ -1,7 +1,7 @@
 ---
 title: "나는 여기에 있어"
 tags: "기타동인지 耶樹厩舎"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-04-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6556558543179855607" itemprop="description articleBody">

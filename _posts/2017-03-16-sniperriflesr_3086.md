@@ -1,7 +1,7 @@
 ---
 title: "생목이 바라본 지옥의 원풍경"
 tags: "じぜる 지제루 캐릭터_순호 캐릭터_클라운피스 캐릭터_세키반키 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3086/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3086/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

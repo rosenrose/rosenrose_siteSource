@@ -1,7 +1,7 @@
 ---
 title: "암흑 물질"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_레밀리아_스칼렛 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2788/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2788/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

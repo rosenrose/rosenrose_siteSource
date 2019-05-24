@@ -1,7 +1,7 @@
 ---
 title: "동방작장향"
 tags: "기타동인지"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_2/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-02-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-538852555304170474" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "BATTLE FIELD GILRS"
 tags: "あずまあや 아즈마_아야 azmaya 아즈마야 이벤트_c88 짤_시리즈"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2339/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2339/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

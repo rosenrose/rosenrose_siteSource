@@ -1,7 +1,7 @@
 ---
 title: "디자이어 오브 유유코"
 tags: "동인지 こげコロッケ"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_96/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-04-blog-post_96/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5691429826640498893" itemprop="description articleBody">

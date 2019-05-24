@@ -1,7 +1,7 @@
 ---
 title: "서당 가해수업"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2602/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2602/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>

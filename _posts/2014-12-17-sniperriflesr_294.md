@@ -1,7 +1,7 @@
 ---
 title: "엇갈림 잭팟"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 캐릭터_모토오리_코스즈 캐릭터_후타츠이와_마미조 캐릭터_하쿠레이_레이무 이벤트_예대제_11 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/294/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/294/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

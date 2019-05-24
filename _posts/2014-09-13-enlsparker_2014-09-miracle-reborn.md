@@ -1,7 +1,7 @@
 ---
 title: "Miracle Reborn"
 tags: "동인지 はやあか"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-09-miracle-reborn/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-miracle-reborn/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6895172734784161764" itemprop="description articleBody">

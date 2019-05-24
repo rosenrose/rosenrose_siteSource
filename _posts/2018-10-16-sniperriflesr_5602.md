@@ -1,7 +1,7 @@
 ---
 title: "텐시온과 신묘마루"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_스쿠나_신묘마루 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5602/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5602/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

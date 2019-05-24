@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 창천의 실"
 tags: "동인지 青"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_459/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_459/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8683245528875357007" itemprop="description articleBody">

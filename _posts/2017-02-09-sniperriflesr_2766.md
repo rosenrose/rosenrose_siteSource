@@ -1,7 +1,7 @@
 ---
 title: "매년 항례"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_히메카이도_하타테 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_나즈린 캐릭터_카소다니_쿄코 급식첸_만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2766/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2766/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

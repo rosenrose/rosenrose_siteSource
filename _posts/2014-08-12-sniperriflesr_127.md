@@ -1,7 +1,7 @@
 ---
 title: "모콧 동방!"
 tags: "ハマらょん 하마춍 あちきのめがね achikinomegane． 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 이벤트_예대제7 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/127/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/127/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

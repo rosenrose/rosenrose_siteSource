@@ -1,7 +1,7 @@
 ---
 title: "마리사로 포키게임"
 tags: "浪咲ゆか 18sbunny 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2163/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2163/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

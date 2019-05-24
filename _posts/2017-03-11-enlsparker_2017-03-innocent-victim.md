@@ -1,7 +1,7 @@
 ---
 title: "Innocent victim"
 tags: "동인지 一ノ瀬"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-03-innocent-victim/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-03-innocent-victim/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4097972743193895574" itemprop="description articleBody">

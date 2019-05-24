@@ -1,7 +1,7 @@
 ---
 title: "클라피는 케첩을 좋아해"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2214/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2214/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></b><br/></p>

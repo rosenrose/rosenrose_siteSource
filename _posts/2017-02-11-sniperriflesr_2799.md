@@ -1,7 +1,7 @@
 ---
 title: "메리씨의 무서운 이야기"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2799/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2799/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

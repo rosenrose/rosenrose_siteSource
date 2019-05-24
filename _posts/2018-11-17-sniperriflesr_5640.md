@@ -1,7 +1,7 @@
 ---
 title: "우연히 토끼를 봐서 흥분한 쿄코와 그런 쿄코를 달래주려는 평상심의 히지리 님"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_카소다니_쿄코 캐릭터_히지리_뱌쿠렌 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5640/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5640/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

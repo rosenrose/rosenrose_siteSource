@@ -1,7 +1,7 @@
 ---
 title: "모코 하렘"
 tags: "ぶーわ_‏ 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/758/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/758/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

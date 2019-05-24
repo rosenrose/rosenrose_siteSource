@@ -1,7 +1,7 @@
 ---
 title: "그 결실을 보실 수 있겠습니까"
 tags: "ジェット虚無僧 제트코무소 캐릭터_카자미_유카 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/698/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/698/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

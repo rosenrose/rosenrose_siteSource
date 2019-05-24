@@ -1,7 +1,7 @@
 ---
 title: "오줌 마려운 걸 참고있는 소녀들의 길을 막고 지켜보았다"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1314/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1314/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

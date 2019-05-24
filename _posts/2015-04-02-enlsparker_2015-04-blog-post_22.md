@@ -1,7 +1,7 @@
 ---
 title: "돌발식인력그랑기뇰"
 tags: "동인지 area-s"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_22/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-04-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3753499822911321911" itemprop="description articleBody">

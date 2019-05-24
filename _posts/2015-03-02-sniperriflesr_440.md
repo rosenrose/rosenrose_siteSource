@@ -1,7 +1,7 @@
 ---
 title: "그녀는 내 장난감이야"
 tags: "さとうメメ子 satou_memeko 사토우_메메코 米 kemo 케모 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_샤메이마루_아야 이벤트_c78 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/440/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/440/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

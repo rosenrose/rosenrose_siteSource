@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 1"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 울지않아_파르시쨩!"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1212/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1212/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

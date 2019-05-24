@@ -1,7 +1,7 @@
 ---
 title: "카스가이"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_이나바_테위 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_히지리_뱌쿠렌 캐릭터_나즈린 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 캐릭터_야고코로_에이린 캐릭터_토라마루_쇼 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 이벤트_c84 약"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/196/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/196/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

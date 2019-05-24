@@ -1,7 +1,7 @@
 ---
 title: "너의 도플갱어"
 tags: "동인지 赤色バニラ"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_19/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-09-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5295915736654974970" itemprop="description articleBody">

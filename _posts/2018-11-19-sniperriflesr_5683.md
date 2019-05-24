@@ -1,7 +1,7 @@
 ---
 title: "언니의 각인"
 tags: "dynamo 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 이벤트_c91 시리어스_밝음"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5683/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5683/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

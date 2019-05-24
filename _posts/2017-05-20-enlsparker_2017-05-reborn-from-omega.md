@@ -1,7 +1,7 @@
 ---
 title: "Reborn from Omega"
 tags: "동인지 demour402"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-05-reborn-from-omega/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-05-reborn-from-omega/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5906496193559719244" itemprop="description articleBody">

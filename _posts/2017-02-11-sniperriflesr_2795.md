@@ -1,7 +1,7 @@
 ---
 title: "특징을 바꿔서 그려본 코이시"
 tags: "古河おどろ よまいり先生 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2795/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2795/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

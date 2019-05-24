@@ -1,7 +1,7 @@
 ---
 title: "벗는만큼 늘어난다"
 tags: "캐릭터_클라운피스 캐릭터_순호 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5302/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5302/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><span style="; "><br/></span></b></p>

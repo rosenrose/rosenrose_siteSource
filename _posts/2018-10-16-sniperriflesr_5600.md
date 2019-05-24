@@ -1,7 +1,7 @@
 ---
 title: "루즈삭스"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5600/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5600/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "플랑쨩에게 바브미를 느끼며 어리광부리고 싶다"
 tags: "タナカラ 餅月トランペット 캐릭터_플랑드르_스칼렛 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2269/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2269/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

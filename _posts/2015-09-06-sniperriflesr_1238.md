@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 14"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_야쿠모_유카리 울지않아_파르시쨩!"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1238/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1238/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

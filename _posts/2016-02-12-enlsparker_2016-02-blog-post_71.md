@@ -1,7 +1,7 @@
 ---
 title: "짚대 태자"
 tags: "동인지 カカオ加工場"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_71/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-02-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3181589130887029328" itemprop="description articleBody">

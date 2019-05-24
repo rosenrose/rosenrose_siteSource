@@ -1,7 +1,7 @@
 ---
 title: "하지만 도망치지 못했다"
 tags: "동인지 ふあん亭"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-12-blog-post_97/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-12-blog-post_97/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2574062200190781452" itemprop="description articleBody">

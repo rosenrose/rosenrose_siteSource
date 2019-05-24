@@ -1,7 +1,7 @@
 ---
 title: "훈계하는 코이시"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_코메이지_코이시 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3020/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3020/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

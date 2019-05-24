@@ -1,7 +1,7 @@
 ---
 title: "공주님은 마녀!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_플랑드르_스칼렛 캐릭터_소악마 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_상하이 캐릭터_앨리스_마가트로이드 이벤트_홍루몽_10 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/450/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/450/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

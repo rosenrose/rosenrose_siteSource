@@ -1,7 +1,7 @@
 ---
 title: "모코우가 카구야를 짝사랑"
 tags: "トンファー あぶお @abuosann 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 이메레스"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5274/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5274/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

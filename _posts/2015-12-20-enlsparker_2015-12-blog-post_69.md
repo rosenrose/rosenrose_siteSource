@@ -1,7 +1,7 @@
 ---
 title: "작은 현장의 작은 숙원"
 tags: "동인지 dynamo"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_69/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-12-blog-post_69/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3585899027688587078" itemprop="description articleBody">

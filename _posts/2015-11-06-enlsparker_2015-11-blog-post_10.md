@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 유카리라는 요괴"
 tags: "동인지 paseri"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_10/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-11-blog-post_10/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9088135914794589270" itemprop="description articleBody">

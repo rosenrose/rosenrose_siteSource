@@ -1,7 +1,7 @@
 ---
 title: "비랑 갓파랑 잃어버린 우산"
 tags: "동인지 dynamo"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_58/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-05-blog-post_58/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8794273006692277366" itemprop="description articleBody">

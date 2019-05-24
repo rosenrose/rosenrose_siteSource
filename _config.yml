@@ -8,7 +8,7 @@ url: "https://rosenrose.github.io"
 baseurl: ""
 #nasurl: "http://crazytempler.ipdisk.co.kr:81/publist/HDD1/Public/doujin"
 
-imgserver1: "https://rosenrose.s3.amazonaws.com/doujin"
+imgserver1: "http://d2l1b145ht03q6.cloudfront.net"
 imgserver2: "https://franch4569.s3.amazonaws.com/doujin"
 imgserver3: "https://kjw4569.s3.amazonaws.com/doujin"
 imgserver4: "https://franch122.s3.amazonaws.com/doujin"

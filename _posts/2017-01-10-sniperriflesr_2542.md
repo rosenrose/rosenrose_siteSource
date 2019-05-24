@@ -1,7 +1,7 @@
 ---
 title: "아야 휴식"
 tags: "son sonと壱 s．a．s 캐릭터_샤메이마루_아야 캐릭터_코치야_사나에 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_第百三十一季_文々。新聞友の会 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2542/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2542/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

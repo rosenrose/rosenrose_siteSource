@@ -1,7 +1,7 @@
 ---
 title: "절누나와 누에쟝 만화"
 tags: "풍총이신자 캐릭터_히지리_뱌쿠렌 캐릭터_후타츠이와_마미조 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5660/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5660/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

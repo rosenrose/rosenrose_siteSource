@@ -1,7 +1,7 @@
 ---
 title: "잠이 오게 하는 이야기"
 tags: "동인지 ヘルメットが直せません。"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-09-blog-post/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-09-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3570600335592078049" itemprop="description articleBody">

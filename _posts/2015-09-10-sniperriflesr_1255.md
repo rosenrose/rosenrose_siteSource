@@ -1,7 +1,7 @@
 ---
 title: "순호와 헤카티아의 술자리"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_순호 캐릭터_준코 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1255/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1255/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "초 귀찮은 앨리스"
 tags: "캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/538/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/538/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

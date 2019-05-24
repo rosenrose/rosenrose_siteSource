@@ -1,7 +1,7 @@
 ---
 title: "사랑스러운 그 얼굴에 감정을"
 tags: "동인지 tatoele"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_57/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-03-blog-post_57/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6879110549658935898" itemprop="description articleBody">

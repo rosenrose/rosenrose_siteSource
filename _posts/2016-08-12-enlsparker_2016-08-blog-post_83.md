@@ -1,7 +1,7 @@
 ---
 title: "사토리님의 요관에 코이시가 생겨난 이야기"
 tags: "동인지 火鳥でできるもん!"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_83/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-08-blog-post_83/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6673432182469498354" itemprop="description articleBody">

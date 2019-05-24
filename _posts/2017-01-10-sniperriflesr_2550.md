@@ -1,7 +1,7 @@
 ---
 title: "정지된 낙원에서"
 tags: "月兵 月兎一途 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 이벤트_c90 시리어스_밝음"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2550/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2550/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "태풍을 대비해서 / 설화인 사구메씨"
 tags: "真菜 ぽて [번역]_짤"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1483/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1483/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

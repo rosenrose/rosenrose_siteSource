@@ -1,7 +1,7 @@
 ---
 title: "발렌타인 모미지땅"
 tags: "おのみや 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3096/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3096/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

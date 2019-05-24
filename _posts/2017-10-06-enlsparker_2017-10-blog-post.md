@@ -1,7 +1,7 @@
 ---
 title: "꿈인가 현실인가 만쥬리카"
 tags: "동인지 wavedrive"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2017-10-blog-post/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-10-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4554360079727866425" itemprop="description articleBody">

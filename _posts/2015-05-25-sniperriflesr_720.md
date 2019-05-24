@@ -1,7 +1,7 @@
 ---
 title: "삼 더하기 일 + 후토 유카"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_카자미_유카 캐릭터_앨리스_마가트로이드 캐릭터_모노노베노_후토 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 삼_더하기_일"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/720/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/720/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

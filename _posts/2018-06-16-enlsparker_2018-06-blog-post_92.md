@@ -1,7 +1,7 @@
 ---
 title: "신묘마루의 올바른 도구의 사용법"
 tags: "동인지 winter_scenery"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_92/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-06-blog-post_92/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5122764475238268285" itemprop="description articleBody">

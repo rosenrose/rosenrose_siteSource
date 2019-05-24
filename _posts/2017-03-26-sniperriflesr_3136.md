@@ -1,7 +1,7 @@
 ---
 title: "터무니없이 메챠쿠챠했다"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_앨리스_마가트로이드 캐릭터_플랑드르_스칼렛 캐릭터_키리사메_마리사 캐릭터_카와시로_니토리 캐릭터_파츄리_널릿지 약"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3136/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3136/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

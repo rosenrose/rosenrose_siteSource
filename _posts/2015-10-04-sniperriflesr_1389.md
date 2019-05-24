@@ -1,7 +1,7 @@
 ---
 title: "모코우 결혼하는 만화"
 tags: "캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_샤메이마루_아야 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1389/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1389/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

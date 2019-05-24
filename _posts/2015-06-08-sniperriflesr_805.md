@@ -1,7 +1,7 @@
 ---
 title: "현물지급"
 tags: "futa なべぞこ 나베조코 캐릭터_하쿠레이_레이무 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/805/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/805/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

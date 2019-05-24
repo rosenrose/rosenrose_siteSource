@@ -1,7 +1,7 @@
 ---
 title: "동방 여자 고등학생 - 겨울 식탁"
 tags: "동인지 sugilight"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_1/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-08-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2040763796625891806" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "SO14+"
 tags: "아카네야 茜屋 茜屋ぐーたら店 아카네야_구-타라_미세 캐릭터_히지리_뱌쿠렌 캐릭터_미즈하시_파르시 캐릭터_쿠로다니_야마메 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_치르노 캐릭터_리글_나이트버그 캐릭터_코치야_사나에 캐릭터_이나바_테위 이벤트_紅楼夢_07 이벤트_홍루몽_7 귀여움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/404/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/404/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

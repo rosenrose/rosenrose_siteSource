@@ -1,7 +1,7 @@
 ---
 title: "사구메쨩과"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2218/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2218/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

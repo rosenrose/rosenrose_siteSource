@@ -1,7 +1,7 @@
 ---
 title: "오늘의 서당"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_이나바_테위 캐릭터_치르노 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/3155/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3155/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "초뇌급 뮤테이션 휴즈 골리아테 인형베기"
 tags: "동인지 徒歩二分"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_25/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-08-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6110894672132176354" itemprop="description articleBody">

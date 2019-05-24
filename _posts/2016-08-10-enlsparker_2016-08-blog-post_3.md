@@ -1,7 +1,7 @@
 ---
 title: "별이 내리는 너에게 꽃다발을"
 tags: "동인지 カカオ加工場"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_3/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-08-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3852107278287596579" itemprop="description articleBody">

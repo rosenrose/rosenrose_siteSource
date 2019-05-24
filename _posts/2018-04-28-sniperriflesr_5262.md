@@ -1,7 +1,7 @@
 ---
 title: "오린과 마리사쨩"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/5262/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5262/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

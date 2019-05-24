@@ -1,7 +1,7 @@
 ---
 title: "연령대별 우뉴호"
 tags: "パイン 캐릭터_레이우지_우츠호 짤／1컷만화"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2251/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2251/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

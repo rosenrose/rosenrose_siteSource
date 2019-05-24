@@ -1,7 +1,7 @@
 ---
 title: "공상 Antique Phonoqrapher"
 tags: "鳥居すみ airdrop 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_야쿠모_유카리 캐릭터_히에다노_아큐 캐릭터_하쿠레이_레이무 이벤트_例大祭_7 이벤트_예대제_7 시리어스_밝음"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1020/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1020/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

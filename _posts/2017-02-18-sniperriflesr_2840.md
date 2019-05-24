@@ -1,7 +1,7 @@
 ---
 title: "네코시에이타"
 tags: "futa なべぞこ 나베조코 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2840/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2840/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "All T-shirts"
 tags: "白色粉筆線 캐릭터_순호 캐릭터_준코 캐릭터_헤카티아_라피스라줄리 캐릭터_코치야_사나에 캐릭터_레이센_우동게인_이나바 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/1202/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1202/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

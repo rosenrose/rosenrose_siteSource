@@ -1,7 +1,7 @@
 ---
 title: "요즘따라 언니가 쌀쌀맞은 거 같아요"
 tags: "동인지 シツジノクマアナ"
-image: "https://rosenrose.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_82/001.png"
+image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-12-blog-post_82/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-477276036170768542" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "비가 그치기를 잠시 기다리는"
 tags: "冬ばなな 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 시리어스_밝음"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/2651/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2651/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

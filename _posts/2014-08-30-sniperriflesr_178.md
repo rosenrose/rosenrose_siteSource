@@ -1,7 +1,7 @@
 ---
 title: "WIND SONG"
 tags: "高菜しんの synno_takana 타카나_신노 gp-kids 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_후지와라노_모코우 이벤트_달의_연회 시리어스_밝음"
-image: "https://rosenrose.s3.amazonaws.com/doujin/sniperriflesr/178/001.jpg"
+image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/178/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>
