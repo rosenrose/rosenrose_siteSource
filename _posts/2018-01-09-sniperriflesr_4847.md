@@ -1,7 +1,7 @@
 ---
 title: "플랑이 옷벗기기 게임"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4847/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/4847/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

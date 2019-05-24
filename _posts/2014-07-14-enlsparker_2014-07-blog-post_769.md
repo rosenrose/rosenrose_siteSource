@@ -1,7 +1,7 @@
 ---
 title: "그것과 관련한 명련사"
 tags: "동인지 happy_flame_time"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-07-blog-post_769/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-07-blog-post_769/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4829976241441188915" itemprop="description articleBody">

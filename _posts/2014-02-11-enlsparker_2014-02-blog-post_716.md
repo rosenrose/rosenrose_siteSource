@@ -1,7 +1,7 @@
 ---
 title: "치르노와 거상"
 tags: "기타동인지 ししがみ"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-02-blog-post_716/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-02-blog-post_716/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5445287584446853174" itemprop="description articleBody">

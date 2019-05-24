@@ -1,7 +1,7 @@
 ---
 title: "사랑의 요리가미 자매 극장"
 tags: "じる じるランド 캐릭터_요리가미_시온 캐릭터_요리가미_조온 시리어스_밝음"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4874/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/4874/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

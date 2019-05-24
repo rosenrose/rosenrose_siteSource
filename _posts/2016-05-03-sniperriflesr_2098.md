@@ -1,7 +1,7 @@
 ---
 title: "용서할 수 없는 것"
 tags: "えなみ教授 에나미교수 캐릭터_츠쿠모_야츠하시 캐릭터_츠쿠모_벤벤 캐릭터_플랑드르_스칼렛 캐릭터_첸 캐릭터_코메이지_코이시 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2098/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2098/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

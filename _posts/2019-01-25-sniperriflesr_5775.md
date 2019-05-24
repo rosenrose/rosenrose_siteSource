@@ -1,7 +1,7 @@
 ---
 title: "까게렇을 기다리며 몸단장을 하는 와카사기히메"
 tags: "야퍄퍄 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5775/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5775/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

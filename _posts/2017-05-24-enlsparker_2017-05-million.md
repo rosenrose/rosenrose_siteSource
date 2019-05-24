@@ -1,7 +1,7 @@
 ---
 title: "MILLION"
 tags: "기타동인지 nayuta"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-05-million/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-05-million/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1041899152199485911" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "Fortunate White"
 tags: "동인지 時間屋"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-05-fortunate-white/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-05-fortunate-white/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1661789806352410449" itemprop="description articleBody">

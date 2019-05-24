@@ -1,7 +1,7 @@
 ---
 title: "영원할 순 없어"
 tags: "동인지 こげコロッケ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_863/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_863/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6799915790516970781" itemprop="description articleBody">

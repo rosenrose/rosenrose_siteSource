@@ -1,7 +1,7 @@
 ---
 title: "힘내라! 후토쨩!"
 tags: "기타동인지 弐維鏡像"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_61/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-08-blog-post_61/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2749262544467367897" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "낙담"
 tags: "6 캐릭터_순호 캐릭터_준코 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1360/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1360/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

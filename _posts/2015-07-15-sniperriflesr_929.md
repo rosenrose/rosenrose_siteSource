@@ -1,7 +1,7 @@
 ---
 title: "환상에 이르는 병"
 tags: "水鏡ひより 미카가미_히요리 氷坂透 히사카_토오루 strangechameleon ストレンジカメレオン 캐릭터_야쿠모_유카리 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_야쿠모_란 이벤트_c76 시리어스_슬픔"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/929/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/929/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "copy drive. 1st"
 tags: "동인지 cloud_palette"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-05-copy-drive-1st/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-copy-drive-1st/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7269781210059437906" itemprop="description articleBody">

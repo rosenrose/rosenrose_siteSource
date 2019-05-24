@@ -1,7 +1,7 @@
 ---
 title: "소악마의 사랑"
 tags: "기타동인지 七色幻想郷"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-10-blog-post_58/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-10-blog-post_58/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3411903210650963165" itemprop="description articleBody">

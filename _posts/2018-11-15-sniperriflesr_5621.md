@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 레이무를 관찰해보았다"
 tags: "逸しん @itusin3 캐릭터_하쿠레이_레이무 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5621/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5621/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

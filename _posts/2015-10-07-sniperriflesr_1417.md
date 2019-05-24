@@ -1,7 +1,7 @@
 ---
 title: "만약 사구메와 세이자가 모녀지간이었다면"
 tags: "仮住まい 캐릭터_키신_사구메 캐릭터_키진_세이자 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1417/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1417/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

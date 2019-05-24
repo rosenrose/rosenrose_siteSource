@@ -1,7 +1,7 @@
 ---
 title: "말아먹는 여동생과 말아먹게 만드는 언니, 결국엔 말아먹는 여동생"
 tags: "ワイテイ 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/4975/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/4975/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

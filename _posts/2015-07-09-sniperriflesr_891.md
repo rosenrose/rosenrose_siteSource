@@ -1,7 +1,7 @@
 ---
 title: "어리광"
 tags: "미샤 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/891/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/891/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

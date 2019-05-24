@@ -1,7 +1,7 @@
 ---
 title: "언니에게 엄한 여동생"
 tags: "ワイテイ @yt__ 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5977/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5977/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

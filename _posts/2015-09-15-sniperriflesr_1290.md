@@ -1,7 +1,7 @@
 ---
 title: "위 공간"
 tags: "futa なべぞこ 나베조코 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1290/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1290/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

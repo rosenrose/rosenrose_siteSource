@@ -1,7 +1,7 @@
 ---
 title: "오래간만에 다시 만난 고산케(御三家) 3명"
 tags: "あやの @ayn398 아야노 캐릭터_하쿠레이_레이무 짤／1컷만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5807/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5807/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

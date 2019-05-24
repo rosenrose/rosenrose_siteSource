@@ -1,7 +1,7 @@
 ---
 title: "코가사가 함께해주는 이야기"
 tags: "캐릭터_타타라_코가사 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2774/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2774/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

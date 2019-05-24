@@ -1,7 +1,7 @@
 ---
 title: "잠드는 천구"
 tags: "桜庭友紀 사쿠라바_유키 pc @kyomoneko_2 ねこ personal_color 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 이벤트_c94 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5776/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5776/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

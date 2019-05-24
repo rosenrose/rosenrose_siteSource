@@ -1,7 +1,7 @@
 ---
 title: "우산의 마음을 쇼우는 몰라"
 tags: "ワイテイ 캐릭터_타타라_코가사 캐릭터_토라마루_쇼 캐릭터_나즈린 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2141/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2141/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

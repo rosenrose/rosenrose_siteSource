@@ -1,7 +1,7 @@
 ---
 title: "하나 아츠메"
 tags: "粟米湯 天災族 합동인지 personal_color なんとか生きてます。"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post_58/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-03-blog-post_58/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5745742476468507594" itemprop="description articleBody">

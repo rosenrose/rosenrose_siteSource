@@ -1,7 +1,7 @@
 ---
 title: "Caramel red"
 tags: "기타동인지 あけのいず"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-caramel-red/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-caramel-red/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-390151826293935694" itemprop="description articleBody">

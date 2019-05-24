@@ -1,7 +1,7 @@
 ---
 title: "집착"
 tags: "ジェット虚無僧 제트코무소 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/694/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/694/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

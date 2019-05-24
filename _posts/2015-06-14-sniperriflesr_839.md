@@ -1,7 +1,7 @@
 ---
 title: "오늘의 요리"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 이메레스"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/839/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/839/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "소쇄한 종자의 영묘기"
 tags: "기타동인지 ばつ印"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-05-blog-post_88/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-05-blog-post_88/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4623374219282772275" itemprop="description articleBody">

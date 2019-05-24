@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 28"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_치르노 울지않아_파르시쨩!"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1543/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1543/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

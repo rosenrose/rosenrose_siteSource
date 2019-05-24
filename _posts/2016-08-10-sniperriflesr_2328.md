@@ -1,7 +1,7 @@
 ---
 title: "승마타기를 하는 코코로쨩"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_하타노_코코로 sexual_theme"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2328/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2328/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

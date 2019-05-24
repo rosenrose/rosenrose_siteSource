@@ -1,7 +1,7 @@
 ---
 title: "키신 사구메의 우울"
 tags: "インド僧 いんどの宮殿! 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1294/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1294/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

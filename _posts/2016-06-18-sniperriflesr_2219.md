@@ -1,7 +1,7 @@
 ---
 title: "너랑 닮았으니까"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2219/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2219/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

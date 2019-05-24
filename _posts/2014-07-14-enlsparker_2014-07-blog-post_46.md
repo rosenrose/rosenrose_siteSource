@@ -1,7 +1,7 @@
 ---
 title: "쿠로사나에!"
 tags: "菊正宗 동인지"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-07-blog-post_46/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-07-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-955193418328457272" itemprop="description articleBody">

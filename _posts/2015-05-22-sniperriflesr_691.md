@@ -1,7 +1,7 @@
 ---
 title: "의외로 소녀다운 유기"
 tags: "ジェット虚無僧 제트코무소 캐릭터_호시구마_유기 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/691/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/691/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

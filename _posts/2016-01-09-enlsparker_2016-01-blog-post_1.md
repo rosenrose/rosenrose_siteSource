@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 연꽃 한 송이"
 tags: "동인지 青"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_1/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-01-blog-post_1/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-506709667248723143" itemprop="description articleBody">

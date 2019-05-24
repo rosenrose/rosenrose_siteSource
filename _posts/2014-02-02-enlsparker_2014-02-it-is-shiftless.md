@@ -1,7 +1,7 @@
 ---
 title: "IT IS SHIFTLESS"
 tags: "동인지 ロケット燃料★21"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-it-is-shiftless/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-02-it-is-shiftless/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5742889354006223231" itemprop="description articleBody">

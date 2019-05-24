@@ -1,7 +1,7 @@
 ---
 title: "구멍에서 잔뜩!"
 tags: "동인지 ロケット燃料★21"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_311/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-02-blog-post_311/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8735505094867385373" itemprop="description articleBody">

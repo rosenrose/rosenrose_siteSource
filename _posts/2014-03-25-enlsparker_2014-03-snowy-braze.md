@@ -1,7 +1,7 @@
 ---
 title: "Snowy Braze"
 tags: "기타동인지 タイニーリトルフェザー"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-03-snowy-braze/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-03-snowy-braze/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3112801367230308122" itemprop="description articleBody">

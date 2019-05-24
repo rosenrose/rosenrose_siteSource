@@ -1,7 +1,7 @@
 ---
 title: "삼각 UFO [ 누에합동 동인지]"
 tags: "水中花火 스이츄하나비 うがつまつき 우가츠마츠키 久林丼 omchicken moon_in_the_dawn fusuma_cafe 캐릭터_나즈린 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 캐릭터_토라마루_쇼 캐릭터_후타츠이와_마미조 캐릭터_타타라_코가사 캐릭터_카소다니_쿄코 캐릭터_샤메이마루_아야 합동-귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/61/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/61/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

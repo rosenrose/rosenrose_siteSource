@@ -1,7 +1,7 @@
 ---
 title: "호러게임에 위축되는 레밀리아의 레밀리아 시점"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1112/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1112/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

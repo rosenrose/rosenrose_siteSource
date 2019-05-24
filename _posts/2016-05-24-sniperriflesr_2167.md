@@ -1,7 +1,7 @@
 ---
 title: "밝혀지는 새로운 사실"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2167/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2167/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

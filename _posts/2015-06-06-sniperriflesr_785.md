@@ -1,7 +1,7 @@
 ---
 title: "VINTAGE"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_이자요이_사쿠야 캐릭터_소악마 캐릭터_레밀리아_스칼렛 캐릭터_홍_메이링 캐릭터_앨리스_마가트로이드 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_히에다노_아큐 캐릭터_나즈린 캐릭터_야쿠모_란 캐릭터_코치야_사나에 캐릭터_콘파쿠_요우무 캐릭터_미야코_요시카 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이센_우동게인_이나바 캐릭터_오노즈카_코마치 캐릭터_파츄리_널릿지 이벤트_c82 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/785/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/785/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

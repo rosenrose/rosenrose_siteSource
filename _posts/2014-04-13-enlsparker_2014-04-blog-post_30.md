@@ -1,7 +1,7 @@
 ---
 title: "어느 점주의 유녀육성 - 패밀리 타임"
 tags: "기타동인지 ぐるぐるどろっぷ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post_30/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-04-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4478591200195814131" itemprop="description articleBody">

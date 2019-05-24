@@ -1,7 +1,7 @@
 ---
 title: "유유묭 서큘레이션"
 tags: "100円外務省 동인지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_626/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_626/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5947794127617068620" itemprop="description articleBody">

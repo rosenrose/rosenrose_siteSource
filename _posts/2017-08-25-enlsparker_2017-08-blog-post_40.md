@@ -1,7 +1,7 @@
 ---
 title: "동방너구리전 폼포코"
 tags: "동인지 小豆粥"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post_40/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-08-blog-post_40/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5040347989430451691" itemprop="description articleBody">

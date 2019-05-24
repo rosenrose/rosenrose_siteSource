@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 21"
 tags: "にーこ 캐릭터_야쿠모_유카리 캐릭터_이나바_테위 캐릭터_첸 캐릭터_미스티아_로렐라이 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_치르노 캐릭터_루미아 캐릭터_미야코_요시카 캐릭터_카와시로_니토리 바이오_놀이"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2713/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2713/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

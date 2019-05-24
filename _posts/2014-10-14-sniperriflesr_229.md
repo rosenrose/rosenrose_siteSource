@@ -1,7 +1,7 @@
 ---
 title: "신경쓰이는 너에게 효과적인 약!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_소악마 캐릭터_상하이 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 이벤트_c82 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/229/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/229/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "붉은 역사에 푸른 향신료 -스파이스- 2"
 tags: "凡 범 rump 캐릭터_히에다노_아큐 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/158/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/158/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

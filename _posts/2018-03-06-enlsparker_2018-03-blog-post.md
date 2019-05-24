@@ -1,7 +1,7 @@
 ---
 title: "우리 집 소악마를 찾습니다"
 tags: "乃屋 동인지"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-03-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9161709759721870421" itemprop="description articleBody">

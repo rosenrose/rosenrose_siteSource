@@ -1,7 +1,7 @@
 ---
 title: "레이센과 이나바"
 tags: "真菜 まな @tearmana_s つるべじ。 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_이나바_테위 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 이벤트_東方合同祭事「例月祭七」 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/4945/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/4945/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

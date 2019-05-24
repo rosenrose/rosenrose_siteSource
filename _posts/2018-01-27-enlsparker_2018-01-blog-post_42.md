@@ -1,7 +1,7 @@
 ---
 title: "타올라라! 욕정 열정 초발정"
 tags: "동인지 ぜのさいど"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_42/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-01-blog-post_42/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-182823194054404112" itemprop="description articleBody">

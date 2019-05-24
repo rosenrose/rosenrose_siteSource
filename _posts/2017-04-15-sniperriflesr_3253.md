@@ -1,7 +1,7 @@
 ---
 title: "판결"
 tags: "エンジェルダスト abyssdragon 캐릭터_시키에이키_야마나자두 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3253/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3253/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

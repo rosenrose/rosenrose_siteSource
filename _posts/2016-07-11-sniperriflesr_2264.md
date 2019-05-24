@@ -1,7 +1,7 @@
 ---
 title: "죽음을 옮기는 종소리"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_이나바_테위 캐릭터_모리치카_린노스케 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2264/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2264/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

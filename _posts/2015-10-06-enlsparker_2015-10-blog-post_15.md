@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 회고록"
 tags: "동인지 demour402"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_15/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-10-blog-post_15/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7210944514860024186" itemprop="description articleBody">

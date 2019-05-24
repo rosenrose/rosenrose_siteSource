@@ -1,7 +1,7 @@
 ---
 title: "망향 아라카르트"
 tags: "동인지 薬味さらい"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-06-blog-post_71/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-06-blog-post_71/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3774074581070322991" itemprop="description articleBody">

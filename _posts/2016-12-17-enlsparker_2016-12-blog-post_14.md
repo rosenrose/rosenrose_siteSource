@@ -1,7 +1,7 @@
 ---
 title: "아마테라스"
 tags: "동인지 carcharias!"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_14/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-12-blog-post_14/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2938070643380543188" itemprop="description articleBody">

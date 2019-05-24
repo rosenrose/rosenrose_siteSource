@@ -1,7 +1,7 @@
 ---
 title: "외톨이 텐시님"
 tags: "うだ_まこと 우다_마코토 honey_bee 캐릭터_히나나위_텐시 캐릭터_키리사메_마리사 이벤트_サンシャインクリエイション_41 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/506/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/506/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

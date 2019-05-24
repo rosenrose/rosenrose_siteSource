@@ -1,7 +1,7 @@
 ---
 title: "플랑쨩 대분주!"
 tags: "まめでんきゅう 마메덴큐 garimpeiro 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 이벤트_紅楼夢6 이벤트_홍루몽_6 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/299/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/299/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

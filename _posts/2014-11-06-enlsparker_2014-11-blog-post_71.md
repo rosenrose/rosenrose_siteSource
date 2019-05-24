@@ -1,7 +1,7 @@
 ---
 title: "욕심꾸러기 고스트"
 tags: "동인지 アンニュイ赤蛸"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_71/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-11-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5591692548862227878" itemprop="description articleBody">

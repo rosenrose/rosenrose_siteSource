@@ -1,7 +1,7 @@
 ---
 title: "HOTEL 지령전"
 tags: "동인지 平成ストロベリー"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-08-hotel/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-08-hotel/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7650134548972698629" itemprop="description articleBody">

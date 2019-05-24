@@ -1,7 +1,7 @@
 ---
 title: "레미는 코타츠에서 둥글어진다"
 tags: "동인지 からあげ屋さん"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_44/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-10-blog-post_44/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8839311507363826644" itemprop="description articleBody">

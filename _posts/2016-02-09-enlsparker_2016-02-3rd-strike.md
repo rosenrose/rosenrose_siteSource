@@ -1,7 +1,7 @@
 ---
 title: "크레이지 레이무 - 3rd STRIKE"
 tags: "동인지 よつみわーくす"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-02-3rd-strike/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-02-3rd-strike/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6050056974118656917" itemprop="description articleBody">

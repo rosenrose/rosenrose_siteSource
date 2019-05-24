@@ -1,7 +1,7 @@
 ---
 title: "토요히메에게 모자를 씌워주는 욧쨩"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3104/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3104/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

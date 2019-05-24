@@ -1,7 +1,7 @@
 ---
 title: "감주전에서 진 후에 클라운피스와 헤카님의 망상 만화"
 tags: "なぎと げるまにうむ 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3108/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3108/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

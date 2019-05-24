@@ -1,7 +1,7 @@
 ---
 title: "용서할 수 없는 걸 용서할 수 있어야 선인"
 tags: "快楽園梅香 東ガル会 캐릭터_하쿠레이_레이무 캐릭터_이바라키_카센 캐릭터_샤메이마루_아야 캐릭터_미스티아_로렐라이 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_오노즈카_코마치 캐릭터_카미시라사와_케이네 캐릭터_히에다노_아큐 캐릭터_이나바_테위 이벤트_c80 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/756/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/756/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

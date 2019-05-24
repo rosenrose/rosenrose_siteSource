@@ -1,7 +1,7 @@
 ---
 title: "우동쨩과 나 (전/후)"
 tags: "秋ら 캐릭터_순호 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2206/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2206/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

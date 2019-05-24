@@ -1,7 +1,7 @@
 ---
 title: "비스킷의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2807/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2807/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

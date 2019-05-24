@@ -1,7 +1,7 @@
 ---
 title: "부드러운 뺨"
 tags: "るーらら @luurara64 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 캐릭터_히나나위_텐시 캐릭터_요리가미_시온 시리어스_밝음"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5971/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5971/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "환상향 정의집행"
 tags: "동인지 uzbl!"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-11-blog-post_26/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-11-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2238510556419404090" itemprop="description articleBody">

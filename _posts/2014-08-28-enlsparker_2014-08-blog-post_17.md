@@ -1,7 +1,7 @@
 ---
 title: "소녀부라리토 전왕중"
 tags: "동인지 さやかた紅茶館"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-08-blog-post_17/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-08-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2963537924993880021" itemprop="description articleBody">

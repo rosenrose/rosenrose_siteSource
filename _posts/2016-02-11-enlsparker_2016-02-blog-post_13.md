@@ -1,7 +1,7 @@
 ---
 title: "여름의 야쿠모가"
 tags: "기타동인지 ぐるめ堂"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-02-blog-post_13/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-02-blog-post_13/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7501962309375025336" itemprop="description articleBody">

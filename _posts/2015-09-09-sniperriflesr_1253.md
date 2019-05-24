@@ -1,7 +1,7 @@
 ---
 title: "사구메님의 능력이란 이런것?"
 tags: "futa なべぞこ 나베조코 캐릭터_키신_사구메 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1253/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1253/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

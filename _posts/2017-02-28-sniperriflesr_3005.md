@@ -1,7 +1,7 @@
 ---
 title: "소녀 검문중"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_야고코로_에이린 캐릭터_히지리_뱌쿠렌 캐릭터_야쿠모_유카리 캐릭터_야사카_카나코 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/3005/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/3005/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

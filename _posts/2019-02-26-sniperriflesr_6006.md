@@ -1,7 +1,7 @@
 ---
 title: "텐시온!"
 tags: "水鏡ひより 미카가미_히요리 @_hiyoko_ ストカメ 캐릭터_스쿠나_신묘마루 캐릭터_요리가미_시온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/6006/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/6006/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

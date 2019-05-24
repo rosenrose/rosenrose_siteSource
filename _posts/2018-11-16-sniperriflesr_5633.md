@@ -1,7 +1,7 @@
 ---
 title: "비봉 나이트메어 다이어리 만화"
 tags: "ㅇㅇ 124．54 캐릭터_우사미_스미레코 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5633/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5633/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

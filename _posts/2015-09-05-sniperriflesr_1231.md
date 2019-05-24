@@ -1,7 +1,7 @@
 ---
 title: "우리들은 앞으로도 쭈욱 친구야 ♥ / 물론 보고 있지 않는다"
 tags: "チマq たこ 캐릭터_레이센_우동게인_이나바 캐릭터_순호 캐릭터_준코 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1231/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1231/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

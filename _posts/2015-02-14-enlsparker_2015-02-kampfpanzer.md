@@ -1,7 +1,7 @@
 ---
 title: "KAmPfPAnzer"
 tags: "동인지 髑髏株式公司"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-02-kampfpanzer/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-02-kampfpanzer/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6315156613536350802" itemprop="description articleBody">

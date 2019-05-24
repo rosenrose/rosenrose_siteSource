@@ -1,7 +1,7 @@
 ---
 title: "미확인 사이콜로지"
 tags: "동인지 ふすま喫茶"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-08-blog-post_21/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-08-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-241988055795792918" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "마녀의 존엄"
 tags: "동인지 sugilight"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_14/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-08-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6699262256405253693" itemprop="description articleBody">

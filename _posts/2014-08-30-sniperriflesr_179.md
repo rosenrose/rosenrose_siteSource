@@ -1,7 +1,7 @@
 ---
 title: "예상치 못한 세번째 만남"
 tags: "ほのかん拝 honokan 호노칸_오가무 faintly_citrus 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/179/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/179/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

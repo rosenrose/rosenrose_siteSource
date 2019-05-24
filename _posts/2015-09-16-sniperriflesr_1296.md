@@ -1,7 +1,7 @@
 ---
 title: "달이 떴던 밤의 일"
 tags: "フウザサ 후우자사 風前ランプ 캐릭터_후지와라노_모코우 시리어스_슬픔"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1296/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1296/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

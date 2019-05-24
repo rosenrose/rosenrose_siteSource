@@ -1,7 +1,7 @@
 ---
 title: "백귀요란 (일부)"
 tags: "동인지 かるーあみるく さくsaku亭"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_326/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_326/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7481854427054153373" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "여름 날 사랑의 불꽃놀이"
 tags: "おいなり 오이나리 天災族 천재족 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 이벤트_c86 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3191/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3191/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

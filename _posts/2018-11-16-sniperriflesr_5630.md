@@ -1,7 +1,7 @@
 ---
 title: "할로윈 짤"
 tags: "ㅇㅇ 121．137 캐릭터_순호 캐릭터_콘파쿠_요우무 캐릭터_이자요이_사쿠야 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5630/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5630/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

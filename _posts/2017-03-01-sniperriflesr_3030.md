@@ -1,7 +1,7 @@
 ---
 title: "찍찍"
 tags: "春夏アキト 하루나츠_아키토 하루카_아키토 haruka_akito happy_flame_time 캐릭터_코치야_사나에 캐릭터_나즈린 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3030/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3030/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "My little sister [ 나의 여동생 ]"
 tags: "ハトリクミ 하토리쿠미 h2o 이벤트_c84 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/285/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/285/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

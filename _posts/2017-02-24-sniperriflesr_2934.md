@@ -1,7 +1,7 @@
 ---
 title: "고통을 돌려줌"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_하쿠레이_레이무 sexual_theme"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2934/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2934/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

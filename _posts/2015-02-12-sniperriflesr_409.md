@@ -1,7 +1,7 @@
 ---
 title: "카구야가 홍마관의 메이드가 되었다고 합니다"
 tags: "ボディマハッタヤ銀河 보디마하타야_은하7 ボディマハッタ屋 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 이벤트_c80 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/409/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/409/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

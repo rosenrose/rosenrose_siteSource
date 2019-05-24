@@ -1,7 +1,7 @@
 ---
 title: "2인 3각"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_오노즈카_코마치 캐릭터_와카사기히메 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/816/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/816/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

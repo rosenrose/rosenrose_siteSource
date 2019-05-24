@@ -1,7 +1,7 @@
 ---
 title: "우뉴?"
 tags: "미샤 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/890/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/890/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

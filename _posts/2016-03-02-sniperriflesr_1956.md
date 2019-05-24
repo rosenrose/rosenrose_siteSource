@@ -1,7 +1,7 @@
 ---
 title: "마리사 천국"
 tags: "あまず 아마즈 amaz 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_앨리스_마가트로이드 캐릭터_카와시로_니토리 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 캐릭터_코치야_사나에 이벤트_例大祭_12 이벤트_예대제_12 합동-귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1956/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1956/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

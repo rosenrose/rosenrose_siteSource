@@ -1,7 +1,7 @@
 ---
 title: "귀신"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 시리어스_진지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5841/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5841/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

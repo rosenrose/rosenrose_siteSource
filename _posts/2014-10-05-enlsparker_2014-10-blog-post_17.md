@@ -1,7 +1,7 @@
 ---
 title: "청고우독"
 tags: "합동인지"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-10-blog-post_17/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-10-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4778067330786639100" itemprop="description articleBody">

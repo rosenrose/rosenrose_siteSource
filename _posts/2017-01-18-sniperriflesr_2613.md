@@ -1,7 +1,7 @@
 ---
 title: "내가 믿는 것이 있어"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_무라사_미나미츠 급식첸_만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2613/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2613/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

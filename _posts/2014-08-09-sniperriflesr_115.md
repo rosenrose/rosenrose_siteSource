@@ -1,7 +1,7 @@
 ---
 title: "「달에소원을 ·2」"
 tags: "시리어스_진지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/115/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/115/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

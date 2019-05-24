@@ -1,7 +1,7 @@
 ---
 title: "주정뱅이 클럽 3"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1110/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1110/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 16"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_야고코로_에이린 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 울지않아_파르시쨩!"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1244/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1244/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "little bug＆little flower"
 tags: "동인지 梅の実画報"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-07-little-buglittle-flower/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-07-little-buglittle-flower/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-857154302848499418" itemprop="description articleBody">

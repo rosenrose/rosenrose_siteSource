@@ -1,7 +1,7 @@
 ---
 title: "카엔뵤"
 tags: "챠도 茶戸 徒步二分 도보이분 캐릭터_후타츠이와_마미조 캐릭터_하타노_코코로 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_하쿠레이_레이무 캐릭터_히지리_뱌쿠렌 캐릭터_모노노베노_후토 캐릭터_토라마루_쇼 이벤트_예대제_11 이벤트_例大祭11 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/270/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/270/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

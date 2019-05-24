@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 봄의 오랫동안"
 tags: "동인지 青"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_666/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_666/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6004190481237287699" itemprop="description articleBody">

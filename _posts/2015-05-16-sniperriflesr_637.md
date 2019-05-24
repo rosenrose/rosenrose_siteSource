@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 하타노 코코로"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_하타노_코코로 반역의_세이자"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/637/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/637/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

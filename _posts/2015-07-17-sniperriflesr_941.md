@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 21화"
 tags: "みつもと 미츠모토 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 사랑하는_야작_[完]"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/941/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/941/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "달이 내려오는 길"
 tags: "くま 赤色バニラ 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 시리어스_진지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/118/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/118/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "개조"
 tags: "まくわうに 마쿠와우니 うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2641/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2641/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "이쿠씨는 마이페이스"
 tags: "futa なべぞこ 나베조코 캐릭터_나가에_이쿠 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/908/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/908/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

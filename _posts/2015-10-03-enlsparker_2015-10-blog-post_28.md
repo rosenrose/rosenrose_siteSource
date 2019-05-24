@@ -1,7 +1,7 @@
 ---
 title: "두 사람 사이의 마음과 열과"
 tags: "동인지 色は匂えど"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-10-blog-post_28/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-10-blog-post_28/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2329769617979257712" itemprop="description articleBody">

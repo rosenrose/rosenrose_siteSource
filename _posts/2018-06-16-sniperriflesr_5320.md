@@ -1,7 +1,7 @@
 ---
 title: "시온쨩의 소유권을 주장하는 조온쨩"
 tags: "手負い @teoi2 手遅れ堂 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5320/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5320/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

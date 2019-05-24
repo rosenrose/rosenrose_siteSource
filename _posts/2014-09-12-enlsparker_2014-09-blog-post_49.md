@@ -1,7 +1,7 @@
 ---
 title: "소가노 토지코는 말하지 않는다 - 화의 장"
 tags: "동인지 carcharias!"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_49/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7845161415273966835" itemprop="description articleBody">

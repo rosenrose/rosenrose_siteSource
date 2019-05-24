@@ -1,7 +1,7 @@
 ---
 title: "Niente x Distanza"
 tags: "동인지 天災族"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-03-niente-x-distanza/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-03-niente-x-distanza/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2757309710206067048" itemprop="description articleBody">

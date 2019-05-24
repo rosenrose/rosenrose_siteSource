@@ -1,7 +1,7 @@
 ---
 title: "요괴의 산의 세분을 데려와봤습니다"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_샤메이마루_아야 캐릭터_코치야_사나에 캐릭터_카와시로_니토리 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1997/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1997/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

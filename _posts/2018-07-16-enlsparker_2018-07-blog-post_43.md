@@ -1,7 +1,7 @@
 ---
 title: "너에게로 향하는 문"
 tags: "동인지 赤色バニラ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_43/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-07-blog-post_43/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4567686977301288188" itemprop="description articleBody">

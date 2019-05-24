@@ -1,7 +1,7 @@
 ---
 title: "happy?"
 tags: "동인지 赤橙"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-03-happy/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-03-happy/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6832849608517134217" itemprop="description articleBody">

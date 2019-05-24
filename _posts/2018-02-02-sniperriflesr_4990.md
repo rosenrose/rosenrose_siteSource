@@ -1,7 +1,7 @@
 ---
 title: "위협적인 코가사"
 tags: "しお @shioshio1600 ふたつまみ 캐릭터_타타라_코가사 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4990/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/4990/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

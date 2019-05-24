@@ -1,7 +1,7 @@
 ---
 title: "사이좋게 싸우지 않는"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_토요사토미미노_미코 캐릭터_나즈린 캐릭터_소가노_토지코 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2497/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2497/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

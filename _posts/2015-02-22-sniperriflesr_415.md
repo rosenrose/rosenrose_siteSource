@@ -1,7 +1,7 @@
 ---
 title: "Arc-en-ciel 마법의 숲의 쿠튀리에르"
 tags: "こぞう 코조 少年少女隊 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_치르노 캐릭터_콘파쿠_요우무 이벤트_紅楼夢10 이벤트_홍루몽_10 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/415/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/415/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

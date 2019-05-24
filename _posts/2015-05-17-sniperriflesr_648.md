@@ -1,7 +1,7 @@
 ---
 title: "하트풀 모리야가 만화"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 시리어스_진지"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/648/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/648/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

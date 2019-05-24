@@ -1,7 +1,7 @@
 ---
 title: "돌아오는 여름 애태우는 사랑은 신의 꽃웃음"
 tags: "동인지 panic_puppet!"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_98/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-10-blog-post_98/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7525876615681943986" itemprop="description articleBody">

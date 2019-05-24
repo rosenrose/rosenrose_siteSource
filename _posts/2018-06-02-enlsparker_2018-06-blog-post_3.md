@@ -1,7 +1,7 @@
 ---
 title: "그대는 새장 속 귀여운 새"
 tags: "동인지 poprication"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_3/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-06-blog-post_3/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1933227136210180221" itemprop="description articleBody">

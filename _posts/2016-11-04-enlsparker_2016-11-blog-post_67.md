@@ -1,7 +1,7 @@
 ---
 title: "낮과 밤의 경계"
 tags: "동인지 シャこ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_67/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-11-blog-post_67/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2420033092970264016" itemprop="description articleBody">

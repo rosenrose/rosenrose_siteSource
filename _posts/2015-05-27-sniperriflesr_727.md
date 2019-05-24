@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 레이센 & 테위"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_키진_세이자 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 반역의_세이자"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/727/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/727/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

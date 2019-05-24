@@ -1,7 +1,7 @@
 ---
 title: "자존심"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5774/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5774/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

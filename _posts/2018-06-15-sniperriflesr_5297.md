@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 란 vs. 소녀만화"
 tags: "たまはな @tamakohanabi アメノハナビ 캐릭터_모토오리_코스즈 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5297/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5297/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

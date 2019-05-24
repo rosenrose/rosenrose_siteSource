@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 번외 - 초콜릿의 날에"
 tags: "동인지 青"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_85/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-05-blog-post_85/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4812412150749826189" itemprop="description articleBody">

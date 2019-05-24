@@ -1,7 +1,7 @@
 ---
 title: "괴안통로의 이십사시"
 tags: "ベル助 真田源次郎ベル助 @berusuke_sanada 베루스케 ベルの巣 캐릭터_키신_사구메 캐릭터_도레미_스위트 캐릭터_이부키_스이카 캐릭터_코메이지_사토리 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 이벤트_c91 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5724/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5724/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

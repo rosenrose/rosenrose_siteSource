@@ -1,7 +1,7 @@
 ---
 title: "세인트&세이가"
 tags: "동인지 さやかた紅茶館"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_564/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_564/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1778475293910846557" itemprop="description articleBody">

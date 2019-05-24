@@ -1,7 +1,7 @@
 ---
 title: "아큐 vs 옷키나"
 tags: "インド僧 いんどの宮殿! 캐릭터_마타라_오키나 캐릭터_히에다노_아큐 캐릭터_이터니티_라바 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/4618/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/4618/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

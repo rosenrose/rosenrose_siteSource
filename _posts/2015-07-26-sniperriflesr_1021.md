@@ -1,7 +1,7 @@
 ---
 title: "꿈, 꿈, 꿈을 꾸지 말거라"
 tags: "ひそな スアリテスミ 캐릭터_키진_세이자 캐릭터_호쥬_누에 캐릭터_스쿠나_신묘마루 캐릭터_하쿠레이_레이무 캐릭터_무라사_미나미츠 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_히지리_뱌쿠렌 캐릭터_키리사메_마리사 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_후타츠이와_마미조 이벤트_例大祭_11 이벤트_예대제_11 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1021/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1021/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

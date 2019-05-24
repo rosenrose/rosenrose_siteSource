@@ -1,7 +1,7 @@
 ---
 title: "세이란이 링고 찧는 만화"
 tags: "d仔 캐릭터_세이란 캐릭터_링고 왜곡된_사랑"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1398/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1398/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

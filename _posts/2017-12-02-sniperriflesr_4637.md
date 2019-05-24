@@ -1,7 +1,7 @@
 ---
 title: "에링모코 무릎배게"
 tags: "anoira noira @anoira_ni ano_低浮上 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/4637/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/4637/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

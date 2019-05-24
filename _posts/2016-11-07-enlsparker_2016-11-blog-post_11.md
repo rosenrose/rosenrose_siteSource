@@ -1,7 +1,7 @@
 ---
 title: "오토메 모럴리즘"
 tags: "동인지 ギロチン銀座"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-11-blog-post_11/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-11-blog-post_11/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7441258777527519748" itemprop="description articleBody">

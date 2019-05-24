@@ -1,7 +1,7 @@
 ---
 title: "혹시 오늘 내가 죽는다면"
 tags: "もりのほん 모리노혼 숲속의_책 morinohon forestrest 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_카쿠_세이가 캐릭터_오노즈카_코마치 이벤트_c87 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/375/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/375/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

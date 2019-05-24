@@ -1,7 +1,7 @@
 ---
 title: "그걸로 됐어"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_키리사메_마리사 캐릭터_이부키_스이카 캐릭터_하쿠레이_레이무 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2608/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2608/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

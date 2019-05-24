@@ -1,7 +1,7 @@
 ---
 title: "한밤중의 Boy Meets Girl"
 tags: "동인지 ビビットグレー"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-boy-meets-girl/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-boy-meets-girl/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1556264701184617855" itemprop="description articleBody">

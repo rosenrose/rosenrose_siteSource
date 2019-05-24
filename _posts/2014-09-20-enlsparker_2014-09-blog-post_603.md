@@ -1,7 +1,7 @@
 ---
 title: "오늘은 산책"
 tags: "동인지 徒歩二分"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_603/001.JPG"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_603/001.JPG"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5233149172716966260" itemprop="description articleBody">

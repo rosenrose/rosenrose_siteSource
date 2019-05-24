@@ -1,7 +1,7 @@
 ---
 title: "유행하는건 전력으로 사용하는 스타일. 히지리 바쿠렌"
 tags: "ジェット虚無僧 제트코무소 com僧．com 캐릭터_토라마루_쇼 캐릭터_카소다니_쿄코 캐릭터_히지리_뱌쿠렌 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3109/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3109/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "플라워 걸에게 꽃다발을"
 tags: "동인지 有機化合物"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_60/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_60/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8468182617392021734" itemprop="description articleBody">

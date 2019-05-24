@@ -1,7 +1,7 @@
 ---
 title: "My monster with lovely green eyes!"
 tags: "동인지 ロケット燃料★21"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-05-my-monster-with-lovely-green-eyes/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-my-monster-with-lovely-green-eyes/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8783631898848813741" itemprop="description articleBody">

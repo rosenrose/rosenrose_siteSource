@@ -1,7 +1,7 @@
 ---
 title: "부장사체"
 tags: "동인지 とにかく曲がる"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_86/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-01-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3652529411100723506" itemprop="description articleBody">

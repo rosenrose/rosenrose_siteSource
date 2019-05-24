@@ -1,7 +1,7 @@
 ---
 title: "동방소극장 - 머플러 메이링씨"
 tags: "동인지 わいるどらびっつ"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_72/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_72/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7437686923465234708" itemprop="description articleBody">

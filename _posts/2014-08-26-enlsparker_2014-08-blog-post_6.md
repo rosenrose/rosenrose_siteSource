@@ -1,7 +1,7 @@
 ---
 title: "빨강 미샤구지, 파랑 미샤구지, 노랑 미샤구지"
 tags: "동인지 az"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_6/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-08-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5209912108752344791" itemprop="description articleBody">

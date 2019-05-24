@@ -1,7 +1,7 @@
 ---
 title: "홍루몽에 나와야했던 사구메쨩이 메밀국수를 먹고 있을 뿐인 1컷 만화를 그려봤다"
 tags: "皆村春樹 캐릭터_키신_사구메 [번역]_짤"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1772/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1772/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

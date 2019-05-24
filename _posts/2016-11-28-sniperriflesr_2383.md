@@ -1,7 +1,7 @@
 ---
 title: "당신에게 드레스를"
 tags: "miata 캐릭터_순호 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2383/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2383/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

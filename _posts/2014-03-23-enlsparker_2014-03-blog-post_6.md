@@ -1,7 +1,7 @@
 ---
 title: "레밀리아와 겨울불꽃"
 tags: "동인지 ぽぽぽ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-03-blog-post_6/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-03-blog-post_6/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4492858081685500367" itemprop="description articleBody">

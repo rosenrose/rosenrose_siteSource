@@ -1,7 +1,7 @@
 ---
 title: "Fortunate White"
 tags: "柳月湊 時間屋 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 이벤트_c83 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1818/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1818/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

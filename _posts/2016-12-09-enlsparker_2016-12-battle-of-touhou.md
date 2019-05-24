@@ -1,7 +1,7 @@
 ---
 title: "BATTLE OF TOUHOU"
 tags: "동인지 蒼空市場"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2016-12-battle-of-touhou/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-12-battle-of-touhou/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2406648904097893181" itemprop="description articleBody">

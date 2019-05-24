@@ -1,7 +1,7 @@
 ---
 title: "그렇게 있을지어다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_코메이지_코이시 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2510/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2510/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

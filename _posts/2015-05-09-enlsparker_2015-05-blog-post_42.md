@@ -1,7 +1,7 @@
 ---
 title: "흡혈소녀는 꿈을 꾼다"
 tags: "동인지 pocapoca"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_42/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-05-blog-post_42/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8268960164034903868" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "환상을 자아내는 나날 ~ 환상소녀들의 찻자리 그 하나 ~"
 tags: "幻想店長 환상점장 幻想工務店 환상공무점 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_레이센_우동게인_이나바 캐릭터_코치야_사나에 이벤트_c81 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/849/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/849/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

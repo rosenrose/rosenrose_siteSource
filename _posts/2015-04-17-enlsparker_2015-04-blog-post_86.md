@@ -1,7 +1,7 @@
 ---
 title: "와일드 미라클 카펫"
 tags: "동인지 かるーあみるく"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_86/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-04-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1561892507672216558" itemprop="description articleBody">

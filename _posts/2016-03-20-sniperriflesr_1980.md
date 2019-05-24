@@ -1,7 +1,7 @@
 ---
 title: "도레사구의 식문화"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1980/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1980/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

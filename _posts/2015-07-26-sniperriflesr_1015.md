@@ -1,7 +1,7 @@
 ---
 title: "포인트 카드 있으세요?"
 tags: "北斗 북두 サイチル 사이칠 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_사이교우지_유유코 이벤트_例大祭8 이벤트_예대제_8 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1015/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1015/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

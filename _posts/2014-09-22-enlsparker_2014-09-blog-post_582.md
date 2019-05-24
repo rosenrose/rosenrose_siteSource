@@ -1,7 +1,7 @@
 ---
 title: "러브레터"
 tags: "동인지 よぬりめ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_582/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_582/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6616684887486799739" itemprop="description articleBody">

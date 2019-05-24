@@ -1,7 +1,7 @@
 ---
 title: "격주 언리미티드 파라다이스"
 tags: "동인지 rainbow_vanilla"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_66/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-11-blog-post_66/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6774522013321911999" itemprop="description articleBody">

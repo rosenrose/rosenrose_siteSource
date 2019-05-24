@@ -1,7 +1,7 @@
 ---
 title: "쓰레기통 뒤지는 세이쟈"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5693/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5693/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

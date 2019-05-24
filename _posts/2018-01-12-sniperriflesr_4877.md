@@ -1,7 +1,7 @@
 ---
 title: "테위, 레이센 신년인사"
 tags: "イトウゆーじ 이토_유우지 110-groove 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_이나바_테위 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/4877/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/4877/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

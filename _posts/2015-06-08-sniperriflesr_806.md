@@ -1,7 +1,7 @@
 ---
 title: "끈적거리는 묘미"
 tags: "futa なべぞこ 나베조코 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/806/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/806/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

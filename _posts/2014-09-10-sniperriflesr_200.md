@@ -1,7 +1,7 @@
 ---
 title: "항구와 은하 그리고 나무삼"
 tags: "乾ぬい 이누이누이 蓮華座 연화좌 캐릭터_나즈린 캐릭터_호쥬_누에 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 캐릭터_히지리_뱌쿠렌 캐릭터_운잔 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/200/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/200/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

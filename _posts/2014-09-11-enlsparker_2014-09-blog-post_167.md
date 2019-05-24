@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 레이무가 마인크래프트 들이!?"
 tags: "「自動販売機」 동인지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_167/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_167/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2294084230873638932" itemprop="description articleBody">

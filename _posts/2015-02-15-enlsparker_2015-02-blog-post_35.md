@@ -1,7 +1,7 @@
 ---
 title: "아마즈믹스"
 tags: "동인지 あまず"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_35/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-02-blog-post_35/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8673965183912122267" itemprop="description articleBody">

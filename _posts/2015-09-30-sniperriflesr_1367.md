@@ -1,7 +1,7 @@
 ---
 title: "지금 이대로"
 tags: "もりのほん 모리노혼 숲속의_책 morinohon forestrest 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 이벤트_例大祭_12 이벤트_예대제_12 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1367/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1367/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

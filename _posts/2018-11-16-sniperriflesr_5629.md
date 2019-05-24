@@ -1,7 +1,7 @@
 ---
 title: "명함"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5629/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5629/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

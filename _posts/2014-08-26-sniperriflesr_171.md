@@ -1,7 +1,7 @@
 ---
 title: "달 없는 밤에"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_치르노 이벤트_c74 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/171/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/171/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

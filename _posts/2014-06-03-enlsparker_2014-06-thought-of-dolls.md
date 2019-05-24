@@ -1,7 +1,7 @@
 ---
 title: "Thought of Dolls"
 tags: "동인지 葉庭の出店"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-06-thought-of-dolls/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-06-thought-of-dolls/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7151784707898367225" itemprop="description articleBody">

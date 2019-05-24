@@ -1,7 +1,7 @@
 ---
 title: "귀여운 얼굴하고"
 tags: "じぜる 지제루 캐릭터_히나나위_텐시 캐릭터_나가에_이쿠 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2457/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2457/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

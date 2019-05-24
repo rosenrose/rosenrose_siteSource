@@ -1,7 +1,7 @@
 ---
 title: "비봉되는 생활"
 tags: "futa @futa313255 なべぞこ 나베조코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_야쿠모_유카리 이벤트_博麗神社_例大祭 이벤트_第15回 이벤트_예대제_15 이벤트_例大祭15 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5375/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5375/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "카게로쟝의 케모노 속성에 대한 고민 만화 번외편"
 tags: "たまはな @tamakohanabi アメノハナビ 캐릭터_세키반키 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5323/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5323/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

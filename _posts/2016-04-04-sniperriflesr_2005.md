@@ -1,7 +1,7 @@
 ---
 title: "맥을 키우고 싶은 사구메님"
 tags: "じぜる 지제루 캐릭터_키신_사구메 캐릭터_링고 캐릭터_세이란 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2005/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2005/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

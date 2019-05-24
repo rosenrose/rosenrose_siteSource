@@ -1,7 +1,7 @@
 ---
 title: "웃는 여신은 꿈 속에서"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_도레미_스위트 캐릭터_키신_사구메 시리어스_진지"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2221/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2221/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

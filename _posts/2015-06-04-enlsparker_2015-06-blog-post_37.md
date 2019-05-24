@@ -1,7 +1,7 @@
 ---
 title: "위크즈 킹덤"
 tags: "동인지 winter_scenery"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-06-blog-post_37/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-06-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9106192254243340282" itemprop="description articleBody">

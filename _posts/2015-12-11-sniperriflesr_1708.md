@@ -1,7 +1,7 @@
 ---
 title: "좋아하는 이성 타입은? ( 일상에서/침대위에서 ) □자기편"
 tags: "ハマー 헤머 サンセットビーチ [번역]_4컷／단편만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1708/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1708/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b>일상에서</b><br/></p>

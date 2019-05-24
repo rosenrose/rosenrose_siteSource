@@ -1,7 +1,7 @@
 ---
 title: "반짝이는 것"
 tags: "至る イスタンブール・ハイソックス 캐릭터_호라이산_카구야 캐릭터_야사카_카나코 캐릭터_레이우지_우츠호 캐릭터_오쿠 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3094/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3094/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

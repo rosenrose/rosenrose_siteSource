@@ -1,7 +1,7 @@
 ---
 title: "웃는 얼굴이 보고싶으니까"
 tags: "동인지 鈴鳴堂"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_18/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5183532253715740968" itemprop="description articleBody">

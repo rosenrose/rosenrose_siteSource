@@ -1,7 +1,7 @@
 ---
 title: "훌쩍"
 tags: "ひのき林 히노키_바야시 しおゆで 시오유데 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_플랑드르_스칼렛 이벤트_c77 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/922/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/922/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

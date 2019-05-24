@@ -1,7 +1,7 @@
 ---
 title: "양산과 밤연회의 옷"
 tags: "鳥居すみ airdrop 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_야쿠모_유카리 이벤트_境界から視えた外界 시리어스_진지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1727/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1727/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

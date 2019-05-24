@@ -1,7 +1,7 @@
 ---
 title: "모르는 너"
 tags: "동인지 とにかく曲がる"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_16/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-10-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5293782904427914407" itemprop="description articleBody">

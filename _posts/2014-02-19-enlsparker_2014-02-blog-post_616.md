@@ -1,7 +1,7 @@
 ---
 title: "꼬마플랑"
 tags: "동인지 まぜもの"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-02-blog-post_616/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-02-blog-post_616/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2628986311472157345" itemprop="description articleBody">

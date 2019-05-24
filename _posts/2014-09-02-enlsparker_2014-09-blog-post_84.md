@@ -1,7 +1,7 @@
 ---
 title: "후지와라 모코우라고 하는 소녀"
 tags: "동인지 あみだ屑"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_84/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_84/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4429110557744858549" itemprop="description articleBody">

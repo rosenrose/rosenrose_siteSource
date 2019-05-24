@@ -1,7 +1,7 @@
 ---
 title: "후지와라노 모코우는 용납못해"
 tags: "동인지 領域離脱"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-03-blog-post_89/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-03-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-694804787108759940" itemprop="description articleBody">

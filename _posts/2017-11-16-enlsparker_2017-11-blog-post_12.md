@@ -1,7 +1,7 @@
 ---
 title: "녹색은 눈에 좋다"
 tags: "동인지 せーてんのへきれき"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-11-blog-post_12/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-11-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7379262886772757898" itemprop="description articleBody">

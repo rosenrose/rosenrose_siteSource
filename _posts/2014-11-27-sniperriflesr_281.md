@@ -1,7 +1,7 @@
 ---
 title: "달과 나비와 검은 메이드"
 tags: "mizuse_kiseki みずせ希跡 미즈세_키세키 sapuri さぷり 사푸리 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 이벤트_博麗神社_例大祭_06 이벤트_하쿠레이_신사_예대제_6 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/281/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/281/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

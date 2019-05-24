@@ -1,7 +1,7 @@
 ---
 title: "신간 한 권 부탁드립니다"
 tags: "北斗 북두 サイチル 사이칠 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_모토오리_코스즈 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 이벤트_c83 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/371/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/371/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

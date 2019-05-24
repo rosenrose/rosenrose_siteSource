@@ -1,7 +1,7 @@
 ---
 title: "흙 묻은 발"
 tags: "동인지 武者プルーン"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_40/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-04-blog-post_40/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6182397871409485702" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "경계에서 피는 꽃 - 상편"
 tags: "동인지 ハンモック"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_38/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-08-blog-post_38/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1261071093786809144" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "코이시 close"
 tags: "동인지 まるしき"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-06-close/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-06-close/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6753754589055712673" itemprop="description articleBody">

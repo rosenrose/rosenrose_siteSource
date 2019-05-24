@@ -1,7 +1,7 @@
 ---
 title: "세상에서 제일 멋진 언니 !!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_이자요이_사쿠야 캐릭터_상하이 캐릭터_앨리스_마가트로이드 캐릭터_홍_메이링 이벤트_c85 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/490/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/490/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

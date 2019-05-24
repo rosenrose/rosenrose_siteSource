@@ -1,7 +1,7 @@
 ---
 title: "노 모어 배드엔드"
 tags: "동인지 アンニュイ赤蛸"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_34/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-07-blog-post_34/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2068314639593076652" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "Acoustic Blue Hour"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_모리치카_린노스케 캐릭터_키리사메_마리사 이벤트_c79 시리어스_밝음"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/136/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/136/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "붉은 혈족"
 tags: "동인지 strange_chameleon"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_67/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-08-blog-post_67/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7225755888225929144" itemprop="description articleBody">

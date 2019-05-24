@@ -1,7 +1,7 @@
 ---
 title: "인형의 소원"
 tags: "동인지 葉庭の出店"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_633/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-06-blog-post_633/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2293001512752612201" itemprop="description articleBody">

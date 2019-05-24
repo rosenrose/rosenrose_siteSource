@@ -1,7 +1,7 @@
 ---
 title: "붉은 등나무는 그렇게 빛난다"
 tags: "동인지 つるべじ。"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_25/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-09-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6350661881974255465" itemprop="description articleBody">

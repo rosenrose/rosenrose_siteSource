@@ -1,7 +1,7 @@
 ---
 title: "A - snow＆poison"
 tags: "동인지 ヤゴの穴"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-06-a-snowpoison/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-06-a-snowpoison/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-704131566491382167" itemprop="description articleBody">

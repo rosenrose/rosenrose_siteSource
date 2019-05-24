@@ -1,7 +1,7 @@
 ---
 title: "벚꽃과 나비와 그대"
 tags: "동인지 あんずの木"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_367/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_367/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6436070000399113418" itemprop="description articleBody">

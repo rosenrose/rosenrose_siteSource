@@ -1,7 +1,7 @@
 ---
 title: "무녀의 꾐을 주의하세요 ☆"
 tags: "makino ukiukiwatching 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_샤메이마루_아야 캐릭터_모리야_스와코 캐릭터_야사카_카나코 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/79/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/79/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "Spell Break"
 tags: "のん 논 鵺箱 누에바코 nuebako 도못논 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_코메이지_코이시 캐릭터_하쿠레이_레이무 이벤트_c77 시리어스_진지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/749/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/749/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

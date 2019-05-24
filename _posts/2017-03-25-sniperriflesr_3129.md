@@ -1,7 +1,7 @@
 ---
 title: "빤히 쳐다보는 순호"
 tags: "あぐもっち 캐릭터_레이센_우동게인_이나바 캐릭터_순호 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3129/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3129/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

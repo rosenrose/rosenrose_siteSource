@@ -1,7 +1,7 @@
 ---
 title: "동방앵견회권"
 tags: "합동인지 虚弱畑 vista アジアン兄貴ジェネレーション"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_61/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_61/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7540518762187604926" itemprop="description articleBody">

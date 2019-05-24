@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 35"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_모리야_스와코 캐릭터_코치야_사나에 울지않아_파르시쨩!"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1827/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1827/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

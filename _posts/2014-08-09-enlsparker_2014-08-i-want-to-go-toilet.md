@@ -1,7 +1,7 @@
 ---
 title: "I want to go toilet! - 나는 화장실에 가고 싶어"
 tags: "기타동인지 畳の休息場"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-08-i-want-to-go-toilet/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-08-i-want-to-go-toilet/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6259061469384842299" itemprop="description articleBody">

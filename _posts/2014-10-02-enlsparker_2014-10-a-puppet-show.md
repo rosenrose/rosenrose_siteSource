@@ -1,7 +1,7 @@
 ---
 title: "a Puppet Show 총집편"
 tags: "동인지 しぐれえび"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-10-a-puppet-show/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-a-puppet-show/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1162879470414990555" itemprop="description articleBody">

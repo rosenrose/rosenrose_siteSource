@@ -1,7 +1,7 @@
 ---
 title: "은색 두명 - 후편"
 tags: "동인지 さくsaku亭"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_92/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-12-blog-post_92/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1160453296734670758" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "엔비 켓"
 tags: "おつきのと 2ndable 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/3137/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/3137/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

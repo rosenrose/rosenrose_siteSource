@@ -1,7 +1,7 @@
 ---
 title: "지령전 소녀들과 데이트 약속"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1613/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1613/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

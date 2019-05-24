@@ -1,7 +1,7 @@
 ---
 title: "치르노와 환상향"
 tags: "동인지 北国もやし製造所"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_22/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-12-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6690558913544415523" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 7화"
 tags: "みつもと 미츠모토 캐릭터_리글_나이트버그 캐릭터_미스티아_로렐라이 요스즈메와_불사조"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1430/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1430/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

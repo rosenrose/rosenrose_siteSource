@@ -1,7 +1,7 @@
 ---
 title: "나의 세계"
 tags: "기타동인지 七輪大社"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-04-blog-post_69/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-04-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9192603302040583948" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "유우기 만화"
 tags: "마미조마미마미 동갤 캐릭터_이바라키_카센 캐릭터_호시구마_유기 캐릭터_샤메이마루_아야 캐릭터_코메이지_코이시 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2914/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2914/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

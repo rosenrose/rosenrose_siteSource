@@ -1,7 +1,7 @@
 ---
 title: "언니를 너무 사랑하는 코이시"
 tags: "륜 118．42 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5719/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5719/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

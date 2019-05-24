@@ -1,7 +1,7 @@
 ---
 title: "브-이 기념일"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_메를랑_프리즘리버 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2318/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2318/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

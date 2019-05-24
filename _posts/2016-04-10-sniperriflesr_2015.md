@@ -1,7 +1,7 @@
 ---
 title: "1/1의 감정"
 tags: "えなみ教授 에나미교수 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_야쿠모_유카리 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2015/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2015/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "시간멈추는거 까먹은 사쿠야"
 tags: "ノヤマコト ノヤ 노야_마코토 @noya_macoto 乃屋 노야 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5908/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5908/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "ONE OUT OF TWO"
 tags: "기타동인지 so_what!"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-08-one-out-of-two/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-08-one-out-of-two/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2601815311548632204" itemprop="description articleBody">

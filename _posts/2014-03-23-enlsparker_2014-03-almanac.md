@@ -1,7 +1,7 @@
 ---
 title: "ALMANAC"
 tags: "합동인지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-03-almanac/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-03-almanac/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-390533376481734533" itemprop="description articleBody">

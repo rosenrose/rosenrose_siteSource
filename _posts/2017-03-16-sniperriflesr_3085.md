@@ -1,7 +1,7 @@
 ---
 title: "파티 룸"
 tags: "じぜる 지제루 캐릭터_미야코_요시카 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_카쿠_세이가 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3085/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3085/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

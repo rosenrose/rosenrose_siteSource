@@ -1,7 +1,7 @@
 ---
 title: "세명이서 마신다!"
 tags: "동인지 柚子桃ジャム"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_67/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-04-blog-post_67/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7494822624647754479" itemprop="description articleBody">

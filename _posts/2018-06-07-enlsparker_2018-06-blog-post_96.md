@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 끝나는 꿈 · 소서"
 tags: "동인지 青"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_96/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-06-blog-post_96/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2803390776599309482" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "별의 추억"
 tags: "동인지 まぜもの"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_50/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-09-blog-post_50/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6867847022171825329" itemprop="description articleBody">

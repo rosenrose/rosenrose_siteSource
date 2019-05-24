@@ -1,7 +1,7 @@
 ---
 title: "요시카 연기"
 tags: "기타동인지 卵鬼たっぷり"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_22/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-09-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9095084329075842078" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "한 입 먹을게요."
 tags: "ジェット虚無僧 제트_코무소 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/682/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/682/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

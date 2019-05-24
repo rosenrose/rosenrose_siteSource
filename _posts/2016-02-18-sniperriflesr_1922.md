@@ -1,7 +1,7 @@
 ---
 title: "히지미코 아(재)줌마 개그 치는 만화"
 tags: "woogoon 동갤 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1922/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1922/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

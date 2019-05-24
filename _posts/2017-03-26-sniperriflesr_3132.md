@@ -1,7 +1,7 @@
 ---
 title: "사춘기이므로"
 tags: "futa なべぞこ 나베조코 캐릭터_콘파쿠_요우무 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3132/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/3132/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>

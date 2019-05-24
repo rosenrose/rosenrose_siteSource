@@ -1,7 +1,7 @@
 ---
 title: "그 몸에 흐르는 것"
 tags: "えなみ教授 에나미교수 캐릭터_치르노 캐릭터_첸 캐릭터_키진_세이자 캐릭터_호쥬_누에 급식첸_만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2055/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2055/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

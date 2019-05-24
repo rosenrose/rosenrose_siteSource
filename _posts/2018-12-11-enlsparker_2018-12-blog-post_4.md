@@ -1,7 +1,7 @@
 ---
 title: "푹신푹신과 북슬북슬의 사이에"
 tags: "동인지 dynamo"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-12-blog-post_4/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-12-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8132601457340694339" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "무녀의 꾐을 주의하세요"
 tags: "동인지 ukiukiwatching"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_87/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-08-blog-post_87/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5994381537947580080" itemprop="description articleBody">

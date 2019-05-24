@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 밤시중에 대한 자기어필"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1321/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1321/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

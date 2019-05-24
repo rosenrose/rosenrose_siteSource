@@ -1,7 +1,7 @@
 ---
 title: "오오츠고모리"
 tags: "동인지 煎餅屋"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_91/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-01-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1433459144085863876" itemprop="description articleBody">

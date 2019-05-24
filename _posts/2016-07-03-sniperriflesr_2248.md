@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 번외편8"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_치르노 캐릭터_타타라_코가사 울지않아_파르시쨩!"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2248/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2248/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "LOVE POTION"
 tags: "기타동인지 いろは"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2017-02-love-potion/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-02-love-potion/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7836559596697451561" itemprop="description articleBody">

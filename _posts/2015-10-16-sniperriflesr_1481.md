@@ -1,7 +1,7 @@
 ---
 title: "에이린에게 칭찬을 받으면 기쁘다"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_키신_사구메 캐릭터_야고코로_에이린 [번역]_4컷／단편만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1481/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1481/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

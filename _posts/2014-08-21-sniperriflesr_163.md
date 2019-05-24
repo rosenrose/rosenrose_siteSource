@@ -1,7 +1,7 @@
 ---
 title: "Happy End"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 시리어스_밝음"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/163/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/163/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "권태 MORATORIUM"
 tags: "동인지 ああ言えばこう言う"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-01-moratorium/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-01-moratorium/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6064868141615398778" itemprop="description articleBody">

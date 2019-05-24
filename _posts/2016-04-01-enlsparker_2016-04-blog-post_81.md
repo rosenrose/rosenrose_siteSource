@@ -1,7 +1,7 @@
 ---
 title: "엄브렐라 어게인"
 tags: "기타동인지 ハネゴヤ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_81/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-04-blog-post_81/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7042385791795066223" itemprop="description articleBody">

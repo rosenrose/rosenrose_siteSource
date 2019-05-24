@@ -1,7 +1,7 @@
 ---
 title: "달콤한 유혹"
 tags: "동인지 赤色バニラ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_5/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-12-blog-post_5/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2286797799231663149" itemprop="description articleBody">

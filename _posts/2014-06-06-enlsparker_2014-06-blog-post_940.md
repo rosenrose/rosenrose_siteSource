@@ -1,7 +1,7 @@
 ---
 title: "세계는 분명 미래속에"
 tags: "동인지 一ノ瀬"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_940/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-06-blog-post_940/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6944099327089584828" itemprop="description articleBody">

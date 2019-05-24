@@ -1,7 +1,7 @@
 ---
 title: "[ 에라 ] 코이시 인게이지링 리메이크 [ 상편1 ]"
 tags: "g소리 캐릭터_코메이지_코이시 시리어스_진지"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1382/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1382/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

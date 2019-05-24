@@ -1,7 +1,7 @@
 ---
 title: "1면보스 주제에 건방지다"
 tags: "アンニュイ赤蛸 たこ 타코 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_미야코_요시카 캐릭터_카소다니_쿄코 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_타타라_코가사 캐릭터_코치야_사나에 캐릭터_쿠로다니_야마메 캐릭터_리글_나이트버그 캐릭터_나즈린 이벤트_c80 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1254/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1254/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

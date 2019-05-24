@@ -1,7 +1,7 @@
 ---
 title: "기적은 별을 부른다"
 tags: "あずまあや 아즈마_아야 azmaya 아즈마야 이벤트_例大祭13 이벤트_예대제_13 시리어스_밝음"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2287/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2287/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

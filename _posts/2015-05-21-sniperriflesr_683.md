@@ -1,7 +1,7 @@
 ---
 title: "열심히 일해줘서 안심되네"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/683/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/683/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

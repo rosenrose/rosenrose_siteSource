@@ -1,7 +1,7 @@
 ---
 title: "아야쨩이 매일 커피를 타줬으면 좋겠다"
 tags: "赤崎セカイ @kireinatetete 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5612/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5612/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

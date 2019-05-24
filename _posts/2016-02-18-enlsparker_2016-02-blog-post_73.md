@@ -1,7 +1,7 @@
 ---
 title: "달의 토끼"
 tags: "동인지 pure"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_73/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-02-blog-post_73/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8151866300749813559" itemprop="description articleBody">

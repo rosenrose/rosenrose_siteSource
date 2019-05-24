@@ -1,7 +1,7 @@
 ---
 title: "다가나츠카시"
 tags: "기타동인지 のっつぉgt"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-10-blog-post_75/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-10-blog-post_75/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7617507244066935740" itemprop="description articleBody">

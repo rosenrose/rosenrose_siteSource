@@ -1,7 +1,7 @@
 ---
 title: "미움받는 우도묭 이야기"
 tags: "동인지 まにまに。"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_3/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8980027008261717789" itemprop="description articleBody">

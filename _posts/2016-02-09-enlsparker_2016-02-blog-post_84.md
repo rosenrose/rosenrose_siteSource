@@ -1,7 +1,7 @@
 ---
 title: "마리사에게 입혀보다"
 tags: "동인지 赤色バニラ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_84/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-02-blog-post_84/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6185717963300137829" itemprop="description articleBody">

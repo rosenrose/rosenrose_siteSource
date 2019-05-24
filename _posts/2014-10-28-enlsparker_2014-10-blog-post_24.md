@@ -1,7 +1,7 @@
 ---
 title: "지저 가드닝"
 tags: "동인지 銀イオン"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_24/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_24/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3155396700870071912" itemprop="description articleBody">

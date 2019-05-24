@@ -1,7 +1,7 @@
 ---
 title: "멋있어"
 tags: "三味線 캐릭터_와타츠키노_요리히메 캐릭터_레밀리아_스칼렛 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1222/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1222/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

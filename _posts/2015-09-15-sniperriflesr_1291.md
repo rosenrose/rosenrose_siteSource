@@ -1,7 +1,7 @@
 ---
 title: "유부녀와 불량 여고딩"
 tags: "노랑오리 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_준코 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1291/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1291/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

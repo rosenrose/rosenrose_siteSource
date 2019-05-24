@@ -1,7 +1,7 @@
 ---
 title: "소녀들에게 XX를 부탁해보았다"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1703/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1703/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

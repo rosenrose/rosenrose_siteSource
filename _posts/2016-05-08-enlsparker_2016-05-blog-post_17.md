@@ -1,7 +1,7 @@
 ---
 title: "먹고 자면 또 내일"
 tags: "동인지 時間屋"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-05-blog-post_17/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-05-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3406520025382397334" itemprop="description articleBody">

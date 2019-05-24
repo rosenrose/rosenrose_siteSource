@@ -1,7 +1,7 @@
 ---
 title: "달토끼는 욕구불만?"
 tags: "동인지 rump"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_55/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-09-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2374198135342357294" itemprop="description articleBody">

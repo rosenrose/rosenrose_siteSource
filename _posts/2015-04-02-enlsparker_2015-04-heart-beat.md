@@ -1,7 +1,7 @@
 ---
 title: "Heart Beat!"
 tags: "동인지 カカオ加工場"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-04-heart-beat/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-04-heart-beat/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3178198655396533654" itemprop="description articleBody">

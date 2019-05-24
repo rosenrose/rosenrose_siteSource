@@ -1,7 +1,7 @@
 ---
 title: "사쿠사쿠팬더"
 tags: "ネジキリオ 네지키리오 angeltype 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 이벤트_c85 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/74/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/74/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

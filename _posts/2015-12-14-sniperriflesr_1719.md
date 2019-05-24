@@ -1,7 +1,7 @@
 ---
 title: "수수께끼의 유유유 ~ 중독된 요우무의 역습 ~"
 tags: "yassy やし屋 캐릭터_콘파쿠_요우무 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_사이교우지_유유코 캐릭터_홍_메이링 이벤트_c87 [번역]_귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1719/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1719/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

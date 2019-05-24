@@ -1,7 +1,7 @@
 ---
 title: "샘 아래의 트레저헌트"
 tags: "極彩色 동인지"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_28/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-07-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7349202699279875190" itemprop="description articleBody">

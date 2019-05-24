@@ -1,7 +1,7 @@
 ---
 title: "사구메씨는 전하고싶어"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키신_사구메 캐릭터_레이센_우동게인_이나바 [번역]_4컷／단편만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1773/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1773/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "우동쨩 해냈구나 4컷만화"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_샤메이마루_아야 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2021/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2021/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

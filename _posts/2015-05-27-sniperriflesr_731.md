@@ -1,7 +1,7 @@
 ---
 title: "값을 매길 수 없는 소인"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/731/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/731/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

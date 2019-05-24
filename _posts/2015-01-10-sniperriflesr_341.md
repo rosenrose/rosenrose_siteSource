@@ -1,7 +1,7 @@
 ---
 title: "마이 페어 테위"
 tags: "綾杉つばき 아야스기_츠바키 まにまに。 마니마니 manimani。 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 이벤트_홍루몽4 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/341/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/341/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

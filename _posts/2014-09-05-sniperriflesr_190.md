@@ -1,7 +1,7 @@
 ---
 title: "이모가이"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_하쿠레이_레이무 캐릭터_코메이지_사토리 캐릭터_히나나위_텐시 캐릭터_후타츠이와_마미조 캐릭터_호쥬_누에 캐릭터_소악마 캐릭터_레밀리아_스칼렛 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_코이시 캐릭터_토요사토미미노_미코 캐릭터_이자요이_사쿠야 캐릭터_소가노_토지코 캐릭터_나가에_이쿠 캐릭터_모노노베노_후토 캐릭터_콘파쿠_요우무 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_미야코_요시카 캐릭터_타타라_코가사 이벤트_c81 약"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/190/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/190/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

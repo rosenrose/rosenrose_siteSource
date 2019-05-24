@@ -1,7 +1,7 @@
 ---
 title: "디자이어 오브 유유코"
 tags: "正木 마사키 こげコロッケ 코게코로케 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_유카리 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 캐릭터_​카쿠_세이가 캐릭터_미야코_요시카 캐릭터_카소다니_쿄코 캐릭터_치르노 캐릭터_야사카_카나코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 이벤트_例大祭11 이벤트_예대제11 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/106/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/106/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "그리고 아무도 없게 되는건가?"
 tags: "氷川_翔 さくsaku亭 saku-2_tei 캐릭터_샤메이마루_아야 캐릭터_이부키_스이카 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_호시구마_유기 이벤트_예대제6 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/82/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/82/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

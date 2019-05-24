@@ -1,7 +1,7 @@
 ---
 title: "적어도 웃는얼굴로"
 tags: "えなみ教授 에나미교수 캐릭터_치르노 캐릭터_호쥬_누에 캐릭터_리글_나이트버그 캐릭터_키진_세이자 캐릭터_하타노_코코로 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2087/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2087/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

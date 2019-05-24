@@ -1,7 +1,7 @@
 ---
 title: "악플 상술"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 급식첸_만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2592/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2592/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "홍마가 스위트"
 tags: "기타동인지 check_mate!"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-05-blog-post_35/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2017-05-blog-post_35/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3495835766042844630" itemprop="description articleBody">

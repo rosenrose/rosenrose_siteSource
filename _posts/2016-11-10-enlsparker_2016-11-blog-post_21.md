@@ -1,7 +1,7 @@
 ---
 title: "마타리점"
 tags: "동인지 dynamo"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_21/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-11-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4160096282912909974" itemprop="description articleBody">

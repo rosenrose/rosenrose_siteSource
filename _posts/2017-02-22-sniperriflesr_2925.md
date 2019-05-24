@@ -1,7 +1,7 @@
 ---
 title: "당신을 좋아하니까"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_소악마 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 캐릭터_첸 급식첸_만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2925/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2925/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

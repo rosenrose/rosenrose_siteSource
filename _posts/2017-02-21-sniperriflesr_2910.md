@@ -1,7 +1,7 @@
 ---
 title: "케이네 선생님"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카미시라사와_케이네 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2910/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2910/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

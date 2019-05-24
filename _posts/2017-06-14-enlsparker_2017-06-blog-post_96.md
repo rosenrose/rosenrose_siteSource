@@ -1,7 +1,7 @@
 ---
 title: "여전히 변함없이"
 tags: "동인지 panic_puppet!"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-06-blog-post_96/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-06-blog-post_96/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7636354281262377219" itemprop="description articleBody">

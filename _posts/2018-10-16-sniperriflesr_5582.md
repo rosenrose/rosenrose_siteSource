@@ -1,7 +1,7 @@
 ---
 title: "애들 상대로 꾸짖을 때라든지 이런 거였으면 좋았을걸..."
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5582/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5582/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

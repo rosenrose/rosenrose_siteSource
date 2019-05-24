@@ -1,7 +1,7 @@
 ---
 title: "나쁜 식습관에 관한 경고"
 tags: "기타동인지 幻想ノ塚歌劇団"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-03-blog-post_15/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-03-blog-post_15/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9089705851469325442" itemprop="description articleBody">

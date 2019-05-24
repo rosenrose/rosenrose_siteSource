@@ -1,7 +1,7 @@
 ---
 title: "과자먹는 도레사구"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1929/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1929/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

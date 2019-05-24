@@ -1,7 +1,7 @@
 ---
 title: "월화장"
 tags: "동인지 ふすま喫茶"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_86/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_86/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6292401835276613321" itemprop="description articleBody">

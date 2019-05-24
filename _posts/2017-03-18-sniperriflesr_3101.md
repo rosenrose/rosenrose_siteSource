@@ -1,7 +1,7 @@
 ---
 title: "숙련된 솜씨로 테위를 다루는 에이린"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_야고코로_에이린 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/3101/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3101/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

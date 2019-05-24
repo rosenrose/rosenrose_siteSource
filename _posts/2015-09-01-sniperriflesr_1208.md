@@ -1,7 +1,7 @@
 ---
 title: "넘호"
 tags: "6 캐릭터_레밀리아_스칼렛 캐릭터_와타츠키노_요리히메 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1208/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1208/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

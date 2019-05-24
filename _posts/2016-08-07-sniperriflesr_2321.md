@@ -1,7 +1,7 @@
 ---
 title: "클피의 햇불"
 tags: "カワラハジメ 캐릭터_클라운피스 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2321/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2321/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "동방사화집"
 tags: "합동인지"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-03-blog-post_89/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2015-03-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4497641654380870958" itemprop="description articleBody">

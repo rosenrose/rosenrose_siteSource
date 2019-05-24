@@ -1,7 +1,7 @@
 ---
 title: "꿈같은 기분이 드는 온천에서는 모르는 게 약이다."
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_토요사토미미노_미코 캐릭터_미야코_요시카 캐릭터_카쿠_세이가 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 캐릭터_카엔뵤_린 캐릭터_오린 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1116/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1116/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

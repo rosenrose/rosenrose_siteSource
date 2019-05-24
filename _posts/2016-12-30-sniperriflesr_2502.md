@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 26화"
 tags: "みつもと 미츠모토 캐릭터_호라이산_카구야 캐릭터_미스티아_로렐라이 캐릭터_카미시라사와_케이네 요스즈메와_불사조"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2502/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2502/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "PLACE TO BE 03"
 tags: "동인지 ヘ蝶々"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-10-place-to-be-03/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-10-place-to-be-03/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1109315656610888253" itemprop="description articleBody">

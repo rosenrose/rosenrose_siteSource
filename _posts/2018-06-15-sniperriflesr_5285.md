@@ -1,7 +1,7 @@
 ---
 title: "오랜만의 마리사"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5285/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5285/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

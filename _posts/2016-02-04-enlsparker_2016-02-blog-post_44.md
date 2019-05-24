@@ -1,7 +1,7 @@
 ---
 title: "벡터 스펙터클 下"
 tags: "동인지 サイチル"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_44/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-02-blog-post_44/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-758030638491408596" itemprop="description articleBody">

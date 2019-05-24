@@ -1,7 +1,7 @@
 ---
 title: "붉은 저주"
 tags: "동인지 薬味さらい"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-05-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9012909632725569582" itemprop="description articleBody">

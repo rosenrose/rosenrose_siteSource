@@ -1,7 +1,7 @@
 ---
 title: "요고좌기담"
 tags: "동인지 うわのそら舎"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_86/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-05-blog-post_86/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3504915863422516592" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그럼 뛰어오르는 일따윈"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_이나바_테위 캐릭터_호라이산_카구야 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2079/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2079/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

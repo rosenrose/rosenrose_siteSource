@@ -1,7 +1,7 @@
 ---
 title: "소텐구소화 [ 小天狗小話 ]"
 tags: "makino ukiukiwatching! 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/78/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/78/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

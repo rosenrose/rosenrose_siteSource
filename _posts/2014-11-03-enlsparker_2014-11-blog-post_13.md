@@ -1,7 +1,7 @@
 ---
 title: "말괄량이 연랑에게 꽃다발을 (상)"
 tags: "동인지 鵺箱"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_13/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-11-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5688400353702372091" itemprop="description articleBody">

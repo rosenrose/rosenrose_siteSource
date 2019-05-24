@@ -1,7 +1,7 @@
 ---
 title: "우주의 죽음을 본 불로불사 - 영원편 프리뷰판"
 tags: "동인지 alison航空"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_58/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-07-blog-post_58/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1630217034237812626" itemprop="description articleBody">

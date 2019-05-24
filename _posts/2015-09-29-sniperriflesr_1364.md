@@ -1,7 +1,7 @@
 ---
 title: "죽고 싶은 플랑"
 tags: "つくみず 캐릭터_플랑드르_스칼렛 캐릭터_대요정 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 캐릭터_치르노 캐릭터_앨리스_마가트로이드 시리어스_어두움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1364/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1364/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

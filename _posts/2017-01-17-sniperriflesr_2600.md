@@ -1,7 +1,7 @@
 ---
 title: "각자의 상냥함"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 급식첸_만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2600/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2600/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

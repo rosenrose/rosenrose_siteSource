@@ -1,7 +1,7 @@
 ---
 title: "그 목소리는 닿지 않아"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_야고코로_에이린 급식첸_만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2604/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2604/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>

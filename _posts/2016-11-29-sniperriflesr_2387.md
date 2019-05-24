@@ -1,7 +1,7 @@
 ---
 title: "혈기왕성한 주정뱅이 소녀들"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 이벤트_例大祭13 이벤트_예대제_13 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2387/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/2387/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

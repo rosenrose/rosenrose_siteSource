@@ -1,7 +1,7 @@
 ---
 title: "명경지수"
 tags: "동인지 御奈的主義"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_547/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_547/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4101947799664743813" itemprop="description articleBody">

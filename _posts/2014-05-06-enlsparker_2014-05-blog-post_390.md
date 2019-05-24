@@ -1,7 +1,7 @@
 ---
 title: "흑이냐 백이냐! 거짓부렁 시소 게임"
 tags: "동인지 winter_scenery"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_390/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-blog-post_390/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7887489386534384841" itemprop="description articleBody">

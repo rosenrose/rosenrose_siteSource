@@ -1,7 +1,7 @@
 ---
 title: "허브의 날"
 tags: "ジェット虚無僧 제트코무소 @lexus_6737 com僧．com 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5549/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5549/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

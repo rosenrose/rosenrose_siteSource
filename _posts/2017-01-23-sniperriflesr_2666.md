@@ -1,7 +1,7 @@
 ---
 title: "발렌타인 - 코마에키 [ 2015 ]"
 tags: "きつね丸 葉々庵 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2666/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2666/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

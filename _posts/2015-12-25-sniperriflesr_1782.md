@@ -1,7 +1,7 @@
 ---
 title: "완전히 그리운 기억이 됬다"
 tags: "ヴェント vento venatto 캐릭터_야고코로_에이린 캐릭터_키신_사구메 [번역]_짤"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1782/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1782/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

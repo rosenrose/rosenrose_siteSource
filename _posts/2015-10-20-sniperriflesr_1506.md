@@ -1,7 +1,7 @@
 ---
 title: "맹목의 코코로 에듀케~이션"
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_하타노_코코로 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_코이시 이벤트_紅楼夢_10 이벤트_홍루몽_10 [번역]_귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1506/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1506/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

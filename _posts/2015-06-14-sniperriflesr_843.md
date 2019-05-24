@@ -1,7 +1,7 @@
 ---
 title: "절교"
 tags: "リンメイ 健全パラドックス 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/843/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/843/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "섹시 포즈"
 tags: "チマq @timaq3m あばらんち 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/5135/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5135/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

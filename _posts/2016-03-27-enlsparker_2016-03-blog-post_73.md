@@ -1,7 +1,7 @@
 ---
 title: "변함없는 과거 현재 미래?"
 tags: "동인지 チェねずみ"
-image: "https://kjw4569.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_73/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-03-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1570209893584832026" itemprop="description articleBody">

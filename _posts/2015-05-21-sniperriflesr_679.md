@@ -1,7 +1,7 @@
 ---
 title: "기적의 힘으로 !"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_야사카_카나코 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/679/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/679/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

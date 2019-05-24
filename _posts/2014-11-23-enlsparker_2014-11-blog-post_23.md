@@ -1,7 +1,7 @@
 ---
 title: "신이 되다"
 tags: "동인지 薬味さらい"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_23/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-11-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4642790942102010362" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그것과 관련한 명련사"
 tags: "春夏アキト 하루나츠_아키토 하루카_아키토 haruka_akito happy_flame_time 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_쿠모이_이치린 캐릭터_홍_메이링 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 캐릭터_타타라_코가사 이벤트_サンシャインクリエイション_48 이벤트_sunshine_creation_48 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/999/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/999/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

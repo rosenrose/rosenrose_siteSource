@@ -1,7 +1,7 @@
 ---
 title: "오토메 코멘터리"
 tags: "동인지 ギロチン銀座"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_892/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-09-blog-post_892/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4591239219913659419" itemprop="description articleBody">

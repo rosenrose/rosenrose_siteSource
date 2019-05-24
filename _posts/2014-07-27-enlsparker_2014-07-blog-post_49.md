@@ -1,7 +1,7 @@
 ---
 title: "사카린 키스"
 tags: "동인지 red-sight"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_49/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-07-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2114489009649002811" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "돌기물 주의보~!?"
 tags: "会帆 에호 十誤一会 캐릭터_키리사메_마리사 캐릭터_토키코 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_레이센_우동게인_이나바 캐릭터_레이우지_우츠호 이벤트_c82 귀여움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1331/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/1331/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "상기의 길"
 tags: "ふあん亭 후앙정 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_하타노_코코로 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 이벤트_c85 시리어스_어두움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/330/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/330/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

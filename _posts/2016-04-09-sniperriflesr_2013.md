@@ -1,7 +1,7 @@
 ---
 title: "버섯 증식중"
 tags: "まくわうに うり畑牧場 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 캐릭터_소가노_토지코 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 이벤트_大九州合同祭２ 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/2013/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2013/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

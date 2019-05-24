@@ -1,7 +1,7 @@
 ---
 title: "아마노자쿠"
 tags: "针鼠修罗 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 시리어스_슬픔"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2329/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2329/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

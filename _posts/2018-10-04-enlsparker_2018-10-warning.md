@@ -1,7 +1,7 @@
 ---
 title: "우동쨩 WARNING!!"
 tags: "동인지 まるしき"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-10-warning/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2018-10-warning/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-488326162743561532" itemprop="description articleBody">

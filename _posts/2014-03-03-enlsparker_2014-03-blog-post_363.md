@@ -1,7 +1,7 @@
 ---
 title: "마리사 괴롭히기"
 tags: "동인지 ひとみしり"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-03-blog-post_363/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2014-03-blog-post_363/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1106982444091172222" itemprop="description articleBody">

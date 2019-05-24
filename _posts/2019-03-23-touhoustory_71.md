@@ -1,7 +1,7 @@
 ---
 title: "레미는 저쪽에서 푸딩 먹고있어?!"
 tags: "동인지"
-image: "https://franch4569.s3.amazonaws.com/doujin/touhoustory/71/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/touhoustory/71/001.jpg"
 ---
 <div class="article">
 <div class="article">

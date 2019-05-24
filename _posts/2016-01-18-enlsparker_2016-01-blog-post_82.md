@@ -1,7 +1,7 @@
 ---
 title: "역행동방! 요요몽"
 tags: "동인지 ああ言えばこう言う"
-image: "http://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-01-blog-post_82/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/enlsparker/2016-01-blog-post_82/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2309508455191921424" itemprop="description articleBody">

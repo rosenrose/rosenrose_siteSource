@@ -1,7 +1,7 @@
 ---
 title: "(홍) 컴퓨터 강탈 작전!!"
 tags: "기타동인지 lunatic_stage"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_72/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-10-blog-post_72/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9129140764978036674" itemprop="description articleBody">

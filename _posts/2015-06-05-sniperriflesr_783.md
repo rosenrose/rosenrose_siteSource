@@ -1,7 +1,7 @@
 ---
 title: "테위가 레이센의 옷을 입어보았습니다 - 그 앞이야기"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_이나바_테위 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/783/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/783/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

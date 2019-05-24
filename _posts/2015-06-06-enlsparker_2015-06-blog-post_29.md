@@ -1,7 +1,7 @@
 ---
 title: "마리사와 앨리스와 앨리스의 인형"
 tags: "기타동인지 ツキギのとこ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_29/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-06-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4105738678334160340" itemprop="description articleBody">

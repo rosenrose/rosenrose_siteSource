@@ -1,7 +1,7 @@
 ---
 title: "말로 전해가는 것"
 tags: "동인지 悠久機関車"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_25/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-05-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6498947427513675630" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "무녀에겐 빈틈과 사각이 없다"
 tags: "futa なべぞこ 나베조코 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/803/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/803/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

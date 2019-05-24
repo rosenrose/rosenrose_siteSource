@@ -1,7 +1,7 @@
 ---
 title: "소녀들과 곁잠"
 tags: "ハマー 헤머 짤_시리즈"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1524/001.png"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1524/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

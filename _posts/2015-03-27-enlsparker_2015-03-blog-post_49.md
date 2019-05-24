@@ -1,7 +1,7 @@
 ---
 title: "친구를 사랑하게 되었습니다"
 tags: "동인지 よぬりめ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_49/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-03-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4816168149600237722" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "마리사 귀여워"
 tags: "逸しん @itusin3 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5585/001.png"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5585/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

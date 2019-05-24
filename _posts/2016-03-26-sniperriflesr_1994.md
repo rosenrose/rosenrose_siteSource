@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 24화"
 tags: "みつもと 미츠모토 캐릭터_호라이산_카구야 캐릭터_미스티아_로렐라이 요스즈메와_불사조"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/1994/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1994/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "요기이야기"
 tags: "蒼空市場 합동인지 strange_chameleon ストカメ"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_62/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-11-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8862247491613373888" itemprop="description articleBody">

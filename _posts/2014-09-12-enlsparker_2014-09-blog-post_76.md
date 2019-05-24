@@ -1,7 +1,7 @@
 ---
 title: "오카자키 유메미가 꿈꾸는 환상향"
 tags: "기타동인지 かうじょん"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_76/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_76/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8254202993800369908" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "키스의 날"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5851/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5851/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b></p>

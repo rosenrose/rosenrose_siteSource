@@ -1,7 +1,7 @@
 ---
 title: "구미호는 절대로 꺾이지 않아"
 tags: "えなみ教授 에나미교수 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 급식첸_만화"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/2081/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2081/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

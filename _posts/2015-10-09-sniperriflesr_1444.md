@@ -1,7 +1,7 @@
 ---
 title: "따뜻한 겨울"
 tags: "金成 카나리 四方山 yomoyama 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 이벤트_c79 귀여움"
-image: "https://kjw4569.s3.amazonaws.com/doujin/sniperriflesr/1444/001.jpg"
+image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1444/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "풋 프린트"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_호라이산_카구야 캐릭터_히에다노_아큐 이벤트_c86 귀여움"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/673/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/673/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

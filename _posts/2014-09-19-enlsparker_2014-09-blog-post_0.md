@@ -1,7 +1,7 @@
 ---
 title: "아키삼매"
 tags: "동인지 火鳥でできるもん!"
-image: "https://franch4569.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_0/001.jpg"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_0/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7174598977057999445" itemprop="description articleBody">

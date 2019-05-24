@@ -1,7 +1,7 @@
 ---
 title: "우동게는 귀여워"
 tags: "逸しん @itusin3 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 짤／1컷만화"
-image: "http://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5254/001.jpg"
+image: "https://d2l1b145ht03q6.cloudfront.net/sniperriflesr/5254/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

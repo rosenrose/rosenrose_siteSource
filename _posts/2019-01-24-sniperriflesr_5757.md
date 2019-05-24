@@ -1,7 +1,7 @@
 ---
 title: "사구메가 찾아왔다굿"
 tags: "虹原ななさん 짤／1컷만화"
-image: "https://franch4569.s3.amazonaws.com/doujin/sniperriflesr/5757/001.png"
+image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5757/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>
