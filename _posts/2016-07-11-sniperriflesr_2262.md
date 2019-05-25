@@ -1,7 +1,7 @@
 ---
 title: "보고있어 순호"
 tags: "理中モルチ モルちん斬 캐릭터_순호 캐릭터_레이센 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_야고코로_에이린 캐릭터_도레미_스위트 캐릭터_키신_사구메 이벤트_例大祭13 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2262/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2262/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

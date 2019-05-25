@@ -1,7 +1,7 @@
 ---
 title: "철원에서 근무하는 사람들한테 쳐맞는 레티"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_레티_화이트락 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5697/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5697/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

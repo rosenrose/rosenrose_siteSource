@@ -1,7 +1,7 @@
 ---
 title: "유유코와 요우무 만화"
 tags: "kongthegrain 곡물시리즈 캐릭터_사이교우지_유유코 캐릭터_미스티아_로렐라이 캐릭터_콘파쿠_요우무 캐릭터_세키반키 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 약"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1890/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1890/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

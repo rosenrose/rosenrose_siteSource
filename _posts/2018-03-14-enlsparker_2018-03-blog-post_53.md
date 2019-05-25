@@ -1,7 +1,7 @@
 ---
 title: "어차피 다른 자의 세상일 뿐인데"
 tags: "동인지 スアリテスミ"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post_53/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-03-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6113377328270315898" itemprop="description articleBody">

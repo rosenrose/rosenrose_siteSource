@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 31"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_쿠로다니_야마메 울지않아_파르시쨩!"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1578/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1578/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

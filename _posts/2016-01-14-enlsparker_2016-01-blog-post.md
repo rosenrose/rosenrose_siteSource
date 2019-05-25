@@ -1,7 +1,7 @@
 ---
 title: "하타테, 무리하여 힘내보다"
 tags: "동인지 石切場"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-01-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5584208910993757701" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "레이센과 이나바"
 tags: "동인지 つるべじ。"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-08-blog-post_22/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-08-blog-post_22/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3284618862958990284" itemprop="description articleBody">

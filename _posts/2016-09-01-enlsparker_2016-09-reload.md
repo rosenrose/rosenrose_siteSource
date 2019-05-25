@@ -1,7 +1,7 @@
 ---
 title: "마리마리 #RELOAD"
 tags: "합동인지 ふすま喫茶 ヘルメットが直せません。"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-09-reload/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-09-reload/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-412463680461075062" itemprop="description articleBody">

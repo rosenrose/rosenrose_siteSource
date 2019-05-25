@@ -1,7 +1,7 @@
 ---
 title: "이치린이 꽃꽂은 풍림화산"
 tags: "캐릭터_쿠모이_이치린 캐릭터_나즈린 캐릭터_히지리_뱌쿠렌 캐릭터_운잔 캐릭터_토라마루_쇼 캐릭터_무라사_미나미츠 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_호쥬_누에 이벤트_例大祭_8 이벤트_예대제_8 합동-귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/998/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/998/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

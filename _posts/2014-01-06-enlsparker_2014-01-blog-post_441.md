@@ -1,7 +1,7 @@
 ---
 title: "여동생 날씨"
 tags: "동인지 石切場"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-01-blog-post_441/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-01-blog-post_441/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9149551410559270727" itemprop="description articleBody">

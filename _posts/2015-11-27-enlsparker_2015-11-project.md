@@ -1,7 +1,7 @@
 ---
 title: "PROJECT ⑨"
 tags: "기타동인지 deep_slow"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-11-project/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-11-project/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2656118221747808692" itemprop="description articleBody">

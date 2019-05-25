@@ -1,7 +1,7 @@
 ---
 title: "세키반키 x 카케로 크리스마스 만화"
 tags: "ぽろねぎ かとるかーる 캐릭터_세키반키 캐릭터_이마이즈미_카케로 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2996/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2996/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

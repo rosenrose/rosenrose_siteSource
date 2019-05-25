@@ -1,7 +1,7 @@
 ---
 title: "가벼운 느낌의 단편집 부드러움"
 tags: "동인지 うり畑牧場"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_30/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-02-blog-post_30/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6555777122523559740" itemprop="description articleBody">

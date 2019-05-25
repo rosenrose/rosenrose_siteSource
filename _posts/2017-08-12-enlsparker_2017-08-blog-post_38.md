@@ -1,7 +1,7 @@
 ---
 title: "카오틱 버터플라이"
 tags: "동인지 strange_chameleon ストカメ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post_38/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-08-blog-post_38/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4888951713185745007" itemprop="description articleBody">

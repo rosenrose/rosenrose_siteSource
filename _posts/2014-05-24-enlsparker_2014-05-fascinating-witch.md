@@ -1,7 +1,7 @@
 ---
 title: "Fascinating Witch - 아틀리에 도원향"
 tags: "기타동인지 アトリエ桃源郷"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-05-fascinating-witch/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-fascinating-witch/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8640504733702206554" itemprop="description articleBody">

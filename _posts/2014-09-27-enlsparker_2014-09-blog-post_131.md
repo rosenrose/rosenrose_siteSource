@@ -1,7 +1,7 @@
 ---
 title: "가출한 요우무가 신세 좀 지겠습니다!!"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_131/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_131/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1545450499414642347" itemprop="description articleBody">

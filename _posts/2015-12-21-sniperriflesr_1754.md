@@ -1,7 +1,7 @@
 ---
 title: "피탄판정에 납득 못 하는 사구메쨩님"
 tags: "手負い 캐릭터_도레미_스위트 캐릭터_키신_사구메 [번역]_짤"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1754/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1754/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "납탄은 먹을 수 없어"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2022/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2022/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

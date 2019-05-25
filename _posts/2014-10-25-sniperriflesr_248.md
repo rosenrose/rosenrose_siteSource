@@ -1,7 +1,7 @@
 ---
 title: "악마의 나이프"
 tags: "スギ sugi 스기 sugilight 스기라이트 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_모리치카_린노스케 캐릭터_키리사메_마리사 이벤트_サンクリ55 이벤트_선크리55 시리어스_밝음"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/248/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/248/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "그렇게 부르고"
 tags: "トリブリ 캐릭터_야고코로_에이린 캐릭터_메디슨_멜랑콜리 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3215/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3215/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

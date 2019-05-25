@@ -1,7 +1,7 @@
 ---
 title: "붕붕마루 사본"
 tags: "동인지 夢のチョモラン王国"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_32/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-01-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9003014095076093108" itemprop="description articleBody">

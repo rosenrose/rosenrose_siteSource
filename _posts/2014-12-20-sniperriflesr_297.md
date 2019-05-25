@@ -1,7 +1,7 @@
 ---
 title: "스즈나 로직"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_모토오리_코스즈 캐릭터_후타츠이와_마미조 캐릭터_히지리_뱌쿠렌 캐릭터_호쥬_누에 이벤트_c86 시리어스_밝음"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/297/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/297/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

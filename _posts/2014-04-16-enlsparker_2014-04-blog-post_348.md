@@ -1,7 +1,7 @@
 ---
 title: "아마노사구메의 감언"
 tags: "동인지 dynamo"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post_348/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-04-blog-post_348/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1602362550824569511" itemprop="description articleBody">

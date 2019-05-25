@@ -1,7 +1,7 @@
 ---
 title: "축제의 밤"
 tags: "동인지 イカ足10本"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_66/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-04-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-440430438631223974" itemprop="description articleBody">

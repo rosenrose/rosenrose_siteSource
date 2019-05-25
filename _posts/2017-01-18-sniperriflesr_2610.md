@@ -1,7 +1,7 @@
 ---
 title: "살아간다는 것"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2610/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2610/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

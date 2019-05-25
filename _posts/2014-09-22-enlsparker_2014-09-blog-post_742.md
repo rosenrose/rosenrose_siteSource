@@ -1,7 +1,7 @@
 ---
 title: "오목 화이트데이"
 tags: "동인지 カゲ路"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_742/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_742/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3967138028089964595" itemprop="description articleBody">

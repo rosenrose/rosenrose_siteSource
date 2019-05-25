@@ -1,7 +1,7 @@
 ---
 title: "메이드・인・헤븐"
 tags: "동인지 demour402"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_23/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-11-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-676936759863545346" itemprop="description articleBody">

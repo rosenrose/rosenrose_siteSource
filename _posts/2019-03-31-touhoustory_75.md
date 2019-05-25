@@ -1,7 +1,7 @@
 ---
 title: "사족일 뿐."
 tags: "동인지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/touhoustory/75/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/touhoustory/75/001.jpg"
 ---
 <div class="article">
 <div class="article">

@@ -1,7 +1,7 @@
 ---
 title: "어두워 질 때까지 기다려줘"
 tags: "동인지 poprication"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_2/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-01-blog-post_2/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5577878091438742326" itemprop="description articleBody">

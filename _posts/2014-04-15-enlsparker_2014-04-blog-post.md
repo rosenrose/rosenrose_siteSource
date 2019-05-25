@@ -1,7 +1,7 @@
 ---
 title: "그날, 있잖아"
 tags: "동인지 その他大勢"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-04-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7660139527729459886" itemprop="description articleBody">

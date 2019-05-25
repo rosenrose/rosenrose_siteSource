@@ -1,7 +1,7 @@
 ---
 title: "호랑이의 초상화"
 tags: "dynamo 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_샤메이마루_아야 캐릭터_타타라_코가사 이벤트_c87 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/502/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/502/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

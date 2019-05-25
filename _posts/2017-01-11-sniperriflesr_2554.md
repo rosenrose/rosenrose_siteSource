@@ -1,7 +1,7 @@
 ---
 title: "불닭준코면"
 tags: "woogoon 우군 캐릭터_순호 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2554/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2554/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

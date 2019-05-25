@@ -1,7 +1,7 @@
 ---
 title: "미스치한테 마요네즈 뿌려보자"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_미스티아_로렐라이 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2962/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2962/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

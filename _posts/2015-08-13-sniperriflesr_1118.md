@@ -1,7 +1,7 @@
 ---
 title: "유유코(망령주인)는 식욕왕성."
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_모노노베노_후토 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1118/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1118/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

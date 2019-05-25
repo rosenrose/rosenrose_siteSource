@@ -1,7 +1,7 @@
 ---
 title: "비밀이야기"
 tags: "동인지 poprication"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_94/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-10-blog-post_94/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2958480400250125970" itemprop="description articleBody">

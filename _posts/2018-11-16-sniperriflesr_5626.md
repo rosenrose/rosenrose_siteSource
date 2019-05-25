@@ -1,7 +1,7 @@
 ---
 title: "소악마에게 감금당했다"
 tags: "ハマー 헤머 @hamaororon サンセットビーチ 캐릭터_소악마 캐릭터_파츄리_널릿지 sexual_theme"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5626/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5626/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

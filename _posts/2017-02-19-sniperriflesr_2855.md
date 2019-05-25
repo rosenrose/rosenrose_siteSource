@@ -1,7 +1,7 @@
 ---
 title: "벽에 끼인 유기"
 tags: "ぽろねぎ かとるかーる 캐릭터_호시구마_유기 캐릭터_이부키_스이카 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2855/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2855/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

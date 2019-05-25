@@ -1,7 +1,7 @@
 ---
 title: "도낭"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_나가에_이쿠 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/815/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/815/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

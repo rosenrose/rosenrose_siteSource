@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 7화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 사랑하는_야작_[完]"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/900/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/900/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

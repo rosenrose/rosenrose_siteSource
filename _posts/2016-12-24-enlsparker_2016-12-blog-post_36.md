@@ -1,7 +1,7 @@
 ---
 title: "굉장히 절망적이고 세상에 다신 없을듯한 썩은색"
 tags: "동인지 ふあん亭"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_36/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-12-blog-post_36/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3071963306251238842" itemprop="description articleBody">

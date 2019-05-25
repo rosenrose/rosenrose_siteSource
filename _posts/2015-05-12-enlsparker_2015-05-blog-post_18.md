@@ -1,7 +1,7 @@
 ---
 title: "모코우가 금연하는 이야기"
 tags: "기타동인지 大外刈り"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_18/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-05-blog-post_18/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6929017838529185075" itemprop="description articleBody">

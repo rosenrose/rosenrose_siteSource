@@ -1,7 +1,7 @@
 ---
 title: "러브앤피쉬"
 tags: "미샤 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/886/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/886/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

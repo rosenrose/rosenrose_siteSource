@@ -1,7 +1,7 @@
 ---
 title: "도레미 캐쳐"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1984/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1984/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

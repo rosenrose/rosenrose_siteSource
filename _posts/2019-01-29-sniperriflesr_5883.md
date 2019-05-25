@@ -1,7 +1,7 @@
 ---
 title: "연말의 요리가미 만화"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_히지리_뱌쿠렌 캐릭터_요리가미_조온 캐릭터_요리가미_시온 캐릭터_스쿠나_신묘마루 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/5883/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5883/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

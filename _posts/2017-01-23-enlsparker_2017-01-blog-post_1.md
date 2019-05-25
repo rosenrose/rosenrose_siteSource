@@ -1,7 +1,7 @@
 ---
 title: "금빛색 그대"
 tags: "동인지 azmaya あまず"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_1/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-01-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3797730973157405913" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "모미지와 코이시"
 tags: "동인지 風前ランプ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_8/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-02-blog-post_8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2492694353721945853" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그대가 있는 행복"
 tags: "기타동인지 悪転奏進"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-09-blog-post_29/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-09-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5311800403780394560" itemprop="description articleBody">

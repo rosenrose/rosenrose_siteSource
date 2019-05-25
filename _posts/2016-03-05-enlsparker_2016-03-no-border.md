@@ -1,7 +1,7 @@
 ---
 title: "NO BORDER"
 tags: "粟米湯 有機化合物 風前ランプ 합동인지 薬味さらい イカ足10本"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-03-no-border/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-03-no-border/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1772182487345480055" itemprop="description articleBody">

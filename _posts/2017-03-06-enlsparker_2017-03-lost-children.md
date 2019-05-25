@@ -1,7 +1,7 @@
 ---
 title: "Lost children"
 tags: "동인지 電派絵師団"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-03-lost-children/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-03-lost-children/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-121449378174745423" itemprop="description articleBody">

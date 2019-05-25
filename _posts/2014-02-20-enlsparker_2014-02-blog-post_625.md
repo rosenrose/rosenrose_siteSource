@@ -1,7 +1,7 @@
 ---
 title: "초여름"
 tags: "동인지 カスタムサイズ"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_625/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-02-blog-post_625/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5008795159671609851" itemprop="description articleBody">

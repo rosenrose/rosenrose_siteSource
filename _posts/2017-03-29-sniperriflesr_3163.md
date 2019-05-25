@@ -1,7 +1,7 @@
 ---
 title: "기억이 안나"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 [번역]_4컷／단편만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3163/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3163/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "중2병은 통과의례"
 tags: "麒麟たろう マキシマムディアッカ 캐릭터_야고코로_에이린 캐릭터_사이교우지_유유코 캐릭터_키리사메_마리사 캐릭터_콘파쿠_요우무 캐릭터_샤메이마루_아야 이벤트_c83 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1447/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1447/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

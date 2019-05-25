@@ -1,7 +1,7 @@
 ---
 title: "Candle's length"
 tags: "기타동인지 グライド"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-05-candles-length/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-candles-length/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8792064659846410233" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "준코이모 교복입는 만화"
 tags: "woogoon 동갤 캐릭터_준코 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1939/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1939/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

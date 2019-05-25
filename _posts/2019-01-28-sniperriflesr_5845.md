@@ -1,7 +1,7 @@
 ---
 title: "소녀의 마음"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/5845/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5845/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

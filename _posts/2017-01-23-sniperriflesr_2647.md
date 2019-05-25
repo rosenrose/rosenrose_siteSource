@@ -1,7 +1,7 @@
 ---
 title: "곤란한 이유"
 tags: "futa なべぞこ 나베조코 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2647/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2647/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

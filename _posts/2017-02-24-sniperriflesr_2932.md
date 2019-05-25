@@ -1,7 +1,7 @@
 ---
 title: "흑백바쿠는 악몽이 좋아?"
 tags: "じぜる 지제루 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2932/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2932/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

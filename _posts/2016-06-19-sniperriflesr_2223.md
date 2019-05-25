@@ -1,7 +1,7 @@
 ---
 title: "Unknowing"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2223/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2223/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

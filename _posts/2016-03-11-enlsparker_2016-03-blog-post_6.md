@@ -1,7 +1,7 @@
 ---
 title: "죽이고싶은 남자가 생겼습니다."
 tags: "동인지 矢本堂落書市"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_6/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-03-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7657378102380542349" itemprop="description articleBody">

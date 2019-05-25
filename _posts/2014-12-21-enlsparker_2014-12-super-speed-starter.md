@@ -1,7 +1,7 @@
 ---
 title: "Super Speed Starter"
 tags: "동인지 からあげ屋さん"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-12-super-speed-starter/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-12-super-speed-starter/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3809913630083078398" itemprop="description articleBody">

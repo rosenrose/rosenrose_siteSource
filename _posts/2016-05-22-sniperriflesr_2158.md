@@ -1,7 +1,7 @@
 ---
 title: "명확해지는 전력차"
 tags: "futa なべぞこ 나베조코 캐릭터_이바라키_카센 캐릭터_우사미_스미레코 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2158/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2158/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>

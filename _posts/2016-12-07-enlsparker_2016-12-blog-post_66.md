@@ -1,7 +1,7 @@
 ---
 title: "동방온천"
 tags: "동인지 サークルぬるま屋"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_66/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-12-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5057796800253420965" itemprop="description articleBody">

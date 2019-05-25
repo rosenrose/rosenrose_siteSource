@@ -1,7 +1,7 @@
 ---
 title: "뭡니까 대체..."
 tags: "동인지 ちりわぁく"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_37/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-blog-post_37/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5268105598947399235" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "기적은 별을 부른다"
 tags: "동인지 azmaya あまず"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_7/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-05-blog-post_7/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-694658396111514469" itemprop="description articleBody">

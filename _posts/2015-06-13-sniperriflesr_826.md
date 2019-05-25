@@ -1,7 +1,7 @@
 ---
 title: "시적아록"
 tags: "月並甲介 츠키나라베 並々食堂 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 이벤트_c78 시리어스_밝음"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/826/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/826/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

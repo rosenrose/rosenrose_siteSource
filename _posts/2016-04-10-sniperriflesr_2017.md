@@ -1,7 +1,7 @@
 ---
 title: "데자뷰"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_이나바_테위 급식첸_만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2017/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2017/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

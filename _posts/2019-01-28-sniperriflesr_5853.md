@@ -1,7 +1,7 @@
 ---
 title: "배빵 맞는 마리사"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5853/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5853/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "Taylor Alice"
 tags: "기타동인지 もこ屋"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-taylor-alice/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-taylor-alice/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2661771958670869130" itemprop="description articleBody">

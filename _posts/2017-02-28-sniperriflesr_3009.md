@@ -1,7 +1,7 @@
 ---
 title: "코가사가 이쁜 옷을 입는 만화"
 tags: "소명 캐릭터_타타라_코가사 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3009/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3009/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "세 종류의 악인"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_순호 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_키진_세이자 캐릭터_호쥬_누에 급식첸_만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3193/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3193/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

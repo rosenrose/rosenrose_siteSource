@@ -1,7 +1,7 @@
 ---
 title: "유유코는 식욕왕성"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_21/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-10-blog-post_21/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7354187950982509578" itemprop="description articleBody">

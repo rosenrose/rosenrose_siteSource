@@ -1,7 +1,7 @@
 ---
 title: "감기에 걸린 날"
 tags: "son sonと壱 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_코치야_사나에 캐릭터_히메카이도_하타테 시리어스_밝음"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2534/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2534/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

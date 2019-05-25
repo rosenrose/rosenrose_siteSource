@@ -1,7 +1,7 @@
 ---
 title: "너무 배가 고파..."
 tags: "クロコオリ 캐릭터_리글_나이트버그 캐릭터_나즈린 캐릭터_토라마루_쇼 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/3029/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3029/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

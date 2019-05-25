@@ -1,7 +1,7 @@
 ---
 title: "밤에 인사하는 홍마관"
 tags: "羊箱 합동인지 over_limit satellites"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_58/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-12-blog-post_58/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8130266779540756545" itemprop="description articleBody">

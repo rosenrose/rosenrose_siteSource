@@ -1,7 +1,7 @@
 ---
 title: "다음부턴 조심하라구"
 tags: "yaise 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2718/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2718/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

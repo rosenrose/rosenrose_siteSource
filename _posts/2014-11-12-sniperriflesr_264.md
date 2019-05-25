@@ -1,7 +1,7 @@
 ---
 title: "플랑도르 스튜던트"
 tags: "이벤트_c76 합동-진지[밝음]／약"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/264/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/264/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

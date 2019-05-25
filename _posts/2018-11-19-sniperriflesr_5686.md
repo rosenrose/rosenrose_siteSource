@@ -1,7 +1,7 @@
 ---
 title: "귀여운 쿄코쨩"
 tags: "multicollinearity @lemonademarket 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5686/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5686/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

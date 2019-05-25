@@ -1,7 +1,7 @@
 ---
 title: "스트롱 서머베케이션"
 tags: "동인지 こげコロッケ"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2018-08-blog-post_54/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-08-blog-post_54/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5148028557415270407" itemprop="description articleBody">

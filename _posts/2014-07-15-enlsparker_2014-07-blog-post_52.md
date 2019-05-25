@@ -1,7 +1,7 @@
 ---
 title: "꿈은 이족보행!!"
 tags: "동인지 bococho-farm"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_52/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-blog-post_52/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2597119750826244695" itemprop="description articleBody">

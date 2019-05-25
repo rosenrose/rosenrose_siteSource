@@ -1,7 +1,7 @@
 ---
 title: "호시구마 유우기에 대한 기묘한 소문"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_이부키_스이카 캐릭터_호시구마_유기 캐릭터_야고코로_에이린 이벤트_미상 약"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/317/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/317/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

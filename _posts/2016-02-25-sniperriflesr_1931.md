@@ -1,7 +1,7 @@
 ---
 title: "영원정의 오후"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1931/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1931/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

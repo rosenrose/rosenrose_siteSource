@@ -1,7 +1,7 @@
 ---
 title: "불법 투기 클럽"
 tags: "동인지 赤色バニラ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_35/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-07-blog-post_35/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1950098186324137166" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "사격게임"
 tags: "ジェット虚無僧 제트코무소 캐릭터_이나바_테위 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/733/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/733/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

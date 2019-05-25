@@ -1,7 +1,7 @@
 ---
 title: "임신해버린건가.."
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_소악마 캐릭터_파츄리_널릿지 짤／1컷만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1476/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1476/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "Princess week"
 tags: "동인지 赤橙"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-02-princess-week/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-02-princess-week/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2399485276685943242" itemprop="description articleBody">

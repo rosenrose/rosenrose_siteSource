@@ -1,7 +1,7 @@
 ---
 title: "부탁해! 해머 포지!!!!!"
 tags: "동인지 かるーあみるく"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_42/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-12-blog-post_42/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8592816918412604705" itemprop="description articleBody">

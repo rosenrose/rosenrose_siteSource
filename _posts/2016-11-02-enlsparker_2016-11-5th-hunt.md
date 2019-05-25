@@ -1,7 +1,7 @@
 ---
 title: "크레이지 레이무 - 5th HUNT"
 tags: "동인지 よつみわーくす"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-11-5th-hunt/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-11-5th-hunt/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4752722999725532231" itemprop="description articleBody">

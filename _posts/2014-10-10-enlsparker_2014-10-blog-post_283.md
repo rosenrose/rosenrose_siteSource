@@ -1,7 +1,7 @@
 ---
 title: "시크릿 포토세션"
 tags: "기타동인지 harvestmoon"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_283/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-10-blog-post_283/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4373457016553236142" itemprop="description articleBody">

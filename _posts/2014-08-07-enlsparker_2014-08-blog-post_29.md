@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 유심여정"
 tags: "동인지 青"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_29/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5765234642978072260" itemprop="description articleBody">

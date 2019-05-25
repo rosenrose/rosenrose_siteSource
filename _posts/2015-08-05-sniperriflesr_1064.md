@@ -1,7 +1,7 @@
 ---
 title: "타천자"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_히나나위_텐시 캐릭터_이부키_스이카 캐릭터_스쿠나_신묘마루 캐릭터_하쿠레이_레이무 캐릭터_나가에_이쿠 캐릭터_키진_세이자 캐릭터_키리사메_마리사 캐릭터_루미아 캐릭터_와카사기히메 이벤트_제_1회_추계_예대제 이벤트_第一回_秋季例大祭 시리어스_밝음"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1064/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1064/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

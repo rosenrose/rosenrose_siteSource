@@ -1,7 +1,7 @@
 ---
 title: "우리들의 집"
 tags: "동인지 からあげ屋さん"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_14/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-blog-post_14/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4233399671276671237" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "선인님은 달콤한 것을 좋아하신다"
 tags: "宗倉手須 소크라테스 一酸化硫黄 일산화유황 캐릭터_이바라키_카센 캐릭터_샤메이마루_아야 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 캐릭터_코치야_사나에 이벤트_c84 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/372/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/372/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

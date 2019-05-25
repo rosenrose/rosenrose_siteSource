@@ -1,7 +1,7 @@
 ---
 title: "아무도 읽어서는 안된다"
 tags: "うがつまつき 우가츠마츠키 @ugatsu 아사츠키당 あさつき堂 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_호시구마_유기 캐릭터_카엔뵤_린 캐릭터_오린 이벤트_例大祭15 이벤트_예대제_15 시리어스_어두움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5702/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5702/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

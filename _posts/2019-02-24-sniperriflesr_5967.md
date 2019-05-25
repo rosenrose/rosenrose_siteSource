@@ -1,7 +1,7 @@
 ---
 title: "에이린 포인트"
 tags: "ごくう 御供 @acoloredpencil 캐릭터_야고코로_에이린 짤／1컷만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/5967/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5967/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

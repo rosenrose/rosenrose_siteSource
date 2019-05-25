@@ -1,7 +1,7 @@
 ---
 title: "앨리스의 초상"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_앨리스_마가트로이드 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2286/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2286/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

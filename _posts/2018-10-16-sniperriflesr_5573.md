@@ -1,7 +1,7 @@
 ---
 title: "불쌍한 것... 강하게 살아..."
 tags: "じる @jirufun じるランド 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5573/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5573/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

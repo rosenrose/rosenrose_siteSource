@@ -1,7 +1,7 @@
 ---
 title: "헌혈의 날"
 tags: "ジェット虚無僧 제트코무소 @lexus_6737 com僧．com 캐릭터_야고코로_에이린 캐릭터_이부키_스이카 캐릭터_파츄리_널릿지 캐릭터_미야코_요시카 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5664/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5664/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

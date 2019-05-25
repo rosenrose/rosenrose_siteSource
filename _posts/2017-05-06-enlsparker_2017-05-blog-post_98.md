@@ -1,7 +1,7 @@
 ---
 title: "분할 애니멀 마리사 메모"
 tags: "동인지 personal_color"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_98/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-05-blog-post_98/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5848430068662150468" itemprop="description articleBody">

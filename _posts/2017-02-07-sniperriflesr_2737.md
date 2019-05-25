@@ -1,7 +1,7 @@
 ---
 title: "미마님과 신키님에게 수유를 부탁했다"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_신키 캐릭터_미마 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2737/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2737/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

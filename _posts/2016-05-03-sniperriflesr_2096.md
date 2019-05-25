@@ -1,7 +1,7 @@
 ---
 title: "구세중독"
 tags: "えなみ教授 에나미교수 캐릭터_코치야_사나에 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2096/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2096/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

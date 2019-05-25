@@ -1,7 +1,7 @@
 ---
 title: "먹모코!"
 tags: "동인지 あみだ屑"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_14/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-02-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4024003895616910325" itemprop="description articleBody">

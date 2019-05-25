@@ -1,7 +1,7 @@
 ---
 title: "란한테 밤일에 지면서 개처럼 기는 유카리"
 tags: "ㅋㄷㅇㅇ 49．175 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5695/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5695/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

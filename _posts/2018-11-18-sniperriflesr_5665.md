@@ -1,7 +1,7 @@
 ---
 title: "무슨 말을 해도 하나도 안 들어주는 카센짱"
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_이바라키_카센 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5665/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5665/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

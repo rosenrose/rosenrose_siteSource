@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 22"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 울지않아_파르시쨩!"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1339/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1339/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

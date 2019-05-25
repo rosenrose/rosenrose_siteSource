@@ -1,7 +1,7 @@
 ---
 title: "쇼타의 정조를 노리는 오니 녀석들"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_이바라키_카센 캐릭터_호시구마_유기 짤／1컷만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3135/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3135/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "조온 미코"
 tags: "ワイテイ 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/4854/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/4854/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

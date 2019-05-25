@@ -1,7 +1,7 @@
 ---
 title: "REVERSE"
 tags: "동인지 ハラペーニョチップス"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-05-reverse/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-reverse/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6178056071964230826" itemprop="description articleBody">

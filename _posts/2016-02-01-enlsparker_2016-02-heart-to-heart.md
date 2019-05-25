@@ -1,7 +1,7 @@
 ---
 title: "HEART! TO HEART?"
 tags: "동인지 gp-kids"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-heart-to-heart/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-heart-to-heart/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7036026952499602714" itemprop="description articleBody">

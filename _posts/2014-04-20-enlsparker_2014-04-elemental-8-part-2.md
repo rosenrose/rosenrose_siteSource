@@ -1,7 +1,7 @@
 ---
 title: "ELEMENTAL 8 PART 2"
 tags: "동인지 kemonomichi"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-04-elemental-8-part-2/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-04-elemental-8-part-2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8586999964732726742" itemprop="description articleBody">

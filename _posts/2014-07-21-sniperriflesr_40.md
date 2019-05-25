@@ -1,7 +1,7 @@
 ---
 title: "에리파니! [ EIRIN PANIC! ]"
 tags: "huyutarou ふゆたろう kyoutotengoku 극동천국 極東天国 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_치르노 캐릭터_하쿠레이_레이무 캐릭터_이부키_스이카 캐릭터_모리야_스와코 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/40/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/40/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

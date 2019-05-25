@@ -1,7 +1,7 @@
 ---
 title: "GHOST IN THE RAIN 上"
 tags: "동인지 poprication"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-05-ghost-in-rain/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-05-ghost-in-rain/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8207375588470483358" itemprop="description articleBody">

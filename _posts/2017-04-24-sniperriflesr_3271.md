@@ -1,7 +1,7 @@
 ---
 title: "아야님 정말 싫어요!"
 tags: "氷川_翔 히카와_쇼 ととねみぎ さくsaku亭 saku-2_tei 사쿠사쿠데이 かるーあみるく kahluamilk 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_이바라키_카센 캐릭터_우사미_스미레코 캐릭터_이부키_스이카 캐릭터_레밀리아_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_루미아 캐릭터_카쿠_세이가 이벤트_c90 합동-귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3271/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3271/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

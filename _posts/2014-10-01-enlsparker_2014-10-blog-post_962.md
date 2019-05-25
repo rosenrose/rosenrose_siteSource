@@ -1,7 +1,7 @@
 ---
 title: "마법소녀 매지컬 앨리스"
 tags: "동인지 ハラペーニョチップス"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_962/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-10-blog-post_962/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4585721202092735210" itemprop="description articleBody">

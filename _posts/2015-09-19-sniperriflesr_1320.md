@@ -1,7 +1,7 @@
 ---
 title: "소악마씨의 풍만한 가슴을 사용하는 방법을 묻다"
 tags: "ハマー 헤머 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1320/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1320/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

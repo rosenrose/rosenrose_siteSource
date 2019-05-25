@@ -1,7 +1,7 @@
 ---
 title: "큰 뜻을 품다! / 먹에서 피어나는 꽃"
 tags: "じぜる 지제루 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 시리어스_밝음"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1903/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1903/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

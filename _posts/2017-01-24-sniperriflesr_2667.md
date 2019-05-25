@@ -1,7 +1,7 @@
 ---
 title: "좋아해도 되나요?"
 tags: "描照すだち 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2667/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2667/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

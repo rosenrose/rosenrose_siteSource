@@ -1,7 +1,7 @@
 ---
 title: "도라네코 오토메 타임"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 이벤트_유명앵 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/349/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/349/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

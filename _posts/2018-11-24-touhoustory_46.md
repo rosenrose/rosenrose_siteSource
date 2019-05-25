@@ -1,7 +1,7 @@
 ---
 title: "후타 웹코믹 9~10"
 tags: "그림_번역／후타"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/touhoustory/46/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/touhoustory/46/001.jpg"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/46/001.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/46/002.jpg"/></p><p style="text-align: center;"><span style="color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; text-align: center; background-color: rgb(247, 247, 247); font-size: 18pt;">futa(</span><span style='color: rgb(51, 51, 51); font-style: inherit; text-align: center; background-color: rgb(247, 247, 247); font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif; font-size: 18pt; white-space: nowrap;'>@Futa313255)</span><br/></p> </div></div><br/>

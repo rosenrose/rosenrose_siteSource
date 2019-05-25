@@ -1,7 +1,7 @@
 ---
 title: "겨울 코미케 힘내겠다는 어필"
 tags: "じる じるランド 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2821/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2821/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "시메트릭 파인더"
 tags: "동인지 ヘ蝶々"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2017-06-blog-post_65/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-06-blog-post_65/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2192132513632865392" itemprop="description articleBody">

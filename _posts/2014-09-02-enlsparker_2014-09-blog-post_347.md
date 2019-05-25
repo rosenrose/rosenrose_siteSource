@@ -1,7 +1,7 @@
 ---
 title: "무녀와 점주와 마법사"
 tags: "기타동인지 なにかがよんでる"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_347/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_347/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8205805453828110953" itemprop="description articleBody">

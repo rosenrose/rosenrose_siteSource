@@ -1,7 +1,7 @@
 ---
 title: "모가리노미야"
 tags: "동인지 letra"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_91/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-12-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8376802658212223439" itemprop="description articleBody">

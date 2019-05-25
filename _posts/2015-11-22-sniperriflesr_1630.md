@@ -1,7 +1,7 @@
 ---
 title: "헬로헬로 아임 히어"
 tags: "dra どら area-s エリアエス 캐릭터_나즈린 캐릭터_토라마루_쇼 캐릭터_히지리_뱌쿠렌 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 이벤트_例大祭_12 이벤트_예대제_12 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1630/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1630/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

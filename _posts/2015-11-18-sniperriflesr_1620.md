@@ -1,7 +1,7 @@
 ---
 title: "SHOW ME YOUR SMILE!"
 tags: "sakimiya -sakimiya- 캐릭터_하타노_코코로 캐릭터_앨리스_마가트로이드 캐릭터_호쥬_누에 캐릭터_타타라_코가사 캐릭터_코메이지_코이시 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_상하이 캐릭터_히지리_뱌쿠렌 캐릭터_히메카이도_하타테 이벤트_c86 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1620/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1620/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

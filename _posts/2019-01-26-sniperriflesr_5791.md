@@ -1,7 +1,7 @@
 ---
 title: "자신이 만든 약은 믿지 않는 레이센과 이나바의 토끼씨"
 tags: "しお @shioshio1600 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5791/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5791/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

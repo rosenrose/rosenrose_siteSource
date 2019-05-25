@@ -1,7 +1,7 @@
 ---
 title: "카게로우랑 와카사기히메가 이름을 부르는 만화"
 tags: "アリヌ 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1390/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1390/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

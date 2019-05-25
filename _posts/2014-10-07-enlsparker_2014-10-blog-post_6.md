@@ -1,7 +1,7 @@
 ---
 title: "모코우와 바다와"
 tags: "동인지 鵺箱"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_6/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-10-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4966514323959537469" itemprop="description articleBody">

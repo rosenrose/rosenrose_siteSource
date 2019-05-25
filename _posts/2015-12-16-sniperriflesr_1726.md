@@ -1,7 +1,7 @@
 ---
 title: "타타라와 코가사"
 tags: "壱 sonと壱 캐릭터_타타라_코가사 캐릭터_하쿠레이_레이무 캐릭터_치르노 캐릭터_루미아 캐릭터_리글_나이트버그 이벤트_c83 시리어스_슬픔"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1726/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1726/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

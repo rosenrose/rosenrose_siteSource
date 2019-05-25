@@ -1,7 +1,7 @@
 ---
 title: "Where is the Dullahan's head?"
 tags: "동인지 その他大勢"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-06-where-is-dullahans-head/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-06-where-is-dullahans-head/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5030087378605146025" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "심야의 참새식당 - 간편요리편"
 tags: "동인지 grinp"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-03-blog-post_408/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-03-blog-post_408/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6903332837849540070" itemprop="description articleBody">

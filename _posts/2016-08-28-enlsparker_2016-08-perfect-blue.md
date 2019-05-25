@@ -1,7 +1,7 @@
 ---
 title: "Perfect BLUE"
 tags: "동인지 イカ足10本"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-08-perfect-blue/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-08-perfect-blue/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5650541447351242850" itemprop="description articleBody">

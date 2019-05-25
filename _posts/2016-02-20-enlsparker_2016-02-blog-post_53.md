@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 로쿠유노세츠"
 tags: "동인지 青"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_53/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-blog-post_53/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2120287548433744010" itemprop="description articleBody">

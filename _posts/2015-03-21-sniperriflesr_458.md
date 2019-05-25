@@ -1,7 +1,7 @@
 ---
 title: "마리앨리가 아기를 돌보는 이야기 Sister"
 tags: "茶太丸 챠타마루 囲炉裏茶房 화덕다방 이로리_샤보 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_상하이 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 이벤트_c87 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/458/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/458/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

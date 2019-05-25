@@ -1,7 +1,7 @@
 ---
 title: "라스트 엘릭서"
 tags: "동인지 あさつき堂"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_30/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-08-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7880515609328372447" itemprop="description articleBody">

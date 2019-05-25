@@ -1,7 +1,7 @@
 ---
 title: "High-end Clarity Noise"
 tags: "동인지 kfc"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-05-high-end-clarity-noise/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-high-end-clarity-noise/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1557891123317107743" itemprop="description articleBody">

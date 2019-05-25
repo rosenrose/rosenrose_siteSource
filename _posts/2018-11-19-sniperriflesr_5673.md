@@ -1,7 +1,7 @@
 ---
 title: "우동게 혀에 주사놓기"
 tags: "赤崎セカイ @kireinatetete 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5673/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5673/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><font color="#6600ff"><b><span style="; "><br/></span></b></font></p>

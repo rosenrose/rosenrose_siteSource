@@ -1,7 +1,7 @@
 ---
 title: "청아 냥냥의 이상한 애정"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_카쿠_세이가 캐릭터_쿠모이_이치린 캐릭터_운잔 캐릭터_미야코_요시카 캐릭터_무라사_미나미츠 캐릭터_카소다니_쿄코 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_토요사토미미노_미코 캐릭터_호쥬_누에 캐릭터_나즈린 이벤트_c82 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/459/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/459/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

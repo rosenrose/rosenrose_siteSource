@@ -1,7 +1,7 @@
 ---
 title: "사토리 밥"
 tags: "동인지 まるしき"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_10/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-06-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7124463695395627642" itemprop="description articleBody">

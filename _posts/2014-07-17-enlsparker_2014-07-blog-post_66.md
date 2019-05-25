@@ -1,7 +1,7 @@
 ---
 title: "아마가미"
 tags: "동인지 ギガメーカー"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_66/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-07-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8831508852601834435" itemprop="description articleBody">

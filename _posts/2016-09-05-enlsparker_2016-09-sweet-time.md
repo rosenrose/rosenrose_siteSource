@@ -1,7 +1,7 @@
 ---
 title: "간식 시간 - Sweet time!"
 tags: "동인지 eh？"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-09-sweet-time/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-09-sweet-time/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6229645564673425060" itemprop="description articleBody">

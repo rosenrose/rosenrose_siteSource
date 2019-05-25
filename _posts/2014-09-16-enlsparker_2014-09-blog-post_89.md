@@ -1,7 +1,7 @@
 ---
 title: "둔감해서 우하우하 첨버-엉"
 tags: "동인지 その他大勢"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_89/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2994363599485374912" itemprop="description articleBody">

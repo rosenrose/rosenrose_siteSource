@@ -1,7 +1,7 @@
 ---
 title: "최취직"
 tags: "동인지 ぜのさいど"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_23/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-09-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2472328466103533248" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "아야가 우유 마시는 만화"
 tags: "cwarock 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1556/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1556/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "환상괴담 마리오네트"
 tags: "동인지 ふすま喫茶"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_31/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-12-blog-post_31/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6138056707551126390" itemprop="description articleBody">

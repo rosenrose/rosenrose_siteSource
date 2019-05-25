@@ -1,7 +1,7 @@
 ---
 title: "죽림의 꽃, 잠자는 공주 -전편-"
 tags: "kona canaria 캐릭터_호라이산_카구야 캐릭터_야쿠모_유카리 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 이벤트_c77 시리어스_진지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1322/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1322/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "동방이에요 Twist"
 tags: "기타동인지 メラガル"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-04-twist/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-04-twist/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4131704007943014179" itemprop="description articleBody">

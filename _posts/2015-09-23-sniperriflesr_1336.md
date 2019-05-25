@@ -1,7 +1,7 @@
 ---
 title: "헤카티 엄마와 꼬마 클라피쨩"
 tags: "노랑오리 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1336/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1336/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

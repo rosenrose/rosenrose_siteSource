@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 라쿠아미노하라"
 tags: "동인지 青"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_65/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-11-blog-post_65/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-306497743143817342" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "플라네타리움 - 비봉구락부 합동지"
 tags: "四方山 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_야쿠모_유카리 캐릭터_우사미_렌코 캐릭터_키리사메_마리사 캐릭터_샤메이마루_아야 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_카와시로_니토리 캐릭터_이부키_스이카 이벤트_c78 합동_4서클_이상"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1054/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1054/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

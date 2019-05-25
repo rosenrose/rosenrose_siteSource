@@ -1,7 +1,7 @@
 ---
 title: "레이센 교환생활"
 tags: "동인지 みはてく"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_699/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_699/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3639767752020800913" itemprop="description articleBody">

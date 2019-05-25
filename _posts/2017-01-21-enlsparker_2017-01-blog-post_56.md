@@ -1,7 +1,7 @@
 ---
 title: "정지된 낙원에서"
 tags: "동인지 月兎一途"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_56/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-01-blog-post_56/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2160455604412679702" itemprop="description articleBody">

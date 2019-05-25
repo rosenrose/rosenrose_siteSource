@@ -1,7 +1,7 @@
 ---
 title: "RISELIED"
 tags: "기타동인지 million"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-01-riselied/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-01-riselied/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6260731186181958991" itemprop="description articleBody">

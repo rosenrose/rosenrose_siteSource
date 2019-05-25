@@ -1,7 +1,7 @@
 ---
 title: "이쿠씨와 안경"
 tags: "パイン 캐릭터_나가에_이쿠 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/3391/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3391/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

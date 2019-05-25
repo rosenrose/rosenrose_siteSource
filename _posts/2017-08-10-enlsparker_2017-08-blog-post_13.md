@@ -1,7 +1,7 @@
 ---
 title: "열, 땅거미에 물들어"
 tags: "동인지 よぬりめ"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post_13/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-08-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3899645609967047387" itemprop="description articleBody">

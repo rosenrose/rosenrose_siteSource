@@ -1,7 +1,7 @@
 ---
 title: "영웅본색"
 tags: "동인지 demour402"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_456/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-blog-post_456/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7865271126170311685" itemprop="description articleBody">

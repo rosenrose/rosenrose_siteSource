@@ -1,7 +1,7 @@
 ---
 title: "인기만점 꼬리"
 tags: "동인지 その他大勢"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_795/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-09-blog-post_795/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8977876241387627318" itemprop="description articleBody">

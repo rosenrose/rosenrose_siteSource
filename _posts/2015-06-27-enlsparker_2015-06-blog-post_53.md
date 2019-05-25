@@ -1,7 +1,7 @@
 ---
 title: "코가사의 이야기"
 tags: "기타동인지 ツキギのとこ"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_53/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-06-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-214522470076580897" itemprop="description articleBody">

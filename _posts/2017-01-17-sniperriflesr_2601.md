@@ -1,7 +1,7 @@
 ---
 title: "가짜 떡밥"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_이누바시리_모미지 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2601/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2601/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "HAPPY HAPPY HAPPY!"
 tags: "동인지 くらっしゅハウス"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2018-06-happy-happy-happy/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-06-happy-happy-happy/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7385452578816624074" itemprop="description articleBody">

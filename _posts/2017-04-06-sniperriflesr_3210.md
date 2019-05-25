@@ -1,7 +1,7 @@
 ---
 title: "헛스윙 프리즘 리버스"
 tags: "春雨 하루사메 運命のイカスミ 운명의_이카스미 캐릭터_메를랑_프리즘리버 캐릭터_리리카_프리즘리버 캐릭터_루나사_프리즘리버 캐릭터_키진_세이자 캐릭터_사이교우지_유유코 캐릭터_미야코_요시카 캐릭터_카쿠_세이가 캐릭터_하쿠레이_레이무 이벤트_c88 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3210/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3210/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

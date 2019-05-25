@@ -1,7 +1,7 @@
 ---
 title: "순호를 백허그하는 레이센"
 tags: "あぐもっち 캐릭터_레이센_우동게인_이나바 캐릭터_순호 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3130/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3130/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

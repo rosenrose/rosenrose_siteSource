@@ -1,7 +1,7 @@
 ---
 title: "그만하세요 죽는다구요"
 tags: "동인지 オムチキン"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_88/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-09-blog-post_88/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3031183050064041456" itemprop="description articleBody">

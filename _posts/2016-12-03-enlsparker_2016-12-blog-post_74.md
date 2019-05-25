@@ -1,7 +1,7 @@
 ---
 title: "크리스마스 크라이시스 - 붉은 악마와 징글벨"
 tags: "乃屋 동인지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_74/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-12-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7665151713836735945" itemprop="description articleBody">

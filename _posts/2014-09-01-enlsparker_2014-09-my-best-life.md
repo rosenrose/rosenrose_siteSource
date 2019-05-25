@@ -1,7 +1,7 @@
 ---
 title: "MY BEST LIFE"
 tags: "동인지 こおりあめ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-09-my-best-life/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-my-best-life/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5599820104678654828" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "지상의 겨울"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_링고 캐릭터_세이란 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1616/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1616/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

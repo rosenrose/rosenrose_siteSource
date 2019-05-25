@@ -1,7 +1,7 @@
 ---
 title: "여러 레이무의 가슴"
 tags: "三日月ネコ 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3069/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3069/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "오토메 프라이스리스"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 이벤트_c79 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/232/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/232/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "고양이 셋이서 뒹굴뒹굴"
 tags: "동인지 happy_flame_time"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_99/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_99/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3076486343618356201" itemprop="description articleBody">

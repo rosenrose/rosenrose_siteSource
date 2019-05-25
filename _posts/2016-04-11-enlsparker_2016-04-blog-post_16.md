@@ -1,7 +1,7 @@
 ---
 title: "사랑받는 공주"
 tags: "기타동인지 eostre"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_16/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-04-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8597788638639417005" itemprop="description articleBody">

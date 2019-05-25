@@ -1,7 +1,7 @@
 ---
 title: "벌레에 물린 소녀들"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1698/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1698/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

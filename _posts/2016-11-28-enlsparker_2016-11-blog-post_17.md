@@ -1,7 +1,7 @@
 ---
 title: "공주님과 놀자 그 두번째"
 tags: "동인지 つるべじ。"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_17/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-11-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2823800866975496142" itemprop="description articleBody">

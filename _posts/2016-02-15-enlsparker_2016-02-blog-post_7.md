@@ -1,7 +1,7 @@
 ---
 title: "날개 없는 까마귀"
 tags: "기타동인지 虹色ひらひら"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_7/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4664608481647681692" itemprop="description articleBody">

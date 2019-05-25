@@ -1,7 +1,7 @@
 ---
 title: "자기 자신 이외의 사랑하는 친구가 있다는 것을 용서할 수 없는 플랑의 이야기"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2732/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2732/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

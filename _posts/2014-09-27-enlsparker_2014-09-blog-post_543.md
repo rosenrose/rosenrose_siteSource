@@ -1,7 +1,7 @@
 ---
 title: "물거품의 기억"
 tags: "동인지 mental_apricot"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_543/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_543/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9108803520647486870" itemprop="description articleBody">

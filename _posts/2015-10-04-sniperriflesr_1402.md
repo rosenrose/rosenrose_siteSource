@@ -1,7 +1,7 @@
 ---
 title: "장례식"
 tags: "캐릭터_코치야_사나에 캐릭터_토라마루_쇼 캐릭터_무라사_미나미츠 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1402/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1402/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

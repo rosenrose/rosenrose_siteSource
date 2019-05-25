@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 13"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_미스티아_로렐라이 울지않아_파르시쨩!"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1237/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1237/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

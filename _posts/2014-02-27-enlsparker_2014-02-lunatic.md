@@ -1,7 +1,7 @@
 ---
 title: "난이도 Lunatic"
 tags: "동인지 徒歩二分"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-02-lunatic/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-lunatic/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7427109261248929629" itemprop="description articleBody">

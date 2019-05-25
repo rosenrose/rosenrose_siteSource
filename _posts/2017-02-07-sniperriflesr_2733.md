@@ -1,7 +1,7 @@
 ---
 title: "트랩마스터 유카리"
 tags: "suo すおーずこーひー 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2733/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2733/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

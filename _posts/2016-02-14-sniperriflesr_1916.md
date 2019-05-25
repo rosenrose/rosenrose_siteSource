@@ -1,7 +1,7 @@
 ---
 title: "Re PURE"
 tags: "ベル助 ベルの巣 캐릭터_클라운피스 캐릭터_레이센_우동게인_이나바 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1916/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1916/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

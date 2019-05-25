@@ -1,7 +1,7 @@
 ---
 title: "그런거 싫어"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 [번역]_4컷／단편만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1485/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1485/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

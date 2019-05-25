@@ -1,7 +1,7 @@
 ---
 title: "애정을 가득 담았습니다!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_앨리스_마가트로이드 캐릭터_신키 캐릭터_유메코 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_샤메이마루_아야 캐릭터_상하이 캐릭터_소악마 캐릭터_이자요이_사쿠야 이벤트_例大祭12 이벤트_예대제12 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/814/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/814/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

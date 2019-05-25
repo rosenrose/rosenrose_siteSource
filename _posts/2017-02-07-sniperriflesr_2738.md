@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 23"
 tags: "にーこ 캐릭터_치르노 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_미야코_요시카 바이오_놀이"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2738/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2738/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

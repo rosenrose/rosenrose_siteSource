@@ -1,7 +1,7 @@
 ---
 title: "메이드 카게로 합동지"
 tags: "합동인지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_38/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-12-blog-post_38/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6723486112337166359" itemprop="description articleBody">

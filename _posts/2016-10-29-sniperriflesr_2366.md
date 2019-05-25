@@ -1,7 +1,7 @@
 ---
 title: "지저의 광조곡"
 tags: "えなみ教授 에나미교수 캐릭터_미즈하시_파르시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_호시구마_유기 급식첸_만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2366/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2366/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

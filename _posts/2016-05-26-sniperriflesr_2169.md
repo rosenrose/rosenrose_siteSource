@@ -1,7 +1,7 @@
 ---
 title: "동방 스마트폰 에로겜 소개"
 tags: "如月ツヴァヰ 짤_시리즈"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2169/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2169/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

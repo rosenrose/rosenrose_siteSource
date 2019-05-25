@@ -1,7 +1,7 @@
 ---
 title: "머물며, 이루며, 그리고 존재한다 - 중편"
 tags: "동인지 personal_color"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_12/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-50348301334485392" itemprop="description articleBody">

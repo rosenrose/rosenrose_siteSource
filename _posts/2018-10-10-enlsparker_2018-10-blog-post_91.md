@@ -1,7 +1,7 @@
 ---
 title: "링·링·랜드"
 tags: "동인지 ひとりオセロ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_91/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-10-blog-post_91/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7778253749358003366" itemprop="description articleBody">

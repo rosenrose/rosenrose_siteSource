@@ -1,7 +1,7 @@
 ---
 title: "OVERNIGHT SENSATION"
 tags: "동인지 gp-kids"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-overnight-sensation/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-overnight-sensation/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5206694471987705328" itemprop="description articleBody">

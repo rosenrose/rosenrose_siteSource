@@ -1,7 +1,7 @@
 ---
 title: "옥시페탈룸 블루스타"
 tags: "じぜる 지제루 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5773/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5773/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

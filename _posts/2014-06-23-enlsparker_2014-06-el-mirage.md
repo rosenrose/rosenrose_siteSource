@@ -1,7 +1,7 @@
 ---
 title: "EL MIRAGE"
 tags: "동인지 gp-kids"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-06-el-mirage/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-06-el-mirage/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2900523429973264906" itemprop="description articleBody">

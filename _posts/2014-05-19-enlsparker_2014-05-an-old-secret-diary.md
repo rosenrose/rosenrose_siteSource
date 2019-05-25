@@ -1,7 +1,7 @@
 ---
 title: "an old secret diary - 키리사메 마리사의 낡은 일기"
 tags: "동인지 ha_ra_ra"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-05-an-old-secret-diary/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-an-old-secret-diary/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7355259735874381909" itemprop="description articleBody">

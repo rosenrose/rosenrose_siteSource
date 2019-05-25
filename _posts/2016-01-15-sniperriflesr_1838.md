@@ -1,7 +1,7 @@
 ---
 title: "그런게 아냐 도레미"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_도레미_스위트 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1838/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1838/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

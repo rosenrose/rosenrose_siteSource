@@ -1,7 +1,7 @@
 ---
 title: "보라색 거울은 꽃으로 피어난다"
 tags: "동인지 スアリテスミ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-05-blog-post_61/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-05-blog-post_61/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3842058069555813515" itemprop="description articleBody">

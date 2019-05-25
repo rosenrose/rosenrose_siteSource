@@ -1,7 +1,7 @@
 ---
 title: "How to Hold Hands"
 tags: "＋legacy 동인지"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-02-how-to-hold-hands/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-02-how-to-hold-hands/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-841211853497302032" itemprop="description articleBody">

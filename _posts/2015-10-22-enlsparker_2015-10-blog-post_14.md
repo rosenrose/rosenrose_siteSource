@@ -1,7 +1,7 @@
 ---
 title: "봄보다 사랑하다"
 tags: "동인지 なんとか生きてます。"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_14/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-10-blog-post_14/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6889480912383477079" itemprop="description articleBody">

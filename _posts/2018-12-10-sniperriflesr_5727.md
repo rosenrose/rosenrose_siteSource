@@ -1,7 +1,7 @@
 ---
 title: "시온쨩이 파르페를 먹는 만화"
 tags: "ふたはね泥沼 @futahane はねやすめの沼 캐릭터_히나나위_텐시 캐릭터_요리가미_시온 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5727/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5727/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

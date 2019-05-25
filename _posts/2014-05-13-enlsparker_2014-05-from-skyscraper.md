@@ -1,7 +1,7 @@
 ---
 title: "From Skyscraper"
 tags: "동인지 teddy-plaza"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-05-from-skyscraper/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-from-skyscraper/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9088360250660936175" itemprop="description articleBody">

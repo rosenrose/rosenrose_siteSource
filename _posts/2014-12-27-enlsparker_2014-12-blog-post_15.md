@@ -1,7 +1,7 @@
 ---
 title: "흔들리는 초침"
 tags: "동인지 sugilight"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_15/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-12-blog-post_15/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6974958861368436698" itemprop="description articleBody">

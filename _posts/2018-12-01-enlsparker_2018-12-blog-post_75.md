@@ -1,7 +1,7 @@
 ---
 title: "결계를 넘은 유실물"
 tags: "동인지 北国もやし製造所"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_75/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-12-blog-post_75/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3981689074524180440" itemprop="description articleBody">

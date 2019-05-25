@@ -1,7 +1,7 @@
 ---
 title: "채우다"
 tags: "동인지 しぐれえび"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_26/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-04-blog-post_26/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4642296554846084888" itemprop="description articleBody">

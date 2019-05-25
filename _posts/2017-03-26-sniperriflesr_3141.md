@@ -1,7 +1,7 @@
 ---
 title: "무심코..."
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/3141/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3141/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "Vanisher"
 tags: "동인지 煎餅屋"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-vanisher/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-vanisher/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-963439179286084775" itemprop="description articleBody">

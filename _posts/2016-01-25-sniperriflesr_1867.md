@@ -1,7 +1,7 @@
 ---
 title: "bitter→sweet"
 tags: "坂奈 사카나 サカナキドリ 사카나키도리 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 캐릭터_레이센 캐릭터_세이란 캐릭터_링고 이벤트_c89 시리어스_진지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1867/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1867/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

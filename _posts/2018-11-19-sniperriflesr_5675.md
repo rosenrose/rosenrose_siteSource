@@ -1,7 +1,7 @@
 ---
 title: "유카리랑 아기만들기"
 tags: "秋山 @akiyama_cz4a 캐릭터_야쿠모_유카리 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5675/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5675/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

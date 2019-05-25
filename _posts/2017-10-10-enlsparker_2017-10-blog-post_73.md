@@ -1,7 +1,7 @@
 ---
 title: "두마리 토끼를 쫓아"
 tags: "劇団文七 동인지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-10-blog-post_73/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-10-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2839583700319276180" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "신기하고 신기한 불제봉"
 tags: "동인지 アンニュイ赤蛸"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-05-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3972331216487162916" itemprop="description articleBody">

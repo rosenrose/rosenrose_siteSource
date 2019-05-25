@@ -1,7 +1,7 @@
 ---
 title: "가슴을 기대로 가득 채워라!!"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_28/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-05-blog-post_28/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3553283835061835403" itemprop="description articleBody">

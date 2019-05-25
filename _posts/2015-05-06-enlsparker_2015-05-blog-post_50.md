@@ -1,7 +1,7 @@
 ---
 title: "너를 좋아한다고 전하고 싶어!!"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_50/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-05-blog-post_50/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3920322129406262579" itemprop="description articleBody">

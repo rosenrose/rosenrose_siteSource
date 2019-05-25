@@ -1,7 +1,7 @@
 ---
 title: "VAMPIRE KISS"
 tags: "晩杯あきら 南方純 pure 奴は仮名 캐릭터_레밀리아_스칼렛 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_치르노 캐릭터_파츄리_널릿지 캐릭터_소악마 이벤트_c80 합동-진지[밝음]／약"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2545/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2545/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

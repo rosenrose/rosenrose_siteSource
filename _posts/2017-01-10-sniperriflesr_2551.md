@@ -1,7 +1,7 @@
 ---
 title: "동방소극장 오니오니 스이카"
 tags: "春日優希 카스가_유키 わいるどらびっつ 와일드_래빗츠 야생토끼 캐릭터_이부키_스이카 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_호시구마_유기 이벤트_例大祭_8 이벤트_예대제_8 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2551/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2551/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

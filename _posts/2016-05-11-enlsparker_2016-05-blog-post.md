@@ -1,7 +1,7 @@
 ---
 title: "이쪽을 봐줬으면 좋겠다구"
 tags: "동인지 時間屋"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-05-blog-post/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-05-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4936443581449544604" itemprop="description articleBody">

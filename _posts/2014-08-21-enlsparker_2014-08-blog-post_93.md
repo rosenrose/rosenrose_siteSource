@@ -1,7 +1,7 @@
 ---
 title: "지금이 봄이라고 - 下"
 tags: "동인지 deli-tre"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_93/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-08-blog-post_93/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-305798930105976318" itemprop="description articleBody">

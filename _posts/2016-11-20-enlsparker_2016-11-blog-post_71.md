@@ -1,7 +1,7 @@
 ---
 title: "동방보리사탕"
 tags: "기타동인지 blackdwarf"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_71/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-11-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1697281242833705544" itemprop="description articleBody">

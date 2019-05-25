@@ -1,7 +1,7 @@
 ---
 title: "만월의 조각 ・ 상현달"
 tags: "雪 ぽぽぽ 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 이벤트_c85 시리어스_진지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1492/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1492/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "나, 레이무다제☆"
 tags: "기타동인지 あめしょー"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_9/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-08-blog-post_9/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2265682086069856020" itemprop="description articleBody">

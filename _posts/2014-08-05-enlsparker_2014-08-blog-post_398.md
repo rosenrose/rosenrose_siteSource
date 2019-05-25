@@ -1,7 +1,7 @@
 ---
 title: "유카님 힘내세요"
 tags: "동인지 まにまに。"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_398/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-08-blog-post_398/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3036400424804490634" itemprop="description articleBody">

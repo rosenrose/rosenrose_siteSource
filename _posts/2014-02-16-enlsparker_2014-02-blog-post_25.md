@@ -1,7 +1,7 @@
 ---
 title: "귀신광 - 전편"
 tags: "동인지 golden_pe_done"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_25/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-02-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8308115633987068665" itemprop="description articleBody">

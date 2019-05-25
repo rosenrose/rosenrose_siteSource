@@ -1,7 +1,7 @@
 ---
 title: "와이셔츠 축제1"
 tags: "캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/42/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/42/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

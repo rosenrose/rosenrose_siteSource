@@ -1,7 +1,7 @@
 ---
 title: "나를 지저로 데려가줘!"
 tags: "기타동인지 温泉猫"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_30/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-01-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5186599955047173704" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "움직이지 않는 대도서관"
 tags: "동인지 ヤゴの穴"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_11/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3279510378254228697" itemprop="description articleBody">

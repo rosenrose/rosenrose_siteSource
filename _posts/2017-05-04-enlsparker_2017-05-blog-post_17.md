@@ -1,7 +1,7 @@
 ---
 title: "크레이지 지령전 - 염옥의 장"
 tags: "동인지 よつみわーくす"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_17/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-05-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7690269199336025848" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "마쉬멜로우 데이"
 tags: "동인지 羊ほえほえ"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_25/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-01-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7160721894934894677" itemprop="description articleBody">

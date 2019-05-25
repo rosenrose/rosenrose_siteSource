@@ -1,7 +1,7 @@
 ---
 title: "카소다니 쿄코의 메아리 선언"
 tags: "ハマー 헤머 サンセットビーチ 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1546/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1546/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "로쿠넨 짤 34~37"
 tags: "그림_번역／로쿠넨"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/touhoustory/37/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/touhoustory/37/001.png"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/37/001.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/37/002.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/37/003.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/37/004.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(119, 119, 119); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 18.6667px; letter-spacing: -1px; text-align: center;">ろくねん(@6nen)</span></p> </div></div><br/>

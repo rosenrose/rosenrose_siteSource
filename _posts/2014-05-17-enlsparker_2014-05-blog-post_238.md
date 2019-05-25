@@ -1,7 +1,7 @@
 ---
 title: "슈트룸 운 드렁"
 tags: "동인지 letra"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_238/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-blog-post_238/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2538968478671526657" itemprop="description articleBody">

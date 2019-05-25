@@ -1,7 +1,7 @@
 ---
 title: "소녀 리셋"
 tags: "동인지 ビビットグレー"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_958/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_958/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2343028690447628717" itemprop="description articleBody">

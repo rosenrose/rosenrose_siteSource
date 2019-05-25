@@ -1,7 +1,7 @@
 ---
 title: "여동생의 귀여움때문에 언니가 위험해"
 tags: "동인지 ころもにゅ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_2/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-11-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4287858366917836668" itemprop="description articleBody">

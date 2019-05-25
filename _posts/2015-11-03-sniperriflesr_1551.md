@@ -1,7 +1,7 @@
 ---
 title: "미스티아가 장어 잡는 만화"
 tags: "cwarock 캐릭터_미스티아_로렐라이 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1551/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1551/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

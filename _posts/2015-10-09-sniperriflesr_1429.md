@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 6화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 요스즈메와_불사조"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1429/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1429/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

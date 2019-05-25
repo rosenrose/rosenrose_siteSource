@@ -1,7 +1,7 @@
 ---
 title: "케이네 x 백택"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_야쿠모_유카리 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/782/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/782/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

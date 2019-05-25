@@ -1,7 +1,7 @@
 ---
 title: "하나부터 삼 더하기 일"
 tags: "동인지 なべぞこ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_71/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-06-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3195228014098155717" itemprop="description articleBody">

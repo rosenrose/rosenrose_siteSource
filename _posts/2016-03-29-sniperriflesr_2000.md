@@ -1,7 +1,7 @@
 ---
 title: "미확인 사이콜로지"
 tags: "水中花火 스이츄_하나비 ふすま喫茶 후스마_찻집 캐릭터_호쥬_누에 캐릭터_후타츠이와_마미조 캐릭터_리글_나이트버그 캐릭터_미스티아_로렐라이 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 캐릭터_토라마루_쇼 캐릭터_나즈린 이벤트_c88 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2000/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2000/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

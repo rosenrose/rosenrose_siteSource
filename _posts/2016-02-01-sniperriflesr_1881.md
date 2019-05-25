@@ -1,7 +1,7 @@
 ---
 title: "다우저와 도망치는 유령"
 tags: "こめつぶ スタントマンズ 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_대요정 캐릭터_치르노 캐릭터_세키반키 캐릭터_키진_세이자 캐릭터_루미아 이벤트_c89 시리어스_진지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1881/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1881/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

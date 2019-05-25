@@ -1,7 +1,7 @@
 ---
 title: "여우와 포도"
 tags: "甘党 amatou 아마토우 hitomishiri 히토미시리 ひとみしり 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_타타라_코가사 캐릭터_치르노 캐릭터_루미아 캐릭터_미스티아_로렐라이 캐릭터_사이교우지_유유코 캐릭터_카와시로_니토리 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 이벤트_東方崇敬祭_4 이벤트_동방숭경제_4 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1018/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1018/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

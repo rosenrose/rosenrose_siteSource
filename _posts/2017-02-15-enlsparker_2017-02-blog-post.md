@@ -1,7 +1,7 @@
 ---
 title: "빗소리가 엮다"
 tags: "동인지 よぬりめ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-02-blog-post/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-02-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6754366221236153549" itemprop="description articleBody">

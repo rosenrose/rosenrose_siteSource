@@ -1,7 +1,7 @@
 ---
 title: "순호와 클라운피스의 다정함"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_순호 캐릭터_준코 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1329/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1329/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

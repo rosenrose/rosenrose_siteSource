@@ -1,7 +1,7 @@
 ---
 title: "퇴출됐다!!"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_소가노_토지코 캐릭터_토요사토미미노_미코 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_레이센_우동게인_이나바 캐릭터_모노노베노_후토 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_치르노 캐릭터_홍_메이링 캐릭터_샤메이마루_아야 이벤트_c84 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1332/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1332/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 21화"
 tags: "みつもと 미츠모토 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 요스즈메와_불사조"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1459/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1459/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

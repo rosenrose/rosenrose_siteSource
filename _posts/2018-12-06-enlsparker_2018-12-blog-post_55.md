@@ -1,7 +1,7 @@
 ---
 title: "몸으로 갚아주실까"
 tags: "동인지 ぜのさいど"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_55/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-12-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2257611713342157164" itemprop="description articleBody">

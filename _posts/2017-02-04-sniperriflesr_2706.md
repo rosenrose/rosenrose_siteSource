@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 14"
 tags: "にーこ 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_첸 캐릭터_콘파쿠_요우무 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 바이오_놀이"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2706/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2706/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

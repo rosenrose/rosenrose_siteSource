@@ -1,7 +1,7 @@
 ---
 title: "최초의 감정"
 tags: "동인지 よぬりめ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_73/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-12-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7095954190651721538" itemprop="description articleBody">

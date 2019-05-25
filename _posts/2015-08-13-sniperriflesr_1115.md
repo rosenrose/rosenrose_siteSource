@@ -1,7 +1,7 @@
 ---
 title: "가르쳐줘! 요우무 선생"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_콘파쿠_요우무 캐릭터_모노노베노_후토 캐릭터_코치야_사나에 캐릭터_사이교우지_유유코 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 이벤트_例大祭_9 이벤트_예대제_9 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1115/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1115/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

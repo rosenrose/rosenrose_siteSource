@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 19"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_플랑드르_스칼렛 캐릭터_사이교우지_유유코 캐릭터_미스티아_로렐라이 캐릭터_루미아 캐릭터_치르노 캐릭터_콘파쿠_요우무 캐릭터_첸 캐릭터_샤메이마루_아야 캐릭터_이나바_테위 캐릭터_카자미_유카 캐릭터_카와시로_니토리 캐릭터_야쿠모_유카리 바이오_놀이"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2711/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2711/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

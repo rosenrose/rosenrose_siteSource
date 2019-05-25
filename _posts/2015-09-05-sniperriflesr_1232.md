@@ -1,7 +1,7 @@
 ---
 title: "달에 있을 때 있었을만한 컷만화"
 tags: "唯野影吉 カゲ路 캐릭터_링고 캐릭터_레이센_우동게인_이나바 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1232/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1232/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

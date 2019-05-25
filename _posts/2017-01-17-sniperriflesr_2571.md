@@ -1,7 +1,7 @@
 ---
 title: "Rest in Peace II"
 tags: "キレロ kirororo 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_플랑드르_스칼렛 이벤트_例大祭_10 이벤트_예대제_10 시리어스_진지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2571/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2571/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

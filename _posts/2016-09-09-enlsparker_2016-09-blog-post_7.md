@@ -1,7 +1,7 @@
 ---
 title: "고양이를 주워오면"
 tags: "동인지 ハニートースト"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-09-blog-post_7/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-09-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2662868847448112829" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "본능 그대로 1"
 tags: "약"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/256/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/256/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

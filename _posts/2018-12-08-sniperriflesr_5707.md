@@ -1,7 +1,7 @@
 ---
 title: "이제 와서 할로윈 네타"
 tags: "蛍光流動 형광유동 @fluorescentflow 蛍光流速 형광유속 캐릭터_키신_사구메 캐릭터_도레미_스위트 캐릭터_링고 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5707/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5707/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

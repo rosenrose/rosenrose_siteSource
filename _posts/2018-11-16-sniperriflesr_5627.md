@@ -1,7 +1,7 @@
 ---
 title: "모코땅이 주인공인 차기작 초기 의상"
 tags: "逸しん @itusin3 캐릭터_후지와라노_모코우 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5627/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5627/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

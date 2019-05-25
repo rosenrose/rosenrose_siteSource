@@ -1,7 +1,7 @@
 ---
 title: "후토사의 비사문천"
 tags: "기타동인지 暗殺者ゴリラ"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_7/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-07-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3831491671744043304" itemprop="description articleBody">

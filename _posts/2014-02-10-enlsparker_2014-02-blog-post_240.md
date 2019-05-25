@@ -1,7 +1,7 @@
 ---
 title: "봉래인형식"
 tags: "緊急回避 동인지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_240/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-02-blog-post_240/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3967155156777358604" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "연애담교실"
 tags: "동인지 倉橋書院"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_81/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-05-blog-post_81/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7048243549267510967" itemprop="description articleBody">

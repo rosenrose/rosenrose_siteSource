@@ -1,7 +1,7 @@
 ---
 title: "텐코토피아 - 전편"
 tags: "동인지 teddy-plaza"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-01-blog-post_63/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-01-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5311114884368265227" itemprop="description articleBody">

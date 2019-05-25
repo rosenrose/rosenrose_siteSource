@@ -1,7 +1,7 @@
 ---
 title: "환상향행 초특급"
 tags: "동인지 みずたたき"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post_23/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-04-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4750794824090161381" itemprop="description articleBody">

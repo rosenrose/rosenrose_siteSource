@@ -1,7 +1,7 @@
 ---
 title: "텐구 기자씨"
 tags: "동인지 ベルの巣"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_83/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-03-blog-post_83/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4825576509322398580" itemprop="description articleBody">

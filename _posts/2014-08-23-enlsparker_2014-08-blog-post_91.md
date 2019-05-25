@@ -1,7 +1,7 @@
 ---
 title: "코메라디! - 코메이지라디오"
 tags: "동인지 あなたを、廃人です。"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_91/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3896001984630619249" itemprop="description articleBody">

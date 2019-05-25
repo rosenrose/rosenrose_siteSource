@@ -1,7 +1,7 @@
 ---
 title: "달토끼와 할짝할짝 소동!"
 tags: "동인지 rump"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_1/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-11-blog-post_1/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3631157091355554602" itemprop="description articleBody">

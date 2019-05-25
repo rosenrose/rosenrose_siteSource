@@ -1,7 +1,7 @@
 ---
 title: "앨리스 귀여워!!!!"
 tags: "草月野々乃 moon_wort 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1952/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1952/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

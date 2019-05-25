@@ -1,7 +1,7 @@
 ---
 title: "산책가는 카게로"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5635/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5635/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

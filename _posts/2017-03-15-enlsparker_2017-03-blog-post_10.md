@@ -1,7 +1,7 @@
 ---
 title: "응원하는 소녀들"
 tags: "동인지 サークルぬるま屋"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2017-03-blog-post_10/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-03-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2735571464165710101" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "하룻밤의 꿈"
 tags: "matilda 캐릭터_키리사메_마리사 캐릭터_서니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_모리치카_린노스케 이벤트_c78 시리어스_진지"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/387/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/387/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

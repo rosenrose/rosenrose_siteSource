@@ -1,7 +1,7 @@
 ---
 title: "Arc-en-ciel 마법의 숲의 쿠튀리에르"
 tags: "기타동인지 少年少女隊"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-12-arc-en-ciel/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-12-arc-en-ciel/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1251716220626779659" itemprop="description articleBody">

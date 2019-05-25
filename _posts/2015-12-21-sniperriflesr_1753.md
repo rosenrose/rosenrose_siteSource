@@ -1,7 +1,7 @@
 ---
 title: "원고가 끝나지 않은 여러분에게 사구메님께서 한 마디"
 tags: "のーころ 캐릭터_키신_사구메 [번역]_짤"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1753/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1753/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>

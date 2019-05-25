@@ -1,7 +1,7 @@
 ---
 title: "FRAN in the MIRROR"
 tags: "동인지 hollowplus"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2017-05-fran-in-mirror/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-05-fran-in-mirror/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1749703931745565328" itemprop="description articleBody">

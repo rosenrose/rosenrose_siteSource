@@ -1,7 +1,7 @@
 ---
 title: "겨울의 정점"
 tags: "동인지 色は匂えど"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_50/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-10-blog-post_50/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5862588154685958459" itemprop="description articleBody">

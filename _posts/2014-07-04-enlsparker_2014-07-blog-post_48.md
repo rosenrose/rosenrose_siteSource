@@ -1,7 +1,7 @@
 ---
 title: "잉꼬라던가 정말 귀엽다고 생각한다"
 tags: "동인지 即席魔王"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_48/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-07-blog-post_48/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1282232600895422037" itemprop="description articleBody">

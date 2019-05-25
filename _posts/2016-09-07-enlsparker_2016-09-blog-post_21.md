@@ -1,7 +1,7 @@
 ---
 title: "우주 모코우"
 tags: "기타동인지 brake_breaker"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-09-blog-post_21/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-09-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4502205727984065858" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "꼬마 레밀리아 - 아가씨가 작아지는 이야기"
 tags: "동인지 ころもにゅ"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_46/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-01-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7174146181240396750" itemprop="description articleBody">

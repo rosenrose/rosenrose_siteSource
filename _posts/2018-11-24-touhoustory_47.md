@@ -1,7 +1,7 @@
 ---
 title: "키리타니 웹코믹 52~54"
 tags: "그림_번역／키리타니"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/touhoustory/47/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/touhoustory/47/001.jpg"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/47/001.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/47/002.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/47/003.jpg"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 24px; letter-spacing: -1px; text-align: center;">桐谷(@kiri_tani_)</span></p> </div></div><br/>

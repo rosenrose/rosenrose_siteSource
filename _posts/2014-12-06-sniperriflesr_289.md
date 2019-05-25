@@ -1,7 +1,7 @@
 ---
 title: "앨리스와 마리사의 연애교본"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 이벤트_例大祭sp 이벤트_예대제sp 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/289/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/289/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

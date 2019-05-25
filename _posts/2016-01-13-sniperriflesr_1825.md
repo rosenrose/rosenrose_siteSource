@@ -1,7 +1,7 @@
 ---
 title: "한가함을 견디기 힘든 신의 분도도"
 tags: "ベル助 ベルの巣 캐릭터_키신_사구메 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1825/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1825/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

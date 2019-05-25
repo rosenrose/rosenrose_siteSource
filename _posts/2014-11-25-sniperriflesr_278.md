@@ -1,7 +1,7 @@
 ---
 title: "유유코"
 tags: "さやかたかつみ 사야카타_카스미 さやかた紅茶館 사야카타_홍마관 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_이부키_스이카 캐릭터_호시구마_유기 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_코이시 이벤트_c75 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/278/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/278/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

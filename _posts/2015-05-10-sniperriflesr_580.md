@@ -1,7 +1,7 @@
 ---
 title: "카구야의 수면 의지력 !!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/580/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/580/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

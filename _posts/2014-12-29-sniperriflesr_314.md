@@ -1,7 +1,7 @@
 ---
 title: "어떤 홍마의 달걀후라이"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_소악마 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 이벤트_c77 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/314/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/314/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

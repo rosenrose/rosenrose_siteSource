@@ -1,7 +1,7 @@
 ---
 title: "FAR EAST READ"
 tags: "동인지 皇designs"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-10-far-east-read/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-10-far-east-read/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8459962903160589491" itemprop="description articleBody">

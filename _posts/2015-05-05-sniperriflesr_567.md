@@ -1,7 +1,7 @@
 ---
 title: "옷을 바꿔서 입어봤는데 어떠려나?!"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_루나_차일드 캐릭터_써니_밀크 캐릭터_스타_사파이어 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/567/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/567/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

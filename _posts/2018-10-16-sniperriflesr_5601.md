@@ -1,7 +1,7 @@
 ---
 title: "어른의 비결"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_치르노 캐릭터_대요정 캐릭터_카미시라사와_케이네 캐릭터_써니_밀크 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5601/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5601/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "만복만년 [ 萬福萬年 ]"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_후지와라노_모코우 캐릭터_하쿠레이_레이무 캐릭터_카미시라사와_케이네 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_키리사메_마리사 캐릭터_샤메이마루_아야 캐릭터_이자요이_사쿠야 캐릭터_코치야_사나에 캐릭터_콘파쿠_요우무 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 캐릭터_히지리_뱌쿠렌 캐릭터_카소다니_쿄코 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/93/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/93/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

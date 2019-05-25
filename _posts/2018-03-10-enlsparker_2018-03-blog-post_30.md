@@ -1,7 +1,7 @@
 ---
 title: "백주도책자"
 tags: "동인지 うわのそら舎"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post_30/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-03-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4001958998968438470" itemprop="description articleBody">

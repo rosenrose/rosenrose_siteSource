@@ -1,7 +1,7 @@
 ---
 title: "마리사가 치질에 걸리는 이야기"
 tags: "동인지 火鳥でできるもん!"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_61/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_61/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6541872722702804907" itemprop="description articleBody">

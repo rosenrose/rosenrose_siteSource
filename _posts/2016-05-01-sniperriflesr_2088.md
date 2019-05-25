@@ -1,7 +1,7 @@
 ---
 title: "부디, 죽지 말아주셔요"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 급식첸_만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2088/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2088/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

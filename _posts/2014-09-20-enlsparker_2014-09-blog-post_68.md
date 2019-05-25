@@ -1,7 +1,7 @@
 ---
 title: "일상케위 영원테위"
 tags: "乃屋 동인지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_68/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_68/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8561646079164672803" itemprop="description articleBody">

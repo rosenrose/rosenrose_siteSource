@@ -1,7 +1,7 @@
 ---
 title: "곽청아 다리를 베고자는 미코"
 tags: "seiren 36．38 캐릭터_카쿠_세이가 캐릭터_곽청아 캐릭터_토요사토미미노_미코 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5770/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5770/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

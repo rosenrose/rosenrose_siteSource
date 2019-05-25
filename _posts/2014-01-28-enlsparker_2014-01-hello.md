@@ -1,7 +1,7 @@
 ---
 title: "HELLO 주의보"
 tags: "동인지 森の蟲"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-01-hello/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-01-hello/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8082448639459846057" itemprop="description articleBody">

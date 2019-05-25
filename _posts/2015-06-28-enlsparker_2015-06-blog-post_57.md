@@ -1,7 +1,7 @@
 ---
 title: "틈새"
 tags: "동인지 十誤一会"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_57/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-06-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1735586166509167940" itemprop="description articleBody">

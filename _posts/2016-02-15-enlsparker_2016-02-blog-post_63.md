@@ -1,7 +1,7 @@
 ---
 title: "이것이 칠초"
 tags: "동인지 az"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_63/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-02-blog-post_63/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7827696148819509791" itemprop="description articleBody">

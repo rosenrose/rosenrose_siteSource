@@ -1,7 +1,7 @@
 ---
 title: "집에서는 강한 란님"
 tags: "futa なべぞこ 나베조코 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/907/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/907/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "세이자 표정모음"
 tags: "sheya @sukuroneko 캐릭터_키진_세이자 이메레스"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5646/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5646/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

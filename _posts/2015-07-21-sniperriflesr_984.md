@@ -1,7 +1,7 @@
 ---
 title: "네가 뭘 알아?"
 tags: "미샤 캐릭터_타타라_코가사 캐릭터_호쥬_누에 시리어스_진지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/984/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/984/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

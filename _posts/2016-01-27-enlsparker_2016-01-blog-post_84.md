@@ -1,7 +1,7 @@
 ---
 title: "소악마 러브츄츄♥"
 tags: "합동인지"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_84/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-01-blog-post_84/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4887011524992529341" itemprop="description articleBody">

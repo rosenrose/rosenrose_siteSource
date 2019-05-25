@@ -1,7 +1,7 @@
 ---
 title: "우동게 반응이 좋은 테위"
 tags: "夏璐珞 シャルロ 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2388/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2388/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

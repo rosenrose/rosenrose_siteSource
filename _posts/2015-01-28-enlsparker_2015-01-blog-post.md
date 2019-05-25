@@ -1,7 +1,7 @@
 ---
 title: "둘이서 가자"
 tags: "동인지 カゲ路"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-01-blog-post/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-01-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-33227306653253533" itemprop="description articleBody">

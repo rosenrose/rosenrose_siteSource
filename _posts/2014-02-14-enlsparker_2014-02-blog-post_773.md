@@ -1,7 +1,7 @@
 ---
 title: "치르노의 최강전설"
 tags: "동인지 winter_scenery"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_773/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-blog-post_773/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-569132508288325557" itemprop="description articleBody">

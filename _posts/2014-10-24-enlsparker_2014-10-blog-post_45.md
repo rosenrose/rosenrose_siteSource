@@ -1,7 +1,7 @@
 ---
 title: "환상향 노천온천 여행"
 tags: "동인지 梅の実画報"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_45/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-10-blog-post_45/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3246608201497608841" itemprop="description articleBody">

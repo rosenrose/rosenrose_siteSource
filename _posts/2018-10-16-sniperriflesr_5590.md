@@ -1,7 +1,7 @@
 ---
 title: "숙취"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 캐릭터_히메카이도_하타테 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5590/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5590/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

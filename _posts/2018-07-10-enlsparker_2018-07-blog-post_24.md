@@ -1,7 +1,7 @@
 ---
 title: "모코랑!! 홍마관"
 tags: "1569 동인지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_24/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-07-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6616316249397655678" itemprop="description articleBody">

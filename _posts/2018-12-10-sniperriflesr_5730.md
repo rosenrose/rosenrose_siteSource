@@ -1,7 +1,7 @@
 ---
 title: "이쿠씨와 비디오"
 tags: "パイン pine @pine88340194 파인 캐릭터_나가에_이쿠 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5730/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5730/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

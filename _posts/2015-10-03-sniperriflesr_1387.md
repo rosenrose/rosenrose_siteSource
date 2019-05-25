@@ -1,7 +1,7 @@
 ---
 title: "키미타가에"
 tags: "はなだひょう 砂蒸しパンキャビン 모래찐빵_캐빈 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_야쿠모_유카리 캐릭터_우사미_렌코 캐릭터_코치야_사나에 [번역]_시리어스-절망"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/1387/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1387/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b>관련 노래 : 凋叶棕 [ 조협종 ] - 部屋でＹシャツで首輪で猫（あなた）(방, 와이셔츠, 목걸이, 고양이(당신)) </b></p>

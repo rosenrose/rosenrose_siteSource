@@ -1,7 +1,7 @@
 ---
 title: "TSUBAKI"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 급식첸_만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2484/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2484/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

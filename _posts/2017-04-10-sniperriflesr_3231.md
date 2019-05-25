@@ -1,7 +1,7 @@
 ---
 title: "비닐리덴의 바다"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 크래쉬_하우스 캐릭터_야쿠모_유카리 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 이벤트_c90 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/3231/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3231/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"></strong><br/></p>

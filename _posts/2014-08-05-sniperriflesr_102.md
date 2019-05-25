@@ -1,7 +1,7 @@
 ---
 title: "GOOD ONE!"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_카쿠_세이가 캐릭터_키리사메_마리사 캐릭터_미야코_요시카 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 캐릭터_모노노베노_후토 캐릭터_세키반키 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/102/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/102/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

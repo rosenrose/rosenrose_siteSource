@@ -1,7 +1,7 @@
 ---
 title: "바보와 감기"
 tags: "神無月羽兎 칸나즈키_하토 winter_scenery 캐릭터_카와시로_니토리 캐릭터_카기야마_히나 캐릭터_치르노 캐릭터_대요정 캐릭터_하쿠레이_레이무 이벤트_c77 귀여움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2428/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2428/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

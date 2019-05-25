@@ -1,7 +1,7 @@
 ---
 title: "그 눈에 똑똑히 새겨두라고"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2082/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2082/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

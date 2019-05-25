@@ -1,7 +1,7 @@
 ---
 title: "럼블"
 tags: "동인지 蓮華座"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_66/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-blog-post_66/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5437098520907057171" itemprop="description articleBody">

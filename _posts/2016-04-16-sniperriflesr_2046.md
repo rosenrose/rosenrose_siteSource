@@ -1,7 +1,7 @@
 ---
 title: "거짓된 구제"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2046/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2046/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><span style=" font-family: Gulim, 굴림;  font-size: 13px;  line-height: 24px;  text-align: left; ; "><b><br/></b></span></p>

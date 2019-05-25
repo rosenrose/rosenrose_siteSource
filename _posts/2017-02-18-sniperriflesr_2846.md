@@ -1,7 +1,7 @@
 ---
 title: "7일에 못 맞춘 루미아"
 tags: "童夢 캐릭터_루미아 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/2846/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2846/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

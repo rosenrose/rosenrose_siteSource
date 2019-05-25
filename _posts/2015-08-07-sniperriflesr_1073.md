@@ -1,7 +1,7 @@
 ---
 title: "납량탄막제"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 이벤트_c76 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1073/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1073/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

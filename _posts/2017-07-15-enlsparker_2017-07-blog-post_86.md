@@ -1,7 +1,7 @@
 ---
 title: "먹을 수 있어요!"
 tags: "기타동인지 strawberry_float"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2017-07-blog-post_86/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-07-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-222970829481373499" itemprop="description articleBody">

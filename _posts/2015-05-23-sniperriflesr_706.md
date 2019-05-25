@@ -1,7 +1,7 @@
 ---
 title: "카고메, 카고메, 새장 속의 방울아"
 tags: "つぐみ 츠구미 そぞろ 소조로 캐릭터_후타츠이와_마미조 캐릭터_히에다노_아큐 캐릭터_모토오리_코스즈 캐릭터_하쿠레이_레이무 이벤트_제_1회_추계_예대제 이벤트_第一回_秋季例大祭 시리어스_슬픔"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/706/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/706/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

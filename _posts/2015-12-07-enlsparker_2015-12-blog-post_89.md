@@ -1,7 +1,7 @@
 ---
 title: "나라카고쿠 데스티네이션"
 tags: "동인지 蓮華座"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_89/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-12-blog-post_89/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3947398254386983210" itemprop="description articleBody">

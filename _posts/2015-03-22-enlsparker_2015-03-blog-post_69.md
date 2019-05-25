@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 현인"
 tags: "동인지 青"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_69/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-03-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6895694932560470690" itemprop="description articleBody">

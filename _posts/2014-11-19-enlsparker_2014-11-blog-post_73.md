@@ -1,7 +1,7 @@
 ---
 title: "동방소극장 - 느저느적 느적느적。"
 tags: "동인지 わいるどらびっつ"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_73/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-11-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8639700264282014380" itemprop="description articleBody">

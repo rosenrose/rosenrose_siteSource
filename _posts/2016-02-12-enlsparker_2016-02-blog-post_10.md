@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 신사의 하늘색 민들레 上"
 tags: "동인지 よぬりめ"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_10/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-02-blog-post_10/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3115013914631548585" itemprop="description articleBody">

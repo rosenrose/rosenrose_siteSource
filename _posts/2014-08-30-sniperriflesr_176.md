@@ -1,7 +1,7 @@
 ---
 title: "영원의 끝에서"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 캐릭터_히에다노_아큐 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_야쿠모_유카리 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 이벤트_c76 시리어스_밝음"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/176/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/176/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

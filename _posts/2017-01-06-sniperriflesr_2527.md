@@ -1,7 +1,7 @@
 ---
 title: "미소는 기다리다 못해 지쳐버렸다"
 tags: "あどみーせらせら ねじれ学会 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 캐릭터_홍_메이링 시리어스_밝음"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2527/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2527/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

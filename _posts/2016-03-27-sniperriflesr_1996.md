@@ -1,7 +1,7 @@
 ---
 title: "사안 발생"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/1996/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1996/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

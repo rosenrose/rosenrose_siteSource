@@ -1,7 +1,7 @@
 ---
 title: "죽고싶어"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/780/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/780/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

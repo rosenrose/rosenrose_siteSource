@@ -1,7 +1,7 @@
 ---
 title: "울보쟁이 누에쨩"
 tags: "동인지 くまのとおるみち"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_57/001.png"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-01-blog-post_57/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4551570546678693657" itemprop="description articleBody">

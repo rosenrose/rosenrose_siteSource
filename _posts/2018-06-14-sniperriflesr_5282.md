@@ -1,7 +1,7 @@
 ---
 title: "2018년 코코로의 날"
 tags: "アズキ @azukiranatuine azuki_shot 캐릭터_호리카와_라이코 캐릭터_타타라_코가사 캐릭터_하타노_코코로 캐릭터_요리가미_조온 캐릭터_요리가미_시온 캐릭터_히지리_뱌쿠렌 캐릭터_토요사토미미노_미코 캐릭터_하쿠레이_레이무 캐릭터_후타츠이와_마미조 캐릭터_카와시로_니토리 귀여움／가벼움"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5282/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5282/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "새전 1만엔 정도 넣으면 가슴 쓰게 해 줄 것 같은 무녀"
 tags: "赤崎セカイ @kireinatetete 캐릭터_하쿠레이_레이무 짤／1컷만화"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/sniperriflesr/5802/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5802/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

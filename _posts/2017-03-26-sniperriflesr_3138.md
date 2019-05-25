@@ -1,7 +1,7 @@
 ---
 title: "지령전의 경제사정"
 tags: "古河おどろ よまいり先生 짤／1컷만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3138/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3138/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

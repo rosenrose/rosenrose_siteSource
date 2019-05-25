@@ -1,7 +1,7 @@
 ---
 title: "인형조곡"
 tags: "기타동인지 三丁目"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_5/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-06-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1610306938190227550" itemprop="description articleBody">

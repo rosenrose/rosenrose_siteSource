@@ -1,7 +1,7 @@
 ---
 title: "붉은 관에서 피는 하얀 꽃"
 tags: "동인지 悠久機関車"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_57/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-08-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4476780699455629482" itemprop="description articleBody">

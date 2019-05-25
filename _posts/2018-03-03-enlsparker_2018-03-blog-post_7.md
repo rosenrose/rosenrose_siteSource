@@ -1,7 +1,7 @@
 ---
 title: "분노의 신"
 tags: "동인지 薬味さらい"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post_7/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-03-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1724425331422519457" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "마타리 점"
 tags: "dynamo 캐릭터_타타라_코가사 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_토라마루_쇼 캐릭터_호쥬_누에 캐릭터_무라사_미나미츠 캐릭터_히지리_뱌쿠렌 캐릭터_쿠모이_이치린 이벤트_c88 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/1873/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1873/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

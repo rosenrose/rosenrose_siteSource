@@ -1,7 +1,7 @@
 ---
 title: "슈퍼 팩트가 없어 아야야"
 tags: "기타동인지 ぽっぽ時計"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_6/001.png"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-12-blog-post_6/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6440626953033505673" itemprop="description articleBody">

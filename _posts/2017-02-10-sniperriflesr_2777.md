@@ -1,7 +1,7 @@
 ---
 title: "브래지어의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_아키_시즈하 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2777/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2777/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

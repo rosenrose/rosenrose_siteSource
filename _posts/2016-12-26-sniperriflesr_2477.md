@@ -1,7 +1,7 @@
 ---
 title: "올해도 아름다운 크리스마스"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 급식첸_만화"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/2477/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2477/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

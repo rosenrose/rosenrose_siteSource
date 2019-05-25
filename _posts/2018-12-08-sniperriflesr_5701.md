@@ -1,7 +1,7 @@
 ---
 title: "머리에 손올린채로 꼬리 붕붕거리면서 머리쓰다듬어주세요! 하는 뭠미지"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5701/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5701/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

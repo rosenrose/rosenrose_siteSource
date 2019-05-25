@@ -1,7 +1,7 @@
 ---
 title: "클라비스의 니케"
 tags: "기타동인지 じぜる"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_69/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-03-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3024816420060190044" itemprop="description articleBody">

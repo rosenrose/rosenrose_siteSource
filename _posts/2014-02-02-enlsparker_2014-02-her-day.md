@@ -1,7 +1,7 @@
 ---
 title: "Her Day"
 tags: "기타동인지 gaton"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2014-02-her-day/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-02-her-day/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2550221258643342460" itemprop="description articleBody">

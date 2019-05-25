@@ -1,7 +1,7 @@
 ---
 title: "태어나서 죽을 때 까지"
 tags: "동인지 あまもりウィークリー"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_16/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-12-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3735074171748677012" itemprop="description articleBody">

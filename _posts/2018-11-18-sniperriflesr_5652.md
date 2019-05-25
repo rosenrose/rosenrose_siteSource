@@ -1,7 +1,7 @@
 ---
 title: "네코미미 시키에이키"
 tags: "楠なのは @loser_na 캐릭터_시키에이키_야마나자두 짤／1컷만화"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/5652/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5652/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

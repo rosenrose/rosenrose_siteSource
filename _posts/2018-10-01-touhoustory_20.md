@@ -1,7 +1,7 @@
 ---
 title: "로쿠넨 짤 22~23"
 tags: "그림_번역／로쿠넨"
-image: "https://franch122paran.s3.amazonaws.com/doujin/touhoustory/20/001.png"
+image: "https://d396uhqh54mlcz.cloudfront.net/touhoustory/20/001.png"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver7 }}/touhoustory/20/001.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver7 }}/touhoustory/20/002.png"/></p><p style="text-align: center;"><span style="font-size: 14pt;"></span><span style="font-size: 14pt;"></span><span style="font-size: 14pt;">ろくねん(@6nen)</span></p> </div></div><br/>

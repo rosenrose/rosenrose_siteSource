@@ -1,7 +1,7 @@
 ---
 title: "죽어도 신"
 tags: "ひちこ ヒトマチコ 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_츠쿠모_벤벤 캐릭터_츠쿠모_야츠하시 캐릭터_샤메이마루_아야 캐릭터_이마이즈미_카케로 캐릭터_호리카와_라이코 이벤트_例大祭_12 이벤트_예대제_12 시리어스_진지"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/666/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/666/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

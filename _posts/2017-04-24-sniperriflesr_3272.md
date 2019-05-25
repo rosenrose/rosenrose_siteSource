@@ -1,7 +1,7 @@
 ---
 title: "따뜻한 어느 한 때"
 tags: "もりのほん 모리노혼 숲속의_책 morinohon forestrest 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_카와시로_니토리 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_치르노 캐릭터_대요정 캐릭터_릴리_화이트 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_소악마 캐릭터_파츄리_널릿지 이벤트_c91 귀여움"
-image: "https://kjw4569-2.s3.amazonaws.com/doujin/sniperriflesr/3272/001.jpg"
+image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3272/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

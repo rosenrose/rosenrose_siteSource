@@ -1,7 +1,7 @@
 ---
 title: "이바라카센에 잇대다"
 tags: "기타동인지 モルちん斬"
-image: "https://franch122tistory.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_28/001.jpg"
+image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-10-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6883725706512854424" itemprop="description articleBody">

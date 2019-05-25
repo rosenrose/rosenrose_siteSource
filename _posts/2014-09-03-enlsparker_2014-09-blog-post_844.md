@@ -1,7 +1,7 @@
 ---
 title: "낙원보다 빠르게"
 tags: "동인지 ビビットグレー"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_844/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_844/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2368068747293561179" itemprop="description articleBody">

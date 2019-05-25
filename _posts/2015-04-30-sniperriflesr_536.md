@@ -1,7 +1,7 @@
 ---
 title: "편의점에서 술 사는 만화"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_야고코로_에이린 캐릭터_카소다니_쿄코 캐릭터_루나사_프리즘리버 귀여움／가벼움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/536/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/536/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

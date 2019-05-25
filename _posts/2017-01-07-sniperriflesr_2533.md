@@ -1,7 +1,7 @@
 ---
 title: "코이시는 인기인"
 tags: "羽々斬 モルちん斬 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_쿠로다니_야마메 캐릭터_호시구마_유기 캐릭터_미즈하시_파르시 시리어스_슬픔"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/2533/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2533/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

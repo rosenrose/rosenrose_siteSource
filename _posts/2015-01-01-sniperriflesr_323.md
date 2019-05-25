@@ -1,7 +1,7 @@
 ---
 title: "끝없는 세계"
 tags: "双 소우 赤橙 적등 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 이벤트_c74 시리어스_밝음"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/323/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/323/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

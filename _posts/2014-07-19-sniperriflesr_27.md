@@ -1,7 +1,7 @@
 ---
 title: "조그만 이누 사쿠야"
 tags: "ネジキリオ angeltype 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 이벤트_c83 귀여움"
-image: "https://franch122paran.s3.amazonaws.com/doujin/sniperriflesr/27/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/27/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "궁극가학생물 유카의 플라워 샵 카자미 - 아키 자매 버전"
 tags: "합동인지 chazenbeat kemonomichi シャこ"
-image: "https://franch122paran.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_21/001.jpg"
+image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6597014984691201504" itemprop="description articleBody">
