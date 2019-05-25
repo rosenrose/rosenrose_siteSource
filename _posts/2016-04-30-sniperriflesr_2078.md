@@ -1,7 +1,7 @@
 ---
 title: "네 눈물이 보고싶으니"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_하쿠레이_레이무 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2078/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2078/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

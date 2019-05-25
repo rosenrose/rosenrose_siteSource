@@ -1,7 +1,7 @@
 ---
 title: "사구메님이 옷을 갈아입는건 이렇게 갈아입지 않을까의 예상"
 tags: "チロリアン てつのおとしご 캐릭터_키신_사구메 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1679/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1679/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "사쿠야 씨의 목욕물에 우동을 넣으면 정말 맛있을 거야"
 tags: "동인지 火鳥でできるもん!"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_59/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-02-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1989887084644584214" itemprop="description articleBody">

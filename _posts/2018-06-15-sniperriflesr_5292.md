@@ -1,7 +1,7 @@
 ---
 title: "매달아놔도 맑아지지는 않고 번개가 친다"
 tags: "まくわうに 마쿠와우니 @makuwauri_uri うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 캐릭터_토요사토미미노_미코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5292/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5292/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

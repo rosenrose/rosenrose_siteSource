@@ -1,7 +1,7 @@
 ---
 title: "동방 스프링"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_19/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-08-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8227463249657005935" itemprop="description articleBody">

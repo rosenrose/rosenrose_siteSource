@@ -1,7 +1,7 @@
 ---
 title: "사기메일"
 tags: "リンメイ 健全パラドックス 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/844/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/844/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

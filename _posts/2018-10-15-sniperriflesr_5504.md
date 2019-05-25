@@ -1,7 +1,7 @@
 ---
 title: "조온쨩 왜그래? 얼굴이 빨간데?"
 tags: "みづきいちご @kyunkyunhawawa 캐릭터_요리가미_조온 짤／1컷만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5504/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5504/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>

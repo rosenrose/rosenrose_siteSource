@@ -1,7 +1,7 @@
 ---
 title: "주먹밥의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_시키에이키_야마나자두 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2727/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2727/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

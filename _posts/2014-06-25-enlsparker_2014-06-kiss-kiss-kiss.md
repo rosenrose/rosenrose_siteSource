@@ -1,7 +1,7 @@
 ---
 title: "KISS! KISS!! KISS!!!"
 tags: "동인지 こげコロッケ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-06-kiss-kiss-kiss/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-06-kiss-kiss-kiss/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3605382098080986843" itemprop="description articleBody">

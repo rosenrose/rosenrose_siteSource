@@ -1,7 +1,7 @@
 ---
 title: "마법사들은 돌아보지않아!"
 tags: "동인지 さくsaku亭"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_60/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-03-blog-post_60/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1978719892348122224" itemprop="description articleBody">

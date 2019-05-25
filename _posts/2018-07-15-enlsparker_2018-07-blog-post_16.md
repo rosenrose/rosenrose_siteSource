@@ -1,7 +1,7 @@
 ---
 title: "한 방 먹여 주지"
 tags: "기타동인지 暗殺者ゴリラ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_16/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-07-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1112158363398166536" itemprop="description articleBody">

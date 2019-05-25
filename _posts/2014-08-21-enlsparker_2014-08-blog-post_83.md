@@ -1,7 +1,7 @@
 ---
 title: "완"
 tags: "동인지 ふあん亭"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_83/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-blog-post_83/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8982427642825261587" itemprop="description articleBody">

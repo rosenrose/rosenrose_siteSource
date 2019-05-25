@@ -1,7 +1,7 @@
 ---
 title: "은 고양이"
 tags: "동인지 pure"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_69/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_69/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6691110866210125142" itemprop="description articleBody">

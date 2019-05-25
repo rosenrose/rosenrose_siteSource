@@ -1,7 +1,7 @@
 ---
 title: "어쩌면 대륜을 꽃피우지 않아도"
 tags: "기타동인지 お向かいさんちのヤギ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-09-blog-post_8/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-09-blog-post_8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-358706693453641757" itemprop="description articleBody">

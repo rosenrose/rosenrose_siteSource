@@ -1,7 +1,7 @@
 ---
 title: "낙서 4컷 세트 1~5"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_치르노 캐릭터_모노노베노_후토 캐릭터_카자미_유카 캐릭터_나즈린 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_후지와라노_모코우 캐릭터_세키반키 급식첸_만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2500/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2500/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "터프가이"
 tags: "동인지 ハイパーサマーウォーズ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_64/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6504934352925076849" itemprop="description articleBody">

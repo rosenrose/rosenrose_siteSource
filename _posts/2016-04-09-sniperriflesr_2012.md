@@ -1,7 +1,7 @@
 ---
 title: "원 샷 파이트! 우동게 이나바"
 tags: "あまず 아마즈 amaz 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_치르노 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_써니_밀크 캐릭터_호라이산_카구야 캐릭터_첸 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_야쿠모_란 캐릭터_세이란 캐릭터_링고 캐릭터_도레미_스위트 이벤트_c88 합동-귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2012/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2012/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

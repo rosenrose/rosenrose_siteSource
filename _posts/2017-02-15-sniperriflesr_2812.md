@@ -1,7 +1,7 @@
 ---
 title: "플랑과 루미아"
 tags: "けぬー 케누 ちりわぁく 치리와아쿠 캐릭터_플랑드르_스칼렛 캐릭터_루미아 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2812/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2812/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

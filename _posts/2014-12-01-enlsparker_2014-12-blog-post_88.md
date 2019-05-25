@@ -1,7 +1,7 @@
 ---
 title: "용법용량을 꼭 지켜주세요"
 tags: "기타동인지 匿名天体"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_88/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-12-blog-post_88/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8361784248317581434" itemprop="description articleBody">

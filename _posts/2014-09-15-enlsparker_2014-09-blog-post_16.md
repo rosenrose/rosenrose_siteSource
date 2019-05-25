@@ -1,7 +1,7 @@
 ---
 title: "코끼리를 타는 꿈을 꾸었어."
 tags: "동인지 武者プルーン"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_16/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1645450790616484321" itemprop="description articleBody">

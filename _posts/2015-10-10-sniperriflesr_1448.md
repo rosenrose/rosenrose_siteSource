@@ -1,7 +1,7 @@
 ---
 title: "히나쨩으로 여러가지 표정을 연습해보자!"
 tags: "いすぃ 캐릭터_카기야마_히나 이메레스"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1448/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1448/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

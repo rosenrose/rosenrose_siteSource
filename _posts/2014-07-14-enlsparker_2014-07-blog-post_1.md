@@ -1,7 +1,7 @@
 ---
 title: "야미마리"
 tags: "동인지 有機化合物"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_1/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-07-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-347806245445898087" itemprop="description articleBody">

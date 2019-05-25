@@ -1,7 +1,7 @@
 ---
 title: "솔직하게 될 수 없는 유카링"
 tags: "roki 캐릭터_카자미_유카 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2817/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2817/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

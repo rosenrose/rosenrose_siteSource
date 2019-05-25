@@ -1,7 +1,7 @@
 ---
 title: "환상적 핸즈 오브 글로리"
 tags: "기타동인지 suicide_avenue_presents"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_278/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_278/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1164023913347982249" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "스칼렛 씨네 메~드래곤"
 tags: "기타동인지 さばーい出版"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_73/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-12-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5297881167200084033" itemprop="description articleBody">

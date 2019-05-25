@@ -1,7 +1,7 @@
 ---
 title: "코치야 사나에의 환상향"
 tags: "壱 sonと壱 캐릭터_코치야_사나에 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_카와시로_니토리 캐릭터_콘파쿠_요우무 캐릭터_리글_나이트버그 캐릭터_미스티아_로렐라이 캐릭터_모리치카_린노스케 캐릭터_파츄리_널릿지 캐릭터_샤메이마루_아야 이벤트_例大祭9 시리어스_어두움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/213/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/213/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "이 옷 , 의외로 귀엽네"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1224/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1224/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

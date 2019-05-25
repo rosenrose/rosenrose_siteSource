@@ -1,7 +1,7 @@
 ---
 title: "프리즘리버 세 자매"
 tags: "エビゾメ 캐릭터_메를랑_프리즘리버 캐릭터_리리카_프리즘리버 캐릭터_루나사_프리즘리버 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2256/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2256/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

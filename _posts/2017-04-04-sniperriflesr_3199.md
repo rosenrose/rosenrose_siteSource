@@ -1,7 +1,7 @@
 ---
 title: "이젠 누구를 보고 있었는지도 망각해버린 언젠가 보였던 부드러운 눈길"
 tags: "しぐま 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3199/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3199/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

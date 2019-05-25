@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 48"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_토라마루_쇼 캐릭터_오노즈카_코마치 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2199/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2199/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

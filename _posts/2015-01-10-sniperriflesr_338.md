@@ -1,7 +1,7 @@
 ---
 title: "요시카의 사체여행!"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_미야코_요시카 캐릭터_카쿠_세이가 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_호시구마_유기 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_야사카_카나코 캐릭터_키리사메_마리사 이벤트_例大祭9 이벤트_예대제_9 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/338/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/338/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

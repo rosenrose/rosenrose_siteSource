@@ -1,7 +1,7 @@
 ---
 title: "싸워라!! 사토리"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 약"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2966/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2966/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

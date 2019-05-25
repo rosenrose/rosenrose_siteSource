@@ -1,7 +1,7 @@
 ---
 title: "악마의 나이프"
 tags: "동인지 sugilight"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_90/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_90/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7652390741172249200" itemprop="description articleBody">

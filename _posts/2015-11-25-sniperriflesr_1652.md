@@ -1,7 +1,7 @@
 ---
 title: "더운 날의 무라누에"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1652/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1652/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

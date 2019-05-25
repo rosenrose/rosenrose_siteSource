@@ -1,7 +1,7 @@
 ---
 title: "나즈린 집 방문"
 tags: "동인지 dynamo"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2015-01-blog-post_30/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-01-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1104437039252327302" itemprop="description articleBody">

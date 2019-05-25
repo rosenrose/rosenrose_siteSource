@@ -1,7 +1,7 @@
 ---
 title: "별에게 내 소원을, 그리고 너에겐 나를"
 tags: "기타동인지 キノコ堂"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-07-blog-post/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-07-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4969521354451940528" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "DAISY FIELD"
 tags: "동인지 gp-kids"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-07-daisy-field/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-07-daisy-field/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3670306539670704131" itemprop="description articleBody">

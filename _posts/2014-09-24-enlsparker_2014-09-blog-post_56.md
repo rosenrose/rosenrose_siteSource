@@ -1,7 +1,7 @@
 ---
 title: "꽃이 피는 이유"
 tags: "동인지 色は匂えど"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_56/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_56/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8828276371873784762" itemprop="description articleBody">

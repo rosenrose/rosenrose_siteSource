@@ -1,7 +1,7 @@
 ---
 title: "사랑이란 도대체 뭘까?"
 tags: "동인지 poprication"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-08-blog-post_85/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-08-blog-post_85/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7925891181686021744" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "뾱뾱무녀 레이무 씨 모음집"
 tags: "동인지 時間屋"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_56/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-10-blog-post_56/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4318719707454661913" itemprop="description articleBody">

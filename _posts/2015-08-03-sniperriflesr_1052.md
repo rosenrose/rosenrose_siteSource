@@ -1,7 +1,7 @@
 ---
 title: "도너츠 플래닛"
 tags: "鳥居すみ airdrop 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_c84 시리어스_진지"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1052/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1052/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

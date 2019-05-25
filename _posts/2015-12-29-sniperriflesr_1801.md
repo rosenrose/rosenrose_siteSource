@@ -1,7 +1,7 @@
 ---
 title: "애기와 순호 만화"
 tags: "륜 캐릭터_순호 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 시리어스_슬픔"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1801/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1801/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

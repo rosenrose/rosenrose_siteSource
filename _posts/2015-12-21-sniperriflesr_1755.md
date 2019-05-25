@@ -1,7 +1,7 @@
 ---
 title: "인내"
 tags: "斜谷_多希 はすたに_たき 斜谷横町 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1755/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1755/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

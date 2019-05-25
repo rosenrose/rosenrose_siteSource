@@ -1,7 +1,7 @@
 ---
 title: "다우저와 얼어붙은 시체"
 tags: "기타동인지 スタントマンズ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-10-blog-post_2/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-10-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2845625539590231080" itemprop="description articleBody">

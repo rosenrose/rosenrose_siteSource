@@ -1,7 +1,7 @@
 ---
 title: "태자님 비디오"
 tags: "cis 칼카리아스 carcharias! 캐릭터_토요사토미미노_미코 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1958/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1958/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

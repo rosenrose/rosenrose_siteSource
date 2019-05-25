@@ -1,7 +1,7 @@
 ---
 title: "KILL GEPPU COMPLETE"
 tags: "동인지 unknown"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-05-kill-geppu-complete/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-05-kill-geppu-complete/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7858522204974293354" itemprop="description articleBody">

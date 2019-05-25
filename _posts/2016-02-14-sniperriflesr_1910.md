@@ -1,7 +1,7 @@
 ---
 title: "클라비스의 니케"
 tags: "じぜる 지제루 캐릭터_키신_사구메 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_스쿠나_신묘마루 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_세이란 캐릭터_링고 이벤트_c89 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1910/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1910/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

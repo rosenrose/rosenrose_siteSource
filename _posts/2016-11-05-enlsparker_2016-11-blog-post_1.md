@@ -1,7 +1,7 @@
 ---
 title: "마법세기의 소년 소녀"
 tags: "동인지 airdrop"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_1/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-11-blog-post_1/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4509665016566266529" itemprop="description articleBody">

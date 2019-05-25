@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 가슴을 만지기 위해 허락을 받다"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1341/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1341/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "쇼우가 더이상 보탑을 잃어버리지 않게 된 만화"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_토라마루_쇼 캐릭터_나즈린 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/613/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/613/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

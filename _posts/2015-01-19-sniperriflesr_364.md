@@ -1,7 +1,7 @@
 ---
 title: "오린쨩과 사토리님"
 tags: "こまこま 코마코마 magicaltale 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_하쿠레이_레이무 이벤트_c82 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/364/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/364/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

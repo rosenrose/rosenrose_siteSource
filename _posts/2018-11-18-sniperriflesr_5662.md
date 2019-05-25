@@ -1,7 +1,7 @@
 ---
 title: "여러표정의 사구메"
 tags: "るーらら @luurara64 캐릭터_키신_사구메 이메레스"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5662/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5662/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

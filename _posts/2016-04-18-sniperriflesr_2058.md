@@ -1,7 +1,7 @@
 ---
 title: "천사의 속삭임"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_첸 캐릭터_카자미_유카 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2058/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2058/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

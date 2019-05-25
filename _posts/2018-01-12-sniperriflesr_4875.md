@@ -1,7 +1,7 @@
 ---
 title: "시온쨩은 가난해"
 tags: "ふたはね泥沼 @futahane はねやすめの沼 캐릭터_히나나위_텐시 캐릭터_요리가미_시온 약"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/4875/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/4875/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

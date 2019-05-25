@@ -1,7 +1,7 @@
 ---
 title: "리글 나이트버그 주인공 취임!"
 tags: "동인지 ふすま喫茶"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_39/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-01-blog-post_39/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7584218630142735226" itemprop="description articleBody">

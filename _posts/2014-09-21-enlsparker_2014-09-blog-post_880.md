@@ -1,7 +1,7 @@
 ---
 title: "모리치카 린노스케의 편지"
 tags: "동인지 赤色バニラ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_880/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_880/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3325929130329178152" itemprop="description articleBody">

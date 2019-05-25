@@ -1,7 +1,7 @@
 ---
 title: "유카링의 소녀다움"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카자미_유카 캐릭터_릴리_화이트 캐릭터_리리카_프리즘리버 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/537/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/537/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

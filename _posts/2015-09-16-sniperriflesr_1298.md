@@ -1,7 +1,7 @@
 ---
 title: "모두의 재채기"
 tags: "フウザサ 후우자사 風前ランプ 캐릭터_이부키_스이카 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 캐릭터_코치야_사나에 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1298/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1298/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "준코 힐링시켜주는 만화"
 tags: "woogoon 동갤 캐릭터_순호 시리어스_밝음"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1797/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1797/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

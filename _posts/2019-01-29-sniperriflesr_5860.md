@@ -1,7 +1,7 @@
 ---
 title: "크리스마스 수수께끼"
 tags: "あやの @ayn398 아야노 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5860/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5860/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

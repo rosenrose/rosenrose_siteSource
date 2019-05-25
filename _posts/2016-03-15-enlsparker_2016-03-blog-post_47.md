@@ -1,7 +1,7 @@
 ---
 title: "안전 + 제일"
 tags: "동인지 ハニートースト"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_47/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-03-blog-post_47/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3955479332772447823" itemprop="description articleBody">

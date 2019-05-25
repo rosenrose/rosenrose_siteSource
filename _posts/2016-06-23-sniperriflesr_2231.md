@@ -1,7 +1,7 @@
 ---
 title: "와타츠키 무쌍 ~ 아메노 아눌리오스 ~"
 tags: "pfalz caelestis． 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_히나나위_텐시 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_例大祭12 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2231/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2231/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

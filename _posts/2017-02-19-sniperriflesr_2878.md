@@ -1,7 +1,7 @@
 ---
 title: "푸딩의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2878/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2878/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><span style="; "><br/></span></b></font></p>

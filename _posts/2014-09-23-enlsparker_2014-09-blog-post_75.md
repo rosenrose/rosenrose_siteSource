@@ -1,7 +1,7 @@
 ---
 title: "세이가 냥냥 욕망의 구멍"
 tags: "동인지 みずたたき"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_75/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_75/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6605023642564591033" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "살아있는 것의 온기"
 tags: "okari 色は匂えど irohanioedo 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_유카리 이벤트_c83 시리어스_밝음"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/382/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/382/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "아이네 클라이네 [ 중 ]"
 tags: "会帆 十誤一会 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_하쿠레이_레이무 이벤트_c87 시리어스_진지"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/571/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/571/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

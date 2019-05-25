@@ -1,7 +1,7 @@
 ---
 title: "오토메 강제순화"
 tags: "동인지 こげコロッケ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_73/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-12-blog-post_73/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8072037587559551749" itemprop="description articleBody">

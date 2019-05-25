@@ -1,7 +1,7 @@
 ---
 title: "세이신 발렌타인 ~하트초코는 부서지는 법~"
 tags: "23 candy＊chapus 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5900/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5900/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

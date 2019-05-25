@@ -1,7 +1,7 @@
 ---
 title: "그래보여도 너의 장기 완전히 썩은건 아니구나-"
 tags: "ジェット虚無僧 제트코무소 캐릭터_미야코_요시카 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2653/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2653/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

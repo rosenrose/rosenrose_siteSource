@@ -1,7 +1,7 @@
 ---
 title: "감주전이 위험하다의 책"
 tags: "동인지 あまず"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-11-blog-post_80/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-11-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2776012233333612210" itemprop="description articleBody">

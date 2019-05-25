@@ -1,7 +1,7 @@
 ---
 title: "작은 마법사와 평범한 세계"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー vivitgray 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 이벤트_恋のまほうは魔理沙におまかせ！5 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1878/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1878/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></strong></p>

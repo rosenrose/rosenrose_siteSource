@@ -1,7 +1,7 @@
 ---
 title: "사이코패스 서당"
 tags: "えなみ教授 에나미교수 캐릭터_히지리_뱌쿠렌 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_첸 캐릭터_이나바_테위 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2440/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2440/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

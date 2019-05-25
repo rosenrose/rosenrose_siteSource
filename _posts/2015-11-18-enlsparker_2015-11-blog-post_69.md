@@ -1,7 +1,7 @@
 ---
 title: "요괴퇴치로는 밥을 먹을 수 없어!"
 tags: "동인지 winter_scenery"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_69/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-11-blog-post_69/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3331172531025198368" itemprop="description articleBody">

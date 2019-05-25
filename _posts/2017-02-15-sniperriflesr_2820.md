@@ -1,7 +1,7 @@
 ---
 title: "가을 늦은 밤"
 tags: "アリヌ 캐릭터_아키_미노리코 캐릭터_아키_시즈하 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2820/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2820/001.jpg"
 ---
 <div class="article">
 <div class="cContentBody" id="contentDiv" style="margin: 0 0 0 0;">

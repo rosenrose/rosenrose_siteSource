@@ -1,7 +1,7 @@
 ---
 title: "스스럼없던 관계였던 게 역전되어 조금 서먹서먹해졌다"
 tags: "しぐま @signalmass signalmass 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5613/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5613/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

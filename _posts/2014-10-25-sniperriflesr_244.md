@@ -1,7 +1,7 @@
 ---
 title: "한여름밤의 절규악몽"
 tags: "dra どら area-s エリアエス 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_루미아 캐릭터_카쿠_세이가 캐릭터_호쥬_누에 캐릭터_후타츠이와_마미조 캐릭터_타타라_코가사 캐릭터_카자미_유카 이벤트_c82 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/244/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/244/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

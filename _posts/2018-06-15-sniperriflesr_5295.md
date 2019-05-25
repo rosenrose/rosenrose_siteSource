@@ -1,7 +1,7 @@
 ---
 title: "감촉"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_스타_사파이어 캐릭터_루나_차일드 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_대요정 캐릭터_치르노 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5295/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5295/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

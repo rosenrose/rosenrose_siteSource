@@ -1,7 +1,7 @@
 ---
 title: "약속엄수! 온천 데이트"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 이벤트_제_1회_추계_예대제 이벤트_第一回_秋季例大祭 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/401/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/401/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

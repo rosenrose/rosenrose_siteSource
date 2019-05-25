@@ -1,7 +1,7 @@
 ---
 title: "CERAMIK HEART"
 tags: "동인지 kemonomichi zazenbeat"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-ceramik-heart/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-ceramik-heart/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2762940522915769416" itemprop="description articleBody">

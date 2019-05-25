@@ -1,7 +1,7 @@
 ---
 title: "피스쨩 감주전 하는 만화"
 tags: "pellas 동프갤 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1174/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1174/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

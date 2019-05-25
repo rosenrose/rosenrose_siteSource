@@ -1,7 +1,7 @@
 ---
 title: "키리타니 웹코믹 65~70"
 tags: "그림_번역／키리타니"
-image: "https://franch122.s3.amazonaws.com/doujin/touhoustory/56/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/touhoustory/56/001.png"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver4 }}/touhoustory/56/001.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver4 }}/touhoustory/56/002.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver4 }}/touhoustory/56/003.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver4 }}/touhoustory/56/004.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver4 }}/touhoustory/56/005.png"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver4 }}/touhoustory/56/006.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 24px; letter-spacing: -1px; text-align: center;">桐谷(@kiri_tani_)</span><br/></p> </div></div><br/>

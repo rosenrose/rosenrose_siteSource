@@ -1,7 +1,7 @@
 ---
 title: "마음이 더럽혀지더라도"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_나즈린 캐릭터_무라사_미나미츠 캐릭터_카소다니_쿄코 캐릭터_쿠모이_이치린 급식첸_만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3194/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3194/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

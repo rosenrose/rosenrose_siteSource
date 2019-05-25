@@ -1,7 +1,7 @@
 ---
 title: "촬영놀이중"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1710/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1710/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

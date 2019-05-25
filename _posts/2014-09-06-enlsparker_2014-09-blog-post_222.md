@@ -1,7 +1,7 @@
 ---
 title: "렛츠고! 명련사"
 tags: "합동인지 まぜもの"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_222/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_222/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2510815734151116411" itemprop="description articleBody">

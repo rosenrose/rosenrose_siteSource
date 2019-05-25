@@ -1,7 +1,7 @@
 ---
 title: "YOUMU vs UDONGEIN"
 tags: "동인지 unknown"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-04-youmu-vs-udongein/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-04-youmu-vs-udongein/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-143972960573777853" itemprop="description articleBody">

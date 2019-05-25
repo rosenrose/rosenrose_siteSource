@@ -1,7 +1,7 @@
 ---
 title: "파체와 레미"
 tags: "甘党 amatou 아마토우 hitomishiri 히토미시리 ひとみしり 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 이벤트_例大祭_13 이벤트_예대제_13 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2549/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2549/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><br/></strong></p>

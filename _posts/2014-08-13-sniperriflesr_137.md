@@ -1,7 +1,7 @@
 ---
 title: "부드러운 맥박 [ 전연령 편집 ]"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_밝음"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/137/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/137/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

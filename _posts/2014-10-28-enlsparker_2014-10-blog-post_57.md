@@ -1,7 +1,7 @@
 ---
 title: "꿈속에서 만납시다"
 tags: "동인지 よぬりめ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_57/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6737029495965386697" itemprop="description articleBody">

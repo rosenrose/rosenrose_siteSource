@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 17화 그 후"
 tags: "みつもと 미츠모토 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 사랑하는_야작_[完]"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/986/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/986/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

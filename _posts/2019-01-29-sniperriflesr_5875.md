@@ -1,7 +1,7 @@
 ---
 title: "일본인 첫 비행의 날"
 tags: "ジェット虚無僧 제트코무소 @lexus_6737 com僧．com 캐릭터_우사미_스미레코 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5875/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5875/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

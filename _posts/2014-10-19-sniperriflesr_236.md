@@ -1,7 +1,7 @@
 ---
 title: "달콤씁쓸한"
 tags: "はち 하치 ちはぐら 치하구라 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 이벤트_c77 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/236/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/236/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

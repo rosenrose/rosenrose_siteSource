@@ -1,7 +1,7 @@
 ---
 title: "SPELUNKOI"
 tags: "泥舟海運 동인지 海運"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-06-spelunkoi/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-06-spelunkoi/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2012714497529744771" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "전기상자는 환상소녀의 꿈을 꾸는가"
 tags: "동인지 kemonomichi zazenbeat"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_21/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8074174819328206277" itemprop="description articleBody">

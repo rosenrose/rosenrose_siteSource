@@ -1,7 +1,7 @@
 ---
 title: "누에짱의 구멍"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_호쥬_누에 캐릭터_무라사_미나미츠 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1675/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1675/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

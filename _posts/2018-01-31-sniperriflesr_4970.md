@@ -1,7 +1,7 @@
 ---
 title: "어째서 난 ...이 될 수 없는걸까?"
 tags: "ルドンモレレン 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/4970/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/4970/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

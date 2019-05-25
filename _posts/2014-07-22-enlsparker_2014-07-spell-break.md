@@ -1,7 +1,7 @@
 ---
 title: "Spell Break"
 tags: "동인지 鵺箱"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-07-spell-break/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-07-spell-break/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3723975348523950221" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "너만 있어도 되는데"
 tags: "미샤 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1037/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1037/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

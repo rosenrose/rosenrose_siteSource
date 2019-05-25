@@ -1,7 +1,7 @@
 ---
 title: "꽃의 괴"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2721/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2721/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

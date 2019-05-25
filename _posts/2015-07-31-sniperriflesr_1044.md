@@ -1,7 +1,7 @@
 ---
 title: "동방 소극장 나즈+쇼우 2"
 tags: "春日優希 카스가_유키 わいるどらびっつ 와일드_래빗츠 야생토끼 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 캐릭터_키리사메_마리사 이벤트_コミコミ14 이벤트_cc14 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1044/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1044/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

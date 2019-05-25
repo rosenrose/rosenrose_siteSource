@@ -1,7 +1,7 @@
 ---
 title: "지상의 꿈"
 tags: "동인지 w-18"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_63/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-01-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1649696415231135017" itemprop="description articleBody">

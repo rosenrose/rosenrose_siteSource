@@ -1,7 +1,7 @@
 ---
 title: "어째서 죽었는지 알지 못해"
 tags: "동인지 夢のチョモラン王国"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_65/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-11-blog-post_65/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2849507190696741075" itemprop="description articleBody">

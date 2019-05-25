@@ -1,7 +1,7 @@
 ---
 title: "Twinkle twinkle little sister!!"
 tags: "동인지 粟米湯"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2018-04-twinkle-twinkle-little-sister/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-04-twinkle-twinkle-little-sister/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8554325405892419602" itemprop="description articleBody">

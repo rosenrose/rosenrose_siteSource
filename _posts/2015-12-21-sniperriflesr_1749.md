@@ -1,7 +1,7 @@
 ---
 title: "서로 양보하는 죽음의 천사"
 tags: "けぬー 케누 ちりわぁく 캐릭터_키신_사구메 캐릭터_사리엘 [번역]_짤"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1749/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1749/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

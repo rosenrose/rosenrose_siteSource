@@ -1,7 +1,7 @@
 ---
 title: "정의의 이름으로"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_미스티아_로렐라이 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2037/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2037/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

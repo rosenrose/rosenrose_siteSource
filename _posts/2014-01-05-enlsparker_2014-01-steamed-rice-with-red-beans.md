@@ -1,7 +1,7 @@
 ---
 title: "Steamed rice with red beans"
 tags: "기타동인지 mxm-factory"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-01-steamed-rice-with-red-beans/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-01-steamed-rice-with-red-beans/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1158293369407638446" itemprop="description articleBody">

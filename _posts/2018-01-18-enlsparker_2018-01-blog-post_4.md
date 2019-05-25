@@ -1,7 +1,7 @@
 ---
 title: "살랑살랑 사랑받는 심비록"
 tags: "동인지 こげコロッケ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_4/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-01-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7898364823669703049" itemprop="description articleBody">

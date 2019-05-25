@@ -1,7 +1,7 @@
 ---
 title: "염마님과 휴일을"
 tags: "まくわうに うり畑牧場 캐릭터_시키에이키_야마나자두 캐릭터_카쿠_세이가 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 캐릭터_토요사토미미노_미코 이벤트_c85 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1024/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1024/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

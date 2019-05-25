@@ -1,7 +1,7 @@
 ---
 title: "꾸짖어지다 !! 청아냥!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/563/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/563/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

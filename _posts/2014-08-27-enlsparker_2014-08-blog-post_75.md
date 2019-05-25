@@ -1,7 +1,7 @@
 ---
 title: "춤추는 괴의"
 tags: "동인지 strange_chameleon"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_75/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-08-blog-post_75/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3644948105935145903" itemprop="description articleBody">

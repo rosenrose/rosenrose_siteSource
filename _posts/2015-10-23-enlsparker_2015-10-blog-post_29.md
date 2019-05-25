@@ -1,7 +1,7 @@
 ---
 title: "호우오우토시의 괴이한 이야기"
 tags: "동인지 運命のイカスミ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_29/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-10-blog-post_29/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3764208332803179850" itemprop="description articleBody">

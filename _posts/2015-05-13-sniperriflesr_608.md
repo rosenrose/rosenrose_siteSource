@@ -1,7 +1,7 @@
 ---
 title: "삼 더하기 일 + 케이네"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_카미시라사와_케이네 삼_더하기_일"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/608/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/608/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "키리사메 마리사는 한없이 우리에게 가까운 수준의 인간이다"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 시리어스_진지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5515/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5515/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

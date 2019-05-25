@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 25"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_레이센_우동게인_이나바 울지않아_파르시쨩!"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1365/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1365/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

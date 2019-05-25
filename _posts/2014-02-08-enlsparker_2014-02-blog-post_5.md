@@ -1,7 +1,7 @@
 ---
 title: "연꽃이 피는 이 장소에서"
 tags: "桃のカンヅメ 합동인지 carcharias!"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_5/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6712061008209205922" itemprop="description articleBody">

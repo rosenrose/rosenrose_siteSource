@@ -1,7 +1,7 @@
 ---
 title: "신 심야참새식당"
 tags: "동인지 grinp"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_86/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-04-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6331170514246081793" itemprop="description articleBody">

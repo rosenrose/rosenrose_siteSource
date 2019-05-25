@@ -1,7 +1,7 @@
 ---
 title: "용법용량을 꼭 지켜주세요"
 tags: "鶴 匿名天体 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_야쿠모_유카리 이벤트_c78 시리어스_밝음"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/863/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/863/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

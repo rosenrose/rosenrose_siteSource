@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 12"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_콘파쿠_요우무 캐릭터_치르노 울지않아_파르시쨩!"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1230/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1230/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

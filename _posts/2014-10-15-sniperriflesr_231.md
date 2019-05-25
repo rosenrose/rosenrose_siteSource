@@ -1,7 +1,7 @@
 ---
 title: "둘이서 눈사람을 만들자!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_코치야_사나에 캐릭터_대요정 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_치르노 캐릭터_야사카_카나코 캐릭터_호라이산_카구야 캐릭터_모리야_스와코 캐릭터_이자요이_사쿠야 이벤트_c83 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/231/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/231/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

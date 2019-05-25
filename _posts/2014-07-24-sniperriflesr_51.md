@@ -1,7 +1,7 @@
 ---
 title: "메이드와 피의 운명시계"
 tags: "미야모토_류이치 宮本龍一 visionnerz 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 시리어스_진지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/51/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/51/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

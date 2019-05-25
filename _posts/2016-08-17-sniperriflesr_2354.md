@@ -1,7 +1,7 @@
 ---
 title: "나는 방에서 불사의 괴물을 기르고 있다"
 tags: "もなつ 모나츠 贖罪モナトリアム 캐릭터_후지와라노_모코우 캐릭터_우사미_스미레코 이벤트_例大祭13 이벤트_예대제_13 시리어스_밝음"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2354/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2354/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "사구메 플래그"
 tags: "동인지 さやかた紅茶館"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-12-blog-post_66/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-12-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3681069302311370698" itemprop="description articleBody">

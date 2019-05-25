@@ -1,7 +1,7 @@
 ---
 title: "나즈토라 펜듈럼"
 tags: "동인지 わいるどらびっつ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_61/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-01-blog-post_61/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5210576763236621194" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 2화"
 tags: "みつもと 미츠모토 캐릭터_미스티아_로렐라이 캐릭터_리글_나이트버그 요스즈메와_불사조"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1041/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1041/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

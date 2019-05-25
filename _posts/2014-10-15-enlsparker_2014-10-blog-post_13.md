@@ -1,7 +1,7 @@
 ---
 title: "동생이 나라서 곤란해"
 tags: "기타동인지 gallery_culter"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_13/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-10-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6509998379014688309" itemprop="description articleBody">

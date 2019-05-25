@@ -1,7 +1,7 @@
 ---
 title: "손과 손, 그림자와 그림자"
 tags: "1n1m 기타동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post_470/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-04-blog-post_470/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3602751139704328793" itemprop="description articleBody">

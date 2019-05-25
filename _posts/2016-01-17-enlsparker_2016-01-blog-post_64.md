@@ -1,7 +1,7 @@
 ---
 title: "다시는 반복하지 않겠소"
 tags: "기타동인지 秋の胡桃亭"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_64/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-01-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1775032763290138997" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "저질러버린 마리사쨩"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5021/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5021/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

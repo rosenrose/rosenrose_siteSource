@@ -1,7 +1,7 @@
 ---
 title: "이나바가 제설 하나바"
 tags: "真菜 つるべじ。 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1917/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1917/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

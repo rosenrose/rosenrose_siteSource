@@ -1,7 +1,7 @@
 ---
 title: "에이린과 사구메"
 tags: "三味線 캐릭터_키신_사구메 캐릭터_야고코로_에이린 [번역]_4컷／단편만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1693/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1693/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

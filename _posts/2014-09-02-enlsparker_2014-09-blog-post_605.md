@@ -1,7 +1,7 @@
 ---
 title: "기도의 소재"
 tags: "동인지 mental_apricot"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_605/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_605/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4592127334938615973" itemprop="description articleBody">

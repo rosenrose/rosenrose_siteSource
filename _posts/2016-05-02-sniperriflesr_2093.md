@@ -1,7 +1,7 @@
 ---
 title: "우리집 여동생이 브라를 차서 레밀리아 우-☆"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_이자요이_사쿠야 캐릭터_야쿠모_유카리 캐릭터_호라이산_카구야 이벤트_例大祭_10 이벤트_예대제_10 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2093/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2093/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

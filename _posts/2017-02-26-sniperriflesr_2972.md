@@ -1,7 +1,7 @@
 ---
 title: "품격 충분! 화이트락 선생님!"
 tags: "ジェット虚無僧 제트코무소 캐릭터_하쿠레이_레이무 캐릭터_레티_화이트락 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2972/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2972/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

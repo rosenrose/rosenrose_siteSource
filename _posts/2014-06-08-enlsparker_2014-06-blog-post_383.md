@@ -1,7 +1,7 @@
 ---
 title: "홍마의 휴일!!"
 tags: "동인지 粟米湯"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_383/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-06-blog-post_383/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1562158173073289296" itemprop="description articleBody">

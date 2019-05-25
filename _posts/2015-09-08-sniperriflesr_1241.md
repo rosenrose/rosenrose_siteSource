@@ -1,7 +1,7 @@
 ---
 title: "응 보고있어"
 tags: "6 캐릭터_순호 캐릭터_준코 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1241/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1241/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

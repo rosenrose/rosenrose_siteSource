@@ -1,7 +1,7 @@
 ---
 title: "The girl with a muffler"
 tags: "＋legacy 동인지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-04-the-girl-with-muffler/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-04-the-girl-with-muffler/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8967071718207451020" itemprop="description articleBody">

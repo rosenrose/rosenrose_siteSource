@@ -1,7 +1,7 @@
 ---
 title: "안 들어가는 것따위 거의 없어"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_콘파쿠_요우무 sexual_theme"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2786/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2786/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

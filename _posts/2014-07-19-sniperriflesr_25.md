@@ -1,7 +1,7 @@
 ---
 title: "이누 사쿠야"
 tags: "ネジキリオ 네지키리오 angeltype 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/25/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/25/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

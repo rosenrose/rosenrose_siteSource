@@ -1,7 +1,7 @@
 ---
 title: "텐시온! 3"
 tags: "水鏡ひより 미카가미_히요리 @_hiyoko_ ストカメ 캐릭터_스쿠나_신묘마루 캐릭터_요리가미_시온 캐릭터_히나나위_텐시 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/6008/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/6008/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><br/></strong></p>

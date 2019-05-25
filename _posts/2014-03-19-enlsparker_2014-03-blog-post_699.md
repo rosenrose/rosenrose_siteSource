@@ -1,7 +1,7 @@
 ---
 title: "동쪽의 동물귀"
 tags: "기타동인지 きちんとトンチキ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-03-blog-post_699/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-03-blog-post_699/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8018575206765061489" itemprop="description articleBody">

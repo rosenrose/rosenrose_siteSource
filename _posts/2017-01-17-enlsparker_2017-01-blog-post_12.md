@@ -1,7 +1,7 @@
 ---
 title: "경계 표류담"
 tags: "有機化合物 風前ランプ 합동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_12/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-01-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8339982349867446838" itemprop="description articleBody">

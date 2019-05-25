@@ -1,7 +1,7 @@
 ---
 title: "클라운피스가 옷을 갈아입을 뿐인 책"
 tags: "동인지 くらっしゅハウス"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_10/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-12-blog-post_10/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8117512728916471378" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "엽기적인 그녀?"
 tags: "寄生事実 기타동인지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-09-blog-post_39/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-09-blog-post_39/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8433254933092382151" itemprop="description articleBody">

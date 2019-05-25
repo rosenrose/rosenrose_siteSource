@@ -1,7 +1,7 @@
 ---
 title: "헤카티아의 고민"
 tags: "ぷっちん 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_준코 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1172/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1172/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

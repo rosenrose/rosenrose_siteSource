@@ -1,7 +1,7 @@
 ---
 title: "Little Sweet Smiles"
 tags: "동인지 cloud_palette"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-little-sweet-smiles/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-little-sweet-smiles/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2751819386161635181" itemprop="description articleBody">

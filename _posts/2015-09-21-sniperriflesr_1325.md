@@ -1,7 +1,7 @@
 ---
 title: "Imitation"
 tags: "松山 松山ノ家 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_야쿠모_유카리 캐릭터_우사미_렌코 캐릭터_샤메이마루_아야 이벤트_例大祭11 이벤트_예대제_11 시리어스_밝음"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1325/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1325/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

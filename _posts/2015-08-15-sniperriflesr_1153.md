@@ -1,7 +1,7 @@
 ---
 title: "크라운 카운터 ~끝나지 않는 악몽"
 tags: "지상인 동프갤 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 왜곡된_사랑"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1153/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1153/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

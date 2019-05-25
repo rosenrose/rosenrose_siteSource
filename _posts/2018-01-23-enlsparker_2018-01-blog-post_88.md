@@ -1,7 +1,7 @@
 ---
 title: "산이 웃다"
 tags: "동인지 黄色い目のクジラ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_88/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-01-blog-post_88/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4661714521937772295" itemprop="description articleBody">

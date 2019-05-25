@@ -1,7 +1,7 @@
 ---
 title: "내면의 붉은 제국"
 tags: "동인지 まるちら"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_91/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-12-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2439366764852081189" itemprop="description articleBody">

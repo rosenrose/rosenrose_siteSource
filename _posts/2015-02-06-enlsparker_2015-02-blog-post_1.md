@@ -1,7 +1,7 @@
 ---
 title: "심야 참새 식당 - 네번째잔"
 tags: "동인지 grinp"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_1/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-02-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5056552638875148672" itemprop="description articleBody">

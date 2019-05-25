@@ -1,7 +1,7 @@
 ---
 title: "캥캥! 여우 de SHOW"
 tags: "동인지 その他大勢"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-08-de-show/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-de-show/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1843813474708976069" itemprop="description articleBody">

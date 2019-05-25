@@ -1,7 +1,7 @@
 ---
 title: "레밀리아의 온천정찰"
 tags: "雪 ぽぽぽ 캐릭터_레밀리아_스칼렛 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_하쿠레이_레이무 캐릭터_코메이지_사토리 이벤트_博麗神社_例大祭 이벤트_第15回 이벤트_예대제_15 이벤트_例大祭_15 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5552/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5552/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

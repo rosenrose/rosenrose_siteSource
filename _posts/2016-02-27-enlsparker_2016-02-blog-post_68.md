@@ -1,7 +1,7 @@
 ---
 title: "사랑에 빠진 소녀의 예행연습!"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_68/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-02-blog-post_68/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8943101221778349742" itemprop="description articleBody">

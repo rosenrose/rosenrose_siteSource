@@ -1,7 +1,7 @@
 ---
 title: "BAD ROMANCE"
 tags: "さとうメメ子 satou_memeko 사토우_메메코 米 kemo 케모 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_키리사메_마리사 이벤트_예대제_10 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/446/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/446/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

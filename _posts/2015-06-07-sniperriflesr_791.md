@@ -1,7 +1,7 @@
 ---
 title: "화장"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_레이우지_우츠호 캐릭터_오쿠 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/791/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/791/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

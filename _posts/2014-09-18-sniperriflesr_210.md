@@ -1,7 +1,7 @@
 ---
 title: "마리앨리가 육아하는 이야기 ~ ZERO ~"
 tags: "茶太丸 챠타마루 囲炉裏茶房 화덕다방 이로리_샤보 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_파츄리_널릿지 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_카자미_유카 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/210/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/210/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

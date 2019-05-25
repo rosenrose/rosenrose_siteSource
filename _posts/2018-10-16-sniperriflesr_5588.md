@@ -1,7 +1,7 @@
 ---
 title: "마리사쟝은 매일 씻어?"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5588/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5588/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>

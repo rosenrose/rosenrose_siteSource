@@ -1,7 +1,7 @@
 ---
 title: "코가사가 돌봐주겠다고"
 tags: "ハマー 헤머 サンセットビーチ 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2278/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2278/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

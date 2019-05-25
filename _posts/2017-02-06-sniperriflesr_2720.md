@@ -1,7 +1,7 @@
 ---
 title: "아야쨩 선물 사주는 만화"
 tags: "yaise 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2720/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2720/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

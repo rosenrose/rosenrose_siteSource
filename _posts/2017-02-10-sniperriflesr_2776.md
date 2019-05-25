@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 63"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_쿠로다니_야마메 캐릭터_호시구마_유기 울지않아_파르시쨩!"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2776/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2776/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; "></span><br/></b></p>

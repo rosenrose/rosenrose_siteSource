@@ -1,7 +1,7 @@
 ---
 title: "후타츠이와 너구리의 차용증"
 tags: "うりうり show_and_tell 캐릭터_후타츠이와_마미조 캐릭터_루미아 캐릭터_토라마루_쇼 캐릭터_히지리_뱌쿠렌 이벤트_c81 시리어스_진지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/920/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/920/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

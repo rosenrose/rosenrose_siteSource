@@ -1,7 +1,7 @@
 ---
 title: "니토리의 거유 대작전"
 tags: "기타동인지 shishiしじみ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post_7/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-08-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3069365125163162429" itemprop="description articleBody">

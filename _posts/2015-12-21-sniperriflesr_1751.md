@@ -1,7 +1,7 @@
 ---
 title: "망할 댓글용 무료 소재"
 tags: "moiky もの 雨樋座 캐릭터_키신_사구메 [번역]_짤"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1751/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1751/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

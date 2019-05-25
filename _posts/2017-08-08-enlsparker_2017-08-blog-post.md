@@ -1,7 +1,7 @@
 ---
 title: "별에 소원을"
 tags: "3d 기타동인지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-08-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-667767476878912612" itemprop="description articleBody">

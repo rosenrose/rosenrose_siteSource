@@ -1,7 +1,7 @@
 ---
 title: "루미아 대가족"
 tags: "동인지 ぜのさいど"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_51/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post_51/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4158126424481475530" itemprop="description articleBody">

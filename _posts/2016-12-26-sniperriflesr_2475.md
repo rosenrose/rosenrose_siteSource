@@ -1,7 +1,7 @@
 ---
 title: "네 올해는 크리스마스 중지"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2475/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2475/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

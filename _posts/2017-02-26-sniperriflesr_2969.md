@@ -1,7 +1,7 @@
 ---
 title: "신묘마루와 포켓몬 트레이너"
 tags: "ジェット虚無僧 제트코무소 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2969/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2969/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

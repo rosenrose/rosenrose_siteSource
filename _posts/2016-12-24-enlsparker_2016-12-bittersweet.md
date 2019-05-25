@@ -1,7 +1,7 @@
 ---
 title: "bitter→sweet"
 tags: "기타동인지 サカナキドリ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-12-bittersweet/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-12-bittersweet/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2833350347811124044" itemprop="description articleBody">

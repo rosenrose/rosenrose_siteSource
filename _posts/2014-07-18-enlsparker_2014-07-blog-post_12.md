@@ -1,7 +1,7 @@
 ---
 title: "프라이빗 에리어"
 tags: "鳩血 동인지"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_12/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-07-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2671050915957973341" itemprop="description articleBody">

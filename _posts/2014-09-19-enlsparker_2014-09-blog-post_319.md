@@ -1,7 +1,7 @@
 ---
 title: "가면 전부 잃어버렸다  - 지금부터 찾는다"
 tags: "동인지 赤色バニラ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_319/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_319/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6144215047595166499" itemprop="description articleBody">

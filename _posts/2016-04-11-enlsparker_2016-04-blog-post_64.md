@@ -1,7 +1,7 @@
 ---
 title: "학원아큐"
 tags: "동인지 電派絵師団"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_64/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-04-blog-post_64/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6633288369737487900" itemprop="description articleBody">

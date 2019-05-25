@@ -1,7 +1,7 @@
 ---
 title: "없애버릴거야!? 아가씨!!"
 tags: "동인지 まにまに。"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_72/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_72/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4361526953804427052" itemprop="description articleBody">

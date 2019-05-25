@@ -1,7 +1,7 @@
 ---
 title: "범인 처단하는 만화"
 tags: "ファビ山 azelye 캐릭터_스쿠나_신묘마루 캐릭터_하쿠레이_레이무 캐릭터_키진_세이자 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1446/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1446/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "스칼렛 데빌 애프터 홍마관의 일일"
 tags: "미상 아사츠키당 あさつき堂 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 시리어스_진지"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/60/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/60/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

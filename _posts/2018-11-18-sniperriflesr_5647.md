@@ -1,7 +1,7 @@
 ---
 title: "지리멸렬한 논리와 발언의 대요정"
 tags: "にげサポ @nigesapo にげるサポート 캐릭터_대요정 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5647/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5647/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

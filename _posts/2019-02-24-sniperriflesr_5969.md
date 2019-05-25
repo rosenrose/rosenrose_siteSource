@@ -1,7 +1,7 @@
 ---
 title: "새 목줄"
 tags: "야퍄퍄 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5969/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5969/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

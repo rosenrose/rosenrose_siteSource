@@ -1,7 +1,7 @@
 ---
 title: "같은 여자아이이므로 문제없습니다"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/149/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/149/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

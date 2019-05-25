@@ -1,7 +1,7 @@
 ---
 title: "심야참새식당3 [ 세번째잔 ]"
 tags: "ねことうふ 네코두부 grinp 캐릭터_미스티아_로렐라이 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카와시로_니토리 캐릭터_이부키_스이카 캐릭터_레이센_우동게인_이나바 캐릭터_콘파쿠_요우무 캐릭터_샤메이마루_아야 캐릭터_홍_메이링 캐릭터_스타_사파이어 캐릭터_루나_차일드 캐릭터_써니_밀크 이벤트_例大祭11 심야_참새식당"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/107/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/107/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

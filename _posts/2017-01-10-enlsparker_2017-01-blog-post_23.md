@@ -1,7 +1,7 @@
 ---
 title: "와타츠키 무쌍 - 샤크라 어센션"
 tags: "동인지 caelestis．"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_23/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-01-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7517801460942405308" itemprop="description articleBody">

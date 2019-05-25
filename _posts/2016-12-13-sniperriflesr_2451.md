@@ -1,7 +1,7 @@
 ---
 title: "당신 뒤의 하얀 형체"
 tags: "じぜる 지제루 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2451/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2451/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

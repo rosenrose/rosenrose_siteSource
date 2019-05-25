@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 20"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_이바라키_카센 울지않아_파르시쨩!"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1249/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1249/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "메이드 인 숙면"
 tags: "동인지 その他大勢"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_13/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-01-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5149907541029675201" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "캇파의 비밀"
 tags: "futa なべぞこ 나베조코 캐릭터_카와시로_니토리 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/910/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/910/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

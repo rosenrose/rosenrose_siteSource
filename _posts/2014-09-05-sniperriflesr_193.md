@@ -1,7 +1,7 @@
 ---
 title: "오네가이"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_카쿠_세이가 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_모노노베노_후토 캐릭터_후타츠이와_마미조 캐릭터_토라마루_쇼 캐릭터_미야코_요시카 이벤트_c83 약"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/193/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/193/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

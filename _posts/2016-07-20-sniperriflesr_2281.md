@@ -1,7 +1,7 @@
 ---
 title: "귀를 기울이다"
 tags: "うりうり show_and_tell 캐릭터_후타츠이와_마미조 캐릭터_하쿠레이_레이무 캐릭터_모토오리_코스즈 이벤트_例大祭12 이벤트_예대제_12 시리어스_밝음"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2281/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2281/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>

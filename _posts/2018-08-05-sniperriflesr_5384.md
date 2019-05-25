@@ -1,7 +1,7 @@
 ---
 title: "천리안으로 보는 것"
 tags: "藤原_雪 yukey @yukeyf 雪の夢 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_치르노 캐릭터_대요정 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5384/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5384/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

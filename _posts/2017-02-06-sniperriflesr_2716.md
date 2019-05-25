@@ -1,7 +1,7 @@
 ---
 title: "심호흡 준비"
 tags: "イトウゆーじ 110-groove 캐릭터_레이센_우동게인_이나바 sexual_theme"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2716/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2716/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

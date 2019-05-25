@@ -1,7 +1,7 @@
 ---
 title: "살아있는 것의 경계선"
 tags: "동인지 色は匂えど"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_62/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-04-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6651204324569405687" itemprop="description articleBody">

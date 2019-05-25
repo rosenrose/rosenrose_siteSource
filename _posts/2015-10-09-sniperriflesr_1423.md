@@ -1,7 +1,7 @@
 ---
 title: "순호는 관심받고싶다"
 tags: "インド僧 いんどの宮殿! 캐릭터_순호 캐릭터_준코 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1423/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1423/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

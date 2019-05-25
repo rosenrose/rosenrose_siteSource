@@ -1,7 +1,7 @@
 ---
 title: "소녀 리셋"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_후지와라노_모코우 캐릭터_야쿠모_유카리 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 캐릭터_히에다노_아큐 캐릭터_야고코로_에이린 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 캐릭터_키리사메_마리사 캐릭터_사이교우지_유유코 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_샤메이마루_아야 이벤트_例大祭10 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/100/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/100/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

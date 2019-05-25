@@ -1,7 +1,7 @@
 ---
 title: "환상색제"
 tags: "기타동인지 ワタガミ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_66/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-03-blog-post_66/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4220569182301849367" itemprop="description articleBody">

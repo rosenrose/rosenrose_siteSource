@@ -1,7 +1,7 @@
 ---
 title: "우리 언니가 역시 이 세상에서 제일 귀여워!!"
 tags: "동인지 ベルの巣"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-09-blog-post_79/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-09-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2534686046782170187" itemprop="description articleBody">

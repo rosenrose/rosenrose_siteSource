@@ -1,7 +1,7 @@
 ---
 title: "동방 만화들"
 tags: "니트_아저씨 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_클라운피스 캐릭터_카자미_유카 캐릭터_리글_나이트버그 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2751/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2751/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "네크로맨서의 공죄"
 tags: "ジロー @darasende ジロー日和 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 시리어스_진지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/4980/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/4980/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b></p>

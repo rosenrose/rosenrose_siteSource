@@ -1,7 +1,7 @@
 ---
 title: "유카쨩 vs. 북"
 tags: "大型犬 캐릭터_카자미_유카 캐릭터_호리카와_라이코 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2941/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2941/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

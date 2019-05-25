@@ -1,7 +1,7 @@
 ---
 title: "모미묭 만화"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_콘파쿠_요우무 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2642/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2642/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

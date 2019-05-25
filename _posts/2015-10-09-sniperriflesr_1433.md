@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 10화"
 tags: "みつもと 미츠모토 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_호라이산_카구야 요스즈메와_불사조"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1433/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1433/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

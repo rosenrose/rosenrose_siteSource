@@ -1,7 +1,7 @@
 ---
 title: "Haunted Holiday"
 tags: "동인지 四方山"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-haunted-holiday/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-08-haunted-holiday/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4598858873162164411" itemprop="description articleBody">

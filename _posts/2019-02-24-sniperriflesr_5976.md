@@ -1,7 +1,7 @@
 ---
 title: "파츄리랑 소악마의 발렌타인"
 tags: "あーねすと @arnest_ あーねすとroom 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_소악마 시리어스_진지"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5976/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5976/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

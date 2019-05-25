@@ -1,7 +1,7 @@
 ---
 title: "웃는 연습"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2382/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2382/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "아파파파츄리 - C"
 tags: "六合ダイスケ 以絵会友 캐릭터_마리사 캐릭터_루미아 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 캐릭터_치르노 캐릭터_하쿠레이_레이무 캐릭터_카와시로_니토리 캐릭터_레밀리아_스칼렛 캐릭터_홍_메이링 이벤트_c76 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2528/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2528/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

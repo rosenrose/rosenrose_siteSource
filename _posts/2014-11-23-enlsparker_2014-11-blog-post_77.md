@@ -1,7 +1,7 @@
 ---
 title: "신간 한 권 부탁드립니다"
 tags: "동인지 サイチル"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_77/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-11-blog-post_77/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6698595529262046429" itemprop="description articleBody">

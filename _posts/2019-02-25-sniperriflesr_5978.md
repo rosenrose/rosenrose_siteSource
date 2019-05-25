@@ -1,7 +1,7 @@
 ---
 title: "사이좋은 와타츠키노 자매"
 tags: "썅 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5978/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5978/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

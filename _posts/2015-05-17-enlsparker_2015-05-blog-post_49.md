@@ -1,7 +1,7 @@
 ---
 title: "센티멘탈·섬머"
 tags: "동인지 poprication"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_49/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-05-blog-post_49/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8218646631819306823" itemprop="description articleBody">

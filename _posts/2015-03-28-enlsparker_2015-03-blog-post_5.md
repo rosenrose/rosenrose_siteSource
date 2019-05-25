@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 곤인"
 tags: "동인지 青"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_5/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-03-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6941934942467465794" itemprop="description articleBody">

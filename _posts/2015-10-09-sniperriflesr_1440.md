@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 17화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 요스즈메와_불사조"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1440/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1440/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

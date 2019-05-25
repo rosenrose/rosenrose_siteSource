@@ -1,7 +1,7 @@
 ---
 title: "이웃집 백택 선생님"
 tags: "ぉこげ煎餅 오코게센베 煎餅屋 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_카와시로_니토리 캐릭터_나즈린 캐릭터_타타라_코가사 캐릭터_토라마루_쇼 캐릭터_호쥬_누에 캐릭터_운잔 이벤트_c79 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/120/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/120/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

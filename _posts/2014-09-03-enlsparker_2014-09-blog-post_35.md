@@ -1,7 +1,7 @@
 ---
 title: "깜박 잠든 붉음."
 tags: "동인지 sonと壱"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_35/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_35/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7548405025813547655" itemprop="description articleBody">

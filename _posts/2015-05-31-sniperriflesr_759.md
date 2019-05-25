@@ -1,7 +1,7 @@
 ---
 title: "연인"
 tags: "ぶーわ_‏ 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_토요사토미미노_미코 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/759/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/759/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

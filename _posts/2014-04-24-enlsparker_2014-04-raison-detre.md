@@ -1,7 +1,7 @@
 ---
 title: "Raison d'etre"
 tags: "동인지 くらっしゅハウス"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-04-raison-detre/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-04-raison-detre/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3056600490624074898" itemprop="description articleBody">

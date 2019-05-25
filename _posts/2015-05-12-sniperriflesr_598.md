@@ -1,7 +1,7 @@
 ---
 title: "모미지땅은 정말 정직한 아이"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_이마이즈미_카케로 캐릭터_이누바시리_모미지 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/598/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/598/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

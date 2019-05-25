@@ -1,7 +1,7 @@
 ---
 title: "인기만점 꼬리"
 tags: "ゆかたろ 유카타로 その他大勢 캐릭터_야쿠모_란 캐릭터_샤메이마루_아야 캐릭터_야쿠모_유카리 캐릭터_키리사메_마리사 캐릭터_레이센_우동게인_이나바 캐릭터_첸 캐릭터_하쿠레이_레이무 캐릭터_치르노 캐릭터_루미아 캐릭터_대요정 캐릭터_코치야_사나에 캐릭터_모리치카_린노스케 캐릭터_홍_메이링 캐릭터_이나바_테위 캐릭터_사이교우지_유유코 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/216/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/216/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

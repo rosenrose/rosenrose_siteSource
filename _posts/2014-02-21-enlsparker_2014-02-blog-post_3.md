@@ -1,7 +1,7 @@
 ---
 title: "누가 하쿠레이 레이무를 울렸는가"
 tags: "동인지 赤色バニラ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_3/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2834413198333834542" itemprop="description articleBody">

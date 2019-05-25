@@ -1,7 +1,7 @@
 ---
 title: "슬픈 운명"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2060/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2060/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

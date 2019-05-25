@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 스페셜리테"
 tags: "합동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-03-blog-post_3/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-03-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1976597357462749923" itemprop="description articleBody">

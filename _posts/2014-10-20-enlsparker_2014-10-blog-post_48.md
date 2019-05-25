@@ -1,7 +1,7 @@
 ---
 title: "꼬마 레이무는 멈추질 않아!"
 tags: "합동인지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_48/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_48/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6634660776054549081" itemprop="description articleBody">

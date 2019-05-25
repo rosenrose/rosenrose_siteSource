@@ -1,7 +1,7 @@
 ---
 title: "Loneliness"
 tags: "ウロ ハラペーニョチップス jalapeno-chips 캐릭터_앨리스_마가트로이드 캐릭터_메디슨_멜랑콜리 캐릭터_하쿠레이_레이무 이벤트_c91 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2847/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2847/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

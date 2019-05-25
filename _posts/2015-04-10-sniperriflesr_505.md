@@ -1,7 +1,7 @@
 ---
 title: "하나부터 삼 더하기 일 [ 통합완성본 ]"
 tags: "futa なべぞこ 나베조코 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_상하이 캐릭터_파츄리_널릿지 캐릭터_모리치카_린노스케 이벤트_예대제 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/505/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/505/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

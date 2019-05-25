@@ -1,7 +1,7 @@
 ---
 title: "직접 마신다고!"
 tags: "しろし 시로시 電派絵師団 짤／1컷만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1419/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1419/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

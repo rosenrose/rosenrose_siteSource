@@ -1,7 +1,7 @@
 ---
 title: "마리미코"
 tags: "アンニュイ赤蛸작가_：_たこ 타코 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 캐릭터_카쿠_세이가 캐릭터_파츄리_널릿지 캐릭터_이바라키_카센 이벤트_c82 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1256/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1256/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

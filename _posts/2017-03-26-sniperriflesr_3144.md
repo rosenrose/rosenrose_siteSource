@@ -1,7 +1,7 @@
 ---
 title: "당신이 좋아하는 메를랑의 고백반응은 어느쪽?"
 tags: "三日月ネコ 캐릭터_메를랑_프리즘리버 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3144/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3144/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

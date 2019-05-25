@@ -1,7 +1,7 @@
 ---
 title: "드셔봐요 후르츠!"
 tags: "동인지 平成ストロベリー"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_64/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-05-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-98225154564307620" itemprop="description articleBody">

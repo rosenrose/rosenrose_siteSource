@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 31화"
 tags: "みつもと 미츠모토 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 요스즈메와_불사조"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3779/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3779/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

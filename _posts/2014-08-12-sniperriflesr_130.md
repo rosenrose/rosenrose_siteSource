@@ -1,7 +1,7 @@
 ---
 title: "모코우가 케이네에게 문자보내는 만화"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/130/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/130/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

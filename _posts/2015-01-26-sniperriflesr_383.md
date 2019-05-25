@@ -1,7 +1,7 @@
 ---
 title: "봄과 여름의 경계"
 tags: "くま 쿠마 赤色バニラ 적색바닐라 레드_바닐라 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_카와시로_니토리 이벤트_koimari4 시리어스_밝음"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/383/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/383/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

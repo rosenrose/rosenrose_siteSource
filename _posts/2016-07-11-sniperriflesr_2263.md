@@ -1,7 +1,7 @@
 ---
 title: "사랑을 되찾아라"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 급식첸_만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2263/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2263/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "피안화처럼"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 급식첸_만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3153/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3153/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

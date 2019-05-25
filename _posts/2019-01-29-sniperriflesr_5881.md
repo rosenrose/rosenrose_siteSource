@@ -1,7 +1,7 @@
 ---
 title: "오린과 데이트 2"
 tags: "あくま @kisikaisei09 肩幅クリーチャーズ 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5881/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5881/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "아사키, 유메미시"
 tags: "동인지 赤橙"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_6/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-05-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4521716605366823066" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "벗기지 말아줘 바니!"
 tags: "기타동인지 capsicum"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_33/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-04-blog-post_33/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1510667353652037858" itemprop="description articleBody">

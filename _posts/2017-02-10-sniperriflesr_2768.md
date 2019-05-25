@@ -1,7 +1,7 @@
 ---
 title: "코이시쨩 여러가지 헤어스타일"
 tags: "杏飴 こいんとす 캐릭터_코메이지_코이시 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2768/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2768/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "안경을 써본 파르시"
 tags: "日本円 캐릭터_미즈하시_파르시 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3011/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/3011/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

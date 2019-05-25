@@ -1,7 +1,7 @@
 ---
 title: "대전쟁 일어나다!"
 tags: "기타동인지 水銀革命"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_46/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-02-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8276991656437353005" itemprop="description articleBody">

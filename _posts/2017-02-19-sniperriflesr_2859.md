@@ -1,7 +1,7 @@
 ---
 title: "시종의 씀씀이"
 tags: "futa なべぞこ 나베조코 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2859/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2859/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

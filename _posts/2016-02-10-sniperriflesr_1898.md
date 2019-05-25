@@ -1,7 +1,7 @@
 ---
 title: "뾱뾱 무녀 레이무씨 - 7"
 tags: "柳月湊 時間屋 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_키리사메_마리사 이벤트_c81 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1898/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1898/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

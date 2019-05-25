@@ -1,7 +1,7 @@
 ---
 title: "그녀가 메이드가 된 날"
 tags: "동인지 なんとか生きてます。"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_13/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-09-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7723031294406403475" itemprop="description articleBody">

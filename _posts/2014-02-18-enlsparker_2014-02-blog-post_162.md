@@ -1,7 +1,7 @@
 ---
 title: "호상신란"
 tags: "동인지 疲労熊"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_162/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-blog-post_162/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7915551390485577069" itemprop="description articleBody">

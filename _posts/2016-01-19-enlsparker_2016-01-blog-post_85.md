@@ -1,7 +1,7 @@
 ---
 title: "입국심사관:하쿠레이 레이무 - 서류를 제출해주세요."
 tags: "「自動販売機」 동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_85/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-01-blog-post_85/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-136541205237149821" itemprop="description articleBody">

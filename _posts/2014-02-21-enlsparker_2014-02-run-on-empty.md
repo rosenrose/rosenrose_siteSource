@@ -1,7 +1,7 @@
 ---
 title: "RUN ON EMPTY"
 tags: "동인지 cytokine"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-02-run-on-empty/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-run-on-empty/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5058602852068991730" itemprop="description articleBody">

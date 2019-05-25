@@ -1,7 +1,7 @@
 ---
 title: "바람이 불때"
 tags: "동인지 ギガメーカー"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_71/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-07-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7973058537116228257" itemprop="description articleBody">

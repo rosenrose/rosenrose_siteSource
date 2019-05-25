@@ -1,7 +1,7 @@
 ---
 title: "벌꿀생강"
 tags: "はせがわけいた 하세가와_케이타 ビタミンごはん vitamin_rice 비타민_밥 비타민_고한 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_히지리_뱌쿠렌 캐릭터_하쿠레이_레이무 캐릭터_앨리스_마가트로이드 캐릭터_상하이 이벤트_c87 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/711/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/711/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "부르는 법이 신경쓰인 나즈린"
 tags: "次郎次ex @jirouji 次郎次 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5872/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5872/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

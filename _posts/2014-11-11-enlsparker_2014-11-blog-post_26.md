@@ -1,7 +1,7 @@
 ---
 title: "피안의 그녀는 좋아하나요?"
 tags: "동인지 蓮華座"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_26/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-11-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1894257062212462376" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "코코로안"
 tags: "동인지 ふあん亭"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_6/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-02-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4931525838408971638" itemprop="description articleBody">

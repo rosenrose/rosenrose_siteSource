@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 번외편 1"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_대요정 캐릭터_치르노 울지않아_파르시쨩!"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1243/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1243/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

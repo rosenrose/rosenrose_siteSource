@@ -1,7 +1,7 @@
 ---
 title: "히지리 2종소형 면허따는 만화"
 tags: "woogoon 동갤 캐릭터_히지리_뱌쿠렌 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1946/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1946/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

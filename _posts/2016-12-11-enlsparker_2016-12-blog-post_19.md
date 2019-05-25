@@ -1,7 +1,7 @@
 ---
 title: "쿠루미쨩으로 놀자!"
 tags: "기타동인지 型k式"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_19/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-12-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1839917280360526767" itemprop="description articleBody">

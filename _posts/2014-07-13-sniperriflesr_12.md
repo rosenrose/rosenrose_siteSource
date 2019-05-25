@@ -1,7 +1,7 @@
 ---
 title: "심야 참새 식당 [ 여주인의 하루 ] [ 간편요리편 ]"
 tags: "ねことうふ 네코두부 grinp 캐릭터_미스티아_로렐라이 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 캐릭터_레이센_우동게인_이나바 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 심야_참새식당"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/12/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/12/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

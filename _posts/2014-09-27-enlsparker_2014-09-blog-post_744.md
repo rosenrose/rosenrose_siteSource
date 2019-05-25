@@ -1,7 +1,7 @@
 ---
 title: "생명체의 무게"
 tags: "동인지 色は匂えど"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_744/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_744/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5624596488501888409" itemprop="description articleBody">

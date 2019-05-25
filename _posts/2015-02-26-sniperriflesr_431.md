@@ -1,7 +1,7 @@
 ---
 title: "MARTYRDOM"
 tags: "とこみち 토코미치 なかむら屋 나카무라야 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_앨리스_마가트로이드 캐릭터_후지와라노_모코우 캐릭터_하쿠레이_레이무 캐릭터_미마 캐릭터_미마메 이벤트_예대제_9 시리어스_진지"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/431/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/431/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

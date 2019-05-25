@@ -1,7 +1,7 @@
 ---
 title: "낭독하는 팟체씨"
 tags: "동인지 からあげ屋さん"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_25/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3513277761657786160" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "감주전 하는 클라피"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5553/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5553/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

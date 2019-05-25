@@ -1,7 +1,7 @@
 ---
 title: "돌고돌아 어라운드"
 tags: "기타동인지 だるーん。"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_729/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_729/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4304445433003412948" itemprop="description articleBody">

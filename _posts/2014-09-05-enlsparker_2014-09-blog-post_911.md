@@ -1,7 +1,7 @@
 ---
 title: "고주망태 홍마관"
 tags: "동인지 angel_type"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_911/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_911/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7260027027535960576" itemprop="description articleBody">

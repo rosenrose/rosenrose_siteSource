@@ -1,7 +1,7 @@
 ---
 title: "꿈길에서 그대와 만나다"
 tags: "동인지 personal_color"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_86/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8114536505641387390" itemprop="description articleBody">

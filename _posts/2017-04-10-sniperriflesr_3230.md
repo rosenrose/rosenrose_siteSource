@@ -1,7 +1,7 @@
 ---
 title: "Sweet Scarlet [ 스윗 스칼렛 ]"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 크래쉬_하우스 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 이벤트_例大祭13 이벤트_예대제_13 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/3230/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3230/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"></strong><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "먼 피안의 인연 노래"
 tags: "기타동인지 なゆこや"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_28/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-06-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2630880905383777746" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "소녀들에게 '아기 만드는 방법'을 물어봤다"
 tags: "ハマー 헤머 짤_시리즈"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1351/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1351/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

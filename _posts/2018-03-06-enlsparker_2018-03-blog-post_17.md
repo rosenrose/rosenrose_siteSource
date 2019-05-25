@@ -1,7 +1,7 @@
 ---
 title: "두꺼운 눈꺼풀 뒤에는"
 tags: "동인지 personal_color"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post_17/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-03-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5190106454029986134" itemprop="description articleBody">

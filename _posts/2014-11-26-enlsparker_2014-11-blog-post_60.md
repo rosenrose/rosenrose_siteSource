@@ -1,7 +1,7 @@
 ---
 title: "정월항례행사 하쿠레이신사 새전공방"
 tags: "동인지 public_planet"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_60/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-11-blog-post_60/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3477009358573803085" itemprop="description articleBody">

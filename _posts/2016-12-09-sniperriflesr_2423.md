@@ -1,7 +1,7 @@
 ---
 title: "텐구의 접책"
 tags: "川科 木綿シリコン moment_silicon 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2423/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2423/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

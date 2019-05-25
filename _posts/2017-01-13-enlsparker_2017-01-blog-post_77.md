@@ -1,7 +1,7 @@
 ---
 title: "사구메씨는 이야기가 하고싶다"
 tags: "동인지 うり畑牧場"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_77/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-01-blog-post_77/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6656237623479816478" itemprop="description articleBody">

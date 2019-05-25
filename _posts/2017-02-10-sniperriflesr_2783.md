@@ -1,7 +1,7 @@
 ---
 title: "허그 데이"
 tags: "ふくらはぎ魚丸 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_야쿠모_란 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2783/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2783/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

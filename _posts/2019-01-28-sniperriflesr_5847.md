@@ -1,7 +1,7 @@
 ---
 title: "할로윈 만화 ②"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_이자요이_사쿠야 캐릭터_소악마 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5847/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5847/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

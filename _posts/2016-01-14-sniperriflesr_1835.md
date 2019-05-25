@@ -1,7 +1,7 @@
 ---
 title: "말로 세상은 바뀐다"
 tags: "中島楓 犬娘院 캐릭터_키신_사구메 캐릭터_도레미_스위트 캐릭터_와타츠키노_토요히메 캐릭터_미스티아_로렐라이 캐릭터_세이란 캐릭터_링고 캐릭터_와타츠키노_요리히메 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_순호 이벤트_c89 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1835/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1835/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

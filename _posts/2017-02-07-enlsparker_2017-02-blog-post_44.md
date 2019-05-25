@@ -1,7 +1,7 @@
 ---
 title: "커넥트 - 촌 아가씨"
 tags: "합동인지 にゃんにゃんお!"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2017-02-blog-post_44/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-02-blog-post_44/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5822959856230712581" itemprop="description articleBody">

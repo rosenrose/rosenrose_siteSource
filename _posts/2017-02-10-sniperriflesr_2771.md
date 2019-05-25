@@ -1,7 +1,7 @@
 ---
 title: "메리&렌코"
 tags: "みづきいちご_原稿いちご 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2771/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2771/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

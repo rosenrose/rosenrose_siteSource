@@ -1,7 +1,7 @@
 ---
 title: "스미레코가 고3이라면"
 tags: "6 캐릭터_후지와라노_모코우 캐릭터_우사미_스미레코 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1702/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1702/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

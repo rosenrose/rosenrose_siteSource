@@ -1,7 +1,7 @@
 ---
 title: "토끼에게 토끼목도리 씌워주는 만화"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_야고코로_에이린 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1911/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1911/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

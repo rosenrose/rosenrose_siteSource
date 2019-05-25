@@ -1,7 +1,7 @@
 ---
 title: "다녀왔습니다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/3246/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/3246/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

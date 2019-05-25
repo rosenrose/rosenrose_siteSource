@@ -1,7 +1,7 @@
 ---
 title: "돌벚꽃"
 tags: "동인지 煎餅屋"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_22/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-01-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5968928259491168469" itemprop="description articleBody">

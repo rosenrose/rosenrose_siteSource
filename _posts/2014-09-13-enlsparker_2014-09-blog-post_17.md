@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 애프터눈 티"
 tags: "동인지 赤色バニラ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_17/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3782029020370242735" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "인공호흡"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/584/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/584/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

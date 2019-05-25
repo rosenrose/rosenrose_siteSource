@@ -1,7 +1,7 @@
 ---
 title: "Peppermint Ginger"
 tags: "동인지 ビタミンごはん"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-11-peppermint-ginger/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-11-peppermint-ginger/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6176638200920418966" itemprop="description articleBody">

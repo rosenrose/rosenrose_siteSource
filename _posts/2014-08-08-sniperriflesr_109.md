@@ -1,7 +1,7 @@
 ---
 title: "뇌내 하이랜드 파크"
 tags: "ギロチン ギロチン銀座 girotin_ginza 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 캐릭터_카기야마_히나 캐릭터_카와시로_니토리 캐릭터_아키_미노리코 캐릭터_아키_시즈하 이벤트_紅楼夢6 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/109/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/109/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

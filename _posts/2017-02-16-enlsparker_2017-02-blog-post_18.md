@@ -1,7 +1,7 @@
 ---
 title: "이상요요몽 - 완결"
 tags: "동인지 bitter&better"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2017-02-blog-post_18/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-02-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-426813250018401255" itemprop="description articleBody">

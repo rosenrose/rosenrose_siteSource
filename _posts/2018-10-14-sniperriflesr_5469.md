@@ -1,7 +1,7 @@
 ---
 title: "완전무결 루나틱 세이란님이 말씀하신다"
 tags: "あるふぁす @arufas00 캐릭터_세이란 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5469/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5469/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "모코시바"
 tags: "동인지 あみだ屑"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_65/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-12-blog-post_65/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3097791770129490840" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "플라잉 바닐라걸 전편 후편"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_야쿠모_유카리 캐릭터_이부키_스이카 캐릭터_카자미_유카 캐릭터_레밀리아_스칼렛 이벤트_例大祭12 이벤트_예대제_12 시리어스_슬픔"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1960/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1960/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

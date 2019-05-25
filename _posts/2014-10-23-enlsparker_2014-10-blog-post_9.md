@@ -1,7 +1,7 @@
 ---
 title: "선인 주의보"
 tags: "기타동인지 青犬の小屋"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_9/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_9/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6542369107468085744" itemprop="description articleBody">

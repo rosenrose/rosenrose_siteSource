@@ -1,7 +1,7 @@
 ---
 title: "사토리님이 뭔가를 하는거 같지만 아무 것도 하지않는 이야기"
 tags: "鯵風 おゆのみずわり 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_미즈하시_파르시 이벤트_大⑨州東方祭７ 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2530/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2530/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "청아냥냥의 음모 - 연말편"
 tags: "동인지 うり畑牧場"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-12-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6949848265870258839" itemprop="description articleBody">

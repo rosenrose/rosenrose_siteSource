@@ -1,7 +1,7 @@
 ---
 title: "절반"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_대요정 캐릭터_치르노 캐릭터_써니_밀크 캐릭터_스타_사파이어 캐릭터_키리사메_마리사 캐릭터_미스티아_로렐라이 캐릭터_세키반키 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5517/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5517/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "발렌타인 아야쨩"
 tags: "かすか 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2814/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2814/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

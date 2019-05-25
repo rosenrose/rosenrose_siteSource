@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 신사의 아마노쟈쿠"
 tags: "동인지 ベルの巣"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_39/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-03-blog-post_39/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1152414388446209505" itemprop="description articleBody">

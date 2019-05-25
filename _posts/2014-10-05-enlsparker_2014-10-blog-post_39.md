@@ -1,7 +1,7 @@
 ---
 title: "유우교토 캣츠워크"
 tags: "동인지 sonと壱"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_39/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_39/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5109725788787227831" itemprop="description articleBody">

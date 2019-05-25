@@ -1,7 +1,7 @@
 ---
 title: "감주전 체험판 반응 만화"
 tags: "콥등잉여 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1066/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1066/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

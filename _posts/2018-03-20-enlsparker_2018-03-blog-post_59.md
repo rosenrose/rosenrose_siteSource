@@ -1,7 +1,7 @@
 ---
 title: "다시 한번만 더"
 tags: "동인지 草枕と"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2018-03-blog-post_59/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-03-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1493267381451233429" itemprop="description articleBody">

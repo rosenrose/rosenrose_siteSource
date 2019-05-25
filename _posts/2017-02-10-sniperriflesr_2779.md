@@ -1,7 +1,7 @@
 ---
 title: "백옥루식 대접"
 tags: "ジェット虚無僧 제트코무소 캐릭터_레이센_우동게인_이나바 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2779/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2779/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

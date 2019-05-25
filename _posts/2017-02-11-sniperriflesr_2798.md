@@ -1,7 +1,7 @@
 ---
 title: "흑심"
 tags: "ベル助 ベルの巣 캐릭터_나즈린 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2798/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2798/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

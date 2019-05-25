@@ -1,7 +1,7 @@
 ---
 title: "토끼카레"
 tags: "即席魔王 합동인지 lab＊"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_25/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-07-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7821008721772164321" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "벡터 스펙타클 中"
 tags: "北斗 북두 サイチル 사이칠 사이치루 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 캐릭터_츠쿠모_벤벤 캐릭터_츠쿠모_야츠하시 캐릭터_호리카와_라이코 이벤트_c87 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1454/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1454/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

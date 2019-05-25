@@ -1,7 +1,7 @@
 ---
 title: "모르는 사람을 따라가선 안됩니다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_히나나위_텐시 캐릭터_이나바_테위 캐릭터_치르노 캐릭터_루미아 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2471/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2471/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

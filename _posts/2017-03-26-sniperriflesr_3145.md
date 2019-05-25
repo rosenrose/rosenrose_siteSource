@@ -1,7 +1,7 @@
 ---
 title: "너무 낳아버린 루미아"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_루미아 sexual_theme"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/3145/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3145/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

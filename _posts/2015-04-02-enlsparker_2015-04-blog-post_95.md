@@ -1,7 +1,7 @@
 ---
 title: "좋은 아침이라고 해줘."
 tags: "동인지 personal_color"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_95/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-blog-post_95/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4831467212467593204" itemprop="description articleBody">

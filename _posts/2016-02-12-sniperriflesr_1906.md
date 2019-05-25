@@ -1,7 +1,7 @@
 ---
 title: "악몽은 토끼의 모습을 두르고"
 tags: "じぜる 지제루 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1906/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1906/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

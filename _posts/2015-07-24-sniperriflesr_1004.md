@@ -1,7 +1,7 @@
 ---
 title: "모에를 느껴야할 앨범"
 tags: "けぬー ちりわぁく 캐릭터_신키 캐릭터_상하이 캐릭터_앨리스_마가트로이드 캐릭터_유메코 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1004/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1004/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

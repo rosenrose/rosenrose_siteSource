@@ -1,7 +1,7 @@
 ---
 title: "성모에게 안겨서"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_호쥬_누에 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/3203/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3203/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

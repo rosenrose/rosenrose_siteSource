@@ -1,7 +1,7 @@
 ---
 title: "비봉슴가"
 tags: "son sonと壱 캐릭터_마에리베리_한 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1370/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1370/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

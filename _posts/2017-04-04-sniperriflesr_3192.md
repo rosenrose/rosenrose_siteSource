@@ -1,7 +1,7 @@
 ---
 title: "쇠사슬의 경계"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_오카자키_유메미 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 급식첸_만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/3192/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3192/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

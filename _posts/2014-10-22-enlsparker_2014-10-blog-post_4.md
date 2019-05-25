@@ -1,7 +1,7 @@
 ---
 title: "안단테"
 tags: "동인지 ビビットグレー"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_4/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-10-blog-post_4/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1036637727522597601" itemprop="description articleBody">

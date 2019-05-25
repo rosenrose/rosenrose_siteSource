@@ -1,7 +1,7 @@
 ---
 title: "레밀리아 쿠킹!!"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 이벤트_홍월의_연회_4 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/444/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/444/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

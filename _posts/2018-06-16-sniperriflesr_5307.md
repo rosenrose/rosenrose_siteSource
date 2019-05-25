@@ -1,7 +1,7 @@
 ---
 title: "현자 모델러 사구메"
 tags: "ベル助 真田源次郎ベル助 @berusuke_sanada ベルの巣 캐릭터_키신_사구메 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5307/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5307/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

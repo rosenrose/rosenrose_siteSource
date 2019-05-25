@@ -1,7 +1,7 @@
 ---
 title: "코코로의 날"
 tags: "こめお @tukinomisheru こめおファクトリー 캐릭터_코메이지_코이시 캐릭터_하타노_코코로 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5273/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5273/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

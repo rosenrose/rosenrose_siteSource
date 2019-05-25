@@ -1,7 +1,7 @@
 ---
 title: "얍삽한 앨리스 합동지 냥냥"
 tags: "森の蟲 天災族 합동인지 forestrest"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_96/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-05-blog-post_96/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-858637575642736997" itemprop="description articleBody">

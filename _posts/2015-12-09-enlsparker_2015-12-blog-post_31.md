@@ -1,7 +1,7 @@
 ---
 title: "닭꼬치는 취급하지 않아요!"
 tags: "기타동인지 rapunzel"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_31/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-12-blog-post_31/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2884549627606073635" itemprop="description articleBody">

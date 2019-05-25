@@ -1,7 +1,7 @@
 ---
 title: "홍마관 GUEST ROOM"
 tags: "합동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-02-guest-room/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-guest-room/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4261764737141671120" itemprop="description articleBody">

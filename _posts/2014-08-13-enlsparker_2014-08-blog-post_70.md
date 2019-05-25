@@ -1,7 +1,7 @@
 ---
 title: "날아올라 환상향"
 tags: "동인지 さやかた紅茶館"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_70/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-08-blog-post_70/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9060569476770155689" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "레이마리 - 스모가스보드"
 tags: "동인지 よぬりめ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_75/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-10-blog-post_75/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9028193404062936249" itemprop="description articleBody">

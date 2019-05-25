@@ -1,7 +1,7 @@
 ---
 title: "홍마관에서 사랑을 담아"
 tags: "じぜる 지제루 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_치르노 캐릭터_대요정 캐릭터_이자요이_사쿠야 캐릭터_이부키_스이카 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2453/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2453/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

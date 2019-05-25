@@ -1,7 +1,7 @@
 ---
 title: "어떤 사랑의 마법"
 tags: "동인지 さとうさんち。"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-08-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8005792401792472690" itemprop="description articleBody">

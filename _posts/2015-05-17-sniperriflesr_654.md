@@ -1,7 +1,7 @@
 ---
 title: "환상수몰담 ~ 그 첫 번째"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 크래쉬_하우스 캐릭터_써니_밀크 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 이벤트_c79 시리어스_진지"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/654/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/654/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

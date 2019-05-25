@@ -1,7 +1,7 @@
 ---
 title: "장미과의 소녀되는 식물"
 tags: "シロガネヒナ hina_shirogane 시로가네_히나 milk_bar 캐릭터_히나나위_텐시 캐릭터_나가에_이쿠 이벤트_紅楼夢_04 이벤트_홍루몽_4 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/1019/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1019/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

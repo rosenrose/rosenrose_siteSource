@@ -1,7 +1,7 @@
 ---
 title: "유다의 검은고양이"
 tags: "えなみ教授 에나미교수 캐릭터_카엔뵤 린 캐릭터_오린 캐릭터_토라마루_쇼 캐릭터_첸 급식첸_만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2092/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2092/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

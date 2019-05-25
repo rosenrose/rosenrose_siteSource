@@ -1,7 +1,7 @@
 ---
 title: "지령전에 잘 오셨습니다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_코메이지_사토리 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 급식첸_만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2811/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2811/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

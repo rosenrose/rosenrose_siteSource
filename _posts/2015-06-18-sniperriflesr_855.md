@@ -1,7 +1,7 @@
 ---
 title: "냥파니 !!"
 tags: "九品そういん kuhou_souin 쿠호우_소우인 たまごやき tamagoyaki 타마고야키 캐릭터_레이센_우동게인_이나바 캐릭터_코치야_사나에 캐릭터_콘파쿠_요우무 캐릭터_이나바_테위 이벤트_예대제_8 이벤트_例大祭8 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/855/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/855/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

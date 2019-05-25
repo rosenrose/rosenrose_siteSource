@@ -1,7 +1,7 @@
 ---
 title: "부탁해! 해머 포지!!!!!"
 tags: "ととねみぎ 토토네미기 かるーあみるく kahlua_milk 카루밀크 캐릭터_스쿠나_신묘마루 캐릭터_하쿠레이_레이무 캐릭터_이바라키_카센 캐릭터_오노즈카_코마치 캐릭터_이부키_스이카 캐릭터_히나나위_텐시 이벤트_例大祭12 이벤트_예대제_12 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1877/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1877/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

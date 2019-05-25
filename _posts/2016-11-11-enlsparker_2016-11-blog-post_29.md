@@ -1,7 +1,7 @@
 ---
 title: "새벽의 솔리튜드"
 tags: "동인지 赤色バニラ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_29/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-11-blog-post_29/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2358745883758630236" itemprop="description articleBody">

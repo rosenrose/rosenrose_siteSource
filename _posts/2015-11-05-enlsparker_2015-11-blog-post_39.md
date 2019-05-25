@@ -1,7 +1,7 @@
 ---
 title: "우리 집의 귀여운 바보"
 tags: "기타동인지 柏処-かしわどころ-"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_39/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-11-blog-post_39/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-777233923330033001" itemprop="description articleBody">

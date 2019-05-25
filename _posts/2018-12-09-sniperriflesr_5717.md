@@ -1,7 +1,7 @@
 ---
 title: "후토를 관찰해보았다"
 tags: "逸しん @itusin3 캐릭터_모노노베노_후토 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/5717/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5717/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "오토메 콜렉티브"
 tags: "동인지 ギロチン銀座"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_41/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-10-blog-post_41/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2949196967260284495" itemprop="description articleBody">

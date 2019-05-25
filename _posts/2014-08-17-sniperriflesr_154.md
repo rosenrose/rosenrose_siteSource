@@ -1,7 +1,7 @@
 ---
 title: "지하에서 위로 올라가자"
 tags: "春夏アキト 하루나츠_아키토 happy_flame_time 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_파츄리_널릿지 캐릭터_야쿠모_유카리 캐릭터_앨리스_마가트로이드 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_호시구마_유기 캐릭터_이부키_스이카 캐릭터_미즈하시_파르시 캐릭터_쿠로다니_야마메 이벤트_c75 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/154/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/154/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

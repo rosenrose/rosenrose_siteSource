@@ -1,7 +1,7 @@
 ---
 title: "어둠의 병원"
 tags: "秋ら 캐릭터_순호 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2170/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2170/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

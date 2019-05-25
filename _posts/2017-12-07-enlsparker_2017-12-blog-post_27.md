@@ -1,7 +1,7 @@
 ---
 title: "동방 몬헌 게임부"
 tags: "동인지 サークルぬるま屋"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2017-12-blog-post_27/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-12-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8531820596671697931" itemprop="description articleBody">

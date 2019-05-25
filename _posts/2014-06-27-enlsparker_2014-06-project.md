@@ -1,7 +1,7 @@
 ---
 title: "동측 PROJECT"
 tags: "동인지 オチンチンリーチ!"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-06-project/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-06-project/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2465489494583800780" itemprop="description articleBody">

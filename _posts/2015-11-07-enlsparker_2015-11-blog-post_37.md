@@ -1,7 +1,7 @@
 ---
 title: "대결 명련사"
 tags: "기타동인지 bitter&better"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_37/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-11-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-488834943448987973" itemprop="description articleBody">

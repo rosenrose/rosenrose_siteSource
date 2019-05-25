@@ -1,7 +1,7 @@
 ---
 title: "유카레이 PRICELESS"
 tags: "동인지 いよかん。"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-03-priceless/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-03-priceless/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6127378362587468324" itemprop="description articleBody">

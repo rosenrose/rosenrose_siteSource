@@ -1,7 +1,7 @@
 ---
 title: "Dear my Ma'am"
 tags: "동인지 時間屋"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-10-dear-my-maam/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-dear-my-maam/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7035591587679940007" itemprop="description articleBody">

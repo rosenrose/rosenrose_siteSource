@@ -1,7 +1,7 @@
 ---
 title: "역시 그대들은 마음이 맞네"
 tags: "トリブリ 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1039/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1039/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

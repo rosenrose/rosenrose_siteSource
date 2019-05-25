@@ -1,7 +1,7 @@
 ---
 title: "보정된 렌코쨩"
 tags: "古河おどろ よまいり先生 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2921/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2921/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

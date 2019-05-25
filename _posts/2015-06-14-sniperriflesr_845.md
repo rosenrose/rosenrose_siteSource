@@ -1,7 +1,7 @@
 ---
 title: "작디작은 현장"
 tags: "リンメイ 健全パラドックス 캐릭터_타타라_코가사 캐릭터_나즈린 귀여움／가벼움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/845/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/845/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

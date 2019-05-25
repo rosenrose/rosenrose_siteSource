@@ -1,7 +1,7 @@
 ---
 title: "야작연악담 - 분발하는 밤참새"
 tags: "동인지 りょくや"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_67/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_67/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-914343942504713820" itemprop="description articleBody">

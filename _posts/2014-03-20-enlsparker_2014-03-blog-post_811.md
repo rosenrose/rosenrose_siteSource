@@ -1,7 +1,7 @@
 ---
 title: "홍마관의 고양이"
 tags: "기타동인지 陰陽龍"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-03-blog-post_811/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-03-blog-post_811/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8512895035972620850" itemprop="description articleBody">

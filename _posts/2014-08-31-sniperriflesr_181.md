@@ -1,7 +1,7 @@
 ---
 title: "참각월의 비"
 tags: "千尋 치히로 kemonomichi チヒロ 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_카자미_유카 캐릭터_코치야_사나에 이벤트_紅楼夢6 이벤트_홍루몽6 시리어스_슬픔"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/181/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/181/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

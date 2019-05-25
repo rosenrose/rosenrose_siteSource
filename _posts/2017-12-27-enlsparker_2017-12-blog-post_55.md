@@ -1,7 +1,7 @@
 ---
 title: "차가운 발과 열대야"
 tags: "동인지 赤色バニラ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2017-12-blog-post_55/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-12-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2717221127683889627" itemprop="description articleBody">

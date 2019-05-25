@@ -1,7 +1,7 @@
 ---
 title: "CHARM vol.1"
 tags: "기타동인지 フミンバイン"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-11-charm-vol1/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-11-charm-vol1/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4017276354752284812" itemprop="description articleBody">

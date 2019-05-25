@@ -1,7 +1,7 @@
 ---
 title: "레이마리 스튜던트"
 tags: "동인지 よぬりめ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_40/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-12-blog-post_40/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4423065579743267916" itemprop="description articleBody">

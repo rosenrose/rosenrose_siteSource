@@ -1,7 +1,7 @@
 ---
 title: "미나미츠에게 옷을 사게 하는 이야기"
 tags: "ワイテイ @yt__ 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5970/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5970/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

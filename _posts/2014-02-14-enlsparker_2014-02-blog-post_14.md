@@ -1,7 +1,7 @@
 ---
 title: "반복횡비"
 tags: "합동인지"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_14/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8547953674417430248" itemprop="description articleBody">

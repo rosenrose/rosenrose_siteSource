@@ -1,7 +1,7 @@
 ---
 title: "KISS OR KISS"
 tags: "동인지 天災族"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-01-kiss-or-kiss/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-01-kiss-or-kiss/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3447243186726711543" itemprop="description articleBody">

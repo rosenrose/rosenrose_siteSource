@@ -1,7 +1,7 @@
 ---
 title: "술과 포장마차와 악몽의 여자"
 tags: "동인지 四方山"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_29/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-12-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-678703569473230522" itemprop="description articleBody">

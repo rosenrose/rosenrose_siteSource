@@ -1,7 +1,7 @@
 ---
 title: "동방수부족"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_카미시라사와_케이네 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 이벤트_예대제_6 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/997/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/997/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

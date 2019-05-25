@@ -1,7 +1,7 @@
 ---
 title: "텐시쨩이 시온을 아끼는 만화"
 tags: "チロリアン @tiroryu てつのおとしご 캐릭터_히나나위_텐시 캐릭터_요리가미_시온 캐릭터_나가에_이쿠 시리어스_밝음"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5283/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5283/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

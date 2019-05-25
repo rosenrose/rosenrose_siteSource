@@ -1,7 +1,7 @@
 ---
 title: "꿈 꾸지 말아라"
 tags: "동인지 スアリテスミ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_90/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-05-blog-post_90/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4073717568359522854" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "목줄 레이마리"
 tags: "らんかせい @rankasei 星幻工房 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5547/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5547/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

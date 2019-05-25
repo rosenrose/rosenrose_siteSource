@@ -1,7 +1,7 @@
 ---
 title: "Long Good-Bye"
 tags: "동인지 letra"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-10-long-good-bye/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-10-long-good-bye/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8637528435317990853" itemprop="description articleBody">

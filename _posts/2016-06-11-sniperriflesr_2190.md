@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 43"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_야고코로_에이린 울지않아_파르시쨩!"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2190/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2190/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

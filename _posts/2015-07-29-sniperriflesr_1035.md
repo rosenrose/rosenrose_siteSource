@@ -1,7 +1,7 @@
 ---
 title: "케이네의 집에서 마신 다음날 아침"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/1035/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1035/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

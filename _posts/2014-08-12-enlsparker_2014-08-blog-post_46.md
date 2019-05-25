@@ -1,7 +1,7 @@
 ---
 title: "유감스러운 선물?"
 tags: "동인지 ロケット燃料★21"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_46/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4677000046604770859" itemprop="description articleBody">

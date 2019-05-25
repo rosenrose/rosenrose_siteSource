@@ -1,7 +1,7 @@
 ---
 title: "토코투칸과 모코우"
 tags: "ナイスタック 나이스택 ナイス宅 @nicetack0517 캐릭터_후지와라노_모코우 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/5003/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5003/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

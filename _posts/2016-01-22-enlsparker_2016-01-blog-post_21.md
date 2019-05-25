@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 신사와 제야의 종"
 tags: "동인지 にんじんみさき"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_21/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-01-blog-post_21/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8559729067135434800" itemprop="description articleBody">

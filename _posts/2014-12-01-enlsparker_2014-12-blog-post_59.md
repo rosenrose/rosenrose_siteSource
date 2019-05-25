@@ -1,7 +1,7 @@
 ---
 title: "비 온 뒤 맑음"
 tags: "기타동인지 over_limit"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_59/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-12-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6797518042617033591" itemprop="description articleBody">

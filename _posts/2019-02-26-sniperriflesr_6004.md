@@ -1,7 +1,7 @@
 ---
 title: "말하지 못했어"
 tags: "あすとら @anterdel 시리어스_슬픔"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/6004/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/6004/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

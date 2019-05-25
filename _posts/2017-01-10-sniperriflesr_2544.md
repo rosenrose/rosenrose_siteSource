@@ -1,7 +1,7 @@
 ---
 title: "니토리와 외출"
 tags: "flanvia 캐릭터_카와시로_니토리 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2544/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2544/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

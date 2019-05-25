@@ -1,7 +1,7 @@
 ---
 title: "아월부감홍마광"
 tags: "동인지 双月亭"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_177/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_177/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4613278708646413189" itemprop="description articleBody">

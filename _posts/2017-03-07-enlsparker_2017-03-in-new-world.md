@@ -1,7 +1,7 @@
 ---
 title: "In the new world"
 tags: "동인지 一ノ瀬"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2017-03-in-new-world/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-03-in-new-world/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4606199017240824795" itemprop="description articleBody">

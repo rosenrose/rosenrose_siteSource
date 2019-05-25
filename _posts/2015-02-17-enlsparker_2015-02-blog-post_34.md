@@ -1,7 +1,7 @@
 ---
 title: "벌레자국"
 tags: "기타동인지 卵鬼たっぷり"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_34/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-02-blog-post_34/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6683008835409456828" itemprop="description articleBody">

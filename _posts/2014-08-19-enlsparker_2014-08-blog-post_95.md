@@ -1,7 +1,7 @@
 ---
 title: "이자요이마에"
 tags: "기타동인지 漫バカ"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_95/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-08-blog-post_95/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2211465727282586969" itemprop="description articleBody">

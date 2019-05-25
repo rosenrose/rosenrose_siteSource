@@ -1,7 +1,7 @@
 ---
 title: "파르시 표정"
 tags: "イリノアヤト 캐릭터_미즈하시_파르시 이메레스"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2014/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2014/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "언제나"
 tags: "동인지 火鳥でできるもん!"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_53/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-05-blog-post_53/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-477360561273648255" itemprop="description articleBody">

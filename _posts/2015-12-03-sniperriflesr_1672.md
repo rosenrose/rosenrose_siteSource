@@ -1,7 +1,7 @@
 ---
 title: "매일 힘겹게 살아가고 있습니다"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_호쥬_누에 캐릭터_키진_세이자 [번역]_짤"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/1672/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1672/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

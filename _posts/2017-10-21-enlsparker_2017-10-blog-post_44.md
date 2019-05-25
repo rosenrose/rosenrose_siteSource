@@ -1,7 +1,7 @@
 ---
 title: "오린과 모코우"
 tags: "劇団文七 동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2017-10-blog-post_44/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-10-blog-post_44/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4551289387799460373" itemprop="description articleBody">

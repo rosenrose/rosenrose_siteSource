@@ -1,7 +1,7 @@
 ---
 title: "수신님이 향하는 길"
 tags: "동인지 カゲ路"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_27/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1921229859005196729" itemprop="description articleBody">

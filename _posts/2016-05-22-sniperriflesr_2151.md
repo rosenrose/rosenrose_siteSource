@@ -1,7 +1,7 @@
 ---
 title: "사구라멘"
 tags: "アシロク 아시로쿠 風に靡く巣箱 바람에_휘는_상자 캐릭터_키신_사구메 이벤트_c89 귀여움"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2151/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2151/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong></strong><br/></p>

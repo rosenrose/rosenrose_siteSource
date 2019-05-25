@@ -1,7 +1,7 @@
 ---
 title: "추위를 이유로 꽁냥꽁냥 하고싶다"
 tags: "ねみ @neeeemuindaze 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5997/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5997/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

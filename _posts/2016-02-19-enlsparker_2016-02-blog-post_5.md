@@ -1,7 +1,7 @@
 ---
 title: "이치린이 꽃꽂은 풍림화산"
 tags: "蓮華座 梯屋 합동인지"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_5/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post_5/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5274227634003167123" itemprop="description articleBody">

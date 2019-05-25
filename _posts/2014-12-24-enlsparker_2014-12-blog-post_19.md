@@ -1,7 +1,7 @@
 ---
 title: "순백색 사랑초"
 tags: "동인지 アコウクロウ"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_19/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-12-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5260637873779183624" itemprop="description articleBody">

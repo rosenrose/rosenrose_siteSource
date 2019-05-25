@@ -1,7 +1,7 @@
 ---
 title: "지켜보기만 하는 건 , 오늘로 끝"
 tags: "よぬ 요누 よぬりめ 요누리메 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_카와시로_니토리 캐릭터_아키_미노리코 캐릭터_이부키_스이카 캐릭터_코치야_사나에 캐릭터_샤메이마루_아야 캐릭터_치르노 캐릭터_콘파쿠_요우무 이벤트_c87 시리어스_밝음"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/381/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/381/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

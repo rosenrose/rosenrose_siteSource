@@ -1,7 +1,7 @@
 ---
 title: "조온과 이치린"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_조온 캐릭터_쿠모이_이치린 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5544/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5544/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

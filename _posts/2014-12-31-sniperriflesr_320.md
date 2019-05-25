@@ -1,7 +1,7 @@
 ---
 title: "4"
 tags: "タイリ 타이리 むぎじるし 오기지루시 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_레밀리아_스칼렛 캐릭터_리글_나이트버그 이벤트_例大祭sp 합동-진지[밝음]／귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/320/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/320/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

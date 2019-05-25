@@ -1,7 +1,7 @@
 ---
 title: "묭 키츠네"
 tags: "기타동인지 thw．jp"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_94/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-08-blog-post_94/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8185505472495522210" itemprop="description articleBody">

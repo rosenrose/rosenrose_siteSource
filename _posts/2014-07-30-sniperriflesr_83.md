@@ -1,7 +1,7 @@
 ---
 title: "Search!!"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_나즈린 캐릭터_토라마루_쇼 캐릭터_히지리_뱌쿠렌 캐릭터_코치야_사나에 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_키리사메_마리사 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_앨리스_마가트로이드 캐릭터_카미시라사와_케이네 캐릭터_치르노 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/83/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/83/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

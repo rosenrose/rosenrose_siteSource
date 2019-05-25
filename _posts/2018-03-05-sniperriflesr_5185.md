@@ -1,7 +1,7 @@
 ---
 title: "스커트 들추는 사토리"
 tags: "背徳漢 @kannhaitoku 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5185/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5185/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "텐시가 유카링 엉덩이 가지고 노는 만화"
 tags: "ふたはね泥沼 @futahane はねやすめの沼 캐릭터_히나나위_텐시 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/5187/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5187/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

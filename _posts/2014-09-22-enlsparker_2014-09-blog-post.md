@@ -1,7 +1,7 @@
 ---
 title: "궁극가학생물 유카의 플라워 샵 카자미 - 풀 메탈 자켓 버전"
 tags: "합동인지 chazenbeat kemonomichi シャこ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5195937755791710543" itemprop="description articleBody">

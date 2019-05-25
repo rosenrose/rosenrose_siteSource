@@ -1,7 +1,7 @@
 ---
 title: "안녕 헤븐"
 tags: "壱 sonと壱 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 이벤트_紅楼夢_8 이벤트_홍루몽_8 시리어스_슬픔"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/705/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/705/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

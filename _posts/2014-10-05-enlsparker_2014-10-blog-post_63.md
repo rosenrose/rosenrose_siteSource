@@ -1,7 +1,7 @@
 ---
 title: "마인 (魔人)"
 tags: "동인지 徒歩二分"
-image: "https://franch122.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_63/001.png"
+image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_63/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9019756930726146383" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "꿈 꾸는 플랑"
 tags: "ハマー 헤머 サンセットビーチ 짤／1컷만화"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2150/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2150/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

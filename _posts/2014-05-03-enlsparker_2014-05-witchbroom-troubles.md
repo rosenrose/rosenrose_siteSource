@@ -1,7 +1,7 @@
 ---
 title: "Witchbroom Troubles"
 tags: "동인지 蒼空市場"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2014-05-witchbroom-troubles/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-05-witchbroom-troubles/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7563775479505148323" itemprop="description articleBody">

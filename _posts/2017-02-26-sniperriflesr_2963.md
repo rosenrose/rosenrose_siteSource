@@ -1,7 +1,7 @@
 ---
 title: "오린과 데이트 했다."
 tags: "あくま 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2963/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2963/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

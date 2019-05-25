@@ -1,7 +1,7 @@
 ---
 title: "소녀휴식중"
 tags: "동인지 sonと壱"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_81/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_81/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5651940457850558435" itemprop="description articleBody">

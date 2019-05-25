@@ -1,7 +1,7 @@
 ---
 title: "어린 새의 이정표"
 tags: "동인지"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/touhoustory/73/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/touhoustory/73/001.jpg"
 ---
 <div class="article">
 <div class="article">

@@ -1,7 +1,7 @@
 ---
 title: "거짓말쟁이 누구"
 tags: "동인지 よぬりめ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_17/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post_17/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7706227328333278590" itemprop="description articleBody">

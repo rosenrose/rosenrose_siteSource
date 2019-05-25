@@ -1,7 +1,7 @@
 ---
 title: "시원한 저녁"
 tags: "九品そういん kuhou_souin 쿠호우_소우인 캐릭터_레이센_우동게인_이나바 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 약"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/152/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/152/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

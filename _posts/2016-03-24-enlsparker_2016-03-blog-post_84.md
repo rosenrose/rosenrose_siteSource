@@ -1,7 +1,7 @@
 ---
 title: "용서할 수 없는 걸 용서해야 선인"
 tags: "동인지 東ガル会"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_84/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-03-blog-post_84/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3842628309174175358" itemprop="description articleBody">

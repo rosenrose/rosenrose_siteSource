@@ -1,7 +1,7 @@
 ---
 title: "아야와 하타테가 꽃구경 나가는 만화"
 tags: "estia 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/2226/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2226/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

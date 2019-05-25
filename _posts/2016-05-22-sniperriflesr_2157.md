@@ -1,7 +1,7 @@
 ---
 title: "한자로"
 tags: "futa なべぞこ 나베조코 캐릭터_카미시라사와_케이네 캐릭터_루미아 캐릭터_리글_나이트버그 캐릭터_치르노 캐릭터_미스티아_로렐라이 귀여움／가벼움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2157/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2157/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

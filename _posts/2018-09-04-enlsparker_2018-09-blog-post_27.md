@@ -1,7 +1,7 @@
 ---
 title: "콘트라스트는 물들고 말았다 - 쪽빛의 편"
 tags: "기타동인지 luminary"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_27/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-09-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7488790159906153515" itemprop="description articleBody">

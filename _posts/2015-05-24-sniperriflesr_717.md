@@ -1,7 +1,7 @@
 ---
 title: "야작연악담 ~ 잡지 않은 칠성장어 구이 계산"
 tags: "ヲザワ 오자와 りょくや 료쿠야 ryokuya 캐릭터_미스티아_로렐라이 캐릭터_카미시라사와_케이네 캐릭터_히에다노_아큐 캐릭터_카와시로_니토리 이벤트_c85 귀여움"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/717/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/717/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

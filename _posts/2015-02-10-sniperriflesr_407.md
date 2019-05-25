@@ -1,7 +1,7 @@
 ---
 title: "이곳은 도구점 향림당입니다"
 tags: "ネジキリオ 네지키리오 neji_kirio angeltype 엔젤타입 캐릭터_키리사메_마리사 캐릭터_모치리카_린노스케 캐릭터_이자요이_사쿠야 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_하쿠레이_레이무 캐릭터_치르노 캐릭터_카와시로_니토리 이벤트_c78 귀여움"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/407/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/407/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

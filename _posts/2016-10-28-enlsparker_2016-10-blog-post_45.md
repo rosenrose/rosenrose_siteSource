@@ -1,7 +1,7 @@
 ---
 title: "잃어버렸을 때 츠쿠모가미"
 tags: "동인지 四方山"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2016-10-blog-post_45/001.png"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-10-blog-post_45/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2053555644075473414" itemprop="description articleBody">

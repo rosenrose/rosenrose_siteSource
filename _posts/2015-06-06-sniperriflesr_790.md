@@ -1,7 +1,7 @@
 ---
 title: "레지스탕스 파티"
 tags: "캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 캐릭터_야쿠모_유카리 캐릭터_키리사메_마리사 이벤트_例大祭_12 이벤트_예대제_12 합동_4서클_이상"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/790/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/790/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

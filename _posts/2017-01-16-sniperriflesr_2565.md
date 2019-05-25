@@ -1,7 +1,7 @@
 ---
 title: "사나에한테 히오스를 권유하는 스와코 만화"
 tags: "쓸모없는게으름뱅이 동갤 캐릭터_모리야_스와코 캐릭터_코치야_사나에 약"
-image: "https://kjw122.s3.amazonaws.com/doujin/sniperriflesr/2565/001.png"
+image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2565/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

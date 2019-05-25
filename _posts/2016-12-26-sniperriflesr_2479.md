@@ -1,7 +1,7 @@
 ---
 title: "강철의 유대"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 급식첸_만화"
-image: "https://franch122.s3.amazonaws.com/doujin/sniperriflesr/2479/001.jpg"
+image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2479/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

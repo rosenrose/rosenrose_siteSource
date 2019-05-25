@@ -1,7 +1,7 @@
 ---
 title: "감기에 걸렸다면 그것밖에 없어!!"
 tags: "동인지 ねこのさけごと"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_8/001.png"
+image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-04-blog-post_8/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3504780399874420239" itemprop="description articleBody">

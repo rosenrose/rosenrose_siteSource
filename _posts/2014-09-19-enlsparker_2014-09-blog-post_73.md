@@ -1,7 +1,7 @@
 ---
 title: "먼 나라 후궁의 자장가"
 tags: "동인지 赤色バニラ"
-image: "https://kjw122.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_73/001.jpg"
+image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3735792063551772993" itemprop="description articleBody">

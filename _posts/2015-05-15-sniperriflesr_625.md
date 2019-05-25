@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 치르노"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_치르노 반역의_세이자"
-image: "https://franch122hanmail2.s3.amazonaws.com/doujin/sniperriflesr/625/001.jpg"
+image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/625/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
