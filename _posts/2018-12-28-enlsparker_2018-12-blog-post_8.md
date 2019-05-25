@@ -1,7 +1,7 @@
 ---
 title: "닫힌 마음의 통로"
 tags: "동인지 にゃんにゃんお!"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_8/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-12-blog-post_8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3285752355292983560" itemprop="description articleBody">

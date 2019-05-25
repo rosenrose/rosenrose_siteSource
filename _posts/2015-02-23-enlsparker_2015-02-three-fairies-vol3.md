@@ -1,7 +1,7 @@
 ---
 title: "Three Fairies Vol.3"
 tags: "동인지 くらっしゅハウス"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-02-three-fairies-vol3/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-02-three-fairies-vol3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7338694065507354761" itemprop="description articleBody">

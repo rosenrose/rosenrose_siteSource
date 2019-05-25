@@ -1,7 +1,7 @@
 ---
 title: "인형"
 tags: "ジェット虚無僧 제트코무소 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/700/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/700/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

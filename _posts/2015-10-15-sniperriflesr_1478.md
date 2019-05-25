@@ -1,7 +1,7 @@
 ---
 title: "불쌍해"
 tags: "細井コウゾウ ヒステリックタイフーン 캐릭터_코치야_사나에 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1478/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1478/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

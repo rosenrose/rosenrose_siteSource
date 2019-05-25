@@ -1,7 +1,7 @@
 ---
 title: "당신에게 건 행복의 마법"
 tags: "동인지 時間屋"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2017-11-blog-post_87/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-11-blog-post_87/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-519226984418836299" itemprop="description articleBody">

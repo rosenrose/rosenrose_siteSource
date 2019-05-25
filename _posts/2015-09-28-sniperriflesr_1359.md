@@ -1,7 +1,7 @@
 ---
 title: "비봉소녀 파르페"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_境界から視えた外界-廻- 이벤트_경계로부터_보이는_바깥세계-메구루- 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1359/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1359/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "ROCK at Me!!!"
 tags: "동인지 平成ストロベリー"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-09-rock-at-me/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-09-rock-at-me/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2995632829062016627" itemprop="description articleBody">

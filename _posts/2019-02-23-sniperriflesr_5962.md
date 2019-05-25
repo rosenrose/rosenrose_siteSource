@@ -1,7 +1,7 @@
 ---
 title: "부하자랑"
 tags: "쿨럭쿡 59．11 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5962/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5962/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

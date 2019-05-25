@@ -1,7 +1,7 @@
 ---
 title: "초 귀찮은 앨리스 2"
 tags: "캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/544/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/544/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

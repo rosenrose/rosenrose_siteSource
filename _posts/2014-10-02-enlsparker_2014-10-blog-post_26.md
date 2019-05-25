@@ -1,7 +1,7 @@
 ---
 title: "파츄리 연애탐정 -홍마관의 살인"
 tags: "동인지 ヘルフレグランス"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_26/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_26/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7092690545160219774" itemprop="description articleBody">

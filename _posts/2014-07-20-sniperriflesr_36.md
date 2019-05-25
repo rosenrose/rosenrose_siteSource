@@ -1,7 +1,7 @@
 ---
 title: "이누 사쿠야의 시간"
 tags: "ネジキリオ 네지키리오 angeltype 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_이나바_테위 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/36/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/36/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

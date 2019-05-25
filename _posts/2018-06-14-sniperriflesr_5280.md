@@ -1,7 +1,7 @@
 ---
 title: "5월 26일은 코코로의 날"
 tags: "からしと @not_on_shana 幻想虚構空間 캐릭터_하타노_코코로 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5280/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5280/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

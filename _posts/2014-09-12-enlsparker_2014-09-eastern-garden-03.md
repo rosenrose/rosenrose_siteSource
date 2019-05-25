@@ -1,7 +1,7 @@
 ---
 title: "Eastern Garden 03"
 tags: "동인지 neko_works"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-eastern-garden-03/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-eastern-garden-03/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1389419761174434269" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "감기에 걸렸다면 그것밖에 없어!!"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_키리사메_마리사 캐릭터_사이교우지_유유코 캐릭터_앨리스_마가트로이드 캐릭터_콘파쿠_요우무 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/69/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/69/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

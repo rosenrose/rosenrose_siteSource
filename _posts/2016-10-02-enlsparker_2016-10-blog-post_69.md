@@ -1,7 +1,7 @@
 ---
 title: "모리노혼 총집편 (일부)"
 tags: "동인지 森の蟲"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-10-blog-post_69/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-10-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8776974039923135298" itemprop="description articleBody">

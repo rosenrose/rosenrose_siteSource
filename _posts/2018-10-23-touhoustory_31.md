@@ -1,7 +1,7 @@
 ---
 title: "로쿠넨 짤 31"
 tags: "그림_번역／로쿠넨"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/touhoustory/31/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/touhoustory/31/001.png"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver10 }}/touhoustory/31/001.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(119, 119, 119); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 18.6667px; letter-spacing: -1px;">ろくねん(@6nen)</span></p> </div></div><br/>

@@ -1,7 +1,7 @@
 ---
 title: "순정 익센트릭 허니 페이스"
 tags: "동인지 rainbow_vanilla"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_28/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-04-blog-post_28/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3668003574333137411" itemprop="description articleBody">

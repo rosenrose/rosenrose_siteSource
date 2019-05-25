@@ -1,7 +1,7 @@
 ---
 title: "스승과 제자"
 tags: "ジェット虚無僧 제트코무소 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/697/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/697/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

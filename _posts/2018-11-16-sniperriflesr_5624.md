@@ -1,7 +1,7 @@
 ---
 title: "떡인지를 판매하는 죠온쨩"
 tags: "캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5624/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5624/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

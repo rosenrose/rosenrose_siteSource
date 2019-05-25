@@ -1,7 +1,7 @@
 ---
 title: "그대는 무엇을 보는가"
 tags: "동인지 その他大勢"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_139/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_139/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-838550657482899340" itemprop="description articleBody">

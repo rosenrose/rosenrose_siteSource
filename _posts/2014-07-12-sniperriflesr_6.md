@@ -1,7 +1,7 @@
 ---
 title: "Killing Me , Killing You"
 tags: "아사츠키당 あさつき堂 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 시리어스_어두움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/6/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/6/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

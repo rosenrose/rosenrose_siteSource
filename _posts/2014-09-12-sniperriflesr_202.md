@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 레이무는 조용히 잠자리에 들고 싶다"
 tags: "金子_ねコ 카네코_네코 優先席 유우센세키 경로석 캐릭터_곽청아 캐릭터_카쿠_세이가 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_키리사메_마리사 캐릭터_호시구마_유기 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 이벤트_예대제_11 약"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/202/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/202/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

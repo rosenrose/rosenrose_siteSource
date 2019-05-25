@@ -1,7 +1,7 @@
 ---
 title: "환영합니다"
 tags: "마사키 正木 こげコロッケ 코게코로케 이벤트_c80 시리어스_진지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/335/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/335/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

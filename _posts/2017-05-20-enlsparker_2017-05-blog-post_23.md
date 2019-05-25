@@ -1,7 +1,7 @@
 ---
 title: "제비꽃은 푸른색"
 tags: "동인지 poprication"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_23/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-05-blog-post_23/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4760350110797205223" itemprop="description articleBody">

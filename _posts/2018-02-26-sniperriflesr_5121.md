@@ -1,7 +1,7 @@
 ---
 title: "요리가미 로지스틱스"
 tags: "じぜる 지제루 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5121/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5121/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

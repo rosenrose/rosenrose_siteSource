@@ -1,7 +1,7 @@
 ---
 title: "모리야랑 야쿠모랑 코메이지랑"
 tags: "동인지 happy_flame_time"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_62/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-07-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3602345053492936445" itemprop="description articleBody">

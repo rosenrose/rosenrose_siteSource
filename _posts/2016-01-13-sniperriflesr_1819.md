@@ -1,7 +1,7 @@
 ---
 title: "이쪽을 봐줬으면 좋겠다구"
 tags: "柳月湊 時間屋 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_모토오리_코스즈 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 이벤트_c88 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1819/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1819/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

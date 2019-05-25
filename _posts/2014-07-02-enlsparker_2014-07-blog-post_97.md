@@ -1,7 +1,7 @@
 ---
 title: "나의 영원에 미치도록 피어라 우담홧 - 약사 에-링의 무모편"
 tags: "동인지 astronomy"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_97/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-07-blog-post_97/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-179320548988126178" itemprop="description articleBody">

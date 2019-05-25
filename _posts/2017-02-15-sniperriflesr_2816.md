@@ -1,7 +1,7 @@
 ---
 title: "코메이지 사토리의 통판생활"
 tags: "ここやし 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_키리사메_마리사 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 짤_시리즈"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2816/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2816/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

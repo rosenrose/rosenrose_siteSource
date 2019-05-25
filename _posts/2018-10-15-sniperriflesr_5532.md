@@ -1,7 +1,7 @@
 ---
 title: "귀여운 지장보살"
 tags: "캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5532/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5532/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

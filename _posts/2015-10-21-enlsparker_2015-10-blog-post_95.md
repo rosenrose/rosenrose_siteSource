@@ -1,7 +1,7 @@
 ---
 title: "코마치 심심수첩"
 tags: "동인지 万里の少女"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_95/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-10-blog-post_95/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3182203902036419569" itemprop="description articleBody">

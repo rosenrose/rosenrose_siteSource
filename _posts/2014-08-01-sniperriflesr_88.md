@@ -1,7 +1,7 @@
 ---
 title: "~봉래인을 사이좋게 대작전~"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_치르노 캐릭터_대요정 캐릭터_모리야_스와코 캐릭터_야사카_카나코 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/88/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/88/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "그리고 녀석들도 찾아온다"
 tags: "동인지 さやかた紅茶館"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_26/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5447955075433821026" itemprop="description articleBody">

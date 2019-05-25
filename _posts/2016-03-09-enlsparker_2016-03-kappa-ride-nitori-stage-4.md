@@ -1,7 +1,7 @@
 ---
 title: "KAPPA RIDE NITORI - STAGE 4"
 tags: "동인지 fp_works"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-03-kappa-ride-nitori-stage-4/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-03-kappa-ride-nitori-stage-4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2114154934686556297" itemprop="description articleBody">

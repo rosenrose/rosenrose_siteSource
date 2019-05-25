@@ -1,7 +1,7 @@
 ---
 title: "너에게 어울리는 장난감"
 tags: "シロサト 캐릭터_키진_세이자 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/888/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/888/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

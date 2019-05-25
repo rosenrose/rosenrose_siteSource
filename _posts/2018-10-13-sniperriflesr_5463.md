@@ -1,7 +1,7 @@
 ---
 title: "금붕어 낚시"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_키리사메_마리사 캐릭터_써니_밀크 캐릭터_스타_사파이어 캐릭터_세키반키 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5463/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5463/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

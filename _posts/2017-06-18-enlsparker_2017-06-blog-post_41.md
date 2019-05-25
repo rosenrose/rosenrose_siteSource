@@ -1,7 +1,7 @@
 ---
 title: "아름답게 붉은 트릭 오어 트릿!!"
 tags: "동인지 粟米湯"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2017-06-blog-post_41/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-06-blog-post_41/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8876567237647352923" itemprop="description articleBody">

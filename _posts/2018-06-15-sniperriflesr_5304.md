@@ -1,7 +1,7 @@
 ---
 title: "메이플랑 문지기"
 tags: "しぐま @signalmass signalmass 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5304/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5304/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

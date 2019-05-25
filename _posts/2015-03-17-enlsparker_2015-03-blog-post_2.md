@@ -1,7 +1,7 @@
 ---
 title: "그녀의 유실물"
 tags: "동인지 ふあん亭"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_2/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-03-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-850794512352864610" itemprop="description articleBody">

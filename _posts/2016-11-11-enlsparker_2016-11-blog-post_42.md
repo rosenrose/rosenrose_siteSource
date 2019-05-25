@@ -1,7 +1,7 @@
 ---
 title: "용살"
 tags: "동인지 薬味さらい"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_42/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-11-blog-post_42/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3415538158068565717" itemprop="description articleBody">

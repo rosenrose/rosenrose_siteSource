@@ -1,7 +1,7 @@
 ---
 title: "코이시의 남자친구에게 최악의 접근을 하는 언니와 그 후."
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5543/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5543/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

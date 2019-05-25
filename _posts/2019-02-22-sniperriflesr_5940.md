@@ -1,7 +1,7 @@
 ---
 title: "서당에서 수학 가르치는 란"
 tags: "ㅋㄷㅇㅇ 49．175 @wannabekb 캐릭터_야쿠모_란 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5940/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5940/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="text-align: center;"><br/></b></p>

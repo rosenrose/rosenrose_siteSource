@@ -1,7 +1,7 @@
 ---
 title: "도는 세상과 너와 너"
 tags: "동인지 時間屋"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-05-blog-post_55/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-05-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3632668211617752893" itemprop="description articleBody">

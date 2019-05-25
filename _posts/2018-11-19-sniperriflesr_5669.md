@@ -1,7 +1,7 @@
 ---
 title: "성묘하는 마리사"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_키리사메_마리사 캐릭터_미마 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5669/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5669/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

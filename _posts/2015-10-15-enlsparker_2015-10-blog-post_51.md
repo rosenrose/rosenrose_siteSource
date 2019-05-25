@@ -1,7 +1,7 @@
 ---
 title: "멋진 환상을 꾼듯한 기분"
 tags: "기타동인지 黒蛛白蛛"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_51/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-10-blog-post_51/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5296076040526438425" itemprop="description articleBody">

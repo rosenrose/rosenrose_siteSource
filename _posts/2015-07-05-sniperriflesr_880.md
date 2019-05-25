@@ -1,7 +1,7 @@
 ---
 title: "이런 오링쿠가 좋아"
 tags: "미샤 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/880/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/880/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

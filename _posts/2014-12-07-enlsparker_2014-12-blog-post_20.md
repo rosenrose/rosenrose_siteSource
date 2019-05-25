@@ -1,7 +1,7 @@
 ---
 title: "여기저기"
 tags: "동인지 イヌーピーの犬小屋"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_20/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-12-blog-post_20/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8104329244672377836" itemprop="description articleBody">

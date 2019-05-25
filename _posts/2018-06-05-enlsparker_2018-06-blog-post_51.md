@@ -1,7 +1,7 @@
 ---
 title: "먼 피안의 상사화"
 tags: "기타동인지 なゆこや"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_51/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-06-blog-post_51/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7620935802461146816" itemprop="description articleBody">

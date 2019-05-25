@@ -1,7 +1,7 @@
 ---
 title: "도레미라이딩하는 사구메쟝"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_도레미_스위트 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5761/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5761/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "NON STOP NON STRAP"
 tags: "기타동인지 びいどろぼっくす"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-02-non-stop-non-strap/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-02-non-stop-non-strap/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2405088810865206180" itemprop="description articleBody">

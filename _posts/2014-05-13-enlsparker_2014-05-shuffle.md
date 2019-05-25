@@ -1,7 +1,7 @@
 ---
 title: "SHUFFLE"
 tags: "기타동인지 cube_sugar"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-05-shuffle/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-05-shuffle/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5089156348674074812" itemprop="description articleBody">

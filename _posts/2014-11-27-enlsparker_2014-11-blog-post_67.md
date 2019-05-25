@@ -1,7 +1,7 @@
 ---
 title: "동방소극장 - 아직 좀 더! 메이링씨。"
 tags: "동인지 わいるどらびっつ"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_67/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-11-blog-post_67/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7879746415046798195" itemprop="description articleBody">

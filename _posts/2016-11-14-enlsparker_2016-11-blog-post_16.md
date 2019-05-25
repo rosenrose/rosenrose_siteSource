@@ -1,7 +1,7 @@
 ---
 title: "네타가 없으니 사나에씨를 질문공격 해보기 테스트"
 tags: "동인지 gp-kids"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_16/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-11-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2999593303943831015" itemprop="description articleBody">

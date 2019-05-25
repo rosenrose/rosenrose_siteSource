@@ -1,7 +1,7 @@
 ---
 title: "뜬소문에 의한 피해"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_코메이지_코이시 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2595/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2595/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

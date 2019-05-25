@@ -1,7 +1,7 @@
 ---
 title: "뒤집기 어택"
 tags: "기타동인지 ポッポバクハツ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_52/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-07-blog-post_52/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5291298149289177478" itemprop="description articleBody">

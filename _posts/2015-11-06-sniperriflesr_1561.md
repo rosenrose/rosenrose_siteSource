@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 30"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_모리치카_린노스케 캐릭터_야고코로_에이린 울지않아_파르시쨩!"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1561/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1561/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

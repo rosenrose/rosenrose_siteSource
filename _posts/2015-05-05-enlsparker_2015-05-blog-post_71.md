@@ -1,7 +1,7 @@
 ---
 title: "판타즈마고리아 밥"
 tags: "기타동인지 ジギザギ"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_71/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-05-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5356870088789975382" itemprop="description articleBody">

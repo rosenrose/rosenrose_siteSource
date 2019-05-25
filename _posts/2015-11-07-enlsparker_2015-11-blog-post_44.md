@@ -1,7 +1,7 @@
 ---
 title: "부엌의 작은 전쟁"
 tags: "泥舟海運 동인지 海運"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_44/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-11-blog-post_44/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1450897462078461965" itemprop="description articleBody">

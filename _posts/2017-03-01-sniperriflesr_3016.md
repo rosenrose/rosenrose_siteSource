@@ -1,7 +1,7 @@
 ---
 title: "인기도 MAX"
 tags: "えろ豆 에로마메 ころもにゅ 코로모뉴 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3016/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3016/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "그릇 그리고 사랑"
 tags: "기타동인지 カリスマサーブ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_0/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-11-blog-post_0/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3010401790450901876" itemprop="description articleBody">

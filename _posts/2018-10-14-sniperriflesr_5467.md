@@ -1,7 +1,7 @@
 ---
 title: "하이텐션 쿄코쨩"
 tags: "鯨井みなと @kujiraxminato 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5467/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5467/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

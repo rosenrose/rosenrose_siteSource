@@ -1,7 +1,7 @@
 ---
 title: "기습 카운터"
 tags: "futa なべぞこ 나베조코 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2154/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2154/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

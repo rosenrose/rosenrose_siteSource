@@ -1,7 +1,7 @@
 ---
 title: "사욕 디자이어 카니발!!"
 tags: "마사키 正木 秋★技 아키에다 히라후미 ひらふみ 타키타로 こげホットドック燃料★leこげコロッケ 코게코로케 ロケット燃料★21 ホットドックチャック 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 캐릭터_하쿠레이_레이무 캐릭터_콘파쿠_요우무 캐릭터_키리사메_마리사 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 캐릭터_사이교우지_유유코 캐릭터_코치야_사나에 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 합동_4서클_이상"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/89/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/89/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

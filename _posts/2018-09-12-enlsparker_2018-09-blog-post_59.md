@@ -1,7 +1,7 @@
 ---
 title: "가라앉는 독"
 tags: "동인지 personal_color"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-09-blog-post_59/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-09-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3345287558123941377" itemprop="description articleBody">

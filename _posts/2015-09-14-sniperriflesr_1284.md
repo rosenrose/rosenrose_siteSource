@@ -1,7 +1,7 @@
 ---
 title: "뭡니까 대체..."
 tags: "けぬー ちりわぁく 캐릭터_히나나위_텐시 캐릭터_나가에_이쿠 캐릭터_무게츠 캐릭터_겐게츠 캐릭터_신키 캐릭터_앨리스_마가트로이드 캐릭터_유메코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_카자미_유카 이벤트_紅楼夢_10 이벤트_홍루몽 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1284/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1284/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

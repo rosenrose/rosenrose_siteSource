@@ -1,7 +1,7 @@
 ---
 title: "동방상실기담"
 tags: "기타동인지 萌少女領域"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_62/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-03-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8484024128393347897" itemprop="description articleBody">

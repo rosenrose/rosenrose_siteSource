@@ -1,7 +1,7 @@
 ---
 title: "신부의 상처입은 표정연습 - 치르노"
 tags: "お茶漬け 캐릭터_치르노 이메레스"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2825/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2825/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "곤혹의 섀도우 울프"
 tags: "동인지 rainbow_vanilla"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_60/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-10-blog-post_60/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-561141101674828206" itemprop="description articleBody">

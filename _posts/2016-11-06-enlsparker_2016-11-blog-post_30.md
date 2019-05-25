@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 후카자레노센"
 tags: "동인지 青"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_30/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-11-blog-post_30/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1600524510295448154" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "네가 다니는 장소는 기억하고 있어 / 시치미 떼는 얼굴로 말해버렸다아"
 tags: "ヒサン 캐릭터_도레미_스위트 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1795/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1795/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

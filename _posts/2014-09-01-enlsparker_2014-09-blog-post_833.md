@@ -1,7 +1,7 @@
 ---
 title: "하늘에 부는 바람"
 tags: "동인지 ukiukiwatching"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_833/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_833/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3474457960959375940" itemprop="description articleBody">

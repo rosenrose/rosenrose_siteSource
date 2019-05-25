@@ -1,7 +1,7 @@
 ---
 title: "비맞고 홍마관을 찾아온 코이시"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2257/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2257/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

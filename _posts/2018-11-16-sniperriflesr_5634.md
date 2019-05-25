@@ -1,7 +1,7 @@
 ---
 title: "마을 남자들로부터 둘러싸여 술 권해지는 레이무"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5634/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5634/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

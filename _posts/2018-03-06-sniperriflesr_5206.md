@@ -1,7 +1,7 @@
 ---
 title: "마리사 쨩에게 동자옷을 입히는 만화"
 tags: "鮫かまぼこ @samekamanew 月鮫工房 캐릭터_마타라_오키나 캐릭터_테이레이다_마이 캐릭터_니시다_사토노 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5206/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5206/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

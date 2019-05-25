@@ -1,7 +1,7 @@
 ---
 title: "메이드 카게로 짱의 이상과 현실"
 tags: "マメデンチ @mamedenchi 人力発電所 캐릭터_이마이즈미_카케로 캐릭터_세키반키 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5276/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5276/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

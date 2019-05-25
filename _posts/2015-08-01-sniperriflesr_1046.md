@@ -1,7 +1,7 @@
 ---
 title: "호족난무 aLive"
 tags: "北斗 북두 サイチル 사이칠 사이치루 캐릭터_소가노_토지코 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 캐릭터_야쿠모_유카리 캐릭터_이부키_스이카 이벤트_c81 약"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1046/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1046/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

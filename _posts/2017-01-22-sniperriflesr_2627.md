@@ -1,7 +1,7 @@
 ---
 title: "벌써 봄이지만 그런건 관계 없는 동방 만화 49"
 tags: "しお 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2627/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2627/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

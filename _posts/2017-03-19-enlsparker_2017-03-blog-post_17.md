@@ -1,7 +1,7 @@
 ---
 title: "동방소극장 오니오니 스이카"
 tags: "동인지 わいるどらびっつ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2017-03-blog-post_17/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-03-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8454512373668130438" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "동방삐죽 복슬복슬"
 tags: "기타동인지 煎餅屋 もふもふ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_0/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-11-blog-post_0/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7198482123239613995" itemprop="description articleBody">

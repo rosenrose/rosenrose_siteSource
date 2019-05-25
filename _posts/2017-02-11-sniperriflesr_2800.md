@@ -1,7 +1,7 @@
 ---
 title: "절분 - 코마에키 [ 2012 ]"
 tags: "きつね丸 葉々庵 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2800/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2800/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

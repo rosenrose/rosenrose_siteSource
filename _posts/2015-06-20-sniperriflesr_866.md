@@ -1,7 +1,7 @@
 ---
 title: "풍선은 정말 위험한 물건이었다."
 tags: "6 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/866/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/866/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

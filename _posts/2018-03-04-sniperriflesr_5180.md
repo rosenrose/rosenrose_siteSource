@@ -1,7 +1,7 @@
 ---
 title: "코가사씨에 놀랐을 때 공교롭게도"
 tags: "緑肉 @midori_niku しもふりグリーンミート 캐릭터_타타라_코가사 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5180/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5180/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

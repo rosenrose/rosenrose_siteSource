@@ -1,7 +1,7 @@
 ---
 title: "화이팅!"
 tags: "アリヌ @arinutan やきいもアリヌ 캐릭터_코마노_아운 캐릭터_아운 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5322/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5322/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><span style="font-size: 9pt;"></span><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "순수한 욧짱"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2654/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2654/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 스테키토"
 tags: "동인지 青"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post_638/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-04-blog-post_638/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4421493693784407776" itemprop="description articleBody">

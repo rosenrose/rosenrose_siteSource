@@ -1,7 +1,7 @@
 ---
 title: "노골적인 어필"
 tags: "futa なべぞこ 나베조코 캐릭터_후타츠이와_마미조 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2645/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2645/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "네코 레이무 x 유카"
 tags: "こむおー きばつなおむこ 캐릭터_하쿠레이_레이무 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/3255/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3255/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

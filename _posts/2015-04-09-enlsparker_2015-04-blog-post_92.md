@@ -1,7 +1,7 @@
 ---
 title: "시적아록"
 tags: "동인지 並々食堂"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_92/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-04-blog-post_92/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1107106938192035330" itemprop="description articleBody">

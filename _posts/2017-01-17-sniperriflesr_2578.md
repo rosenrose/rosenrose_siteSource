@@ -1,7 +1,7 @@
 ---
 title: "병든 마음 스위치"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_이나바_테위 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2578/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2578/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

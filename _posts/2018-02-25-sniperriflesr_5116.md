@@ -1,7 +1,7 @@
 ---
 title: "자라나지 않는 동생"
 tags: "ぽて 포테 @ptkankodori 閑古鳥茶園 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5116/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5116/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

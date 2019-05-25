@@ -1,7 +1,7 @@
 ---
 title: "여름 날 사랑의 불꽃놀이"
 tags: "동인지 天災族"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-10-blog-post_23/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-10-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-899747058912940024" itemprop="description articleBody">

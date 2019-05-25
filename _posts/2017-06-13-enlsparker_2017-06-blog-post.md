@@ -1,7 +1,7 @@
 ---
 title: "앗큐쨩의 구문면담"
 tags: "동인지 public_planet"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2017-06-blog-post/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-06-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2113147856992249924" itemprop="description articleBody">

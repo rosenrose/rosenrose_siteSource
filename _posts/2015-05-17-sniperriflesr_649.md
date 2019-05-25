@@ -1,7 +1,7 @@
 ---
 title: "하트풀 오마케 만화"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/649/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/649/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

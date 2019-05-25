@@ -1,7 +1,7 @@
 ---
 title: "유카란 힘내봅시다"
 tags: "ゆかたろ 유카타로 その他大勢 소노타_오오제이 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 이벤트_예대제_7 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/282/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/282/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "두근두근 홍마관"
 tags: "합동인지 ふあん亭"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_6/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-05-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5700444958272218033" itemprop="description articleBody">

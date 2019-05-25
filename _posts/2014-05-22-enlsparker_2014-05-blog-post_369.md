@@ -1,7 +1,7 @@
 ---
 title: "음침한 숲의 요정과 음침한 숲의 인형사"
 tags: "동인지 ヤゴの穴"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_369/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-blog-post_369/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3714604815893821868" itemprop="description articleBody">

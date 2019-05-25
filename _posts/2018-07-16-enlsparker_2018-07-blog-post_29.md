@@ -1,7 +1,7 @@
 ---
 title: "모코랑!! 지령전"
 tags: "1569 동인지"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_29/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-07-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5935644109923505305" itemprop="description articleBody">

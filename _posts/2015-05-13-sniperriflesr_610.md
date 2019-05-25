@@ -1,7 +1,7 @@
 ---
 title: "삼 더하기 일 + 니토리"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_카와시로_니토리 삼_더하기_일"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/610/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/610/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

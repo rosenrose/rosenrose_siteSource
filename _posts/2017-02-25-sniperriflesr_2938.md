@@ -1,7 +1,7 @@
 ---
 title: "동방이 오와콘이 되어버린 만화"
 tags: "륜 캐릭터_앨리스_마가트로이드 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 캐릭터_츠쿠모_벤벤 캐릭터_츠쿠모_야츠하시 캐릭터_미즈하시_파르시 캐릭터_키리사메_마리사 캐릭터_쿠모이_이치린 캐릭터_하쿠레이_레이무 캐릭터_레밀리아_스칼렛 캐릭터_야쿠모_유카리 약"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2938/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2938/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

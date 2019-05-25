@@ -1,7 +1,7 @@
 ---
 title: "천사의 부탁"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_모노노베노_후토 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2036/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2036/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

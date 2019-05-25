@@ -1,7 +1,7 @@
 ---
 title: "틈새"
 tags: "会帆 十誤一会 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_하쿠레이_레이무 이벤트_c86 시리어스_진지"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/927/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/927/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "내 맘대로 일본 문화"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_호라이산_카구야 이벤트_c83 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/3429/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3429/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

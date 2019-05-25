@@ -1,7 +1,7 @@
 ---
 title: "변신의 이치"
 tags: "동인지 色は匂えど"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_457/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_457/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3615890394292588051" itemprop="description articleBody">

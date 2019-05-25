@@ -1,7 +1,7 @@
 ---
 title: "침상미혹"
 tags: "동인지 疲労熊"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_26/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-01-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4647181674635787949" itemprop="description articleBody">

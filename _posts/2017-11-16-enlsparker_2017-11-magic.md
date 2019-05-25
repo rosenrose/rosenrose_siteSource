@@ -1,7 +1,7 @@
 ---
 title: "흑색 Magic"
 tags: "동인지 有機化合物"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2017-11-magic/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-11-magic/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3474769013991655867" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "꿈의 지배자"
 tags: "ベル助 ベルの巣 캐릭터_도레미_스위트 캐릭터_레이센_우동게인_이나바 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/1824/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1824/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

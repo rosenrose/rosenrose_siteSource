@@ -1,7 +1,7 @@
 ---
 title: "카케로 짱과 점점 친해진다"
 tags: "夜霧 よぎり @mofumisutin 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5310/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5310/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

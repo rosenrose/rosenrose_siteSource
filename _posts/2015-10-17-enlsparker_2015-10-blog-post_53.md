@@ -1,7 +1,7 @@
 ---
 title: "여관에서도!! 구웠어요 유카씨"
 tags: "동인지 柚子桃ジャム"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_53/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-10-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5980314072709151966" itemprop="description articleBody">

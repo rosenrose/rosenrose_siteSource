@@ -1,7 +1,7 @@
 ---
 title: "동방 소극장 - 산뜻한 메이링씨"
 tags: "동인지 わいるどらびっつ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-01-blog-post_29/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-01-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7009658237036143326" itemprop="description articleBody">

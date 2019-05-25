@@ -1,7 +1,7 @@
 ---
 title: "사토에이 콤플렉스"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 이벤트_地底の読心裁判_-上告- 이벤트_ちていのどくしんさいばん 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/752/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/752/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

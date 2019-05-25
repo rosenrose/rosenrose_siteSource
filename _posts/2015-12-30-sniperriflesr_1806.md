@@ -1,7 +1,7 @@
 ---
 title: "아날로그지만 사구메쨩 그리는 법"
 tags: "唖秋 캐릭터_키신_사구메 캐릭터_도레미_스위트 [번역]_짤"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1806/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1806/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

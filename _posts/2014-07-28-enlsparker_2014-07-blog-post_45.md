@@ -1,7 +1,7 @@
 ---
 title: "꼬꼬마 사나에의 책, 여름"
 tags: "동인지 gp-kids"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_45/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-blog-post_45/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7838687061791086965" itemprop="description articleBody">

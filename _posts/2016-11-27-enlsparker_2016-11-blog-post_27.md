@@ -1,7 +1,7 @@
 ---
 title: "브라이트 사이드 오브 더 문"
 tags: "동인지 お前らの愛で字数制限超えた"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_27/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-11-blog-post_27/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3605513674162842218" itemprop="description articleBody">

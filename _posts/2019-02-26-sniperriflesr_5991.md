@@ -1,7 +1,7 @@
 ---
 title: "드림 코너"
 tags: "しお @shioshio1600 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5991/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5991/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

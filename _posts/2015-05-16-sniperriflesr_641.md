@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 홍 메이링"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 반역의_세이자"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/641/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/641/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

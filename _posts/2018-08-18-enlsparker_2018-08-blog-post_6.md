@@ -1,7 +1,7 @@
 ---
 title: "포 컬러즈 포 프레임즈"
 tags: "기타동인지 じぜる"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2018-08-blog-post_6/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-08-blog-post_6/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4921650695888944744" itemprop="description articleBody">

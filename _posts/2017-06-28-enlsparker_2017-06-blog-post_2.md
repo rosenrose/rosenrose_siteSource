@@ -1,7 +1,7 @@
 ---
 title: "혈기왕성한 주정뱅이 소녀들"
 tags: "동인지 ギロチン銀座"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-06-blog-post_2/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-06-blog-post_2/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1846623783934273343" itemprop="description articleBody">

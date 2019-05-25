@@ -1,7 +1,7 @@
 ---
 title: "루미아와 루미아군"
 tags: "お茶 캐릭터_루미아 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/3008/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3008/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "사구메씨가 사나에씨에게 엄청 화낼 뿐인 만화"
 tags: "タイラント うひい 캐릭터_코치야_사나에 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1792/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1792/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "SWEET and GENTLE"
 tags: "동인지 gp-kids"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-02-sweet-and-gentle/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-02-sweet-and-gentle/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3279138015923190374" itemprop="description articleBody">

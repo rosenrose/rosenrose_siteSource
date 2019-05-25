@@ -1,7 +1,7 @@
 ---
 title: "그 페이지를 넘어서"
 tags: "동인지 personal_color"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_26/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-06-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-744489420784475083" itemprop="description articleBody">

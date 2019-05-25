@@ -1,7 +1,7 @@
 ---
 title: "가을 풀버전 샘플"
 tags: "千羽チドリ よりどりチドリ 캐릭터_아키_시즈하 캐릭터_아키_미노리코 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2854/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2854/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

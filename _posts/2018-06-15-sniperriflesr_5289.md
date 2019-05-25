@@ -1,7 +1,7 @@
 ---
 title: "사구메와의 데이트에서 무심코 모자를 잊은 도레미 씨"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_도레미_스위트 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5289/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5289/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>

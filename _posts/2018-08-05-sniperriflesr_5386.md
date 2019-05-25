@@ -1,7 +1,7 @@
 ---
 title: "진심으로 \"기분 나빠\"라고 말해줘"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5386/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5386/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

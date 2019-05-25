@@ -1,7 +1,7 @@
 ---
 title: "나는 문지기로소이다"
 tags: "동인지 visionnerz"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_891/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_891/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9021725409143616553" itemprop="description articleBody">

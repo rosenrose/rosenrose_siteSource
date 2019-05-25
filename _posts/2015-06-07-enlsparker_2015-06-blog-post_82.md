@@ -1,7 +1,7 @@
 ---
 title: "울고 있는 마리사를 껴안고 싶다"
 tags: "동인지 カスタムサイズ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_82/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-06-blog-post_82/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7752316198128714849" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "머리 쓰다듬기"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_키신_사구메 캐릭터_도레미_스위트 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1979/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1979/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

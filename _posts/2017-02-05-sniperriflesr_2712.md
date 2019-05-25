@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 20"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_루미아 캐릭터_치르노 캐릭터_미스티아_로렐라이 캐릭터_오노즈카_코마치 캐릭터_이나바_테위 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_야쿠모_란 바이오_놀이"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2712/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2712/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

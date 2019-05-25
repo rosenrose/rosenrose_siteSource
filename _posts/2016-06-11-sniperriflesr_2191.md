@@ -1,7 +1,7 @@
 ---
 title: "좋아하는 이성 타입은? ※라스트 보스편1~3"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2191/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2191/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

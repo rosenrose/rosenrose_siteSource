@@ -1,7 +1,7 @@
 ---
 title: "가슴을 기대로 가득 채워라!!"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 캐릭터_카와시로_니토리 캐릭터_토요사토미미노_미코 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1124/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1124/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

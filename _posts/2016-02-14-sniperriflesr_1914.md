@@ -1,7 +1,7 @@
 ---
 title: "요리히메 사구메 만화"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_키신_사구메 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1914/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1914/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

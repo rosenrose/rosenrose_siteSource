@@ -1,7 +1,7 @@
 ---
 title: "하트 볼 포토그래프"
 tags: "동인지 airdrop"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2017-08-blog-post_63/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-08-blog-post_63/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-393712317222663468" itemprop="description articleBody">

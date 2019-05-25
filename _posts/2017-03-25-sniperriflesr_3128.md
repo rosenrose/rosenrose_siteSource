@@ -1,7 +1,7 @@
 ---
 title: "서당의 성(性)사정"
 tags: "ナイスタック 나이스택 캐릭터_후지와라노_모코우 짤／1컷만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3128/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3128/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

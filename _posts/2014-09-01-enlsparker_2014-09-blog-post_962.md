@@ -1,7 +1,7 @@
 ---
 title: "하늘을 나는 마리앨리파"
 tags: "동인지 羊箱"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_962/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_962/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8970414192433824564" itemprop="description articleBody">

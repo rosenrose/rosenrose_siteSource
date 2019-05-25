@@ -1,7 +1,7 @@
 ---
 title: "접근방법이 특이하고 순수한 순호"
 tags: "みずうみ 캐릭터_레이센_우동게인_이나바 캐릭터_순호 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2778/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2778/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

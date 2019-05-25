@@ -1,7 +1,7 @@
 ---
 title: "꿈과 현실의 행방불명 - 첫번째 밤"
 tags: "1569 동인지"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2015-06-blog-post_81/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-06-blog-post_81/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6206492466376475819" itemprop="description articleBody">

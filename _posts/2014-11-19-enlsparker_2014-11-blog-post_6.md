@@ -1,7 +1,7 @@
 ---
 title: "사쿠사쿠팬더"
 tags: "동인지 angel_type"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_6/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-11-blog-post_6/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3703002350695478321" itemprop="description articleBody">

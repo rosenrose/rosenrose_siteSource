@@ -1,7 +1,7 @@
 ---
 title: "Three Fairies ~ Little Stone Heart"
 tags: "동인지 くらっしゅハウス"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-10-three-fairies-little-stone-heart/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-10-three-fairies-little-stone-heart/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4689852549708096408" itemprop="description articleBody">

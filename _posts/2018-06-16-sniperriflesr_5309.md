@@ -1,7 +1,7 @@
 ---
 title: "인간과의 대화에 익숙해지기 위해 보육 선생님을 하게 된 이마이즈미 카케로 선생님"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5309/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5309/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

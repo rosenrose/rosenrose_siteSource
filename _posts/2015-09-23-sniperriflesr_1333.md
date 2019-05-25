@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 21"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_코치야_사나에 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 울지않아_파르시쨩!"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1333/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1333/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

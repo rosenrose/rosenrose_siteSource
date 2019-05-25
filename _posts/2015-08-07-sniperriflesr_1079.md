@@ -1,7 +1,7 @@
 ---
 title: "스플릿 · 더 · 레밀리아"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1079/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1079/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

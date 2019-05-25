@@ -17,9 +17,9 @@ imgserver6: "https://d227u6es37tepu.cloudfront.net"
 imgserver7: "https://d396uhqh54mlcz.cloudfront.net"
 imgserver8: "https://d1quptcelcb84e.cloudfront.net"
 imgserver9: "https://d1l1ue9r5wvfs2.cloudfront.net"
-imgserver10: "https://rosentemplerdaum.s3.amazonaws.com/doujin"
-imgserver11: "https://rosentemplerhanmail.s3.amazonaws.com/doujin"
-imgserver12: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin"
+imgserver10: "https://d1xbsow2hxcyjr.cloudfront.net"
+imgserver11: "https://d2wmzxqert2xsk.cloudfront.net"
+imgserver12: "https://d2qlf8dy658u2n.cloudfront.net"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"

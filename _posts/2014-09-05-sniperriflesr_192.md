@@ -1,7 +1,7 @@
 ---
 title: "자켓가이"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야사카_카나코 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_야쿠모_유카리 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_샤메이마루_아야 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_미야코_요시카 이벤트_c82 약"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/192/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/192/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

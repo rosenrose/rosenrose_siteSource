@@ -1,7 +1,7 @@
 ---
 title: "꾸욱 눌러서 투쾅-"
 tags: "동인지 angel_type"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_981/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-02-blog-post_981/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2286615118936668617" itemprop="description articleBody">

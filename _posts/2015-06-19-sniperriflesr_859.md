@@ -1,7 +1,7 @@
 ---
 title: "소녀틱한 모코를 그려보고 싶었다"
 tags: "茶柱御膳てりー 茶柱御膳 캐릭터_레이센_우동게인_이나바 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_히나나위_텐시 약"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/859/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/859/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

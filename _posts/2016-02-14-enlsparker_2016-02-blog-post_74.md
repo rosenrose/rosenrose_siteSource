@@ -1,7 +1,7 @@
 ---
 title: "화서의 사랑"
 tags: "동인지 万里の少女"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_74/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-02-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4866938522710183782" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "가끔은 이나바와 옛날 이야기를"
 tags: "동인지 つるべじ。"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_51/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-03-blog-post_51/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5516751186612812715" itemprop="description articleBody">

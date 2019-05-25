@@ -1,7 +1,7 @@
 ---
 title: "착한 아이의 인생게임"
 tags: "ひちこ ヒトマチコ 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_카자미_유카 캐릭터_리글_나이트버그 캐릭터_세키반키 캐릭터_치르노 캐릭터_루미아 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_미스티아_로렐라이 이벤트_科学世紀のカフェテラス_4回 시리어스_밝음"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2535/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2535/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

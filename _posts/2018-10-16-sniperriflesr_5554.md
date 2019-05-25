@@ -1,7 +1,7 @@
 ---
 title: "비봉클럽은 오늘도 평상운전"
 tags: "tog． @flexible_b フレキシ_-flexi- 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5554/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5554/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

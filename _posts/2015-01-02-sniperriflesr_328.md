@@ -1,7 +1,7 @@
 ---
 title: "기나긴 밤 , 한순간의 휴식"
 tags: "마사키 正木 こげコロッケ 코게코로케 이벤트_슈퍼코미17 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/328/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/328/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

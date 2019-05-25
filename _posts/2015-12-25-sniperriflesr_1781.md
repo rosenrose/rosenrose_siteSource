@@ -1,7 +1,7 @@
 ---
 title: "해냈네 사구쨩!"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키신_사구메 [번역]_짤"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1781/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1781/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "천년여왕"
 tags: "동인지 demour402"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_53/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-08-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1321248161059117248" itemprop="description articleBody">

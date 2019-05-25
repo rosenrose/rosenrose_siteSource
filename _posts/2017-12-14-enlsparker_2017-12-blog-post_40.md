@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 란과 무한한 방"
 tags: "동인지 ニイ工房"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2017-12-blog-post_40/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-12-blog-post_40/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8709657364917618885" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "아야 괴롭히기"
 tags: "son sonと壱 캐릭터_샤메이마루_아야 캐릭터_이부키_스이카 캐릭터_레이우지_우츠호 캐릭터_하쿠레이_레이무 캐릭터_호시구마_유기 이벤트_ネオ例大祭8 이벤트_네오_예대제_8 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/817/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/817/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

@@ -1,7 +1,7 @@
 ---
 title: "괴키스!"
 tags: "동인지 ちはぐら"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_54/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-08-blog-post_54/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7353712738024705552" itemprop="description articleBody">

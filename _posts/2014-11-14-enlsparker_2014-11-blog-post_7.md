@@ -1,7 +1,7 @@
 ---
 title: "이바라키 카센을 괴롭히는 사람들"
 tags: "동인지 一酸化硫黄"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-11-blog-post_7/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-11-blog-post_7/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1178249921371718597" itemprop="description articleBody">

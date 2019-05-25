@@ -1,7 +1,7 @@
 ---
 title: "우동게의 참전을 테위가 알려주는 만화"
 tags: "ふーかでぃあ 후카디아 なるこれぷしー 나르콜렙시 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/599/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/599/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

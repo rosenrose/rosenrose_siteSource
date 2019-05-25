@@ -1,7 +1,7 @@
 ---
 title: "행운을 가져다주는 의식"
 tags: "우냐 うにゃ吉 @unyanai あんずの木 캐릭터_하쿠레이_레이무 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3097/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3097/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

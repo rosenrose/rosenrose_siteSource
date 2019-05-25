@@ -1,7 +1,7 @@
 ---
 title: "하지만 도망치지 못했다"
 tags: "ふあん亭 후앙정 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_키신_사구메 캐릭터_호라이산_카구야 캐릭터_와타츠키노_요리히메 캐릭터_세이란 캐릭터_링고 이벤트_c91 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/3125/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3125/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

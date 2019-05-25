@@ -1,7 +1,7 @@
 ---
 title: "파츄리의 상처받을 때 표정연습"
 tags: "げ_ぅ 캐릭터_파츄리_널릿지 이메레스"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2860/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2860/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

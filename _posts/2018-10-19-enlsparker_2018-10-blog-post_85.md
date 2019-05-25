@@ -1,7 +1,7 @@
 ---
 title: "네가 있다 내가 없다"
 tags: "동인지 倉橋書院"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_85/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-10-blog-post_85/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6736805805687319511" itemprop="description articleBody">

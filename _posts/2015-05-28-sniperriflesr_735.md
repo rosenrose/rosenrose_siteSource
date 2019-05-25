@@ -1,7 +1,7 @@
 ---
 title: "방황"
 tags: "滝太郎 타키타로 letra 캐릭터_카쿠_세이가 캐릭터_토요사토미미노_미코 캐릭터_하타노_코코로 캐릭터_쿠모이_이치린 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 이벤트_c86 시리어스_진지"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/735/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/735/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

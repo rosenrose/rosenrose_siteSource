@@ -1,7 +1,7 @@
 ---
 title: "동방앵견회권 / 겨울이 오니 봄은 머네"
 tags: "오다와라_하코네 オダワラハコネ 타가노_우이 高野うい vista_x_虚弱畑 캐릭터_나가에_이쿠 캐릭터_히나나위_텐시 캐릭터_이부키_스이카 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_홍_메이링 캐릭터_사이교우지_유유코 이벤트_例大祭7 합동-진지[밝음]"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/119/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/119/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

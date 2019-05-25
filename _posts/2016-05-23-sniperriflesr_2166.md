@@ -1,7 +1,7 @@
 ---
 title: "이마이즈미군"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2166/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2166/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "책의 숲으로는 돌아갈 수 없어"
 tags: "동인지 さくsaku亭"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_25/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6962097846100171585" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "월하의 공주"
 tags: "동인지 あみだ屑"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_71/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8537779078474590612" itemprop="description articleBody">

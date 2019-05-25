@@ -1,7 +1,7 @@
 ---
 title: "천생연분"
 tags: "미샤 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/878/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/878/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

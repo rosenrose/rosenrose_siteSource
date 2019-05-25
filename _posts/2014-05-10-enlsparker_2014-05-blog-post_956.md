@@ -1,7 +1,7 @@
 ---
 title: "칠색의 마스터 스파크"
 tags: "동인지 visionnerz"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_956/001.JPG"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-05-blog-post_956/001.JPG"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-567676168524391254" itemprop="description articleBody">

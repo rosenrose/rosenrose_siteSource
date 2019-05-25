@@ -1,7 +1,7 @@
 ---
 title: "Dress-up!? Make-up!?"
 tags: "동인지 gp-kids"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-06-dress-up-make-up/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-06-dress-up-make-up/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5575631601730102449" itemprop="description articleBody">

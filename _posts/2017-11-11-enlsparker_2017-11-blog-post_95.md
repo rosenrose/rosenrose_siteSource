@@ -1,7 +1,7 @@
 ---
 title: "에이린과 케이네의 이야기"
 tags: "동인지 あんずの木"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2017-11-blog-post_95/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-11-blog-post_95/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1828458802717622538" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 가슴 탄력을 확인해보았다"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2392/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2392/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

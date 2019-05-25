@@ -1,7 +1,7 @@
 ---
 title: "대나무는 푸르게 토끼는 하얗게"
 tags: "동인지 イスタンブール・ハイソックス"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_82/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-05-blog-post_82/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4444373311409170850" itemprop="description articleBody">

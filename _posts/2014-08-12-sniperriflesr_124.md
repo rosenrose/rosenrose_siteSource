@@ -1,7 +1,7 @@
 ---
 title: "raison d' etre [ 존재이유 ]"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_사이교우지_유유코 캐릭터_후지와라노_모코우 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 시리어스_진지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/124/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/124/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

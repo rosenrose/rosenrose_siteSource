@@ -1,7 +1,7 @@
 ---
 title: "우사미 스미레코, 취직하다!"
 tags: "동인지 ゆめのね。"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_82/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-01-blog-post_82/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5484676362484802333" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "조르는 사토리님"
 tags: "トゥーミ もちほっぺ 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2252/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2252/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

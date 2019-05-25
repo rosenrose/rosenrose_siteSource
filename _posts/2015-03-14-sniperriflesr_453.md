@@ -1,7 +1,7 @@
 ---
 title: "이문 홍마향 후편"
 tags: "flipflops 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_플랑드르_스칼렛 캐릭터_히에다노_아큐 이벤트_c73 시리어스_진지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/453/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/453/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

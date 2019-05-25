@@ -1,7 +1,7 @@
 ---
 title: "크레이지 레이무 - 2nd ASSULT"
 tags: "동인지 よつみわーくす"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-02-2nd-assult/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-02-2nd-assult/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5713632929177467832" itemprop="description articleBody">

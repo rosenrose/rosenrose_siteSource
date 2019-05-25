@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 33화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 요스즈메와_불사조"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3781/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3781/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "반응하기 곤란한 야고코로 농담"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_레이센_우동게인_이나바 캐릭터_키신_사구메 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2657/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2657/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

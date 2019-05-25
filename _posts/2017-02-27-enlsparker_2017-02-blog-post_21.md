@@ -1,7 +1,7 @@
 ---
 title: "바보와 감기"
 tags: "동인지 winter_scenery"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-02-blog-post_21/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-02-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6517886559319161027" itemprop="description articleBody">

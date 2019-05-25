@@ -1,7 +1,7 @@
 ---
 title: "씨뿌리기"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_토요사토미미노_미코 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2061/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2061/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

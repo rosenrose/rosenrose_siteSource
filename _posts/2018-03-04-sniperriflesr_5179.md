@@ -1,7 +1,7 @@
 ---
 title: "어떠한 악의조차없는 완벽한 사고로 우연히"
 tags: "緑肉 @midori_niku しもふりグリーンミート 캐릭터_쿠모이_이치린 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5179/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5179/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

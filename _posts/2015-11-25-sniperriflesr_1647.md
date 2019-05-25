@@ -1,7 +1,7 @@
 ---
 title: "사구메씨의 어떤 하루"
 tags: "こみずく 캐릭터_키신_사구메 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1647/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1647/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

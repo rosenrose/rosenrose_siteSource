@@ -1,7 +1,7 @@
 ---
 title: "새해의 환상향"
 tags: "동인지 くらっしゅハウス"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_18/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5825972885588750288" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "상냥한 무녀에게 주워져서"
 tags: "동인지 火鳥でできるもん!"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_41/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-08-blog-post_41/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3500626460583244353" itemprop="description articleBody">

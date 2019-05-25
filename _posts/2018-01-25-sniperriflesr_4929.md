@@ -1,7 +1,7 @@
 ---
 title: "지금 가장 기세가 있는 여자, 요리가미 죠온쨩"
 tags: "じる @jirufun じるランド 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/4929/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4929/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

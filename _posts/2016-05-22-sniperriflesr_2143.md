@@ -1,7 +1,7 @@
 ---
 title: "일어나길 기다리는 오쿠양"
 tags: "ワイテイ 캐릭터_레이우지_우츠호 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2143/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2143/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

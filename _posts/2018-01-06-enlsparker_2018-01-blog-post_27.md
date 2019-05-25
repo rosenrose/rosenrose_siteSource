@@ -1,7 +1,7 @@
 ---
 title: "마지막 이야기"
 tags: "동인지 鳥取さばく帝国"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_27/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-01-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1069210204757630865" itemprop="description articleBody">

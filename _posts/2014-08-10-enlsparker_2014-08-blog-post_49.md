@@ -1,7 +1,7 @@
 ---
 title: "마호로바 인터정션"
 tags: "동인지 蒼空市場"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_49/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-08-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-689708691581796466" itemprop="description articleBody">

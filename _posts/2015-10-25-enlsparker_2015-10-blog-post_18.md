@@ -1,7 +1,7 @@
 ---
 title: "텐구의 변명"
 tags: "기타동인지 すずねいろ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_18/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-10-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4973661133370207537" itemprop="description articleBody">

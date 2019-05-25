@@ -1,7 +1,7 @@
 ---
 title: "Happy Happy days"
 tags: "동인지 ha_ra_ra"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-05-happy-happy-days/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-05-happy-happy-days/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1056191583605665881" itemprop="description articleBody">

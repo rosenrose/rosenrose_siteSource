@@ -1,7 +1,7 @@
 ---
 title: "좋을거라 생각해서"
 tags: "futa なべぞこ 나베조코 캐릭터_레이우지_우츠호 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2159/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2159/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

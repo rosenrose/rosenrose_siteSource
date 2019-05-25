@@ -1,7 +1,7 @@
 ---
 title: "연심 다크 스파크"
 tags: "동인지 ねこのさけごと"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_679/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_679/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-439937842663843951" itemprop="description articleBody">

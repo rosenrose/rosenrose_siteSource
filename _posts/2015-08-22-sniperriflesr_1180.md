@@ -1,7 +1,7 @@
 ---
 title: "사나에 인성수준 HIGH한 만화"
 tags: "ジェット虚無僧 제트코무소 캐릭터_모리야_스와코 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1180/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1180/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "키리사메식 강시건강법"
 tags: "동인지 赤色バニラ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2018-08-blog-post_28/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-08-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5682474098668763238" itemprop="description articleBody">

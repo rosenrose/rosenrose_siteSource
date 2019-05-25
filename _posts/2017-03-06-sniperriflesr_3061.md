@@ -1,7 +1,7 @@
 ---
 title: "자유를 손에 넣어라"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/3061/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3061/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

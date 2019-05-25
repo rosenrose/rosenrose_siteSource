@@ -1,7 +1,7 @@
 ---
 title: "따뜻한 독"
 tags: "えなみ教授 에나미교수 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_첸 캐릭터_이나바_테위 급식첸_만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2099/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2099/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

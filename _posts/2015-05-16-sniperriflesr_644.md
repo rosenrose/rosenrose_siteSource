@@ -1,7 +1,7 @@
 ---
 title: "장소는 구했지만 여러가지를 잃은 카케로우"
 tags: "ジェット虚無僧 제트_코무소 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/644/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/644/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

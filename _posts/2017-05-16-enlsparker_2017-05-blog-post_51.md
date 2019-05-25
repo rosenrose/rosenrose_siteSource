@@ -1,7 +1,7 @@
 ---
 title: "백수, 박사, 여고생"
 tags: "기타동인지 めそん的なアレ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_51/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-05-blog-post_51/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3685720771204577880" itemprop="description articleBody">

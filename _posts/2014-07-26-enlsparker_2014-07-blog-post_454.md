@@ -1,7 +1,7 @@
 ---
 title: "벌레공주 젤라또"
 tags: "동인지 ふすま喫茶"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-07-blog-post_454/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-07-blog-post_454/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6564804142908413541" itemprop="description articleBody">

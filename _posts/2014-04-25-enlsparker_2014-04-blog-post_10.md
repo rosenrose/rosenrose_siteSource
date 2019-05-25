@@ -1,7 +1,7 @@
 ---
 title: "죽지않아"
 tags: "동인지 みずたたき"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-04-blog-post_10/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-04-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-533288746674406557" itemprop="description articleBody">

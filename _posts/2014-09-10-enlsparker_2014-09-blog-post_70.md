@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 그리하여도"
 tags: "동인지 青"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_70/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_70/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-757534278446939112" itemprop="description articleBody">

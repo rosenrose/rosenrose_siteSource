@@ -1,7 +1,7 @@
 ---
 title: "고기의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_아키_미노리코 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2893/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2893/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

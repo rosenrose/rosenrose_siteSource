@@ -1,7 +1,7 @@
 ---
 title: "엇갈림 잭팟"
 tags: "동인지 蓮華座"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_80/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-11-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7597945233544399878" itemprop="description articleBody">

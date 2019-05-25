@@ -1,7 +1,7 @@
 ---
 title: "수면 부족인 하얀 토끼"
 tags: "동인지 あみだ屑"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_98/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-08-blog-post_98/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7408732647452278404" itemprop="description articleBody">

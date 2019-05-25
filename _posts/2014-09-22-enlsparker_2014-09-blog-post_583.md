@@ -1,7 +1,7 @@
 ---
 title: "치르노가 사과합니다"
 tags: "동인지 ぽんじゆうす？"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_583/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_583/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8963583348317236678" itemprop="description articleBody">

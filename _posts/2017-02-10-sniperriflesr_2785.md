@@ -1,7 +1,7 @@
 ---
 title: "음식은 상한게 맛있어요"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2785/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2785/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><b><br/></b></b></p>

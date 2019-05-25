@@ -1,7 +1,7 @@
 ---
 title: "Frandog"
 tags: "동인지 薬味さらい"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-12-frandog/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-12-frandog/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3753515606773534415" itemprop="description articleBody">

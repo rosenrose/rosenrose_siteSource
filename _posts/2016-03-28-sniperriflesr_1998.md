@@ -1,7 +1,7 @@
 ---
 title: "월면 다다미 넉장 반"
 tags: "じぜる 지제루 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_순호 캐릭터_레이센_우동게인_이나바 시리어스_밝음"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1998/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1998/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

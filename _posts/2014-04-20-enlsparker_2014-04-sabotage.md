@@ -1,7 +1,7 @@
 ---
 title: "SABOTAGE"
 tags: "동인지 ロケット燃料★21"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-04-sabotage/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-04-sabotage/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-74364609173961943" itemprop="description articleBody">

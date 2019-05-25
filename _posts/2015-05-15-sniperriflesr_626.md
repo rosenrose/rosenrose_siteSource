@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) 늑대와 히메"
 tags: "ユーキ 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_키진_세이자 반역의_세이자"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/626/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/626/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

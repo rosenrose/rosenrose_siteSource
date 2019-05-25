@@ -1,7 +1,7 @@
 ---
 title: "유유코님과의 하룻밤 이야기"
 tags: "ハマー 헤머 sexual_theme"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1330/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1330/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

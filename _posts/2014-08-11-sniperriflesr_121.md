@@ -1,7 +1,7 @@
 ---
 title: "월곡"
 tags: "仲谷 나카야 リレバ rireba 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_키리사메_마리사 시리어스_진지"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/121/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/121/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

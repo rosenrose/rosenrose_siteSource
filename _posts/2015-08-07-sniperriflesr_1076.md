@@ -1,7 +1,7 @@
 ---
 title: "전동 좌약"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1076/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1076/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

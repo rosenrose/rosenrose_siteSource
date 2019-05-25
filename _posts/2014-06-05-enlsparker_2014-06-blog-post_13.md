@@ -1,7 +1,7 @@
 ---
 title: "근육소녀대"
 tags: "동인지 蒼空市場"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_13/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-06-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3522351917078853328" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "DABBLING IN WATER"
 tags: "동인지 くらっしゅハウス"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-02-dabbling-in-water/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-02-dabbling-in-water/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-928488698035382401" itemprop="description articleBody">

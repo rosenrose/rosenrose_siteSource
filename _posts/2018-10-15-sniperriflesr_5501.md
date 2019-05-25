@@ -1,7 +1,7 @@
 ---
 title: "최선책"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_첸 캐릭터_이터니티_라바 캐릭터_대요정 캐릭터_치르노 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5501/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5501/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

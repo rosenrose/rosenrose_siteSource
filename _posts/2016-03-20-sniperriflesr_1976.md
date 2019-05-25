@@ -1,7 +1,7 @@
 ---
 title: "아야와 쌀 당첨권"
 tags: "凡 범 rump 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_카와시로_니토리 캐릭터_이누바시리_모미지 캐릭터_카자미_유카 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_아키_미노리코 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1976/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1976/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

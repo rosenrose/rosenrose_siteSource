@@ -1,7 +1,7 @@
 ---
 title: "카미시라사와 케이네의 탈주 (후편)"
 tags: "캐릭터_카미시라사와_케이네 캐릭터_히지리_뱌쿠렌 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_시키에이키_야마나자두 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_레이센_우동게인_이나바 캐릭터_히메카이도_하타테 캐릭터_플랑드르_스칼렛 캐릭터_야쿠모_유카리 캐릭터_하타노_코코로 캐릭터_타타라_코가사 캐릭터_카소다니_쿄코 캐릭터_이바라키_카센 약"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/1513/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1513/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "Awakening Melody"
 tags: "동인지 一ノ瀬"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-awakening-melody/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-awakening-melody/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4815883943023334655" itemprop="description articleBody">

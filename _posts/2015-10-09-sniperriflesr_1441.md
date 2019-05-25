@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 18화"
 tags: "みつもと 미츠모토 캐릭터_미스티아_로렐라이 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 요스즈메와_불사조"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1441/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1441/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

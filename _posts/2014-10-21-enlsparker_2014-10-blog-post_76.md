@@ -1,7 +1,7 @@
 ---
 title: "태자가 바라는 영원"
 tags: "기타동인지 ミックスリーム"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_76/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-10-blog-post_76/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6563646916440497667" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "에어컨 탈환대작전!"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_대요정 캐릭터_루미아 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_이나바_테위 캐릭터_파츄리_널릿지 캐릭터_치르노 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_홍_메이링 이벤트_c82 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2326/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2326/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

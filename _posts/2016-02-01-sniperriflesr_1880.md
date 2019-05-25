@@ -1,7 +1,7 @@
 ---
 title: "Sweet Catastrophe"
 tags: "高菜しんの synno_takana 타카나_신노 gp-kids 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_샤메이마루_아야 캐릭터_키리사메_마리사 캐릭터_이부키_스이카 캐릭터_야사카_카나코 캐릭터_모리야_스와코 이벤트_c81 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/1880/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1880/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong></strong><br/></p>

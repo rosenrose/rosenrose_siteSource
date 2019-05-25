@@ -1,7 +1,7 @@
 ---
 title: "Starry Heavens"
 tags: "동인지 御奈的主義"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-starry-heavens/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-starry-heavens/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3997604421541187048" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "모코랑!! 백옥루"
 tags: "1569 동인지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-11-blog-post_63/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-11-blog-post_63/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6836459044193293525" itemprop="description articleBody">

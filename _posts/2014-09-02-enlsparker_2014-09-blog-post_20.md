@@ -1,7 +1,7 @@
 ---
 title: "후타츠이와 너구리의 차용증"
 tags: "동인지 show_and_tell"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_20/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_20/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7453165781534907871" itemprop="description articleBody">

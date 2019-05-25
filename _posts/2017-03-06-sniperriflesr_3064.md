@@ -1,7 +1,7 @@
 ---
 title: "비봉 이상한 티셔츠 만화"
 tags: "じる じるランド 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/3064/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3064/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

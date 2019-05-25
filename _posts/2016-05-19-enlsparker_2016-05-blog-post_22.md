@@ -1,7 +1,7 @@
 ---
 title: "퍼레이드 그 뒤에"
 tags: "동인지 poprication"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-05-blog-post_22/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-05-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3996812770766367112" itemprop="description articleBody">

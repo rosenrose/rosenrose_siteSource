@@ -1,7 +1,7 @@
 ---
 title: "오토메 브랜디쉬"
 tags: "동인지 ギロチン銀座"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_29/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-02-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5187845042558594051" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "인기 투표 결과가 나온 것 같네 제기랄"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 급식첸_만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3089/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3089/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

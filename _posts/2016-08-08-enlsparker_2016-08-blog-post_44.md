@@ -1,7 +1,7 @@
 ---
 title: "첫 여름"
 tags: "동인지 悠久機関車"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-08-blog-post_44/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-08-blog-post_44/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2711097346764911674" itemprop="description articleBody">

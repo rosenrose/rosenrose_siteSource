@@ -1,7 +1,7 @@
 ---
 title: "우리들과 어반 몬스터"
 tags: "동인지 airdrop"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_36/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-03-blog-post_36/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8902165498031883955" itemprop="description articleBody">

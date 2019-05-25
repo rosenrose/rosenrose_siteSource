@@ -1,7 +1,7 @@
 ---
 title: "식신과 주인, 각자의 배려"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5379/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5379/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

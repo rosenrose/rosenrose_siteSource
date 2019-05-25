@@ -1,7 +1,7 @@
 ---
 title: "따뜻한 어느 한때"
 tags: "동인지 森の蟲 forestrest"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2017-12-blog-post_41/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-12-blog-post_41/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7904540230492726536" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 신사에 불지르는 코스즈"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_모토오리_코스즈 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5779/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5779/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

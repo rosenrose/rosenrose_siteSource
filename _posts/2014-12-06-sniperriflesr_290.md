@@ -1,7 +1,7 @@
 ---
 title: "어항"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_후타츠이와_마미조 이벤트_c83 시리어스_진지"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/290/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/290/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

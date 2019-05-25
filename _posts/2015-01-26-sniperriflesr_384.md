@@ -1,7 +1,7 @@
 ---
 title: "깨끗하고 올바른 풍신소녀"
 tags: "宮本龍一 미야모토_류이치 visionnerz 캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_소악마 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_이누바시리_모미지 캐릭터_호시구마_유기 캐릭터_이부키_스이카 캐릭터_카와시로_니토리 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 이벤트_c76 약"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/384/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/384/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

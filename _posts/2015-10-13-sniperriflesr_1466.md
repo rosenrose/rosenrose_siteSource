@@ -1,7 +1,7 @@
 ---
 title: "앨리스의 인형극 개시 3분 전"
 tags: "けぬー ちりわぁく 캐릭터_유메코 캐릭터_신키 캐릭터_히나나위_텐시 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1466/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1466/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

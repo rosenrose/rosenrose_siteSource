@@ -1,7 +1,7 @@
 ---
 title: "짜증나는 밤"
 tags: "えふぇ 에페 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/887/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/887/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

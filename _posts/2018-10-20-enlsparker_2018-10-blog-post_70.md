@@ -1,7 +1,7 @@
 ---
 title: "사토리 뿅뿅"
 tags: "동인지 まるしき"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-10-blog-post_70/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-10-blog-post_70/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5543986382179545986" itemprop="description articleBody">

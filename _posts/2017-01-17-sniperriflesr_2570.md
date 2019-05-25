@@ -1,7 +1,7 @@
 ---
 title: "Rest in Peace I"
 tags: "キレロ kirororo 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 캐릭터_플랑드르_스칼렛 이벤트_c77 시리어스_진지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2570/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2570/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

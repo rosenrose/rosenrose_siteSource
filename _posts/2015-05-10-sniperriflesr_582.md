@@ -1,7 +1,7 @@
 ---
 title: "흑백을 확실히 한다면 무자비하게 치일 에이키님의 4컷"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_시키에이키_야마나자두 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/582/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/582/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

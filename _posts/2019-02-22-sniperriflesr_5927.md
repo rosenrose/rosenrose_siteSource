@@ -1,7 +1,7 @@
 ---
 title: "스마트본보고 신기해하면서 이리저리만져보는 사나에"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_코치야_사나에 캐릭터_우사미_스미레코 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5927/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5927/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

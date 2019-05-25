@@ -1,7 +1,7 @@
 ---
 title: "Omekashi"
 tags: "합동인지"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-omekashi/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-omekashi/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4736529627590110382" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "벌꿀생강"
 tags: "동인지 ビタミンごはん"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-10-blog-post_88/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-10-blog-post_88/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7651180172778435570" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "세이자 도피 기행"
 tags: "ワイテイ 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2146/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2146/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

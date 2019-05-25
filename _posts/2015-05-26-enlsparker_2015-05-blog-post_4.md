@@ -1,7 +1,7 @@
 ---
 title: "쟈센짱이 하라는대로!"
 tags: "동인지 その他大勢"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_4/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-05-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3784735122037976001" itemprop="description articleBody">

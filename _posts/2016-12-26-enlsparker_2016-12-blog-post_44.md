@@ -1,7 +1,7 @@
 ---
 title: "심감 여행"
 tags: "동인지 さやかた紅茶館"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_44/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-12-blog-post_44/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6967457392895648629" itemprop="description articleBody">

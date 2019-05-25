@@ -1,7 +1,7 @@
 ---
 title: "영혼의 냄새"
 tags: "えなみ教授 에나미교수 캐릭터_헤카티아_라피스라줄리 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_키진_세이자 급식첸_만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2308/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2308/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "C2 마리사쨩"
 tags: "会帆 에호 十誤一会 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_코치야_사나에 캐릭터_샤메이마루_아야 캐릭터_카와시로_니토리 캐릭터_코메이지_코이시 캐릭터_콘파쿠_요우무 캐릭터_레이센_우동게인_이나바 캐릭터_야쿠모_유카리 캐릭터_미스티아_로렐라이 캐릭터_루미아 캐릭터_아키_시즈하 캐릭터_아키_미노리코 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_치르노 캐릭터_대요정 캐릭터_히에다노_아큐 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_리글_나이트버그 이벤트_c85 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/868/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/868/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

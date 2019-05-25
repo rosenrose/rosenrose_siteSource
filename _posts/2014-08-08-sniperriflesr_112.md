@@ -1,7 +1,7 @@
 ---
 title: "우사루"
 tags: "아카네야 茜屋 茜屋ぐーたら店 캐릭터_이나바_테위 캐릭터_쿠로다니_야마메 캐릭터_키스메 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_레이센_우동게인_이나바 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/112/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/112/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

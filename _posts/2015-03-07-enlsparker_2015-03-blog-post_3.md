@@ -1,7 +1,7 @@
 ---
 title: "넘쳐흘러 꽃이피네"
 tags: "동인지 dynamo"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2015-03-blog-post_3/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-03-blog-post_3/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1937660826052628461" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "트위터에서의 생각 공유"
 tags: "手負い 캐릭터_키신_사구메 캐릭터_순호 캐릭터_야고코로_에이린 [번역]_4컷／단편만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1768/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1768/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "건강해져라아"
 tags: "くまだ 쿠마다 くまのとおるみち 쿠마노토오루미치 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야고코로_에이린 이벤트_c87 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1874/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1874/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

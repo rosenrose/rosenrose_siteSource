@@ -1,7 +1,7 @@
 ---
 title: "요괴 위협"
 tags: "futa なべぞこ 나베조코 캐릭터_하타노_코코로 캐릭터_토요사토미미노_미코 캐릭터_모토오리_코스즈 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1475/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1475/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

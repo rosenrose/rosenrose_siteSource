@@ -1,7 +1,7 @@
 ---
 title: "태양을 쫓아 도는 꽃"
 tags: "동인지 ババソイヤー"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_61/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_61/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9134171287590856716" itemprop="description articleBody">

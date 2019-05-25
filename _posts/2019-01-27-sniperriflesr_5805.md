@@ -1,7 +1,7 @@
 ---
 title: "레드 핫 칠리토마토"
 tags: "まくわうに 마쿠와우니 @makuwauri_uri うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 이벤트_c95 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5805/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5805/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>

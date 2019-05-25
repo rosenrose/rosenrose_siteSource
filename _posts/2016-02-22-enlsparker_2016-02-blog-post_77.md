@@ -1,7 +1,7 @@
 ---
 title: "비봉구락부 부원모집중"
 tags: "동인지 ふあん亭"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_77/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-02-blog-post_77/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3613018735267936123" itemprop="description articleBody">

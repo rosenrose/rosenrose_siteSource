@@ -1,7 +1,7 @@
 ---
 title: "기억 속의 괴물 - 상편"
 tags: "동인지 笛鳴下ソシアルクラブ"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2018-01-blog-post_45/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-01-blog-post_45/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4737775305511535671" itemprop="description articleBody">

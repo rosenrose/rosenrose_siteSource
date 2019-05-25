@@ -1,7 +1,7 @@
 ---
 title: "레지스탕스·레지스탕스"
 tags: "柴朗 46． 舟人 캐릭터_호쥬_누에 캐릭터_후타츠이와_마미조 캐릭터_키진_세이자 이벤트_東方幻仙郷3 시리어스_진지"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2136/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2136/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "마법의 숲 대화재"
 tags: "동인지 赤色バニラ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-02-blog-post_9/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-02-blog-post_9/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7710722355378447646" itemprop="description articleBody">

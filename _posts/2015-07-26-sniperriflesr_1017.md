@@ -1,7 +1,7 @@
 ---
 title: "퇴화론"
 tags: "北斗 북두 サイチル 사이칠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_사토리 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 캐릭터_쿠로다니_야마메 캐릭터_키스메 이벤트_c79 약"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1017/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1017/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

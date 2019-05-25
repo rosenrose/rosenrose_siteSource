@@ -1,7 +1,7 @@
 ---
 title: "더워하는 뚱보는 본적 있는데 추워하는 뚱보는 본적이 없어"
 tags: "ジェット虚無僧 제트코무소 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2652/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2652/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

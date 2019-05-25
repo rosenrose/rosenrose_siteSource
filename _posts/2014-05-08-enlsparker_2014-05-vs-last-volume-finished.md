@@ -1,7 +1,7 @@
 ---
 title: "우동게인 vs 레밀리아 The Last Volume - Finished"
 tags: "동인지 unknown"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-vs-last-volume-finished/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-vs-last-volume-finished/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8461664806331153546" itemprop="description articleBody">

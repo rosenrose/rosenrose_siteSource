@@ -1,7 +1,7 @@
 ---
 title: "코코로안"
 tags: "ふあん亭 후앙정 캐릭터_모노노베노_후토 캐릭터_하타노_코코로 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 캐릭터_토요사토미미노_미코 이벤트_例大祭_12 이벤트_예대제_12 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/800/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/800/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

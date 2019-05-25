@@ -1,7 +1,7 @@
 ---
 title: "크레이지 레이무 - 7th Natural"
 tags: "동인지 よつみわーくす"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-12-7th-natural/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-12-7th-natural/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-501484085799417178" itemprop="description articleBody">

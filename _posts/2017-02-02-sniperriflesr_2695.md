@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 11"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_란 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_치르노 캐릭터_루미아 캐릭터_미스티아_로렐라이 바이오_놀이"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2695/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2695/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

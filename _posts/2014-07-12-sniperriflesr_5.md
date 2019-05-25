@@ -1,7 +1,7 @@
 ---
 title: "라스트 엘릭서"
 tags: "우가츠_마츠키 うがつまつき 아사츠키당 あさつき堂 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 시리어스_어두움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

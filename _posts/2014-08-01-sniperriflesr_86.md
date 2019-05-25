@@ -1,7 +1,7 @@
 ---
 title: "꼬리 12"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_야쿠모_란 캐릭터_야사카_카나코 캐릭터_모리야_스와코 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/86/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/86/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

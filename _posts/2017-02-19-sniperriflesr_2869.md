@@ -1,7 +1,7 @@
 ---
 title: "여러가지 이자요이 사쿠야에게 고백해보았다"
 tags: "三日月ネコ 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2869/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2869/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

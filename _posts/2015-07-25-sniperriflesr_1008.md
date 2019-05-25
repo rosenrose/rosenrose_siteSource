@@ -1,7 +1,7 @@
 ---
 title: "달토끼와 으스스한 이야기"
 tags: "凡 범 rump 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_이나바_테위 이벤트_大⑨州東方祭_08 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1008/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1008/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

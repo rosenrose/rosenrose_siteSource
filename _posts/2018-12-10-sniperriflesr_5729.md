@@ -1,7 +1,7 @@
 ---
 title: "강제 스포일러"
 tags: "古河おどろ @re_yomawari よまいり先生 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5729/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5729/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

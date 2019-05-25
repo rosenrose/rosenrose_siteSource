@@ -1,7 +1,7 @@
 ---
 title: "Quartette"
 tags: "동인지 kfc"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2018-06-quartette/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-06-quartette/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-38998075654766816" itemprop="description articleBody">

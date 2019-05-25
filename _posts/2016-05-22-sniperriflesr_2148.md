@@ -1,7 +1,7 @@
 ---
 title: "우주의 죽음을 본 불로불사 [후편]"
 tags: "alison alison航空 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_이나바_테위 캐릭터_야고코로_에이린 시리어스_밝음"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2148/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2148/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

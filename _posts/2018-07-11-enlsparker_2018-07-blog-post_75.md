@@ -1,7 +1,7 @@
 ---
 title: "눈의 꽃"
 tags: "동인지 primarystage"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_75/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-07-blog-post_75/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3133817332708208948" itemprop="description articleBody">

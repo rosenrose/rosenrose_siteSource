@@ -1,7 +1,7 @@
 ---
 title: "따뜻해지는 마법"
 tags: "동인지 ねこのさけごと"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_35/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_35/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5958306533051357816" itemprop="description articleBody">

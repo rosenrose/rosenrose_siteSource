@@ -1,7 +1,7 @@
 ---
 title: "홍마관 좆같아서 때려치는 사쿠야"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5740/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5740/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

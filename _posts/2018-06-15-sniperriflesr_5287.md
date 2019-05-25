@@ -1,7 +1,7 @@
 ---
 title: "자신의 TL 경향에 대해서"
 tags: "やよいちゃんす 夢見月弥生 @yayoichance_327 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5287/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5287/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "봉래"
 tags: "森の蟲 天災族 합동인지 forestrest"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-10-blog-post_4/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-10-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4090414303616250330" itemprop="description articleBody">

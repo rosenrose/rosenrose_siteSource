@@ -1,7 +1,7 @@
 ---
 title: "폭풍경보24時"
 tags: "캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_이누바시리_모미지 캐릭터_키리사메_마리사 캐릭터_타타라_코가사 캐릭터_히메카이도_하타테 캐릭터_카미시라사와_케이네 캐릭터_리글_나이트버그 캐릭터_카소다니_쿄코 캐릭터_히지리_뱌쿠렌 합동_4서클_이상"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/242/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/242/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

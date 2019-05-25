@@ -1,7 +1,7 @@
 ---
 title: "한결같이 무모한 작자들"
 tags: "동인지 dynamo"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_80/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-02-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4230293780881906488" itemprop="description articleBody">

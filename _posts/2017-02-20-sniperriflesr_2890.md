@@ -1,7 +1,7 @@
 ---
 title: "트윈테일의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2890/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2890/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

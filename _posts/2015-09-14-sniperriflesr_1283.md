@@ -1,7 +1,7 @@
 ---
 title: "헤카티아 목디스크 걸리는 만화"
 tags: "캐릭터_헤카티아_라피스라줄리 캐릭터_순호 캐릭터_준코 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1283/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1283/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

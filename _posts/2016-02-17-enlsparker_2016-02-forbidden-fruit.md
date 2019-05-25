@@ -1,7 +1,7 @@
 ---
 title: "FORBIDDEN FRUIT"
 tags: "동인지 pure"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-02-forbidden-fruit/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-02-forbidden-fruit/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4539598113979497848" itemprop="description articleBody">

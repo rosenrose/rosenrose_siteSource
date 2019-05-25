@@ -1,7 +1,7 @@
 ---
 title: "클라운 피스의 여름 방학"
 tags: "동인지 くらっしゅハウス"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_12/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-06-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2272177518934932428" itemprop="description articleBody">

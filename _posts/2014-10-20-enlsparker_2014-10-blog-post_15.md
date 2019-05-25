@@ -1,7 +1,7 @@
 ---
 title: "밤은 짧아 걸어 아가씨야"
 tags: "기타동인지 盛岡社中"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_15/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_15/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7443110479569228764" itemprop="description articleBody">

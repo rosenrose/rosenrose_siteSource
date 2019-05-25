@@ -1,7 +1,7 @@
 ---
 title: "환상향 TRASH BOX"
 tags: "기타동인지 モーザン倶"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-05-trash-box/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-05-trash-box/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3345724566129113789" itemprop="description articleBody">

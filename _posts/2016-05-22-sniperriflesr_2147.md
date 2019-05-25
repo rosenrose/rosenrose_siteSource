@@ -1,7 +1,7 @@
 ---
 title: "우주의 죽음을 본 불로불사 [전편]"
 tags: "alison alison航空 캐릭터_레밀리아_스칼렛 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 캐릭터_히지리_뱌쿠렌 캐릭터_히에다노_아큐 시리어스_진지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2147/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2147/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

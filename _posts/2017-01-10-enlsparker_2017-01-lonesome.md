@@ -1,7 +1,7 @@
 ---
 title: "LONESOME"
 tags: "동인지 pure"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-01-lonesome/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-01-lonesome/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4607785768933605137" itemprop="description articleBody">

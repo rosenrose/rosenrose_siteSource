@@ -1,7 +1,7 @@
 ---
 title: "히에다노 아큐는 두 번 태어나,"
 tags: "동인지 赤色バニラ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_63/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-02-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7321161681686729900" itemprop="description articleBody">

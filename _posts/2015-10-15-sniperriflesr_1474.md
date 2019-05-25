@@ -1,7 +1,7 @@
 ---
 title: "비무장 작전 + 1컷"
 tags: "futa なべぞこ 나베조코 캐릭터_하쿠레이_레이무 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1474/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1474/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

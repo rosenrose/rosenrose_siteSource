@@ -1,7 +1,7 @@
 ---
 title: "달을 노려보던 저 여인"
 tags: "기타동인지 サカナキドリ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-12-blog-post_22/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-12-blog-post_22/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-588773060601859897" itemprop="description articleBody">

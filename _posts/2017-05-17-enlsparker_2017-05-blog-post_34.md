@@ -1,7 +1,7 @@
 ---
 title: "질투어의 발라드"
 tags: "동인지 area-s"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_34/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-05-blog-post_34/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6747865160005610434" itemprop="description articleBody">

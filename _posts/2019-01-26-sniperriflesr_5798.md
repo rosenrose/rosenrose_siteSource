@@ -1,7 +1,7 @@
 ---
 title: "영원정 조제 안약 CF"
 tags: "しお @shioshio1600 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5798/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5798/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

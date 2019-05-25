@@ -1,7 +1,7 @@
 ---
 title: "이기적인 몸매의 상하이 인형!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_소악마 캐릭터_상하이 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_키리사메_마리사 이벤트_예대제_10 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/227/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/227/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

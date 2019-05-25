@@ -1,7 +1,7 @@
 ---
 title: "천인님의 짜증"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/4963/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/4963/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "라면 가져왔습니다"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_세키반키 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2955/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2955/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

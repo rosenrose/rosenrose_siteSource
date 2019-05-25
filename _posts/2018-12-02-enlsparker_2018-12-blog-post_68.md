@@ -1,7 +1,7 @@
 ---
 title: "꽃과 나이프"
 tags: "遊閑地 합동인지 pure"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-12-blog-post_68/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-12-blog-post_68/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6559737958695283334" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "동방 변덕쟁이 학원 - 사쿠야 씨의 머리가 짧아진 여름"
 tags: "기타동인지 テクノ製麺"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2018-07-blog-post_28/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-07-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1135957781343489035" itemprop="description articleBody">

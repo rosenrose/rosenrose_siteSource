@@ -1,7 +1,7 @@
 ---
 title: "그대와의 경계"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 급식첸_만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2614/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2614/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "초필살기"
 tags: "기타동인지 ventoplus"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-05-blog-post_92/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-05-blog-post_92/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8323801793213990947" itemprop="description articleBody">

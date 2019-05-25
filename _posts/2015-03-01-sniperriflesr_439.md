@@ -1,7 +1,7 @@
 ---
 title: "컬러풀 오토메 에듀케이션"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_파츄리_널릿지 캐릭터_히에다노_아큐 캐릭터_소악마 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_야쿠모_란 캐릭터_첸 이벤트_c75 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/439/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/439/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

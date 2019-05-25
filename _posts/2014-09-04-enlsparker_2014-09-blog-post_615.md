@@ -1,7 +1,7 @@
 ---
 title: "나의 귀여운 사람"
 tags: "기타동인지 無軌道"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_615/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_615/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2949197685600554778" itemprop="description articleBody">

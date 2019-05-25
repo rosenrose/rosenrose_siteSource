@@ -1,7 +1,7 @@
 ---
 title: "화이트 크리스마스"
 tags: "cwarock 캐릭터_하쿠레이_레이무 캐릭터_레밀리아_스칼렛 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_와카사기히메 캐릭터_후지와라노_모코우 캐릭터_플랑드르_스칼렛 캐릭터_소악마 캐릭터_루미아 캐릭터_미스티아_로렐라이 캐릭터_카소다니_쿄코 캐릭터_이자요이_사쿠야 약"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/1744/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1744/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

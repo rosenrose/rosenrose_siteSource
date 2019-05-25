@@ -1,7 +1,7 @@
 ---
 title: "희미하게 빛나는 날들"
 tags: "동인지 faintly_citrus"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-12-blog-post_12/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-12-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4824931110281547591" itemprop="description articleBody">

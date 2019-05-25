@@ -1,7 +1,7 @@
 ---
 title: "미니마릿! 더워?추워?졸려!"
 tags: "동인지 ハニートースト"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_1/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-03-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8820473748027169290" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "Stokesia"
 tags: "기타동인지 くずきり"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-stokesia/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-stokesia/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4776861911215860777" itemprop="description articleBody">

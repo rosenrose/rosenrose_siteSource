@@ -1,7 +1,7 @@
 ---
 title: "레이마리 슈링가라"
 tags: "동인지 よぬりめ"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_62/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_62/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7558889653077174858" itemprop="description articleBody">

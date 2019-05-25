@@ -1,7 +1,7 @@
 ---
 title: "소년린노스케고물수집기담 - 여우의 장"
 tags: "동인지 マグニ厨度711"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-11-blog-post_96/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-11-blog-post_96/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5033733107493259019" itemprop="description articleBody">

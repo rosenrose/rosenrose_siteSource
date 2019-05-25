@@ -1,7 +1,7 @@
 ---
 title: "비봉연금중 소녀폭주중"
 tags: "동인지 ふあん亭"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-02-blog-post_51/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-02-blog-post_51/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6725415340356782990" itemprop="description articleBody">

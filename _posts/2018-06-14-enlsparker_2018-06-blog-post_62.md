@@ -1,7 +1,7 @@
 ---
 title: "달토끼에게 좋은 약"
 tags: "동인지 rump"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2018-06-blog-post_62/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-06-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8780000803984902962" itemprop="description articleBody">

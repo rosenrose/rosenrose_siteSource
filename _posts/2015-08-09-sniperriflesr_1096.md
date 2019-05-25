@@ -1,7 +1,7 @@
 ---
 title: "일상우연무미무취"
 tags: "とこみち 토코미치 なかむら屋 나카무라야 캐릭터_하쿠레이_레이무 캐릭터_나즈린 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_야고코로_에이린 캐릭터_이부키_스이카 캐릭터_야쿠모_유카리 캐릭터_호시구마_유기 캐릭터_플랑드르_스칼렛 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 캐릭터_쿠모이_이치린 캐릭터_히지리_뱌쿠렌 캐릭터_운잔 이벤트_c80 시리어스_밝음"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1096/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1096/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

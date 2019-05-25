@@ -1,7 +1,7 @@
 ---
 title: "모콧!! 신령묘"
 tags: "1569 동인지"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-04-blog-post_72/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-04-blog-post_72/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5089596232648603269" itemprop="description articleBody">

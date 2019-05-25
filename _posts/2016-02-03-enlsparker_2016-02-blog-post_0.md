@@ -1,7 +1,7 @@
 ---
 title: "이게 무슨 일인가"
 tags: "동인지 ちりわぁく"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_0/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-02-blog-post_0/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4125755327330274039" itemprop="description articleBody">

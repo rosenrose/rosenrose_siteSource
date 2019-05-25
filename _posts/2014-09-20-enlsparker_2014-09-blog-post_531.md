@@ -1,7 +1,7 @@
 ---
 title: "시한묘비"
 tags: "동인지 はやあか"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_531/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_531/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6953054037224111630" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "힘없는 눈동자에 무엇을 비추나"
 tags: "えなみ教授 에나미교수 캐릭터_레밀리아_스칼렛 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 급식첸_만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2041/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2041/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

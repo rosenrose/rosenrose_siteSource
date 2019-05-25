@@ -1,7 +1,7 @@
 ---
 title: "사쿠야 씨의 오줌으로 나가시소멘 하는 이야기"
 tags: "동인지 火鳥でできるもん!"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_31/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_31/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4823733400274822739" itemprop="description articleBody">

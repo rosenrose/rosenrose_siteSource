@@ -1,7 +1,7 @@
 ---
 title: "[30센치시리즈] 사나에"
 tags: "100 000원의행복 캐릭터_코치야_사나에 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5803/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5803/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

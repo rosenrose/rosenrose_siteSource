@@ -1,7 +1,7 @@
 ---
 title: "껴안고, 그리고"
 tags: "동인지 たまごやき"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-04-blog-post_84/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-04-blog-post_84/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6870012986880629518" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "살아있는 이의 향"
 tags: "동인지 色は匂えど"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-10-blog-post_797/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_797/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5825065512458936763" itemprop="description articleBody">

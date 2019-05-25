@@ -1,7 +1,7 @@
 ---
 title: "약속엄수! 온천 데이트"
 tags: "동인지 ねこのさけごと"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_34/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-12-blog-post_34/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3158504336755348458" itemprop="description articleBody">

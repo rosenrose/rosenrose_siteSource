@@ -1,7 +1,7 @@
 ---
 title: "도레미 씨, 어느날 밤의 망상"
 tags: "しお @shioshio1600 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5778/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5778/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

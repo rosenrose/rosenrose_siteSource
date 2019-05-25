@@ -1,7 +1,7 @@
 ---
 title: "스타게이저 - 전편"
 tags: "동인지 poprication"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-12-blog-post_49/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-12-blog-post_49/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3015789838711215440" itemprop="description articleBody">

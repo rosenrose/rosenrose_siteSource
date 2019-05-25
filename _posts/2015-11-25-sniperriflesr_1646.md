@@ -1,7 +1,7 @@
 ---
 title: "~가 아침에 깨우러 와줬다 시리즈"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1646/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1646/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

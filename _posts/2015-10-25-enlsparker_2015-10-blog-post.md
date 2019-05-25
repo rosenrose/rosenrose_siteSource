@@ -1,7 +1,7 @@
 ---
 title: "코스프레 단편집! - 언니에게 코스프레 시킨 결과가 이거야"
 tags: "동인지 さいピン×こやき"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-10-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5070403631324212908" itemprop="description articleBody">

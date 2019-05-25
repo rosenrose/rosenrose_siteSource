@@ -1,7 +1,7 @@
 ---
 title: "괴담"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_코마노_아운 캐릭터_아운 캐릭터_키리사메_마리사 캐릭터_클라운피스 캐릭터_대요정 캐릭터_치르노 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5535/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5535/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

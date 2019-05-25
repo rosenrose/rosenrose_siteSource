@@ -1,7 +1,7 @@
 ---
 title: "Dulcis"
 tags: "동인지 よぬりめ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-12-dulcis/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-12-dulcis/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5240917772097157769" itemprop="description articleBody">

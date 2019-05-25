@@ -1,7 +1,7 @@
 ---
 title: "THE WORLD IS MINE"
 tags: "동인지 angel_type"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-the-world-is-mine/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-the-world-is-mine/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8726937409102530435" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "너를 만나러 왔어"
 tags: "동인지 夢防衛少女隊"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-11-blog-post_25/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-11-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2504596961360256025" itemprop="description articleBody">

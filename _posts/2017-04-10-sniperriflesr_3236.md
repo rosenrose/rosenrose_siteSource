@@ -1,7 +1,7 @@
 ---
 title: "련선웨어 만화"
 tags: "yohei 캐릭터_호쥬_누에 캐릭터_무라사_미나미츠 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/3236/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3236/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

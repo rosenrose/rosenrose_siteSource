@@ -1,7 +1,7 @@
 ---
 title: "워킹 데드"
 tags: "동인지 strange_chameleon ストカメ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-09-blog-post_41/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-09-blog-post_41/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3688473483478528599" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 히다카의 눈동자"
 tags: "동인지 青"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_197/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_197/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3478935021696171532" itemprop="description articleBody">

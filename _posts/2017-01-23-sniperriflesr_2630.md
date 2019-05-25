@@ -1,7 +1,7 @@
 ---
 title: "칠석 - 모리야가 [ 2012 ]"
 tags: "きつね丸 葉々庵 캐릭터_코치야_사나에 캐릭터_모리야_스와코 캐릭터_야사카_카나코 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2630/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2630/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

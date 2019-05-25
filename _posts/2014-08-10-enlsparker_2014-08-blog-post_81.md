@@ -1,7 +1,7 @@
 ---
 title: "있을법해!"
 tags: "동인지 strange_chameleon"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-08-blog-post_81/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-08-blog-post_81/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8755467161800233962" itemprop="description articleBody">

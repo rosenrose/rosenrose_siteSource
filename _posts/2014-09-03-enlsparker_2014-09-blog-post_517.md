@@ -1,7 +1,7 @@
 ---
 title: "원더링 서교토"
 tags: "동인지 リレバ"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_517/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_517/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8622563136532977681" itemprop="description articleBody">

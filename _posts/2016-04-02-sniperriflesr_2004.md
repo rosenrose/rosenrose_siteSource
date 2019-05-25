@@ -1,7 +1,7 @@
 ---
 title: "첫 여름"
 tags: "十夜 토야 悠久機関車 유구기관차 캐릭터_콘파쿠_요우키 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 이벤트_例大祭_11 이벤트_예대제_11 시리어스_밝음"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2004/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2004/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "신년 선물은 깃털 100%"
 tags: "気泡緩衝材 kk88 캐릭터_키신_사구메 캐릭터_링고 캐릭터_세이란 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1815/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1815/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

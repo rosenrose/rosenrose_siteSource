@@ -1,7 +1,7 @@
 ---
 title: "지쳐버린 이쿠 씨의 식전기"
 tags: "동인지 ぜのさいど"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2018-04-blog-post_32/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-04-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2272572193997840520" itemprop="description articleBody">

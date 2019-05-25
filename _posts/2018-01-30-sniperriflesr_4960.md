@@ -1,7 +1,7 @@
 ---
 title: "위엄 넘치는 당주님"
 tags: "fkey 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/4960/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4960/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

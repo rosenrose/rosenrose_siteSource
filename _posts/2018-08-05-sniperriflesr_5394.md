@@ -1,7 +1,7 @@
 ---
 title: "긍정적인 마리사쨩은 부정적인 말만 믿어주지 않는다"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/5394/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5394/001.png"
 ---
 <div class="article">
 <p style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center;"><b><br/></b></p>

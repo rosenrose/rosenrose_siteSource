@@ -1,7 +1,7 @@
 ---
 title: "매일같이 끝장난 환상향"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_리글_나이트버그 캐릭터_코메이지_코이시 캐릭터_키진_세이자 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_이자요이_사쿠야 캐릭터_나즈린 캐릭터_오노즈카_코마치 캐릭터_이누바시리_모미지 급식첸_만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/3307/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3307/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

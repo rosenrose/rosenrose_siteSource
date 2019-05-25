@@ -1,7 +1,7 @@
 ---
 title: "연"
 tags: "ヲザワ 오자와 りょくや 료쿠야 ryokuya 캐릭터_미스티아_로렐라이 캐릭터_카와시로_니토리 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_키리사메_마리사 이벤트_例大祭7 이벤트_예대제_7 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/719/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/719/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "나갈 준비하는 쿄코쨩"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2911/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2911/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

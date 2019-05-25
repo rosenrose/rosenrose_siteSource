@@ -1,7 +1,7 @@
 ---
 title: "구축함 사나에"
 tags: "동인지 オチンチンリーチ!"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_94/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-02-blog-post_94/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2613628205494470702" itemprop="description articleBody">

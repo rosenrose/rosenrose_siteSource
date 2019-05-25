@@ -1,7 +1,7 @@
 ---
 title: "봉래인 조크"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/831/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/831/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "상쾌한 아침"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_야쿠모_란 캐릭터_치르노 캐릭터_플랑드르_스칼렛 캐릭터_이나바_테위 캐릭터_첸 캐릭터_코메이지_코이시 급식첸_만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/2513/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2513/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "우타가이"
 tags: "ボンバーグレープ 봄버그레이프 ハイパーサマーウォーズ 하이퍼_섬머워즈 캐릭터_히에다노_아큐 캐릭터_토요사토미미노_미코 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_히지리_뱌쿠렌 캐릭터_야사카_카나코 캐릭터_나즈린 캐릭터_레밀리아_스칼렛 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_토라마루_쇼 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 캐릭터_호시구마_유기 캐릭터_운잔 캐릭터_쿠모이_이치린 캐릭터_야고코로_에이린 캐릭터_샤메이마루_아야 캐릭터_이바라키_카센 캐릭터_미야코_요시카 이벤트_例大祭10 약"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/194/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/194/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "네타가 없으니 사나에씨를 질문공격 해보기 테스트"
 tags: "高菜しんの synno_takana 타카나_신노 gp-kids 캐릭터_코치야_사나에 캐릭터_히메카이도_하타테 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 이벤트_c85 귀여움"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/1879/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1879/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong></strong><br/></p>

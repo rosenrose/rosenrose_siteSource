@@ -1,7 +1,7 @@
 ---
 title: "태자님 컴플렉스"
 tags: "동인지 pocapoca"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_7/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-05-blog-post_7/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5606075120088062873" itemprop="description articleBody">

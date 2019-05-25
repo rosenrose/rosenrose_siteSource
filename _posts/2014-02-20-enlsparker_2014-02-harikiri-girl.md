@@ -1,7 +1,7 @@
 ---
 title: "묭속 HARIKIRI Girl"
 tags: "동인지 海運"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-02-harikiri-girl/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-02-harikiri-girl/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3579514511131721633" itemprop="description articleBody">

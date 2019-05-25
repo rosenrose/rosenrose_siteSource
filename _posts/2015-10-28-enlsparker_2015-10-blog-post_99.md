@@ -1,7 +1,7 @@
 ---
 title: "잃어버린 것이 돌아온다"
 tags: "동인지 dynamo"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2015-10-blog-post_99/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-10-blog-post_99/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-54698619339176725" itemprop="description articleBody">

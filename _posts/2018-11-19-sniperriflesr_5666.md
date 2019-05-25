@@ -1,7 +1,7 @@
 ---
 title: "아야의 100년 비포 에프터"
 tags: "絶対運命おぐらくん @ogurariatto 小椋 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/5666/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5666/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

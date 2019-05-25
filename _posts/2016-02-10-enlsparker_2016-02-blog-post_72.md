@@ -1,7 +1,7 @@
 ---
 title: "커질 수 있을리가"
 tags: "동인지 赤色バニラ"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_72/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-02-blog-post_72/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5193850226211205226" itemprop="description articleBody">

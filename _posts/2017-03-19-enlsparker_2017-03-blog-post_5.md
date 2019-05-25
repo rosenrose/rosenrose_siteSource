@@ -1,7 +1,7 @@
 ---
 title: "서교토에서 할로윈이 대유행하고 있는 것 같습니다!"
 tags: "동인지 poprication"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2017-03-blog-post_5/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-03-blog-post_5/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6654870083663413821" itemprop="description articleBody">

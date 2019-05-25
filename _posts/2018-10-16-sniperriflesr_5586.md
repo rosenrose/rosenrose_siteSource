@@ -1,7 +1,7 @@
 ---
 title: "다시 한 번 말해줘"
 tags: "ろけ @roke175 がらくたロケット 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5586/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5586/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

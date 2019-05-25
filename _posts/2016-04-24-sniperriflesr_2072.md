@@ -1,7 +1,7 @@
 ---
 title: "환상같은 나날의 앞에"
 tags: "まくわうに 마쿠와우니 うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_후타츠이와_마미조 캐릭터_토요사토미미노_미코 캐릭터_하쿠레이_레이무 캐릭터_코메이지_코이시 캐릭터_히에다노_아큐 캐릭터_치르노 캐릭터_대요정 캐릭터_히지리_뱌쿠렌 캐릭터_하타노_코코로 이벤트_c84 귀여움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2072/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2072/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

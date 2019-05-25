@@ -1,7 +1,7 @@
 ---
 title: "나무아미타불 올나이트!"
 tags: "동인지 さやかた紅茶館"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2015-05-blog-post_29/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-05-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1904022756041741547" itemprop="description articleBody">

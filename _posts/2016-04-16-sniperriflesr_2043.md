@@ -1,7 +1,7 @@
 ---
 title: "그 분노도 슬픔도"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_코메이지_코이시 급식첸_만화"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/sniperriflesr/2043/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2043/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

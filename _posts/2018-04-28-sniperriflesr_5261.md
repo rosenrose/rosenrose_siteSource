@@ -1,7 +1,7 @@
 ---
 title: "오린의 발렌타인"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5261/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5261/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

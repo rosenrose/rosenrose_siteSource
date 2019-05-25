@@ -1,7 +1,7 @@
 ---
 title: "행복하게 사라지다"
 tags: "기타동인지 狼疾人"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-03-blog-post_44/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-03-blog-post_44/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3326657865875276579" itemprop="description articleBody">

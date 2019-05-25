@@ -1,7 +1,7 @@
 ---
 title: "인기인"
 tags: "ジェット虚無僧 제트_코무소 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/647/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/647/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

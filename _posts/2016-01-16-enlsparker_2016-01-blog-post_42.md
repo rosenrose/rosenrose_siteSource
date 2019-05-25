@@ -1,7 +1,7 @@
 ---
 title: "마법사의 비밀"
 tags: "398 동인지"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2016-01-blog-post_42/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-01-blog-post_42/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-855353310087881367" itemprop="description articleBody">

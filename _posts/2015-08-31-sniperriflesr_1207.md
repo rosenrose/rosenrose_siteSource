@@ -1,7 +1,7 @@
 ---
 title: "드실래요?"
 tags: "唯野影吉 カゲ路 캐릭터_링고 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/1207/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1207/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

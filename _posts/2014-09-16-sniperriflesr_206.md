@@ -1,7 +1,7 @@
 ---
 title: "피안의 그녀는 좋아하나요?"
 tags: "乾ぬい 이누이누이 蓮華座 연화좌 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 캐릭터_무라사_미나미츠 캐릭터_미야코_요시카 캐릭터_카쿠_세이가 캐릭터_히지리_뱌쿠렌 캐릭터_쿠모이_이치린 캐릭터_하쿠레이_레이무 캐릭터_모토오리_코스즈 캐릭터_후타츠이와_마미조 이벤트_c83 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/206/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/206/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

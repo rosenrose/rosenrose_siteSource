@@ -1,7 +1,7 @@
 ---
 title: "이젠, 뭐가 뭔지..."
 tags: "동인지 ふあん亭"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-05-blog-post_49/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6397655607159689039" itemprop="description articleBody">

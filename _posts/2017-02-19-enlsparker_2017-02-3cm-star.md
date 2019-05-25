@@ -1,7 +1,7 @@
 ---
 title: "3cm Star"
 tags: "18sbunny 기타동인지"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2017-02-3cm-star/001.png"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-02-3cm-star/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1684932047595506853" itemprop="description articleBody">

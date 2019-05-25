@@ -1,7 +1,7 @@
 ---
 title: "환상에 옷을 맡기다"
 tags: "동인지 ビタミンごはん"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2016-02-blog-post_65/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-02-blog-post_65/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7825357302981931155" itemprop="description articleBody">

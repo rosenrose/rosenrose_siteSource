@@ -1,7 +1,7 @@
 ---
 title: "총집편 견본"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/3022/001.png"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3022/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

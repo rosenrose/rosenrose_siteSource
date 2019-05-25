@@ -1,7 +1,7 @@
 ---
 title: "유연해지는 약"
 tags: "futa @futa313255 なべぞこ 나베조코 캐릭터_미야코_요시카 캐릭터_카쿠_세이가 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/5301/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5301/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><span style="; "><br/></span></b></p>

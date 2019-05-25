@@ -1,7 +1,7 @@
 ---
 title: "sepia"
 tags: "甘党 amatou 아마토우 hitomishiri 히토미시리 ひとみしり 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 캐릭터_소악마 캐릭터_이자요이_사쿠야 귀여움"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/sniperriflesr/160/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/160/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

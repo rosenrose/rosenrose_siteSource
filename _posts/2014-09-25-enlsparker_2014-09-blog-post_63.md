@@ -1,7 +1,7 @@
 ---
 title: "세계 명작(메이사쿠) 극장"
 tags: "기타동인지 七転八起"
-image: "https://rosentemplerhanmail2.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_63/001.jpg"
+image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3736677154925575683" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "여름날에 영혼을"
 tags: "えなみ教授 에나미교수 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 급식첸_만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2367/001.png"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2367/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

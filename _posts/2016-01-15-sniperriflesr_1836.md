@@ -1,7 +1,7 @@
 ---
 title: "질투하는 사구메님"
 tags: "黒羽ラピッド 쿠로바네_라피드 ラピスラズリ鉱石 캐릭터_키신_사구메 캐릭터_헤카티아_라피스라줄리 캐릭터_도레미_스위트 [번역]_4컷／단편만화"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/1836/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1836/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

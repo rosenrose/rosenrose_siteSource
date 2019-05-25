@@ -1,7 +1,7 @@
 ---
 title: "물들지 않는 달"
 tags: "フウザサ 후우자사 風前ランプ 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_후지와라노_모코우 캐릭터_홍_메이링 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_야고코로_에이린 캐릭터_하쿠레이_레이무 시리어스_슬픔"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/981/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/981/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

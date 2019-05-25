@@ -1,7 +1,7 @@
 ---
 title: "비봉소녀 파르페"
 tags: "동인지 ギロチン銀座"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/enlsparker/2014-09-blog-post_357/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_357/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4069699544960926535" itemprop="description articleBody">

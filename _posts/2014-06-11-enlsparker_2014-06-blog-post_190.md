@@ -1,7 +1,7 @@
 ---
 title: "깨끗하고 올바른 풍신소녀"
 tags: "동인지 visionnerz"
-image: "https://rosentemplerdaum.s3.amazonaws.com/doujin/enlsparker/2014-06-blog-post_190/001.jpg"
+image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-06-blog-post_190/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8285703278807824192" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "싸나이 코마치"
 tags: "まるサン まるしき 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://rosentemplerhanmail.s3.amazonaws.com/doujin/sniperriflesr/2870/001.jpg"
+image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2870/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>
