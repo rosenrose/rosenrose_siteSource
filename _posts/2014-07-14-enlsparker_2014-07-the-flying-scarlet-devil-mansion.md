@@ -1,7 +1,7 @@
 ---
 title: "THE FLYING SCARLET DEVIL MANSION"
 tags: "동인지 kemonomichi"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-the-flying-scarlet-devil-mansion/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-07-the-flying-scarlet-devil-mansion/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7577386689479065233" itemprop="description articleBody">

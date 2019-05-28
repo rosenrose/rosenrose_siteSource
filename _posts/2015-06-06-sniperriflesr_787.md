@@ -1,7 +1,7 @@
 ---
 title: "굶주린 호랑이"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_후타츠이와_마미조 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 캐릭터_카소다니_쿄코 캐릭터_쿠로다니_야마메 캐릭터_호쥬_누에 이벤트_c81 시리어스_진지"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/787/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/787/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

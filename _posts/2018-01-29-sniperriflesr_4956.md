@@ -1,7 +1,7 @@
 ---
 title: "실패 선생 1교시 < 신키 선생님 >"
 tags: "けぬー 케누 @kenu6810 ちりわぁく 치리와아쿠 캐릭터_하쿠레이_레이무 캐릭터_신키 캐릭터_모토오리_코스즈 캐릭터_히나나위_텐시 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/4956/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/4956/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "ふにくりふにくら"
 tags: "동인지 アンニュイ赤蛸"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-05-blog-post_554/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-05-blog-post_554/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7687882472919521804" itemprop="description articleBody">

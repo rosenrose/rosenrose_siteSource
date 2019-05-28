@@ -1,7 +1,7 @@
 ---
 title: "시온 몰래 선물을 샀지만 순순히 넘기지 않는 죠온"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_요리가미_조온 캐릭터_요리가미_시온 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5755/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5755/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

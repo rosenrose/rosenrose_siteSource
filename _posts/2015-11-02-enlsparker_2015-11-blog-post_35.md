@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 여러날의 백"
 tags: "동인지 青"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-11-blog-post_35/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-11-blog-post_35/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2676686664860985434" itemprop="description articleBody">

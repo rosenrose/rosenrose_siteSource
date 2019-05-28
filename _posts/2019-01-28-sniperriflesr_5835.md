@@ -1,7 +1,7 @@
 ---
 title: "유카리 인터넷으로 까다가 들킨 란"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5835/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5835/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

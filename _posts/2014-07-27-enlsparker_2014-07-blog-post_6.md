@@ -1,7 +1,7 @@
 ---
 title: "실례합니다"
 tags: "동인지 こげコロッケ"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-blog-post_6/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-07-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7705714261710310761" itemprop="description articleBody">

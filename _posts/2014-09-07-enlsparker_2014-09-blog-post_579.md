@@ -1,7 +1,7 @@
 ---
 title: "달이 뜨면 더할나위 없이 좋고"
 tags: "동인지 みずたたき"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_579/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-09-blog-post_579/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7789223692078509136" itemprop="description articleBody">

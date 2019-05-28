@@ -1,7 +1,7 @@
 ---
 title: "네가 이상한 거야"
 tags: "기타동인지 李花公主"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-12-blog-post_24/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2017-12-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6786313195502950264" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "히지리랑 죠온"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_히나나위_텐시 캐릭터_히지리_뱌쿠렌 캐릭터_요리가미_조온 시리어스_진지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5596/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5596/001.png"
 ---
 <div class="article">
 <p style="line-height: 19.2px; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>

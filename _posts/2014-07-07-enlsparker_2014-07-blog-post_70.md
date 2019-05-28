@@ -1,7 +1,7 @@
 ---
 title: "꽃은 꺾고프나 우듬지는 높다"
 tags: "동인지 ua"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-07-blog-post_70/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-07-blog-post_70/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2266435928752730679" itemprop="description articleBody">

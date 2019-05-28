@@ -1,7 +1,7 @@
 ---
 title: "두려워할 것 없다 下"
 tags: "기타동인지 みどりねこ"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-05-blog-post_27/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2017-05-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3828730240215750303" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "사랑을 갈구하여 앞장서다"
 tags: "기타동인지 細道小道"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-12-blog-post_50/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-12-blog-post_50/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-537840292322510653" itemprop="description articleBody">

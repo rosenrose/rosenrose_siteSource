@@ -1,7 +1,7 @@
 ---
 title: "스트레인지 스트롱"
 tags: "とこみち 토코미치 なかむら屋 나카무라야 캐릭터_하쿠레이_레이무 캐릭터_미마 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_야쿠모_란 이벤트_c81 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/432/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/432/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

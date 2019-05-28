@@ -1,7 +1,7 @@
 ---
 title: "땅속보다 따스하게"
 tags: "동인지 並々食堂"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-03-blog-post/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-03-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6828808871446365788" itemprop="description articleBody">

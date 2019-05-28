@@ -1,7 +1,7 @@
 ---
 title: "비봉구락부 마이너스"
 tags: "동인지 あみだ屑"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-02-blog-post_77/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-02-blog-post_77/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8571489995531000975" itemprop="description articleBody">

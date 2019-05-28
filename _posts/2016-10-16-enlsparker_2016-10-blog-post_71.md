@@ -1,7 +1,7 @@
 ---
 title: "미소 짓는 코코로 에듀케이션"
 tags: "동인지 rainbow_vanilla"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-10-blog-post_71/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2016-10-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-264422104476837346" itemprop="description articleBody">

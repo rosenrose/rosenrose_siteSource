@@ -1,7 +1,7 @@
 ---
 title: "테위, 변신하다!"
 tags: "동인지 つるべじ。"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-09-blog-post_91/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-09-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2297461008365113408" itemprop="description articleBody">

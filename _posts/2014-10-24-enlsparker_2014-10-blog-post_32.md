@@ -1,7 +1,7 @@
 ---
 title: "마인드 세션"
 tags: "기타동인지 だるーん。"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_32/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-10-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8641798637654969217" itemprop="description articleBody">

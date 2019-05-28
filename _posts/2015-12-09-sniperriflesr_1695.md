@@ -1,7 +1,7 @@
 ---
 title: "명계산지직채소"
 tags: "futa なべぞこ 나베조코 캐릭터_모리치카_린노스케 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1695/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1695/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

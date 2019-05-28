@@ -1,7 +1,7 @@
 ---
 title: "생선굽는 빙어"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5926/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5926/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

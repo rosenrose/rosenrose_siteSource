@@ -1,7 +1,7 @@
 ---
 title: "무슨 생각이냐, 네 녀석"
 tags: "동인지 ちりわぁく"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-02-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6696168929399862964" itemprop="description articleBody">

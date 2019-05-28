@@ -1,7 +1,7 @@
 ---
 title: "10점 만점으로 자기평가를 해주세요"
 tags: "いたたたた @itatatata6 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5993/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5993/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

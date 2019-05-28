@@ -1,7 +1,7 @@
 ---
 title: "뇌내 하이랜드 파크"
 tags: "동인지 ギロチン銀座"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-08-blog-post_2/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-08-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4386410813268127002" itemprop="description articleBody">

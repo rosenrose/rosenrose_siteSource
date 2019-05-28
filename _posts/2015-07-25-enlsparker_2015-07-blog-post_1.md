@@ -1,7 +1,7 @@
 ---
 title: "위험한 니토리! 초선인은 잠들지 않아"
 tags: "동인지 一酸化硫黄"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-07-blog-post_1/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-07-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-741415426087342657" itemprop="description articleBody">

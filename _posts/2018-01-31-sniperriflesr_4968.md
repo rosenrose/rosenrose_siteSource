@@ -1,7 +1,7 @@
 ---
 title: "무단결근 댄서즈"
 tags: "うらないし @mirage333 캐릭터_테이레이다_마이 캐릭터_니시다_사토노 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/4968/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/4968/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

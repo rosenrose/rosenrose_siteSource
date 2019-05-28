@@ -1,7 +1,7 @@
 ---
 title: "버드나무에 있는 건 인간인가 요괴인가"
 tags: "동인지 w-18"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-02-blog-post_89/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-02-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2453147900407010916" itemprop="description articleBody">

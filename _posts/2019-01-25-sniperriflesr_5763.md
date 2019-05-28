@@ -1,7 +1,7 @@
 ---
 title: "대전략"
 tags: "じぜる 지제루 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5763/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5763/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

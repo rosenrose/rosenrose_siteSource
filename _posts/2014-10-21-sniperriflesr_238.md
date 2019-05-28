@@ -1,7 +1,7 @@
 ---
 title: "메가유루"
 tags: "ひのき林 히노키_바야시 しおゆで 시오유데 이벤트_c84 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/238/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/238/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

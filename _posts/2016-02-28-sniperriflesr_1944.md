@@ -1,7 +1,7 @@
 ---
 title: "꿈을 먹는 방법"
 tags: "塩八 시오하치 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1944/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1944/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

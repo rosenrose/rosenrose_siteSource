@@ -1,7 +1,7 @@
 ---
 title: "○○린은 우리들의 저스티스!"
 tags: "합동인지"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-05-blog-post_30/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-05-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4371709045481562756" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 첫날밤"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1746/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1746/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

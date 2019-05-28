@@ -1,7 +1,7 @@
 ---
 title: "지저폭군 사토리님"
 tags: "fujy 후지 銀イオン 은이온 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_호시구마_유기 이벤트_c86 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/369/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/369/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

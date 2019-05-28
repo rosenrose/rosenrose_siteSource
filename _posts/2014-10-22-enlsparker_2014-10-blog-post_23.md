@@ -1,7 +1,7 @@
 ---
 title: "거짓말쟁이"
 tags: "398 동인지 みつなら"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_23/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-10-blog-post_23/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7961780645931020766" itemprop="description articleBody">

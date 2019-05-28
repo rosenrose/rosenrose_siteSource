@@ -1,7 +1,7 @@
 ---
 title: "귀를 기울이다"
 tags: "동인지 show_and_tell"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-01-blog-post_79/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-01-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7510452598644053731" itemprop="description articleBody">

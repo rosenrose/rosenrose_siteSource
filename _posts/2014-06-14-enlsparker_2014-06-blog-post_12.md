@@ -1,7 +1,7 @@
 ---
 title: "환상에 이르는 병"
 tags: "동인지 strange_chameleon"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-06-blog-post_12/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-06-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3425171399932098079" itemprop="description articleBody">

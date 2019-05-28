@@ -1,7 +1,7 @@
 ---
 title: "THE DREAM TRAVELER - 백루검 창세기 Ⅱ"
 tags: "동인지 daddy_leaf_square"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_29/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-10-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5283918997652443697" itemprop="description articleBody">

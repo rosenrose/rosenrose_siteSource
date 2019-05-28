@@ -1,7 +1,7 @@
 ---
 title: "휘침성 만화"
 tags: "캐릭터_세키반키 캐릭터_와카사기히메 캐릭터_이누바시리_모미지 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2769/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2769/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

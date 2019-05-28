@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 24"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_세키반키 울지않아_파르시쨩!"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1361/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1361/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

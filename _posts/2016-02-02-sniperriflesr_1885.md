@@ -1,7 +1,7 @@
 ---
 title: "세이신묘 작은 이야기 1~2"
 tags: "みもと 캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1885/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1885/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

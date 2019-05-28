@@ -1,7 +1,7 @@
 ---
 title: "엔젤모드☆유카링"
 tags: "わかたけ 캐릭터_카자미_유카 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2997/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2997/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

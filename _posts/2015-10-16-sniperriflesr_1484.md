@@ -1,7 +1,7 @@
 ---
 title: "헤카순호 떡 만화"
 tags: "노랑오리 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1484/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1484/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

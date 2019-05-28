@@ -1,7 +1,7 @@
 ---
 title: "사랑을 갈구하여 앞장서다"
 tags: "逕-komichi- 細道小道 호소미치_코미치 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_콘파쿠_요우무 캐릭터_코치야_사나에 캐릭터_레밀리아_스칼렛 캐릭터_이부키_스이카 캐릭터_앨리스_마가트로이드 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 이벤트_例大祭14 이벤트_예대제_14 시리어스_어두움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5000/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5000/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "뜬금없는 사구도레 2컷 만화 세 편"
 tags: "野生の新垢奴 @ataro11802 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5974/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5974/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

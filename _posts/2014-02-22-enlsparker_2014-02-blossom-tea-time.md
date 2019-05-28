@@ -1,7 +1,7 @@
 ---
 title: "Blossom tea time"
 tags: "기타동인지 純情プラスチック"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-blossom-tea-time/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-02-blossom-tea-time/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1394895339682265726" itemprop="description articleBody">

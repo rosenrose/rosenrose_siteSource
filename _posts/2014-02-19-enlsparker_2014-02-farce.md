@@ -1,7 +1,7 @@
 ---
 title: "Farce"
 tags: "기타동인지 ししがみ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-farce/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-02-farce/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3249898140858057232" itemprop="description articleBody">

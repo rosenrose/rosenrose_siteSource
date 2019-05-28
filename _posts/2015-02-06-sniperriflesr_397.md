@@ -1,7 +1,7 @@
 ---
 title: "야고코로 진료기록 2"
 tags: "如月亮 여월량_키라사기_료 双月亭 쌍월량_후타츠키테 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_콘파쿠_요우무 캐릭터_이나바_테위 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_카와시로_니토리 캐릭터_호시구마_유기 캐릭터_레이우지_우츠호 캐릭터_카엔뵤_린 캐릭터_쿠로다니_야마메 캐릭터_코메이지_사토리 캐릭터_타타라_코가사 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 이벤트_sc45 약"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/397/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/397/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "이사 대작전!"
 tags: "동인지 letra"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-05-blog-post_406/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-05-blog-post_406/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7347355952508912978" itemprop="description articleBody">

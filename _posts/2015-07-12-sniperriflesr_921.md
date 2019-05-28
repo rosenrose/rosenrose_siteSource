@@ -1,7 +1,7 @@
 ---
 title: "로리스 쨩과 치코 쨩 1~2"
 tags: "けぬー ちりわぁく 캐릭터_히나나위_텐시 캐릭터_앨리스_마가트로이드 캐릭터_나가에_이쿠 캐릭터_상하이 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/921/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/921/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

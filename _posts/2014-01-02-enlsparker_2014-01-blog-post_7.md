@@ -1,7 +1,7 @@
 ---
 title: "무릎위의 고양이"
 tags: "동인지 柚子桃ジャム"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-01-blog-post_7/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-01-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6317360740199215775" itemprop="description articleBody">

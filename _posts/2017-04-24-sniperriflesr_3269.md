@@ -1,7 +1,7 @@
 ---
 title: "언더 욜 로망스매쉬 [ Under Your Romansmash ]"
 tags: "乾ぬい 이누이누이 inui_nui 캐릭터_무라사_미나미츠 캐릭터_히지리_뱌쿠렌 캐릭터_쿠모이_이치린 캐릭터_호쥬_누에 캐릭터_운잔 캐릭터_모리야_스와코 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_토라마루_쇼 캐릭터_키리사메_마리사 캐릭터_나즈린 이벤트_c79 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/3269/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/3269/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

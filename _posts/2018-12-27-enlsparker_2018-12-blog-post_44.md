@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 레이무의 별 볼일 없는 하루"
 tags: "동인지 よぬりめ"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-12-blog-post_44/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2018-12-blog-post_44/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9208553485571240284" itemprop="description articleBody">

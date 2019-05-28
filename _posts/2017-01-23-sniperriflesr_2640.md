@@ -1,7 +1,7 @@
 ---
 title: "요우무쨩 최근의 플레이"
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_콘파쿠_요우무 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2640/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2640/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

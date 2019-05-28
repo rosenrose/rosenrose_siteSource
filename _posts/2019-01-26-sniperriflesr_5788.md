@@ -1,7 +1,7 @@
 ---
 title: "고민"
 tags: "あやの @ayn398 아야노 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5788/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5788/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

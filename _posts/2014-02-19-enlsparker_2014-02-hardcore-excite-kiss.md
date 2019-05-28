@@ -1,7 +1,7 @@
 ---
 title: "HARDCORE EXCITE KISS"
 tags: "동인지 angel_type"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-hardcore-excite-kiss/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-02-hardcore-excite-kiss/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4934994597796598464" itemprop="description articleBody">

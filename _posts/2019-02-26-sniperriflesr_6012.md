@@ -1,7 +1,7 @@
 ---
 title: "사쿠야씨가 팬티를 보여주었습니다"
 tags: "星レーズン @starraisins 캐릭터_이자요이_사쿠야 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/6012/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/6012/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

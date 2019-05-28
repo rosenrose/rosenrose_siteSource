@@ -1,7 +1,7 @@
 ---
 title: "다정한 손길"
 tags: "るーらら @luurara64 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 시리어스_밝음"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5649/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5649/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

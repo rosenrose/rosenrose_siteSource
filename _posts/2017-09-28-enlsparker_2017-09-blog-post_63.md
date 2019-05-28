@@ -1,7 +1,7 @@
 ---
 title: "전신계열 천파협란"
 tags: "동인지 小豆粥"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-09-blog-post_63/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2017-09-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6275527417592638364" itemprop="description articleBody">

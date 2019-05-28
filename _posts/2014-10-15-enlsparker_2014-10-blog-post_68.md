@@ -1,7 +1,7 @@
 ---
 title: "이카루스"
 tags: "동인지 薬味さらい"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-10-blog-post_68/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-10-blog-post_68/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7538304494097291899" itemprop="description articleBody">

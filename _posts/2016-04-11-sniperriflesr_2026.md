@@ -1,7 +1,7 @@
 ---
 title: "개와 까마귀의 관계"
 tags: "futa なべぞこ 나베조코 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2026/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2026/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

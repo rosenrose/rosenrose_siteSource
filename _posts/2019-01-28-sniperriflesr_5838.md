@@ -1,7 +1,7 @@
 ---
 title: "ㅇㄽ"
 tags: "ㅇㅇ 112．140 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5838/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5838/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

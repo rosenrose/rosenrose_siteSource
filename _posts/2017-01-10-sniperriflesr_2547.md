@@ -1,7 +1,7 @@
 ---
 title: "봉래재판 ~ Blinking judgment ~"
 tags: "うりうり show_and_tell 캐릭터_시키에이키_야마나자두 캐릭터_하쿠레이_레이무 캐릭터_봉래인형 시리어스_진지"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2547/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2547/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

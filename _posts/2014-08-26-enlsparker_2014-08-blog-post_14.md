@@ -1,7 +1,7 @@
 ---
 title: "오토메 프라이스리스"
 tags: "동인지 ギロチン銀座"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-08-blog-post_14/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-08-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8022215298911739544" itemprop="description articleBody">

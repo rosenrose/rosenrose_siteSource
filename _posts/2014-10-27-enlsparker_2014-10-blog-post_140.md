@@ -1,7 +1,7 @@
 ---
 title: "한겨울이라도!! 따뜻하다구요 유우카씨"
 tags: "동인지 柚子桃ジャム"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-10-blog-post_140/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-10-blog-post_140/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7168118311573889904" itemprop="description articleBody">

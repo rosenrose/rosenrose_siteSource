@@ -1,7 +1,7 @@
 ---
 title: "어서오세요 모노노베"
 tags: "동인지 蒼空市場"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_550/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_550/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9087612137785029547" itemprop="description articleBody">

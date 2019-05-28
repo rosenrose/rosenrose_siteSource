@@ -1,7 +1,7 @@
 ---
 title: "수음의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2877/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2877/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

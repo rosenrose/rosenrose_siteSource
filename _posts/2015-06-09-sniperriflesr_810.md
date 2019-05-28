@@ -1,7 +1,7 @@
 ---
 title: "좋아좋아 태자님"
 tags: "futa なべぞこ 나베조코 캐릭터_미야코_요시카 캐릭터_소가노_토지코 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/810/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/810/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

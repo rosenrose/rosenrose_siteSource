@@ -1,7 +1,7 @@
 ---
 title: "Remily the Strange"
 tags: "기타동인지 genocide_kitten"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-05-remily-strange/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-05-remily-strange/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8502269775908693929" itemprop="description articleBody">

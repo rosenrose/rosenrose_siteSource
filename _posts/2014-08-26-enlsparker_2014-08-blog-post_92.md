@@ -1,7 +1,7 @@
 ---
 title: "비를 피하다"
 tags: "동인지 personal_color"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-08-blog-post_92/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-08-blog-post_92/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6765252010767160904" itemprop="description articleBody">

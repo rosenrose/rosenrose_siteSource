@@ -1,7 +1,7 @@
 ---
 title: "침식"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_쿠모이_이치린 급식첸_만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3023/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/3023/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "헤카티아가 순호 달래는 만화"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_헤카티아_라피스라줄리 캐릭터_순호 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1633/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1633/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

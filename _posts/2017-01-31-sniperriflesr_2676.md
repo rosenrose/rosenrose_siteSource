@@ -1,7 +1,7 @@
 ---
 title: "푸딩을 혼자서 먹어버리는 여자아이"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 [번역]_4컷／단편만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2676/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2676/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

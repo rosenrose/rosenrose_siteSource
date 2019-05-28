@@ -1,7 +1,7 @@
 ---
 title: "에이린과 케이네의 이야기"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 이벤트_秋季例大祭2 이벤트_추계예대제2 시리어스_밝음"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2715/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2715/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

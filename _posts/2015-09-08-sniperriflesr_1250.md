@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 번외편2"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_치르노 캐릭터_카미시라사와_케이네 캐릭터_스타_사파이어 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_클라운피스 캐릭터_대요정 울지않아_파르시쨩!"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1250/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1250/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

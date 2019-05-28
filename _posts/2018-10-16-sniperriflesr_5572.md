@@ -1,7 +1,7 @@
 ---
 title: "히조온 만화"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_히지리_뱌쿠렌 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5572/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5572/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b></b><br/></p>

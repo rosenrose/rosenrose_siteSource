@@ -1,7 +1,7 @@
 ---
 title: "가끔은 어릴적 꿈을 꿀 때도 있다"
 tags: "黒羽ラピッド 쿠로바네_라피드 ラピスラズリ鉱石 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1966/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1966/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

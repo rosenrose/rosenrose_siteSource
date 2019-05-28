@@ -1,7 +1,7 @@
 ---
 title: "첸짱은 아직 돌아간다"
 tags: "えなみ教授 에나미교수 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_야쿠모_유카리 급식첸_만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2435/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2435/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

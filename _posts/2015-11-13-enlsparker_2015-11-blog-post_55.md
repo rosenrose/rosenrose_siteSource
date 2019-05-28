@@ -1,7 +1,7 @@
 ---
 title: "지켜보기만 하는 건, 오늘로 그만"
 tags: "동인지 よぬりめ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-11-blog-post_55/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-11-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5664270599203614069" itemprop="description articleBody">

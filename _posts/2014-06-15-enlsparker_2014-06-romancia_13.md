@@ -1,7 +1,7 @@
 ---
 title: "환상 Romancia"
 tags: "기타동인지 kirsch"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-06-romancia_13/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-06-romancia_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4878378701837206845" itemprop="description articleBody">

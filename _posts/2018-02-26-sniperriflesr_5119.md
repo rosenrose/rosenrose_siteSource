@@ -1,7 +1,7 @@
 ---
 title: "란님이 너무 정력적이라 목숨이 위험한 만화"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 sexual_theme"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5119/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5119/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

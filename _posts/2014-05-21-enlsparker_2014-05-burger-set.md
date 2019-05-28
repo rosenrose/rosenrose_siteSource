@@ -1,7 +1,7 @@
 ---
 title: "동방☆마스터 Burger Set!"
 tags: "동인지 square_meters"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-burger-set/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-05-burger-set/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5540390768058093549" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "코스즈와 할아버님"
 tags: "동인지 にくたまそば"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-04-blog-post_19/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2016-04-blog-post_19/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9190109706430768925" itemprop="description articleBody">

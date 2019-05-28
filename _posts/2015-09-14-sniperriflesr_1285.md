@@ -1,7 +1,7 @@
 ---
 title: "최근에 야쿠모씨가 나오지 않는 이유"
 tags: "futa なべぞこ 나베조코 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1285/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1285/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

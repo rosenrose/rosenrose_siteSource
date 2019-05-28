@@ -1,7 +1,7 @@
 ---
 title: "사제"
 tags: "동인지 薬味さらい"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-01-blog-post_18/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-01-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-621405343588932480" itemprop="description articleBody">

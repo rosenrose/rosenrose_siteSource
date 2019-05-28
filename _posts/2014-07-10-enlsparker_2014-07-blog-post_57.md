@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 얼음, 여동생"
 tags: "동인지 青"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-07-blog-post_57/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-07-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3251231573405480529" itemprop="description articleBody">

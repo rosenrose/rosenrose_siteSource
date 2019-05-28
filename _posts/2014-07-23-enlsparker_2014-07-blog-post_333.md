@@ -1,7 +1,7 @@
 ---
 title: "동방청첩.화외,저고,인,후에 모리야"
 tags: "동인지 青"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-blog-post_333/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-07-blog-post_333/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9036956277831832797" itemprop="description articleBody">

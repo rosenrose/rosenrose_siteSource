@@ -1,7 +1,7 @@
 ---
 title: "우산 아래에서의 고백"
 tags: "fkey 캐릭터_호쥬_누에 캐릭터_타타라_코가사 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/4961/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/4961/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

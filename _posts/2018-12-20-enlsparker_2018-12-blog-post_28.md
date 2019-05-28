@@ -1,7 +1,7 @@
 ---
 title: "치르노와 비가오는 날 장보기"
 tags: "동인지 北国もやし製造所"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-12-blog-post_28/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2018-12-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8907416052591800533" itemprop="description articleBody">

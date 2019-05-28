@@ -1,7 +1,7 @@
 ---
 title: "마리사의 밤"
 tags: "るーらら @luurara64 캐릭터_키리사메_마리사 시리어스_진지"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5583/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5583/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

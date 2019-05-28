@@ -1,7 +1,7 @@
 ---
 title: "나즈범벅이!!"
 tags: "동인지 まぜもの"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-04-blog-post_56/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-04-blog-post_56/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3907072723372487351" itemprop="description articleBody">

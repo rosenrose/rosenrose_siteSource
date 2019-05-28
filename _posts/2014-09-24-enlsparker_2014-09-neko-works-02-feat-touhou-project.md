@@ -1,7 +1,7 @@
 ---
 title: "NEKO WORKs 02 feat. Touhou Project"
 tags: "동인지 neko_works"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-neko-works-02-feat-touhou-project/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-neko-works-02-feat-touhou-project/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3604147803330488260" itemprop="description articleBody">

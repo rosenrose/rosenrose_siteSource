@@ -1,7 +1,7 @@
 ---
 title: "사랑에 빠진 마법사"
 tags: "茶太丸 챠타마루 囲炉裏茶房 화덕다방 이로리_샤보 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/207/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/207/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

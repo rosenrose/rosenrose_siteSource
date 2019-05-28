@@ -1,7 +1,7 @@
 ---
 title: "붉은 꽃"
 tags: "동인지 ハンモック"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-08-blog-post_89/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-08-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4808289338104179454" itemprop="description articleBody">

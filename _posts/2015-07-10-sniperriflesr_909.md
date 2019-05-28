@@ -1,7 +1,7 @@
 ---
 title: "야쿠모가의 여우외모"
 tags: "futa なべぞこ 나베조코 캐릭터_야쿠모_란 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/909/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/909/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

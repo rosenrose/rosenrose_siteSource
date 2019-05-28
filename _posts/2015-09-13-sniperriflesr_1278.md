@@ -1,7 +1,7 @@
 ---
 title: "Fantastic Ocean"
 tags: "こぞう 코조우 少年少女隊 소년소녀군 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 이벤트_c86 시리어스_진지"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1278/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1278/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "지령전의 어머니"
 tags: "虎 citrus＊bw 캐릭터_코메이지_코이시 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 이벤트_アンダーグラウンドカーニバル_3_【地霊祭3】 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3117/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3117/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

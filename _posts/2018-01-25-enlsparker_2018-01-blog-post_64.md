@@ -1,7 +1,7 @@
 ---
 title: "움직이는 대도서관"
 tags: "기타동인지 当身症候群"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-01-blog-post_64/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-01-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1171199118783430114" itemprop="description articleBody">

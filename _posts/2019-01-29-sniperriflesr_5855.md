@@ -1,7 +1,7 @@
 ---
 title: "최종병기와 선생님"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_써니_밀크 캐릭터_대요정 캐릭터_루미아 캐릭터_클라운피스 캐릭터_후지와라노_모코우 캐릭터_치르노 캐릭터_카미시라사와_케이네 캐릭터_카와시로_니토리 캐릭터_릴리_화이트 이벤트_例大祭13 이벤트_예대제_13 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5855/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5855/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

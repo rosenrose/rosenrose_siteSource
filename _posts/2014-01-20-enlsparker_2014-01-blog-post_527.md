@@ -1,7 +1,7 @@
 ---
 title: "이색접"
 tags: "동인지 アンニュイ赤蛸"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-01-blog-post_527/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-01-blog-post_527/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6886681971806573742" itemprop="description articleBody">

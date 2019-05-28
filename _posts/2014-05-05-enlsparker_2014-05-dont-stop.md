@@ -1,7 +1,7 @@
 ---
 title: "Don't Stop 홍마관"
 tags: "합동인지"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-dont-stop/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-05-dont-stop/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7268293427735291327" itemprop="description articleBody">

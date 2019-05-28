@@ -1,7 +1,7 @@
 ---
 title: "반전 스펙터클"
 tags: "乾ぬい 이누이누이 inui_nui 캐릭터_메를랑_프리즘리버 캐릭터_리리카_프리즘리버 캐릭터_루나사_프리즘리버 캐릭터_키리사메_마리사 캐릭터_츠쿠모_벤벤 캐릭터_츠쿠모_야츠하시 캐릭터_도레미_스위트 이벤트_예대제_13 이벤트_例大祭13 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2519/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2519/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

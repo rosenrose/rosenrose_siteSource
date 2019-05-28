@@ -1,7 +1,7 @@
 ---
 title: "페러펠 오토메 트리퍼"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_홍_메이링 캐릭터_소악마 캐릭터_히나나위_텐시 캐릭터_나가에_이쿠 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 이벤트_c76 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/332/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/332/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

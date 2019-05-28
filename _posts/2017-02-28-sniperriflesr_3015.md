@@ -1,7 +1,7 @@
 ---
 title: "언니 할짝할짝"
 tags: "えろ豆 에로마메 ころもにゅ 코로모뉴 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3015/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3015/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

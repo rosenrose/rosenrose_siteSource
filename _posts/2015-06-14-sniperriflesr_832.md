@@ -1,7 +1,7 @@
 ---
 title: "고참의 횡포"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_리글_나이트버그 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/832/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/832/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

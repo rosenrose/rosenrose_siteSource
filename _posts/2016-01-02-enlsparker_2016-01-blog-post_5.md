@@ -1,7 +1,7 @@
 ---
 title: "세이요시!"
 tags: "동인지 ころもにゅ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-01-blog-post_5/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-01-blog-post_5/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-478337812810771386" itemprop="description articleBody">

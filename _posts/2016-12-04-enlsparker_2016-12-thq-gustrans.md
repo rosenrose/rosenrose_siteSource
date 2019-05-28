@@ -1,7 +1,7 @@
 ---
 title: "그녀가 어디론가 떠나는 이유"
 tags: "동인지 蓮華座"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-12-thq-gustrans/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-12-thq-gustrans/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3462760551261608406" itemprop="description articleBody">

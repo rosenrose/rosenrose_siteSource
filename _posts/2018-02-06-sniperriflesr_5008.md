@@ -1,7 +1,7 @@
 ---
 title: "역병신 desperate"
 tags: "ぽて @ptkankodori 閑古鳥茶園 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_카소다니_쿄코 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_쿠모이_이치린 캐릭터_하쿠레이_레이무 캐릭터_히나나위_텐시 시리어스_밝음"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5008/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5008/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

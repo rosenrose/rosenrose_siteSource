@@ -1,7 +1,7 @@
 ---
 title: "그대로"
 tags: "동인지 森の蟲 forestrest"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-02-blog-post_16/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-02-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3804602394607188203" itemprop="description articleBody">

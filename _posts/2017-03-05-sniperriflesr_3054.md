@@ -1,7 +1,7 @@
 ---
 title: "눈사람 만들기"
 tags: "鱗士 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3054/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/3054/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

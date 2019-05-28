@@ -1,7 +1,7 @@
 ---
 title: "카구야"
 tags: "동인지 徒歩二分"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-04-blog-post_127/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-04-blog-post_127/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2975144446754125452" itemprop="description articleBody">

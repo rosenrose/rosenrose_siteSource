@@ -1,7 +1,7 @@
 ---
 title: "Indigo Inherit"
 tags: "おこげ煎餅 오코게센베 煎餅屋 senbeiya 과자가게 전병가게 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_이부키_스이카 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_루나사_프리즘리버 캐릭터_리리카_프리즘리버 캐릭터_메를랑_프리즘리버 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_야사카_카나코 캐릭터_모리야_스와코 이벤트_c80 시리어스_진지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/995/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/995/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

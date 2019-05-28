@@ -1,7 +1,7 @@
 ---
 title: "다이쨩을 희롱하자!"
 tags: "にげサポ @nigesapo 캐릭터_대요정 캐릭터_치르노 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5654/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5654/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

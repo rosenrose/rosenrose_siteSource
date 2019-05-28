@@ -1,7 +1,7 @@
 ---
 title: "마토메티드 우동게인"
 tags: "동인지 アバ番地"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2019-01-blog-post/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2019-01-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8883132712875893386" itemprop="description articleBody">

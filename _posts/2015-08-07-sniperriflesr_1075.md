@@ -1,7 +1,7 @@
 ---
 title: "계획대로"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_하쿠레이_레이무 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1075/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1075/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "제물 제네시스"
 tags: "カタケイ 型k式 캐릭터_신키 캐릭터_유메코 캐릭터_앨리스 캐릭터_구작 이벤트_げんましん通 시리어스_어두움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1453/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1453/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

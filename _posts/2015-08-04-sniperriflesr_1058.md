@@ -1,7 +1,7 @@
 ---
 title: "좀 더 힘내세요 유카님"
 tags: "綾杉つばき 아야스기_츠바키 まにまに。 마니마니 manimani。 캐릭터_카자미_유카 캐릭터_리글_나이트버그 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_히나나위_텐시 캐릭터_코치야_사나에 이벤트_c82 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1058/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1058/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><span style="; "><br/></span></strong></p>

@@ -1,7 +1,7 @@
 ---
 title: "오늘은 사쿠야가 없는 날!"
 tags: "동인지 ふすま喫茶"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-06-blog-post_63/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-06-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5584949230559726957" itemprop="description articleBody">

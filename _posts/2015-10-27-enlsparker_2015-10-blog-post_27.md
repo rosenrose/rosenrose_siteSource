@@ -1,7 +1,7 @@
 ---
 title: "죽림영상"
 tags: "동인지 米"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-10-blog-post_27/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-10-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3339436989775201069" itemprop="description articleBody">

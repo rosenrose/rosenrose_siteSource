@@ -1,7 +1,7 @@
 ---
 title: "ONE OUT OF TWO"
 tags: "so_what! 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_東方合同祭事_参 시리어스_진지"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1010/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1010/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

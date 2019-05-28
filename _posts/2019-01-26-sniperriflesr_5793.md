@@ -1,7 +1,7 @@
 ---
 title: "꿈."
 tags: "ch 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5793/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5793/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

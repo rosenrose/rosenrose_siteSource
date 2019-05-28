@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 62"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_카엔뵤_린 캐릭터_오린 울지않아_파르시쨩!"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2381/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2381/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

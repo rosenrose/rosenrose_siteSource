@@ -1,7 +1,7 @@
 ---
 title: "Faith Mission"
 tags: "동인지 letra"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-03-faith-mission/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-03-faith-mission/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4105265049053072159" itemprop="description articleBody">

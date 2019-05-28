@@ -1,7 +1,7 @@
 ---
 title: "달빛이 비추는 방"
 tags: "동인지 よぬりめ"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-12-blog-post_26/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-12-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8832758853397381660" itemprop="description articleBody">

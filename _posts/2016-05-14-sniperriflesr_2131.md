@@ -1,7 +1,7 @@
 ---
 title: "아마즈맥스"
 tags: "あまず 아마즈 amaz 이벤트_c89 합동-귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2131/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2131/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

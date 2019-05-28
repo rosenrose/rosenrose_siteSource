@@ -1,7 +1,7 @@
 ---
 title: "Zauberei das Kochen"
 tags: "동인지 時間屋"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-05-zauberei-das-kochen/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-05-zauberei-das-kochen/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5375997672952320521" itemprop="description articleBody">

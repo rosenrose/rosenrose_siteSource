@@ -1,7 +1,7 @@
 ---
 title: "Lonely Planet?"
 tags: "동인지 イスタンブール・ハイソックス"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-12-lonely-planet/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2016-12-lonely-planet/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7344816551414887398" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "순정 익센트릭 허니 페이스"
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_후타츠이와_마미조 이벤트_c85 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/402/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/402/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

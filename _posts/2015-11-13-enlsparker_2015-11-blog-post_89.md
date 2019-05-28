@@ -1,7 +1,7 @@
 ---
 title: "지저폭군 사토리님"
 tags: "동인지 銀イオン"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-11-blog-post_89/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-11-blog-post_89/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9021084040950711914" itemprop="description articleBody">

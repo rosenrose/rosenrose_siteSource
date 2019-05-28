@@ -1,7 +1,7 @@
 ---
 title: "억지 !! 유카링!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_키진_세이자 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/570/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/570/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

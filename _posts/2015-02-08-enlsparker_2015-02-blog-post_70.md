@@ -1,7 +1,7 @@
 ---
 title: "미드나이트 페어리"
 tags: "동인지 四方山"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-02-blog-post_70/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2015-02-blog-post_70/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3882077670177392112" itemprop="description articleBody">

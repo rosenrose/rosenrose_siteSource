@@ -1,7 +1,7 @@
 ---
 title: "만나서 반가워요"
 tags: "なまうに 深海のかぜ 캐릭터_이터니티_라바 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3309/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3309/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

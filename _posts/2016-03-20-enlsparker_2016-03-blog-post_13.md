@@ -1,7 +1,7 @@
 ---
 title: "진위 불명의 손가락을 건 약속"
 tags: "동인지 スアリテスミ"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-03-blog-post_13/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2016-03-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7847160446309463758" itemprop="description articleBody">

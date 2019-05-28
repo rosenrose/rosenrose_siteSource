@@ -1,7 +1,7 @@
 ---
 title: "끔찍한 형벌"
 tags: "kongthegrain 곡물시리즈 캐릭터_야쿠모_유카리 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2556/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2556/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

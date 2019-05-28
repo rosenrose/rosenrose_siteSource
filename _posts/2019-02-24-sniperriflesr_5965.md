@@ -1,7 +1,7 @@
 ---
 title: "즐거운 설날맞이 동방만화"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5965/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5965/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "이자요이 사쿠야는 조용히 살고 싶다"
 tags: "기타동인지 s＋y"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-07-blog-post_71/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2018-07-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5736935425307179373" itemprop="description articleBody">

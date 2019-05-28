@@ -1,7 +1,7 @@
 ---
 title: "미소 짓는 코코로 에듀케이션"
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_하타노_코코로 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 이벤트_例大祭12 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1500/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1500/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

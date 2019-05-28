@@ -1,7 +1,7 @@
 ---
 title: "버터×모미"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이바라키_카센 이벤트_제_1회_추계_예대제 이벤트_第一回_秋季例大祭 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/742/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/742/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

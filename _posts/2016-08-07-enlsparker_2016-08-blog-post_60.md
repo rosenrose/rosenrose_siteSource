@@ -1,7 +1,7 @@
 ---
 title: "소악마씨 지명 들어왔습니다!"
 tags: "동인지 粟米湯"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-08-blog-post_60/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-08-blog-post_60/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-522943184718487755" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "검술의 달인 만화"
 tags: "kongthegrain 곡물시리즈 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1938/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/1938/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

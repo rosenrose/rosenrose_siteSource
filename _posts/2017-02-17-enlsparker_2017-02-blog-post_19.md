@@ -1,7 +1,7 @@
 ---
 title: "여기는 비봉클럽 환상향지부"
 tags: "기타동인지 友毒屋"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-02-blog-post_19/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2017-02-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4468014596006159572" itemprop="description articleBody">

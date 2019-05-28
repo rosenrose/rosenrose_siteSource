@@ -1,7 +1,7 @@
 ---
 title: "작은 현장의 작은 숙원"
 tags: "dynamo 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 캐릭터_카와시로_니토리 캐릭터_야고코로_에이린 이벤트_예대제_8 합동-진지[밝음]／귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/413/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/413/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "머니 퓰레이트"
 tags: "동인지 ハラペーニョチップス"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-01-blog-post/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-01-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2267499034953539585" itemprop="description articleBody">

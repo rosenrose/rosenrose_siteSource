@@ -1,7 +1,7 @@
 ---
 title: "코치야 사나에가 드로워즈를 입을지도 모르는 책"
 tags: "동인지 赤色バニラ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post_79/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-02-blog-post_79/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9087212499222949961" itemprop="description articleBody">

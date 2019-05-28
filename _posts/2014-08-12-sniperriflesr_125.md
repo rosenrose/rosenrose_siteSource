@@ -1,7 +1,7 @@
 ---
 title: "늠름하게 피는 꽃같은 그대에게"
 tags: "桐島りおな riona_kirishima silverstone 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/125/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/125/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

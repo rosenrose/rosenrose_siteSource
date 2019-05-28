@@ -1,7 +1,7 @@
 ---
 title: "칠석 [ 처음에 빌었던 소원 ]"
 tags: "シノアサ 시노아사 vivit_gray 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_슬픔"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/129/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/129/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

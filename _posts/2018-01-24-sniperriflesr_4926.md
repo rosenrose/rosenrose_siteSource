@@ -1,7 +1,7 @@
 ---
 title: "나란히 도레사구"
 tags: "ふみ切‏ @papiermesser 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4926/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/4926/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 번외편7"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_미즈하시_파르시 울지않아_파르시쨩!"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2196/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2196/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

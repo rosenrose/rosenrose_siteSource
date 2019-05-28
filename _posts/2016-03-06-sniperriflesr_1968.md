@@ -1,7 +1,7 @@
 ---
 title: "누에쨩과 태자"
 tags: "黒味 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1968/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1968/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

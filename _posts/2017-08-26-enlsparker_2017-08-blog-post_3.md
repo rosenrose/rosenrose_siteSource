@@ -1,7 +1,7 @@
 ---
 title: "카자미 유카라는 여자"
 tags: "동인지 有機化合物"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-08-blog-post_3/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-08-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7228268921076070053" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "정체불명의 마리앨리변화"
 tags: "기타동인지 矢ハイ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-08-blog-post_15/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2017-08-blog-post_15/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3221986465625255069" itemprop="description articleBody">

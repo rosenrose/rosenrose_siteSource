@@ -1,7 +1,7 @@
 ---
 title: "바람피다 걸린 레이무와 유카리"
 tags: "蒼兎 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3148/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3148/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

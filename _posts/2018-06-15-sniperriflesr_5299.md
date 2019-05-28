@@ -1,7 +1,7 @@
 ---
 title: "코이시의 서프라이즈 프레젠트"
 tags: "いたたたた @itatatata6 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5299/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5299/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

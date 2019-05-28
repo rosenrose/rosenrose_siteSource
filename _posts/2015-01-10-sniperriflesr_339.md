@@ -1,7 +1,7 @@
 ---
 title: "신과 나"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_치르노 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 캐릭터_대요정 캐릭터_루미아 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 이벤트_c85 시리어스_밝음"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/339/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/339/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

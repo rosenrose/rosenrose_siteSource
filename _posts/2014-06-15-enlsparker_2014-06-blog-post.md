@@ -1,7 +1,7 @@
 ---
 title: "오토메 윌스"
 tags: "동인지 ギロチン銀座"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-06-blog-post/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-06-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8637798508679549920" itemprop="description articleBody">

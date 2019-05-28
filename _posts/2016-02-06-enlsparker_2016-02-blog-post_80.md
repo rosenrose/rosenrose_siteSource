@@ -1,7 +1,7 @@
 ---
 title: "소리없이 이렇게"
 tags: "동인지 万里の少女"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-02-blog-post_80/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-02-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1464754948893761082" itemprop="description articleBody">

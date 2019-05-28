@@ -1,7 +1,7 @@
 ---
 title: "좀 더 나이를 먹으면"
 tags: "縞城依月 @p_2k 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5305/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5305/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>

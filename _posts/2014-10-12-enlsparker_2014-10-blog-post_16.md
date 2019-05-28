@@ -1,7 +1,7 @@
 ---
 title: "우사미 렌코가 감기에 걸렸다"
 tags: "동인지 四方山"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_16/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-10-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3545146994562178201" itemprop="description articleBody">

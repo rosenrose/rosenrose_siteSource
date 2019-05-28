@@ -1,7 +1,7 @@
 ---
 title: "기고만장에 취해 결국 술에 취해가는 레이센씨가 여러모로"
 tags: "ｇ式過剰 캐릭터_홍_메이링 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5009/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5009/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

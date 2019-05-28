@@ -1,7 +1,7 @@
 ---
 title: "아직 인정하지 않아"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_히지리_뱌쿠렌 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_히나나위_텐시 캐릭터_우사미_스미레코 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5533/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5533/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "잠깐의 반짝임"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_후지와라노_모코우 급식첸_만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2080/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2080/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

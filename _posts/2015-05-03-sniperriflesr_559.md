@@ -1,7 +1,7 @@
 ---
 title: "아이네 클라이네 [ 상 ]"
 tags: "会帆 十誤一会 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_하쿠레이_레이무 캐릭터_시키에이키_야마나자두 캐릭터_카와시로_니토리 캐릭터_이누바시리_모미지 이벤트_例大祭_11 이벤트_예대제_11 시리어스_진지"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/559/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/559/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

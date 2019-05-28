@@ -1,7 +1,7 @@
 ---
 title: "유카에게 발로 밟혀받다"
 tags: "アカバシ 캐릭터_카자미_유카 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2818/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2818/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

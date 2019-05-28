@@ -1,7 +1,7 @@
 ---
 title: "사토리와 코이시의 두근두근 온천여행 + α"
 tags: "おみなえし 오미나에시 たけのこ。 타케노코 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_하타노_코코로 캐릭터_히나나위_텐시 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 이벤트_c91 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/3075/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/3075/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

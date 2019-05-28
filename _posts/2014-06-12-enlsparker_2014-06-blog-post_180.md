@@ -1,7 +1,7 @@
 ---
 title: "축하의 소리가 들리지 않아"
 tags: "동인지 happy_flame_time"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-06-blog-post_180/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-06-blog-post_180/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3676893323502324931" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그레이트 이스케이프"
 tags: "캐릭터_마에리베리_한 캐릭터_우사미_렌코 캐릭터_카미시라사와_케이네 캐릭터_이누바시리_모미지 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_샤메이마루_아야 캐릭터_카자미_유카 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_치르노 캐릭터_대요정 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_이바라키_카센 캐릭터_이부키_스이카 이벤트_紅楼夢8 이벤트_홍루몽8 시리어스_밝음"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1722/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1722/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

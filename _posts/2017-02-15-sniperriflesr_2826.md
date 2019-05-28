@@ -1,7 +1,7 @@
 ---
 title: "섣달 그믐 - 코마에키 [ 2017 ]"
 tags: "きつね丸 葉々庵 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2826/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2826/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

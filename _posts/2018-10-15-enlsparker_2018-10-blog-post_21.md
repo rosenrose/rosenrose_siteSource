@@ -1,7 +1,7 @@
 ---
 title: "스미레코이시괴짜"
 tags: "동인지 チェねずみ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-10-blog-post_21/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2018-10-blog-post_21/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5760593306339528283" itemprop="description articleBody">

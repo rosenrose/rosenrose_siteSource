@@ -1,7 +1,7 @@
 ---
 title: "레이우지 우츠호와 야타가라스"
 tags: "동인지 ニイ工房"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-04-blog-post_72/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2018-04-blog-post_72/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3134024211140871394" itemprop="description articleBody">

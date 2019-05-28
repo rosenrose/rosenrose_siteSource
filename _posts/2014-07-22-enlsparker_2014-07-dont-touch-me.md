@@ -1,7 +1,7 @@
 ---
 title: "DON'T TOUCH ME"
 tags: "동인지 ふあん亭"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-07-dont-touch-me/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-07-dont-touch-me/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5417688968884316147" itemprop="description articleBody">

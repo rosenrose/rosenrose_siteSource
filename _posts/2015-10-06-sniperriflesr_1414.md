@@ -1,7 +1,7 @@
 ---
 title: "알아줬으면 하는 사구메씨"
 tags: "うさ義 캐릭터_키신_사구메 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1414/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1414/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

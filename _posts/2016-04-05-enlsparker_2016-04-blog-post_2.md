@@ -1,7 +1,7 @@
 ---
 title: "세계의 반쪽을 너에게 줄게"
 tags: "기타동인지 非統一原子質量単位"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-04-blog-post_2/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-04-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-906722431577634617" itemprop="description articleBody">

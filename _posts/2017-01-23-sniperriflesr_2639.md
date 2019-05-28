@@ -1,7 +1,7 @@
 ---
 title: "모코우 만화"
 tags: "캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 약"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2639/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2639/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

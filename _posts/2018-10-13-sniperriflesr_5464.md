@@ -1,7 +1,7 @@
 ---
 title: "페로페로 사구메님"
 tags: "軟水 @yokubari_1180 軟野菜エレクトロニクス 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5464/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5464/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

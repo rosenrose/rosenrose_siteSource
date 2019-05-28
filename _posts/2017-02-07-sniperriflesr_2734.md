@@ -1,7 +1,7 @@
 ---
 title: "충치"
 tags: "ジェット虚無僧 제트코무소 캐릭터_코치야_사나에 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2734/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2734/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

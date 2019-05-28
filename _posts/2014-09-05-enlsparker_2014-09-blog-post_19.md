@@ -1,7 +1,7 @@
 ---
 title: "오니가 없는 틈에"
 tags: "동인지 こげコロッケ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_19/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2603855728216002056" itemprop="description articleBody">

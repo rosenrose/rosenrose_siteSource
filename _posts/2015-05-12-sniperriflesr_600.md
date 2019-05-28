@@ -1,7 +1,7 @@
 ---
 title: "우동게쨩 자기 축하해!"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_레이센_우동게인_이나바 캐릭터_토라마루_쇼 캐릭터_카엔뵤_린 캐릭터_오린 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/600/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/600/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

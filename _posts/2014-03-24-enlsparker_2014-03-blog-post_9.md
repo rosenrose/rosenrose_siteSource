@@ -1,7 +1,7 @@
 ---
 title: "카페 노스텔지아"
 tags: "동인지 ビタミンごはん"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-03-blog-post_9/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-03-blog-post_9/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7579064483095723916" itemprop="description articleBody">

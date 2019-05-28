@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 19화"
 tags: "みつもと 미츠모토 캐릭터_키리사메_마리사 캐릭터_후지와라노_모코우 사랑하는_야작_[完]"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/939/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/939/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

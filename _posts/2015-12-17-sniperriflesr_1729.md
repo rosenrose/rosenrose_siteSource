@@ -1,7 +1,7 @@
 ---
 title: "코코로의 생활"
 tags: "いちみ 이치미 まぜもの 마제모노 캐릭터_코메이지_코이시 캐릭터_하타노_코코로 캐릭터_타타라_코가사 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_모노노베노_후토 캐릭터_이바라키_카센 캐릭터_후지와라노_모코우 캐릭터_이자요이_사쿠야 캐릭터_호시구마_유기 캐릭터_샤메이마루_아야 캐릭터_호쥬_누에 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 캐릭터_코치야_사나에 캐릭터_히나나위_텐시 캐릭터_레밀리아_스칼렛 캐릭터_루미아 이벤트_c84 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1729/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1729/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

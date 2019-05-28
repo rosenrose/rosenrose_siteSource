@@ -1,7 +1,7 @@
 ---
 title: "식용식물"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_하쿠레이_레이무 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/799/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/799/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

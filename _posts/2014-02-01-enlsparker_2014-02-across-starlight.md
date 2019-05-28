@@ -1,7 +1,7 @@
 ---
 title: "Across The Starlight"
 tags: "기타동인지 rengaworks"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-02-across-starlight/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-02-across-starlight/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1209308175295317939" itemprop="description articleBody">

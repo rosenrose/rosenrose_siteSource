@@ -1,7 +1,7 @@
 ---
 title: "작은 거랑 큰 거랑"
 tags: "めぐみや seemu 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 이벤트_例大祭11 이벤트_예대제_11 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/138/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/138/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

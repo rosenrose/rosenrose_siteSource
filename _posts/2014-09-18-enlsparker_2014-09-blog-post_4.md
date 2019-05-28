@@ -1,7 +1,7 @@
 ---
 title: "충성심은 메이드를 죽인다"
 tags: "동인지 イタリアンハスキー"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_4/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4415711292959369792" itemprop="description articleBody">

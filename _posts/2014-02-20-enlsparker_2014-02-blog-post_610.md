@@ -1,7 +1,7 @@
 ---
 title: "놓고 온 것 시작되는 것"
 tags: "동인지 ukiukiwatching"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-blog-post_610/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-02-blog-post_610/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4375395135603710497" itemprop="description articleBody">

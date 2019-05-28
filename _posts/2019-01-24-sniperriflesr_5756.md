@@ -1,7 +1,7 @@
 ---
 title: "짜장면과 죽음의 먹방을 하는 시온"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_요리가미_시온 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5756/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5756/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

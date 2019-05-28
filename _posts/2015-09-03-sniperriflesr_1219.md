@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 7"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_앨리스_마가트로이드 캐릭터_모토오리_코스즈 캐릭터_파츄리_널릿지 울지않아_파르시쨩!"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1219/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1219/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

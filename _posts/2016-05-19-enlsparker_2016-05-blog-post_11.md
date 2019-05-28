@@ -1,7 +1,7 @@
 ---
 title: "과연화"
 tags: "동인지 倉橋書院"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-05-blog-post_11/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-05-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-411451632739777146" itemprop="description articleBody">

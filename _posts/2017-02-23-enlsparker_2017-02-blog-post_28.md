@@ -1,7 +1,7 @@
 ---
 title: "가버릴 정도가 가장 기분좋답니다"
 tags: "동인지 ふあん亭"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-02-blog-post_28/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2017-02-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4588661041647126779" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "와타츠키 몽쌍 -아이-"
 tags: "pfalz caelestis． 캐릭터_키신_사구메 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_하쿠레이_레이무 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_레이센 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_야쿠모_유카리 캐릭터_치르노 캐릭터_샤메이마루_아야 이벤트_c89 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2292/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2292/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

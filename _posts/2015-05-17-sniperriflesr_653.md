@@ -1,7 +1,7 @@
 ---
 title: "한 명당 하나씩"
 tags: "futa なべぞこ 나베조코 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/653/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/653/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

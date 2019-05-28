@@ -1,7 +1,7 @@
 ---
 title: "스티커사진을 찍으신 사토리님"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/686/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/686/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

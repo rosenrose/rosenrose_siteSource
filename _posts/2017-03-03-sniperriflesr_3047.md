@@ -1,7 +1,7 @@
 ---
 title: "에링게"
 tags: "凡 범 rump 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_앨리스_마가트로이드 이벤트_博多東方祭 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3047/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3047/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

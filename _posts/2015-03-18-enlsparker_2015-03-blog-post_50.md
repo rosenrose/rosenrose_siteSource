@@ -1,7 +1,7 @@
 ---
 title: "요우무에게 베어 받겠습니다"
 tags: "동인지 風前ランプ"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-03-blog-post_50/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2015-03-blog-post_50/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-702318874248739504" itemprop="description articleBody">

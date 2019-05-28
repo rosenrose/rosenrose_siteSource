@@ -1,7 +1,7 @@
 ---
 title: "독경 야바미코"
 tags: "千鳥ねころ 캐릭터_카소다니_쿄코 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_나즈린 캐릭터_토라마루_쇼 캐릭터_쿠모이_이치린 캐릭터_호쥬_누에 이벤트_c89 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2529/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2529/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

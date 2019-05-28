@@ -1,7 +1,7 @@
 ---
 title: "가깝고도 멀리 있는 우리(세상)의 열쇠"
 tags: "기타동인지 sacred_spell"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-05-blog-post_32/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-05-blog-post_32/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1965599784783763999" itemprop="description articleBody">

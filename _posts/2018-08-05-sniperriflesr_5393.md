@@ -1,7 +1,7 @@
 ---
 title: "시체 찾기"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_루미아 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5393/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5393/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

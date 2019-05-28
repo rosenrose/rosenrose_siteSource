@@ -1,7 +1,7 @@
 ---
 title: "꽤 취한 사구메님 + 오마케"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_링고 [번역]_4컷／단편만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1676/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1676/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

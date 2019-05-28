@@ -1,7 +1,7 @@
 ---
 title: "이아이 누구아이 당신아이"
 tags: "동인지 その他大勢"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_512/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_512/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-261790652133464836" itemprop="description articleBody">

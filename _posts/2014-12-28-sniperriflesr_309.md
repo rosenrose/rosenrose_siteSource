@@ -1,7 +1,7 @@
 ---
 title: "호쥬소녀와 그녀들의 제곱"
 tags: "水谷ほづみ 미즈타니_호즈미 星の砂時計 캐릭터_호쥬_누에 캐릭터_나즈린 캐릭터_타타라_코가사 캐릭터_무라사_미나미츠 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_쿠모이_이치린 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_히메카이도_하타테 캐릭터_시키에이키_야마나자두 캐릭터_야쿠모_유카리 이벤트_c82 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/309/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/309/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

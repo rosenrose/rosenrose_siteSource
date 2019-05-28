@@ -1,7 +1,7 @@
 ---
 title: "얼빠진 사선"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_소가노_토지코 캐릭터_카쿠_세이가 약"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2215/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2215/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

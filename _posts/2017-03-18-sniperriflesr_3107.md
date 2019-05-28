@@ -1,7 +1,7 @@
 ---
 title: "사과의 의미"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3107/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/3107/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

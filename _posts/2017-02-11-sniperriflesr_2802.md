@@ -1,7 +1,7 @@
 ---
 title: "20대 헌혈 캠페인"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_레이센_우동게인_이나바 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2802/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2802/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

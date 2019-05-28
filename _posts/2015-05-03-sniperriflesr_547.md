@@ -1,7 +1,7 @@
 ---
 title: "오쿠 「하지마안」"
 tags: "캐릭터_코메이지_사토리 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/547/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/547/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "사무 처리"
 tags: "まるサン まるしき 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2874/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2874/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

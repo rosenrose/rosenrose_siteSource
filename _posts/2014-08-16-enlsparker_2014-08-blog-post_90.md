@@ -1,7 +1,7 @@
 ---
 title: "사쿠야씨와 아가씌 두번째!"
 tags: "동인지 お嬢の浴室"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-08-blog-post_90/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-08-blog-post_90/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2087044815401219406" itemprop="description articleBody">

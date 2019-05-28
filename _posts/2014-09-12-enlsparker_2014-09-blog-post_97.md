@@ -1,7 +1,7 @@
 ---
 title: "환상 가슴콩당"
 tags: "동인지 オレンジミル"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_97/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_97/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4478048205963788020" itemprop="description articleBody">

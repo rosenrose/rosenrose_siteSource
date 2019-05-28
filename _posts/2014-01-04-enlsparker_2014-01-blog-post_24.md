@@ -1,7 +1,7 @@
 ---
 title: "카구야 공주님에게 혼나니까!"
 tags: "동인지 bibasuku"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-01-blog-post_24/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-01-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4031898437882276006" itemprop="description articleBody">

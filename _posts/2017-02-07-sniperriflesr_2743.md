@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 27"
 tags: "にーこ 캐릭터_미스티아_로렐라이 캐릭터_루미아 캐릭터_치르노 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 캐릭터_카자미_유카 캐릭터_리글_나이트버그 캐릭터_이나바_테위 캐릭터_첸 캐릭터_코메이지_사토리 캐릭터_스쿠나_신묘마루 캐릭터_카와시로_니토리 캐릭터_야쿠모_란 바이오_놀이"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2743/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2743/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style=' font-family: 나눔고딕, Helvetica, "Malgun Gothic", "맑은 고딕", NanumGothic, verdana;  font-size: 13px; ; '><span style="; "></span><br/></span></b></p>

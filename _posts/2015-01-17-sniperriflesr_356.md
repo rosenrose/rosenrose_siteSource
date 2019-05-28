@@ -1,7 +1,7 @@
 ---
 title: "반쪽의 한가운데"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_루미아 캐릭터_미스티아_로렐라이 캐릭터_리글_나이트버그 캐릭터_대요정 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_치르노 이벤트_例大祭7 시리어스_밝음"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/356/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/356/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

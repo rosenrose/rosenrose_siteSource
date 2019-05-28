@@ -1,7 +1,7 @@
 ---
 title: "나는 발정 우동게와 1달간 밀실에 갇혔으면 한다"
 tags: "逸しん @itusin3 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5619/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5619/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

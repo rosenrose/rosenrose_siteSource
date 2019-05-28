@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 카구 세이가"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_카쿠_세이가 반역의_세이자"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/632/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/632/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

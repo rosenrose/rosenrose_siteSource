@@ -1,7 +1,7 @@
 ---
 title: "점청개안"
 tags: "동인지 せーてんのへきれき"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-10-blog-post_10/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2017-10-blog-post_10/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8390337351684831842" itemprop="description articleBody">

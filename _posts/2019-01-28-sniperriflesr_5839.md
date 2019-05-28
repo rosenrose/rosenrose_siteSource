@@ -1,7 +1,7 @@
 ---
 title: "하리코의 뒤에는"
 tags: "son @sonson11 そんだけ。 캐릭터_히에다노_아큐 캐릭터_모토오리_코스즈 이벤트_秋例大祭_4 이벤트_博麗神社秋季例大祭 이벤트_第4回 시리어스_밝음"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5839/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5839/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

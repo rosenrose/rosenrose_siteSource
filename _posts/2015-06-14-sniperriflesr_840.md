@@ -1,7 +1,7 @@
 ---
 title: "케이네로 눈빛/시선떡밥"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 이메레스"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/840/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/840/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

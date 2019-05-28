@@ -1,7 +1,7 @@
 ---
 title: "봄과 여름의 경계"
 tags: "동인지 赤色バニラ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-12-blog-post_77/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2015-12-blog-post_77/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-620998925500255900" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "무한리필집 도장깨기 하는 유유코"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_사이교우지_유유코 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5801/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5801/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

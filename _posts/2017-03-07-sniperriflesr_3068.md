@@ -1,7 +1,7 @@
 ---
 title: "여러 하쿠레이 레이무에게 고백해보았다"
 tags: "三日月ネコ 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3068/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3068/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

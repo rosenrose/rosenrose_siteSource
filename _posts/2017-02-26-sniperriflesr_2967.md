@@ -1,7 +1,7 @@
 ---
 title: "여름의 레이마리"
 tags: "ぴよ吉 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2967/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2967/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

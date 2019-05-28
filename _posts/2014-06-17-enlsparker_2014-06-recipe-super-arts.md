@@ -1,7 +1,7 @@
 ---
 title: "Recipe The Super Arts!"
 tags: "동인지 ビタミンごはん"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-06-recipe-super-arts/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-06-recipe-super-arts/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5482593837487021470" itemprop="description articleBody">

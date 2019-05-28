@@ -1,7 +1,7 @@
 ---
 title: "장난감 놀이!"
 tags: "기타동인지 こーひーめーかー"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-11-blog-post_75/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-11-blog-post_75/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8210477654899632946" itemprop="description articleBody">

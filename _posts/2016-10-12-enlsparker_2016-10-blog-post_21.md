@@ -1,7 +1,7 @@
 ---
 title: "손에 손을 맞잡고"
 tags: "동인지 四方山"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-10-blog-post_21/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2016-10-blog-post_21/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4034810477130830253" itemprop="description articleBody">

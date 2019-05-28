@@ -1,7 +1,7 @@
 ---
 title: "피스풀☆월드"
 tags: "동인지 ヘルメットが直せません。"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_87/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-09-blog-post_87/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1264053498660522325" itemprop="description articleBody">

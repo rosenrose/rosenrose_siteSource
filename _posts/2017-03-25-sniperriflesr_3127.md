@@ -1,7 +1,7 @@
 ---
 title: "가끔 무서운 후토쨩"
 tags: "ナイスタック 나이스택 캐릭터_모노노베노_후토 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3127/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3127/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

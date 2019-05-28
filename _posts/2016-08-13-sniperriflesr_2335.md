@@ -1,7 +1,7 @@
 ---
 title: "카센쨩과의 밤을 계속 거절하면 이렇게 된다"
 tags: "ハマー 헤머 캐릭터_이바라키_카센 sexual_theme"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2335/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2335/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

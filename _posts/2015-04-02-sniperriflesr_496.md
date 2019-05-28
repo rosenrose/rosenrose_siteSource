@@ -1,7 +1,7 @@
 ---
 title: "냐를 부르는 견 뉴규냐냐냐냐아"
 tags: "アク 아쿠 ギガメーカー 기가메이커 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_히나나위_텐시 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_하쿠레이_레이무 캐릭터_앨리스_마가트로이드 캐릭터_레이센_우동게인_이나바 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_샤메이마루_아야 캐릭터_오노즈카_코마치 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_나가에_이쿠 이벤트_c76 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/496/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/496/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

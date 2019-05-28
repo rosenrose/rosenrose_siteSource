@@ -1,7 +1,7 @@
 ---
 title: "이고모리 연화"
 tags: "동인지 疲労熊"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-09-blog-post_201/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-09-blog-post_201/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1358987702555038723" itemprop="description articleBody">

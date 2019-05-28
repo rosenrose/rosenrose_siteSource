@@ -1,7 +1,7 @@
 ---
 title: "사토리와 치르노"
 tags: "けぬー 케누 ちりわぁく 치리와아쿠 캐릭터_치르노 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3218/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3218/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

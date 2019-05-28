@@ -1,7 +1,7 @@
 ---
 title: "휴일의 자명종"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5383/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5383/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

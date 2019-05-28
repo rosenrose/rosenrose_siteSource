@@ -1,7 +1,7 @@
 ---
 title: "아담. 풍신록"
 tags: "九木隹 기타동인지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-03-blog-post_11/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-03-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8901088050727220189" itemprop="description articleBody">

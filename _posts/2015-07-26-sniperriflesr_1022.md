@@ -1,7 +1,7 @@
 ---
 title: "아이리스"
 tags: "あまず 아마즈 amaz 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_히나나위_텐시 캐릭터_파츄리_널릿지 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 이벤트_c80 합동-귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1022/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1022/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

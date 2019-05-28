@@ -1,7 +1,7 @@
 ---
 title: "텐코[TENKO]!"
 tags: "카멜레온 chameleon かめれおん green-tea-combination 緑茶コンボ 캐릭터_히나나위_텐시 캐릭터_하쿠레이_레이무 캐릭터_이부키_스이카 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 캐릭터_카와시로_니토리 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/45/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/45/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

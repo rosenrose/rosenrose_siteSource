@@ -1,7 +1,7 @@
 ---
 title: "후지와라노 모코우의 역사기행"
 tags: "기타동인지 写楽堂"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-08-blog-post_7/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2018-08-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9016125175991998447" itemprop="description articleBody">

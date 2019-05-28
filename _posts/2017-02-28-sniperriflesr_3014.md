@@ -1,7 +1,7 @@
 ---
 title: "디자이너가 된 이유"
 tags: "캐릭터_나즈린 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/3014/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/3014/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

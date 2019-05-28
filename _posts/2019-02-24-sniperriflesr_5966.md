@@ -1,7 +1,7 @@
 ---
 title: "텐구복 하다테"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_히메카이도_하타테 짤／1컷만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5966/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5966/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

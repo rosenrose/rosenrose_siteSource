@@ -1,7 +1,7 @@
 ---
 title: "무명의 존재"
 tags: "もじゃ 캐릭터_순호 캐릭터_준코 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1194/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1194/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

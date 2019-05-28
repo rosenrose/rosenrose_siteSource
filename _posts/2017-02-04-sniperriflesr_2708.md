@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 16"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_란 캐릭터_콘파쿠_요우무 캐릭터_첸 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_미스티아_로렐라이 캐릭터_루미아 캐릭터_치르노 캐릭터_사이교우지_유유코 캐릭터_카자미_유카 바이오_놀이"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2708/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2708/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "><br/></span></b></p>

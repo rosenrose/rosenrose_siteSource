@@ -1,7 +1,7 @@
 ---
 title: "죽어도 신"
 tags: "기타동인지 ヒトマチコ"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-01-blog-post_46/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2016-01-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-300507534863596562" itemprop="description articleBody">

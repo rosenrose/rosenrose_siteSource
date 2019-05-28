@@ -1,7 +1,7 @@
 ---
 title: "기기괴매"
 tags: "합동인지"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-05-blog-post_16/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2018-05-blog-post_16/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2205404434076711809" itemprop="description articleBody">

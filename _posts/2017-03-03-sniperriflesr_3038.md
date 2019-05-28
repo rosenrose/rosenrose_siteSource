@@ -1,7 +1,7 @@
 ---
 title: "금단의 누디스트 유토피아"
 tags: "祭唄 마츠리_우타 rainbow_vanilla 캐릭터_후타츠이와_마미조 캐릭터_코메이지_코이시 캐릭터_하타노_코코로 캐릭터_히지리_뱌쿠렌 캐릭터_토요사토미미노_미코 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 이벤트_c88 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3038/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3038/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "부자가 된 기분"
 tags: "古河おどろ @re_yomawari よまいり先生 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5131/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5131/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

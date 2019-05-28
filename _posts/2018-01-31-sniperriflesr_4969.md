@@ -1,7 +1,7 @@
 ---
 title: "시온 자매와 고양이"
 tags: "フウザサ 후우자사 風前ランプ 캐릭터_요리가미_조온 캐릭터_요리가미_시온 캐릭터_하쿠레이_레이무 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/4969/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/4969/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

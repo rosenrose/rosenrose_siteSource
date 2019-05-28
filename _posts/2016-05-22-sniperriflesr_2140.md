@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 가진자이기에 품고있는 고민"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2140/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2140/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

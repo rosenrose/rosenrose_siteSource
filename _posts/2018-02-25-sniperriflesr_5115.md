@@ -1,7 +1,7 @@
 ---
 title: "역습외도반환"
 tags: "ぽて 포테 @ptkankodori 閑古鳥茶園 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_후타츠이와_마미조 캐릭터_후지와라노_모코우 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5115/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5115/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

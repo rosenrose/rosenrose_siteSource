@@ -1,7 +1,7 @@
 ---
 title: "하타테 수첩"
 tags: "동인지 木綿シリコン"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-12-blog-post_0/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-12-blog-post_0/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8612922905225864644" itemprop="description articleBody">

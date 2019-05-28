@@ -1,7 +1,7 @@
 ---
 title: "우러러본들, 닿지 않지만"
 tags: "동인지 こげコロッケ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-07-blog-post_69/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-07-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4477846840972240840" itemprop="description articleBody">

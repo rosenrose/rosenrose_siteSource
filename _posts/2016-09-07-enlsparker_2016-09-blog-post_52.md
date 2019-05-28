@@ -1,7 +1,7 @@
 ---
 title: "합연이연"
 tags: "합동인지"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-09-blog-post_52/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2016-09-blog-post_52/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6517483276856903934" itemprop="description articleBody">

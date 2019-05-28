@@ -1,7 +1,7 @@
 ---
 title: "우리 언니가 역시 이 세상에서 제일 귀여워!!"
 tags: "ベル助 ベルの巣 캐릭터_무라사_미나미츠 캐릭터_코메이지_사토리 캐릭터_레밀리아_스칼렛 캐릭터_코메이지_코이시 캐릭터_호쥬_누에 캐릭터_플랑드르_스칼렛 이벤트_c88 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/3232/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/3232/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

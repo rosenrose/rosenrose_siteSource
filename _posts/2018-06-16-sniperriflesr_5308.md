@@ -1,7 +1,7 @@
 ---
 title: "친척 아줌마같이 성가시게 휘감겨오는 카케로우"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_이누바시리_모미지 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5308/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5308/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>

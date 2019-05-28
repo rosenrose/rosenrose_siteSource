@@ -1,7 +1,7 @@
 ---
 title: "Covered with Flowers"
 tags: "동인지 梅の実画報"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-covered-with-flowers/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-07-covered-with-flowers/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1740729725230154126" itemprop="description articleBody">

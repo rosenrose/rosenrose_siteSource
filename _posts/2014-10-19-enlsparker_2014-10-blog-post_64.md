@@ -1,7 +1,7 @@
 ---
 title: "강한 신묘마루가 삼림에서 탈출하는 이야기"
 tags: "동인지 winter_scenery"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-10-blog-post_64/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-10-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1892528658655794006" itemprop="description articleBody">

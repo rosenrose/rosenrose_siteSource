@@ -1,7 +1,7 @@
 ---
 title: "드림 팩토리"
 tags: "동인지 airdrop"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-09-blog-post_87/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-09-blog-post_87/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7681134893442252185" itemprop="description articleBody">

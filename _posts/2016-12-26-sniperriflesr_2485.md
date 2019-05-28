@@ -1,7 +1,7 @@
 ---
 title: "창 + 방패"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2485/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2485/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

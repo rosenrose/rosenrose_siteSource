@@ -1,7 +1,7 @@
 ---
 title: "ETERNAL MEEK"
 tags: "奴は仮名 합동인지 pure"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-eternal-meek/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-eternal-meek/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-912110251438410516" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "치르노표 얼음수영복 2015"
 tags: "くらのすけ 캐릭터_레티_화이트락 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2852/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2852/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

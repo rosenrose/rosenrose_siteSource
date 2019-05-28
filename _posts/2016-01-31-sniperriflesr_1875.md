@@ -1,7 +1,7 @@
 ---
 title: "○○하는 하타테"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_카와시로_니토리 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_코치야_사나에 캐릭터_히메카이도_하타테 이벤트_第百二十七季_文々。新聞友の会 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1875/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1875/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "카나코 님께서 말씀하시는 대로!"
 tags: "동인지 panic_puppet!"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-12-blog-post_86/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2018-12-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7624148446099377367" itemprop="description articleBody">

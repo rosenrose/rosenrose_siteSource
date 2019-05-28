@@ -1,7 +1,7 @@
 ---
 title: "비에 깃든 것"
 tags: "ひそな 히소나 @hisona_ スアリテスミ 스아리테미스 캐릭터_샤메이마루_아야 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 캐릭터_히메카이도_하타테 캐릭터_무라사_미나미츠 캐릭터_호쥬_누에 이벤트_第百三十季文々。新聞友の会 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5581/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5581/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

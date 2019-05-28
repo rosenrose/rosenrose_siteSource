@@ -1,7 +1,7 @@
 ---
 title: "악의 없는 호의"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_도레미_스위트 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5130/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5130/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

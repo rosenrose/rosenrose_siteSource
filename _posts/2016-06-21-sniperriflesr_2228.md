@@ -1,7 +1,7 @@
 ---
 title: "아로마"
 tags: "桐谷 캐릭터_소악마 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2228/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2228/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

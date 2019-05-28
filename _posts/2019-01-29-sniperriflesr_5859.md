@@ -1,7 +1,7 @@
 ---
 title: "충식"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이터니티_라바 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5859/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5859/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

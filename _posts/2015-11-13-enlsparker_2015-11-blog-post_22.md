@@ -1,7 +1,7 @@
 ---
 title: "신령윈터"
 tags: "기타동인지 inner_paradox"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-11-blog-post_22/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2015-11-blog-post_22/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5619076377321478567" itemprop="description articleBody">

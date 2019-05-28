@@ -1,7 +1,7 @@
 ---
 title: "우주의 죽음을 본 불로불사"
 tags: "동인지 alison航空"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-08-blog-post_25/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-08-blog-post_25/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8986796059781935142" itemprop="description articleBody">

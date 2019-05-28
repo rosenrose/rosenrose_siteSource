@@ -1,7 +1,7 @@
 ---
 title: "소나기"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 크래쉬_하우스 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 캐릭터_후타츠이와_마미조 이벤트_c86 시리어스_밝음"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/296/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/296/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

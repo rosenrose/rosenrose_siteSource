@@ -1,7 +1,7 @@
 ---
 title: "당신이 있다면"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3092/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3092/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

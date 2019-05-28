@@ -1,7 +1,7 @@
 ---
 title: "낙서 4컷 포에버 1~5"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_카미시라사와_케이네 캐릭터_코메이지_코이시 캐릭터_플랑드르_스칼렛 캐릭터_키진_세이자 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_카자미_유카 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_토요사토미미노_미코 급식첸_만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2754/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2754/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

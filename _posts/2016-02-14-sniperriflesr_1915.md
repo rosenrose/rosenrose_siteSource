@@ -1,7 +1,7 @@
 ---
 title: "PURE"
 tags: "ベル助 ベルの巣 캐릭터_클라운피스 캐릭터_레이센_우동게인_이나바 캐릭터_순호 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1915/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/1915/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

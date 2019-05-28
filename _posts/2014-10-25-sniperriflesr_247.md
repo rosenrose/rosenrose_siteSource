@@ -1,7 +1,7 @@
 ---
 title: "위협받는 토끼씨"
 tags: "九品そういん kuhou_souin 쿠호우 소우인 たまごやき tamagoyaki 타마고야키 캐릭터_레이센_우동게인_이나바 캐릭터_코치야_사나에 캐릭터_콘파쿠_요우무 캐릭터_야고코로_에이린 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_이나바_테위 이벤트_예대제_7 이벤트_例大祭7 약"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/247/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/247/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

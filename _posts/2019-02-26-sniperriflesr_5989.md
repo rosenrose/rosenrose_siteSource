@@ -1,7 +1,7 @@
 ---
 title: "흑백론자 에이키"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_토요사토미미노_미코 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5989/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5989/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "분배받은 카드로"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2759/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2759/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

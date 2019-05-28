@@ -1,7 +1,7 @@
 ---
 title: "가난 신과 옷의 신"
 tags: "アズキ @azukiranatuine azuki_shot 캐릭터_헤카티아_라피스라줄리 캐릭터_요리가미_시온 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/4925/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/4925/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

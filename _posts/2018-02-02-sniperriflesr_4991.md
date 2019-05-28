@@ -1,7 +1,7 @@
 ---
 title: "가연성"
 tags: "ナイスタック 나이스택 ナイス宅 @nicetack0517 캐릭터_모노노베노_후토 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/4991/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/4991/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

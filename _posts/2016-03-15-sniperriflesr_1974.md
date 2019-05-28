@@ -1,7 +1,7 @@
 ---
 title: "사나에에게 헤카T를 입혀보았다"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_코치야_사나에 캐릭터_모리야_스와코 캐릭터_헤카티아_라피스라줄리 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1974/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1974/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

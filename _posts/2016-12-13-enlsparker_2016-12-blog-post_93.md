@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 와쿠라바코토하"
 tags: "동인지 青"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-12-blog-post_93/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-12-blog-post_93/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2135714106991366055" itemprop="description articleBody">

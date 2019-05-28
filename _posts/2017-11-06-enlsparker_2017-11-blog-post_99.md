@@ -1,7 +1,7 @@
 ---
 title: "카나리아는 거울 속"
 tags: "동인지 azmaya あまず"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-11-blog-post_99/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2017-11-blog-post_99/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5174230569272984593" itemprop="description articleBody">

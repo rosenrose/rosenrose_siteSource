@@ -1,7 +1,7 @@
 ---
 title: "미코땅 ! 고참의 압력에 굴하다 !!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_야쿠모_유카리 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/576/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/576/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "해피 라이프 엑스"
 tags: "동인지 オムチキン"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-02-blog-post_13/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-02-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9136299611254650758" itemprop="description articleBody">

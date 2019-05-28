@@ -1,7 +1,7 @@
 ---
 title: "묘렌사 그림 일기 모음"
 tags: "동인지 eh？"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-10-blog-post/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-10-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7471365607770022366" itemprop="description articleBody">

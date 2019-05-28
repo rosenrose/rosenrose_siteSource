@@ -1,7 +1,7 @@
 ---
 title: "반드시 몇번이라도"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_나즈린 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2603/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2603/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>

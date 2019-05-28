@@ -1,7 +1,7 @@
 ---
 title: "Magical☆Aria"
 tags: "합동인지 ているこんちぇると(仮) パパンの小部屋"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-magicalaria/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-magicalaria/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-348360689047782055" itemprop="description articleBody">

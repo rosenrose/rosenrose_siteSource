@@ -1,7 +1,7 @@
 ---
 title: "커플 무릎앉히기 희망과 절망편"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 캐릭터_와타츠키노_요리히메 캐릭터_레밀리아_스칼렛 캐릭터_모노노베노_후토 캐릭터_소가노_토지코 이메레스"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1203/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1203/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

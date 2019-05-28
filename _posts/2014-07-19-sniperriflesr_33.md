@@ -1,7 +1,7 @@
 ---
 title: "환상 트라우마틱"
 tags: "ネジキリオ 네지키리오 angeltype 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_레이센_우동게인_이나바 캐릭터_하쿠레이_레이무 캐릭터_리글_나이트버그 캐릭터_코메이지_코이시 이벤트_c80 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/33/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/33/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

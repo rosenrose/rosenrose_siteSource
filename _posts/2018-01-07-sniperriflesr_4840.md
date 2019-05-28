@@ -1,7 +1,7 @@
 ---
 title: "멜랑콜릭 섬머 데이"
 tags: "まくわうに 마쿠와우니 うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_써니_밀크 캐릭터_카와시로_니토리 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_야고코로_에이린 캐릭터_카소다니_쿄코 캐릭터_토라마루_쇼 이벤트_c90 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4840/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/4840/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

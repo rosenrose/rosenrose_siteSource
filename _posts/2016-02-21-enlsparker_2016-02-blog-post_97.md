@@ -1,7 +1,7 @@
 ---
 title: "들뜬 마음"
 tags: "동인지 イヌーピーの犬小屋"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-02-blog-post_97/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2016-02-blog-post_97/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-501756115480865431" itemprop="description articleBody">

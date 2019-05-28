@@ -1,7 +1,7 @@
 ---
 title: "대도서관 to 소환 Show!"
 tags: "동인지 サイチル"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-to-show/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-to-show/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2127054874962195877" itemprop="description articleBody">

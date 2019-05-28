@@ -1,7 +1,7 @@
 ---
 title: "삼인랑으로 할로윈"
 tags: "동인지 あるたな"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-06-blog-post_14/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2015-06-blog-post_14/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6766042977335311805" itemprop="description articleBody">

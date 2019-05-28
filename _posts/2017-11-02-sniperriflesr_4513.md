@@ -1,7 +1,7 @@
 ---
 title: "목욕할때는 어디부터 씻나요"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/4513/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/4513/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

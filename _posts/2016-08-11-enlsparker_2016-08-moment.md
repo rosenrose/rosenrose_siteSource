@@ -1,7 +1,7 @@
 ---
 title: "MOMENT"
 tags: "동인지 gp-kids"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-08-moment/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-08-moment/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6197700741159111517" itemprop="description articleBody">

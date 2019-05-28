@@ -1,7 +1,7 @@
 ---
 title: "오토메 트리플"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 캐릭터_미야코_요시카 캐릭터_모노노베노_후토 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_카쿠_세이가 캐릭터_카소다니_쿄코 이벤트_c81 약"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/287/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/287/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

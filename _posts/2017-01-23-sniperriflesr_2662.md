@@ -1,7 +1,7 @@
 ---
 title: "사구메님의 스커트가"
 tags: "緑肉 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2662/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2662/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

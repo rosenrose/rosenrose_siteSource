@@ -1,7 +1,7 @@
 ---
 title: "소드마스터 아야야"
 tags: "ジェット虚無僧 제트_코무소 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/645/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/645/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

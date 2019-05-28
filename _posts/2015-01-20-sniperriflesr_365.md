@@ -1,7 +1,7 @@
 ---
 title: "키리사메 마리사와 비밀의 열쇠"
 tags: "くま 쿠마 赤色バニラ 적색바닐라 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 이벤트_例大祭9 시리어스_밝음"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/365/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/365/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "레밀리아의 흡혈충동"
 tags: "동인지 ぽぽぽ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-12-blog-post_75/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-12-blog-post_75/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2057978149886453738" itemprop="description articleBody">

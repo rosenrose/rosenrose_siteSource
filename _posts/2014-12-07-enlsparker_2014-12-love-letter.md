@@ -1,7 +1,7 @@
 ---
 title: "LOVE LETTER"
 tags: "동인지 はやあか"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-12-love-letter/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-12-love-letter/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4341957675986160991" itemprop="description articleBody">

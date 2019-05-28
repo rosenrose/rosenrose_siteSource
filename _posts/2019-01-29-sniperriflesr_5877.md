@@ -1,7 +1,7 @@
 ---
 title: "토끼 모자 쓴 순호"
 tags: "느응 캐릭터_순호 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5877/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5877/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

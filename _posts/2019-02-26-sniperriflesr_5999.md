@@ -1,7 +1,7 @@
 ---
 title: "난처한 코코로쨩"
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_하타노_코코로 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5999/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5999/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

@@ -1,7 +1,7 @@
 ---
 title: "벌 주기"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5983/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5983/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

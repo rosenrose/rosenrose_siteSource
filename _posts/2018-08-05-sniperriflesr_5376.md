@@ -1,7 +1,7 @@
 ---
 title: "치르노와 비가 오는 날 장보기"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_치르노 캐릭터_이자요이_사쿠야 캐릭터_호쥬_누에 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_모리치카_린노스케 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 이벤트_c92 시리어스_진지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5376/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5376/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

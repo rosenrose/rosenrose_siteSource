@@ -1,7 +1,7 @@
 ---
 title: "가끔은 둘이서 옛날 얘기를"
 tags: "壱 sonと壱 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_이자요이_사쿠야 캐릭터_콘파쿠_요우무 이벤트_例大祭_11 이벤트_예대제_11 시리어스_슬픔"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/825/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/825/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

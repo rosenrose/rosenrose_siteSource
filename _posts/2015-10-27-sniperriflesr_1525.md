@@ -1,7 +1,7 @@
 ---
 title: "영원정의 간호사 + 그후의 한장면"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1525/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1525/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

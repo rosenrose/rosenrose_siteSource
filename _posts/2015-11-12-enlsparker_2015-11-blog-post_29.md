@@ -1,7 +1,7 @@
 ---
 title: "이것이 우리 도서관 사서!!"
 tags: "동인지 粟米湯"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-11-blog-post_29/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-11-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4205789416886855070" itemprop="description articleBody">

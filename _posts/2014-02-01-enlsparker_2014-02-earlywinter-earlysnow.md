@@ -1,7 +1,7 @@
 ---
 title: "EarlyWinter EarlySnow"
 tags: "동인지 gp-kids"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-02-earlywinter-earlysnow/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-02-earlywinter-earlysnow/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7051453749545187535" itemprop="description articleBody">

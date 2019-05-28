@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 미스티아 로렐라이"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_키진_세이자 캐릭터_세키반키 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 캐릭터_미스티아_로렐라이 반역의_세이자"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/726/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/726/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "기적소녀 사나에"
 tags: "綾杉つばき 아야스기_츠바키 まにまに。 마니마니 manimani。 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야고코로_에이린 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_호라이산_카구야 이벤트_紅楼夢_6 이벤트_홍루몽_6 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1071/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1071/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "모코땅이 케네한테 럭키 변태짓만 하는 책을 보고 싶어"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1038/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1038/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

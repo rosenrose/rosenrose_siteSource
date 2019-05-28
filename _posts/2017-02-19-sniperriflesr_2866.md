@@ -1,7 +1,7 @@
 ---
 title: "여름이다 - 모코케네 [ 2016 ]"
 tags: "きつね丸 葉々庵 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2866/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2866/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

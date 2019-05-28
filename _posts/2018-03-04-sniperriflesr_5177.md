@@ -1,7 +1,7 @@
 ---
 title: "휴일의 삼림욕을 만끽하던 중 우연히"
 tags: "緑肉 @midori_niku しもふりグリーンミート 캐릭터_오노즈카_코마치 짤／1컷만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5177/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5177/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

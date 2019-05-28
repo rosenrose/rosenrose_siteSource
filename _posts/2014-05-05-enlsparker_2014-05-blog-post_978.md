@@ -1,7 +1,7 @@
 ---
 title: "이몸 최강전설"
 tags: "동인지 strange_chameleon"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-05-blog-post_978/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-05-blog-post_978/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5828200832438929480" itemprop="description articleBody">

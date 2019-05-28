@@ -1,7 +1,7 @@
 ---
 title: "솔직해지라고"
 tags: "綾杉つばき 아야스기_츠바키 まにまに。 마니마니 manimani。 캐릭터_호라이산_카구야 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3113/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3113/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "개다래나무와 쓰다듬기"
 tags: "futa なべぞこ 나베조코 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2839/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2839/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

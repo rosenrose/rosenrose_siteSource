@@ -1,7 +1,7 @@
 ---
 title: "vs 물웅덩이"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5594/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5594/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b></b><br/></p>

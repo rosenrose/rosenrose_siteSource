@@ -1,7 +1,7 @@
 ---
 title: "밤길을 혼자 걷는데 코가사 쨩이 나타났다"
 tags: "みよ @ranthath 캐릭터_타타라_코가사 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4958/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/4958/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

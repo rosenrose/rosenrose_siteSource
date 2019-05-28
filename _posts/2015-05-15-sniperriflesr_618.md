@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 이마이즈미 카케로우"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_이마이즈미_카케로 반역의_세이자"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/618/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/618/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

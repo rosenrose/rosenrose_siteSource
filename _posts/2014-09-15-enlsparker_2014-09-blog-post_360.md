@@ -1,7 +1,7 @@
 ---
 title: "소가노 토지코는 말하지 않는다 외전 - 모노노베노 후토는 이렇게 말했다"
 tags: "동인지 carcharias!"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_360/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_360/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9033710625885250990" itemprop="description articleBody">

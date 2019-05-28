@@ -1,7 +1,7 @@
 ---
 title: "어서와요"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_도레미_스위트 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1650/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1650/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

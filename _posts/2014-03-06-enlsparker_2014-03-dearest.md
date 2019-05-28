@@ -1,7 +1,7 @@
 ---
 title: "Dearest"
 tags: "동인지 ひとみしり"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-03-dearest/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-03-dearest/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6316523357685766894" itemprop="description articleBody">

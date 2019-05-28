@@ -1,7 +1,7 @@
 ---
 title: "작은 바램"
 tags: "手負い 캐릭터_키신_사구메 캐릭터_코메이지_사토리 [번역]_4컷／단편만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1767/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1767/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

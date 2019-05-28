@@ -1,7 +1,7 @@
 ---
 title: "세계가 마리사를 사랑하고있다"
 tags: "櫻井マコト 사쿠라이_마코토 sakurai_makoto カスタムサイズ 커스텀_사이즈 custom_size 櫻井マコト 캐릭터_키리사메_마리사 캐릭터_나즈린 캐릭터_하쿠레이_레이무 캐릭터_타타라_코가사 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_코치야_사나에 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_카와시로_니토리 캐릭터_치르노 캐릭터_이자요이_사쿠야 이벤트_例大祭7 이벤트_예대제7 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/275/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/275/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

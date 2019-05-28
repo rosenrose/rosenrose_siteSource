@@ -1,7 +1,7 @@
 ---
 title: "레이마리"
 tags: "絶豆 悪徳豆業者 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2775/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2775/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

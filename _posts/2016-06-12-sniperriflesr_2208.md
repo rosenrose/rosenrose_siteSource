@@ -1,7 +1,7 @@
 ---
 title: "소녀들이 유혹해왔다"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2208/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2208/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

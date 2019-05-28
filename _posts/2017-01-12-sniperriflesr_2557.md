@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 은밀한 유혹"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2557/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2557/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

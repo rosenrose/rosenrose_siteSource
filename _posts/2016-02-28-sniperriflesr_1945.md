@@ -1,7 +1,7 @@
 ---
 title: "그렇지 않아"
 tags: "蛍光流動 형광유동 캐릭터_세이란 캐릭터_키신_사구메 캐릭터_링고 캐릭터_도레미_스위트 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1945/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1945/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "셧 아웃"
 tags: "細井コウゾウ ヒステリックタイフーン 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1477/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1477/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

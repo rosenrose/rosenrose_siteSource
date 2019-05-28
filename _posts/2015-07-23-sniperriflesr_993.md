@@ -1,7 +1,7 @@
 ---
 title: "노 모어 베드엔드"
 tags: "たこ 타코 アンニュイ赤蛸 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_야쿠모_유카리 캐릭터_샤메이마루_아야 캐릭터_코치야_사나에 캐릭터_루미아 캐릭터_이부키_스이카 캐릭터_레이우지_우츠호 캐릭터_와타츠키노_요리히메 캐릭터_히지리_뱌쿠렌 캐릭터_쿠모이_이치린 이벤트_c78 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/993/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/993/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

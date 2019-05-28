@@ -1,7 +1,7 @@
 ---
 title: "Wonder Mine Treasure"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_카와시로_니토리 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_샤메이마루_아야 이벤트_예대제_11 이벤트_例大祭11 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/203/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/203/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "책과 나"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2656/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2656/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

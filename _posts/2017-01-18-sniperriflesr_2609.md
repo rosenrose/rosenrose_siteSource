@@ -1,7 +1,7 @@
 ---
 title: "나는 결코 틀리지 않았어"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_타타라_코가사 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_첸 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2609/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2609/001.png"
 ---
 <div class="article">
 <p style="color: rgb(102, 102, 102); font-family: dotum; background-color: rgb(255, 255, 255); text-align: center;"><b><span style="; "></span><br/></b></p>

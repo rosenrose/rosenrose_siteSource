@@ -1,7 +1,7 @@
 ---
 title: "아싸 메리"
 tags: "슈퍼홍야 211．58 캐릭터_마에리베리_한 캐릭터_메리 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5787/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5787/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

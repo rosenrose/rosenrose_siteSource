@@ -1,7 +1,7 @@
 ---
 title: "미녀"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_치르노 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5392/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5392/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

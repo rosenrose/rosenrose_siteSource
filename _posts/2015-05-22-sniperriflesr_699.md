@@ -1,7 +1,7 @@
 ---
 title: "중량초과"
 tags: "ジェット虚無僧 제트코무소 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/699/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/699/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "천년이 걸릴지라도, 당신을 기다리겠습니다"
 tags: "kaze 弐維鏡像 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/736/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/736/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

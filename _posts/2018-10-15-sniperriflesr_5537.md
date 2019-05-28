@@ -1,7 +1,7 @@
 ---
 title: "환남충과 함께하는 동캐낚시 -2"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_하쿠레이_레이무 캐릭터_이바라키_카센 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5537/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5537/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

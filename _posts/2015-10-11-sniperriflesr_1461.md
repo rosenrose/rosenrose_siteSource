@@ -1,7 +1,7 @@
 ---
 title: "줄을 서는 사구메"
 tags: "しお 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1461/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1461/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

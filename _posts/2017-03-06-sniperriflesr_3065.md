@@ -1,7 +1,7 @@
 ---
 title: "아주 엉망진창이 된 소녀"
 tags: "じる じるランド 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3065/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3065/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

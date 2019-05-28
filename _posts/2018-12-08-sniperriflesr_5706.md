@@ -1,7 +1,7 @@
 ---
 title: "한 번 더"
 tags: "ろけ @roke175 がらくたロケット 캐릭터_치르노 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5706/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5706/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><span style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></span></p>

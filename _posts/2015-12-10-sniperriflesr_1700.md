@@ -1,7 +1,7 @@
 ---
 title: "소녀들에게 점프해달라고 했다"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1700/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/1700/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

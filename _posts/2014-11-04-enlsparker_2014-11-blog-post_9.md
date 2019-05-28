@@ -1,7 +1,7 @@
 ---
 title: "낯선사람에게 끌려가다"
 tags: "동인지 徒歩二分"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-11-blog-post_9/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-11-blog-post_9/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1713841072477542549" itemprop="description articleBody">

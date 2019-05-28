@@ -1,7 +1,7 @@
 ---
 title: "가슴이 커진 레이무"
 tags: "ヨハネ 青 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2822/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2822/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

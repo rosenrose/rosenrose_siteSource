@@ -1,7 +1,7 @@
 ---
 title: "Trois Poupees"
 tags: "기타동인지 ぬっくぬく・はうす"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-trois-poupees/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-09-trois-poupees/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3923426570881777491" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "모미지씨 주장"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2968/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2968/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

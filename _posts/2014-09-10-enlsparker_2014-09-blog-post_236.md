@@ -1,7 +1,7 @@
 ---
 title: "렛츠고! 명련사 테이크아웃"
 tags: "합동인지 まぜもの"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_236/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_236/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2508337589748313357" itemprop="description articleBody">

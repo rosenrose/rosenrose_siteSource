@@ -1,7 +1,7 @@
 ---
 title: "scoop"
 tags: "동인지 煎餅屋"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-scoop/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-02-scoop/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3528646516802584461" itemprop="description articleBody">

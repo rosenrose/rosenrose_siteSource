@@ -1,7 +1,7 @@
 ---
 title: "수수께끼의 유유유 - 중독된 요우무의 역습"
 tags: "기타동인지 やし屋"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-04-blog-post_59/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-04-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6383764974827197852" itemprop="description articleBody">

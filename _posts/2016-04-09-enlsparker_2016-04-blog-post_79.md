@@ -1,7 +1,7 @@
 ---
 title: "내 주인님은 벌 주는 걸 좋아해"
 tags: "동인지 ねこのさけごと"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-04-blog-post_79/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-04-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7998944205981732455" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "Go back take one step"
 tags: "동인지 時間屋"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-02-go-back-take-one-step/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2017-02-go-back-take-one-step/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4125638514351977944" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "에이프릴 울"
 tags: "ワイテイ 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2145/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2145/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

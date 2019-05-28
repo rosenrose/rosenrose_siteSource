@@ -1,7 +1,7 @@
 ---
 title: "소화"
 tags: "동인지 煎餅屋"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-01-blog-post_39/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-01-blog-post_39/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3715177747479042405" itemprop="description articleBody">

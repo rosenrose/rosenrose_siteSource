@@ -1,7 +1,7 @@
 ---
 title: "액신님과 다니는 길"
 tags: "동인지"
-image: "https://d28m3gpsoauueh.cloudfront.net/touhoustory/74/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/touhoustory/74/001.jpg"
 ---
 <div class="article">
 <div class="article">

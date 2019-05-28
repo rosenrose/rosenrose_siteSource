@@ -1,7 +1,7 @@
 ---
 title: "더위 식히기"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2912/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2912/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>

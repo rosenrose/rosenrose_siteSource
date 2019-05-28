@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 24"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_미즈하시_파르시 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_미야코_요시카 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_유카리 캐릭터_치르노 캐릭터_이부키_스이카 캐릭터_호시구마_유기 바이오_놀이"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2739/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2739/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><span style="; "></span><br/></b></font></p>

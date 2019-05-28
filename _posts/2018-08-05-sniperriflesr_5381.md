@@ -1,7 +1,7 @@
 ---
 title: "표정"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 캐릭터_히메카이도_하타테 캐릭터_카와시로_니토리 캐릭터_대요정 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5381/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5381/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>

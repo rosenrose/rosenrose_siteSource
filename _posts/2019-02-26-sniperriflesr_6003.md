@@ -1,7 +1,7 @@
 ---
 title: "절누나가 입을 좋아하는 만화"
 tags: "풍총이신자 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/6003/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/6003/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

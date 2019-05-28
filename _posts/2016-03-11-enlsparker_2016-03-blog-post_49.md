@@ -1,7 +1,7 @@
 ---
 title: "기물 이야기"
 tags: "동인지 矢本堂落書市"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-03-blog-post_49/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-03-blog-post_49/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5147142341312357006" itemprop="description articleBody">

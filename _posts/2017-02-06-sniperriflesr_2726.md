@@ -1,7 +1,7 @@
 ---
 title: "과자가 되버린 코이시"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2726/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2726/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

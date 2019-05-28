@@ -1,7 +1,7 @@
 ---
 title: "sweet autumn of misterious mountain"
 tags: "동인지 梅の実画報"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-sweet-autumn-of-misterious-mountain/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-10-sweet-autumn-of-misterious-mountain/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8803413439906008846" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "활기찬 연말 인사"
 tags: "さとうメメ子 satou_memeko 사토우_메메코 米 kemo 케모 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 이벤트_c89 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/4995/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/4995/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>

@@ -1,7 +1,7 @@
 ---
 title: "눈의 빛, 태양의 그림자"
 tags: "機巧堂 기타동인지"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-02-blog-post_916/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-02-blog-post_916/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3634439735551615329" itemprop="description articleBody">

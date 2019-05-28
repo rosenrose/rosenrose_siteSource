@@ -1,7 +1,7 @@
 ---
 title: "전력의 승부"
 tags: "futa なべぞこ 나베조코 캐릭터_스쿠나_신묘마루 캐릭터_이부키_스이카 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/604/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/604/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

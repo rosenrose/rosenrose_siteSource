@@ -1,7 +1,7 @@
 ---
 title: "밟아주세요"
 tags: "なぎと @wtgjmemw なぎ げるまにうむ 캐릭터_클라운피스 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5618/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5618/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

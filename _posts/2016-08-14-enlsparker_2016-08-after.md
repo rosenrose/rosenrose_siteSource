@@ -1,7 +1,7 @@
 ---
 title: "마리사의 요정대전쟁 After"
 tags: "동인지 イカ足10本"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-08-after/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-08-after/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3844106929130608236" itemprop="description articleBody">

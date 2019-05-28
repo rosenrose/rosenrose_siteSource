@@ -1,7 +1,7 @@
 ---
 title: "푹신푹신과 북슬북슬의 사이에"
 tags: "dynamo 캐릭터_후타츠이와_마미조 캐릭터_쿠모이_이치린 캐릭터_카소다니_쿄코 캐릭터_코치야_사나에 캐릭터_호쥬_누에 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 캐릭터_나즈린 이벤트_c92 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/4855/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/4855/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

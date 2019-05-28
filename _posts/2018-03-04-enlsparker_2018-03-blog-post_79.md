@@ -1,7 +1,7 @@
 ---
 title: "거짓과 장례"
 tags: "동인지 赤色バニラ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-03-blog-post_79/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2018-03-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7277887100866184973" itemprop="description articleBody">

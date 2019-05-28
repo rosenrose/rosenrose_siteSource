@@ -1,7 +1,7 @@
 ---
 title: "인간을 진정으로 사랑하는 니토히나"
 tags: "그림_번역／로쿠넨"
-image: "https://d380selndl63m.cloudfront.net/touhoustory/23/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/touhoustory/23/001.png"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver5 }}/touhoustory/23/001.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 18.6667px;">ろくねん(@6nen)</span></p><p style="text-align: center;"><br/></p><p style="text-align: center;">작가가 올린지 한참된 짤 이긴 합니다 -_-;<br/></p> </div></div><br/>

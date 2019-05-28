@@ -1,7 +1,7 @@
 ---
 title: "오늘의 반찬"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_레밀리아_스칼렛 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2789/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2789/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

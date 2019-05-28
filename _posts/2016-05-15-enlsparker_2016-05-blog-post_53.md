@@ -1,7 +1,7 @@
 ---
 title: "친구따윈 필요없어"
 tags: "동인지 赤色バニラ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-05-blog-post_53/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-05-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7217815280460149352" itemprop="description articleBody">

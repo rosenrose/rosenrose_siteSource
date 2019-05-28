@@ -1,7 +1,7 @@
 ---
 title: "카제하후리는 이렇게 말했다"
 tags: "동인지 gauloises_blue"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-10-blog-post_51/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-10-blog-post_51/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2796957735143047832" itemprop="description articleBody">

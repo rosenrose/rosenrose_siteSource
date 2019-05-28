@@ -1,7 +1,7 @@
 ---
 title: "뾱뾱 무녀 레이무 씨 - 6"
 tags: "柳月湊 時間屋 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_코치야_사나에 이벤트_c80 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1820/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1820/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

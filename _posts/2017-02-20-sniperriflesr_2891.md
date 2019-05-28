@@ -1,7 +1,7 @@
 ---
 title: "머뭇거리는 코이시쨩"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_코메이지_코이시 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2891/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2891/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

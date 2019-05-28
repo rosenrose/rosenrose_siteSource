@@ -1,7 +1,7 @@
 ---
 title: "미확인환상소녀신드롬"
 tags: "동인지 show_and_tell"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_82/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_82/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5555354796698400682" itemprop="description articleBody">

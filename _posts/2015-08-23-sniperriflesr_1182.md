@@ -1,7 +1,7 @@
 ---
 title: "오무룩"
 tags: "ジェット虚無僧 제트코무소 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1182/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1182/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

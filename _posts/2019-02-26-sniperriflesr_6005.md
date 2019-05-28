@@ -1,7 +1,7 @@
 ---
 title: "언니가세상에서 제일좋은죠온"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_요리가미_시온 캐릭터_요리가미_조온 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/6005/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/6005/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

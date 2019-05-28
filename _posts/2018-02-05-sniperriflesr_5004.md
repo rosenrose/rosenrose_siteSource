@@ -1,7 +1,7 @@
 ---
 title: "잃을게 없는 자는 두려울게 없다"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_하쿠레이_레이무 캐릭터_요리가미_시온 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5004/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5004/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

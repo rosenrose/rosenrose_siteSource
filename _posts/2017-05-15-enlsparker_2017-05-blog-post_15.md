@@ -1,7 +1,7 @@
 ---
 title: "아큐의 일상"
 tags: "기타동인지 ゲラニウム超合金"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-05-blog-post_15/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-05-blog-post_15/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2097658234882946672" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "당신이 좋아하는 와타츠키노 요리히메는 어느쪽?"
 tags: "三日月ネコ 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2861/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2861/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

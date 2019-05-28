@@ -1,7 +1,7 @@
 ---
 title: "요괴의 내구성"
 tags: "100 000원의행복 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5968/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5968/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

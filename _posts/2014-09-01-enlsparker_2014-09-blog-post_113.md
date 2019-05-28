@@ -1,7 +1,7 @@
 ---
 title: "광조 배틀 크라이시스"
 tags: "동인지 rainbow_vanilla"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_113/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-09-blog-post_113/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2761364085886719723" itemprop="description articleBody">

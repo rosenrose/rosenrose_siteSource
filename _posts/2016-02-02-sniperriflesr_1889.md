@@ -1,7 +1,7 @@
 ---
 title: "모코우와 케이네 만화"
 tags: "kongthegrain 곡물시리즈 캐릭터_하쿠레이_레이무 캐릭터_야고코로_에이린 캐릭터_토요사토미미노_미코 캐릭터_모노노베노_후토 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_이부키_스이카 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1889/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1889/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

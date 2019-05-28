@@ -1,7 +1,7 @@
 ---
 title: "하트를 줄게 꽃다발을 줘"
 tags: "동인지 梅の実画報"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_55/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-10-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8692646782913559797" itemprop="description articleBody">

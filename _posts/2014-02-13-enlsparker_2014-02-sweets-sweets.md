@@ -1,7 +1,7 @@
 ---
 title: "Sweet's Sweet's"
 tags: "동인지 gp-kids"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-sweets-sweets/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-02-sweets-sweets/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2678791078591252871" itemprop="description articleBody">

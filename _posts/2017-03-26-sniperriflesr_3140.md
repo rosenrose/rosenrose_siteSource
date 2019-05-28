@@ -1,7 +1,7 @@
 ---
 title: "동방 이솝우화"
 tags: "薙派 あるたな 캐릭터_하타노_코코로 캐릭터_토요사토미미노_미코 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3140/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3140/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

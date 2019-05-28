@@ -1,7 +1,7 @@
 ---
 title: "용법용량을 꼭 지켜서 바르게 사랑해주세요"
 tags: "ふあん亭 후앙정 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_하쿠레이_레이무 캐릭터_야고코로_에이린 캐릭터_헤카티아_라피스라줄리 캐릭터_이나바_테위 캐릭터_클라운피스 캐릭터_세이란 캐릭터_와타츠키노_요리히메 캐릭터_호라이산_카구야 이벤트_例大祭14 이벤트_예대제_14 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/4872/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/4872/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

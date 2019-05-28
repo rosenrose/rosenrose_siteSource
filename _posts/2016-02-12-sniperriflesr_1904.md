@@ -1,7 +1,7 @@
 ---
 title: "날으는 새로 아스카"
 tags: "じぜる 지제루 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1904/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1904/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

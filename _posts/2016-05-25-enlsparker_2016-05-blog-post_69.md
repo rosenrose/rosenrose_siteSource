@@ -1,7 +1,7 @@
 ---
 title: "그것이 사랑이라고 나는 정했다"
 tags: "동인지 赤色バニラ"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-05-blog-post_69/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2016-05-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7541134446662620190" itemprop="description articleBody">

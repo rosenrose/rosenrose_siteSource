@@ -1,7 +1,7 @@
 ---
 title: "달달하지만 달달하지 않은 조금은 달달한 책"
 tags: "동인지 まるちら"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-11-blog-post_26/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-11-blog-post_26/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1200346816206499534" itemprop="description articleBody">

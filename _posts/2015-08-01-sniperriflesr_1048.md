@@ -1,7 +1,7 @@
 ---
 title: "왕은 누우구?"
 tags: "いっき べーたかろちん 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 이벤트_c86 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1048/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1048/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

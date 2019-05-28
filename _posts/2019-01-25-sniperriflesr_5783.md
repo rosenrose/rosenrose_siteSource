@@ -1,7 +1,7 @@
 ---
 title: "다우너 언니!"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5783/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5783/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

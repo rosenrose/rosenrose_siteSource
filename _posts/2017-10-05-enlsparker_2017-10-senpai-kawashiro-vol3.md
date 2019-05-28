@@ -1,7 +1,7 @@
 ---
 title: "SENPAI & KAWASHIRO Vol.3"
 tags: "동인지 矢本堂落書市"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-10-senpai-kawashiro-vol3/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2017-10-senpai-kawashiro-vol3/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1693568526789942744" itemprop="description articleBody">

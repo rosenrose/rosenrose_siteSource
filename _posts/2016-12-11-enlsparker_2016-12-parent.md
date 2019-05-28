@@ -1,7 +1,7 @@
 ---
 title: "요괴 Parent"
 tags: "동인지 こげコロッケ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-12-parent/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-12-parent/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1611478530298991608" itemprop="description articleBody">

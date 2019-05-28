@@ -1,7 +1,7 @@
 ---
 title: "금단의 누디스트 유토피아"
 tags: "동인지 rainbow_vanilla"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-11-blog-post_98/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2017-11-blog-post_98/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-391233353219674142" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그녀가 어딘가에 가는이유"
 tags: "캐릭터_야고코로_에이린 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 이벤트_c89 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2003/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2003/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

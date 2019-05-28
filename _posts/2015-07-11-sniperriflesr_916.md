@@ -1,7 +1,7 @@
 ---
 title: "자기도 뭘 생각해서 이걸 그렸는지 전혀 모르겠다 냐츄리"
 tags: "futa なべぞこ 나베조코 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/916/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/916/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

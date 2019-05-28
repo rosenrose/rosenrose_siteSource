@@ -1,7 +1,7 @@
 ---
 title: "스낵바 순호"
 tags: "ととねみぎ かるーあみるく 캐릭터_세이란 캐릭터_링고 캐릭터_레이센 캐릭터_키신_사구메 캐릭터_순호 캐릭터_클라운피스 캐릭터_헤카티아_라피스라줄리 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 캐릭터_도레미_스위트 이벤트_예대제_13 이벤트_例大祭13 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/3149/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/3149/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

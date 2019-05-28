@@ -1,7 +1,7 @@
 ---
 title: "코이시가 언니 황금수 숨기는 이야기"
 tags: "culter gallery_culter 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2819/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2819/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

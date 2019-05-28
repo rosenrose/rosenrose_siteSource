@@ -1,7 +1,7 @@
 ---
 title: "돌발적인 사토린"
 tags: "ルホホーホ・ルーホホ 캐릭터_코메이지_사토리 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3146/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3146/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

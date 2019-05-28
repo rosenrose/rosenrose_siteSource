@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 45"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_쿠로다니_야마메 캐릭터_하쿠레이_레이무 울지않아_파르시쨩!"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2195/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2195/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

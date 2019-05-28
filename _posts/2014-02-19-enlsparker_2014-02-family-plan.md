@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 FAMILY PLAN"
 tags: "합동인지"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-02-family-plan/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-02-family-plan/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6630969389326964039" itemprop="description articleBody">

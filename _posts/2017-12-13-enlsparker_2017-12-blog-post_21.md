@@ -1,7 +1,7 @@
 ---
 title: "마음대로 손이라던가 말하지마"
 tags: "합동인지 かるーあみるく さくsaku亭"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-12-blog-post_21/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2017-12-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8448781327964319604" itemprop="description articleBody">

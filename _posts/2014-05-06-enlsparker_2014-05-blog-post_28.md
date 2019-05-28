@@ -1,7 +1,7 @@
 ---
 title: "드세요"
 tags: "동인지 有機化合物"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-blog-post_28/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-05-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2074988825021084628" itemprop="description articleBody">

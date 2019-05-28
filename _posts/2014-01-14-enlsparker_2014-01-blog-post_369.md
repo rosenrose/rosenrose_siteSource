@@ -1,7 +1,7 @@
 ---
 title: "찍자! 환상향 소녀 사진집"
 tags: "동인지 オムチキン"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-01-blog-post_369/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-01-blog-post_369/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1837538457127142440" itemprop="description articleBody">

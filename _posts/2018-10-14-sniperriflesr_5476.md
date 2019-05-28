@@ -1,7 +1,7 @@
 ---
 title: "Three Fairies Vol.3"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 크래쉬_하우스 캐릭터_스타_사파이어 캐릭터_루나_차일드 캐릭터_서니_밀크 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 이벤트_c89 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5476/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5476/001.png"
 ---
 <div class="article">
 <p style="margin-left: 2em; line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><br/></strong></p>

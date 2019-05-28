@@ -1,7 +1,7 @@
 ---
 title: "개스틀리 드림"
 tags: "동인지 こげコロッケ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-08-blog-post_19/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-08-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3453727061709619932" itemprop="description articleBody">

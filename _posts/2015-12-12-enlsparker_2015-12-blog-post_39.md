@@ -1,7 +1,7 @@
 ---
 title: "루미너스 버터플라이"
 tags: "동인지 リレバ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-12-blog-post_39/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-12-blog-post_39/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-741255499804106740" itemprop="description articleBody">

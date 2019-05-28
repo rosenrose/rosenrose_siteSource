@@ -1,7 +1,7 @@
 ---
 title: "뒷골목의 점쟁이"
 tags: "ワイテイ @yt__ 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5291/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5291/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

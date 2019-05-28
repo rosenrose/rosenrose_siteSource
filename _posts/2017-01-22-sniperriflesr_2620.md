@@ -1,7 +1,7 @@
 ---
 title: "절벽에서 떨어지는 꿈"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2620/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2620/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>

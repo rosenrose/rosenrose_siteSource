@@ -1,7 +1,7 @@
 ---
 title: "요괴소녀 입문편"
 tags: "기타동인지 ばにらはうす"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-07-blog-post_24/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2017-07-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8420019985974169005" itemprop="description articleBody">

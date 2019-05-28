@@ -1,7 +1,7 @@
 ---
 title: "러블리 래빗 이어즈!"
 tags: "동인지 イスタンブール・ハイソックス"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-10-blog-post_93/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2017-10-blog-post_93/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2859151801637493010" itemprop="description articleBody">

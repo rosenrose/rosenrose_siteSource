@@ -1,7 +1,7 @@
 ---
 title: "사나에씨가 정말로 에로한지 검증해보았다"
 tags: "逸しん @itusin3 캐릭터_코치야_사나에 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5614/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5614/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

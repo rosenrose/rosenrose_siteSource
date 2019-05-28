@@ -1,7 +1,7 @@
 ---
 title: "Rondo side：A CRISIS"
 tags: "동인지 gp-kids"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-01-rondo-sidea-crisis/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-01-rondo-sidea-crisis/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8533464716206979579" itemprop="description articleBody">

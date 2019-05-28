@@ -1,7 +1,7 @@
 ---
 title: "플라잉 바닐라걸 전편"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 이벤트_例大祭11 이벤트_예대제_11 시리어스_진지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1955/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/1955/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

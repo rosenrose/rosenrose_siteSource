@@ -1,7 +1,7 @@
 ---
 title: "마녀 여행을 가다"
 tags: "동인지 カタミチキップ"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-11-blog-post_97/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-11-blog-post_97/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-395263491859817558" itemprop="description articleBody">

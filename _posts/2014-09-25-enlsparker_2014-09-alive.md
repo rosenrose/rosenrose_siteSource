@@ -1,7 +1,7 @@
 ---
 title: "호족난무 aLive"
 tags: "동인지 サイチル"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-alive/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-alive/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7881790027034769068" itemprop="description articleBody">

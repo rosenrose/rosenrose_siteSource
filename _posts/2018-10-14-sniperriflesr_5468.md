@@ -1,7 +1,7 @@
 ---
 title: "편의점의 계산대 앞에 놓인 모금 상자입니다"
 tags: "みづきいちご @kyunkyunhawawa 캐릭터_요리가미_시온 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5468/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5468/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

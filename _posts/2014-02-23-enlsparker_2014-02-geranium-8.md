@@ -1,7 +1,7 @@
 ---
 title: "GERANIUM - 8월의 풍로초처럼 흔하디 흔한, 고물상점주와 평범한 마법사의 일상이야기(혹은 연리지)"
 tags: "동인지 ヘルメットが直せません。"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-geranium-8/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-02-geranium-8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2605173668790095198" itemprop="description articleBody">

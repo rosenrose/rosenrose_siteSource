@@ -1,7 +1,7 @@
 ---
 title: "아무것도 없는 밤"
 tags: "동인지 airdrop"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-12-blog-post_31/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2018-12-blog-post_31/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7029808648311329950" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "싸운 후의 티타임"
 tags: "6 캐릭터_레밀리아_스칼렛 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1221/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1221/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

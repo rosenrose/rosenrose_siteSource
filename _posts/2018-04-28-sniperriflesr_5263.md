@@ -1,7 +1,7 @@
 ---
 title: "오린과 나즈린"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_나즈린 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5263/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5263/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "욕심쟁이 고스트 - 무료공개본"
 tags: "동인지 アンニュイ赤蛸"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_78/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-blog-post_78/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4218355007141653144" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "플랑쨩 여러장"
 tags: "杏飴 こいんとす 캐릭터_플랑드르_스칼렛 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2717/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2717/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

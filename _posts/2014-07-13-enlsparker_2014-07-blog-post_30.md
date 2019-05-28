@@ -1,7 +1,7 @@
 ---
 title: "비채비"
 tags: "동인지 personal_color"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-blog-post_30/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-07-blog-post_30/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4157737125187974462" itemprop="description articleBody">

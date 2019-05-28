@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 5"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 울지않아_파르시쨩!"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1217/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1217/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

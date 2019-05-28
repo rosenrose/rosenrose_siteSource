@@ -1,7 +1,7 @@
 ---
 title: "요우무에게 베어 받겠습니다"
 tags: "フウザサ 후우자사 風前ランプ 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_란 캐릭터_이나바_테위 캐릭터_미스티아_로렐라이 캐릭터_와카사기히메 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_사토리 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_이부키_스이카 캐릭터_호시구마_유기 캐릭터_야쿠모_유카리 이벤트_c86 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1426/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1426/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

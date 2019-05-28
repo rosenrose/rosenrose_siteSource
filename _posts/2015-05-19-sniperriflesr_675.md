@@ -1,7 +1,7 @@
 ---
 title: "삼 더하기 일 + 사나에 레이무"
 tags: "futa なべぞこ 나베조코 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_코치야_사나에 캐릭터_모리치카_린노스케 삼_더하기_일"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/675/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/675/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

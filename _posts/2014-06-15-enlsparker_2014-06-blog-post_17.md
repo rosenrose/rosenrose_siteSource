@@ -1,7 +1,7 @@
 ---
 title: "북투방신권"
 tags: "동인지 お嬢の浴室"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-06-blog-post_17/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-06-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2193066241654344206" itemprop="description articleBody">

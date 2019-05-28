@@ -1,7 +1,7 @@
 ---
 title: "가슴 주무르고 싶어요"
 tags: "スペース人 스페이스진 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2964/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2964/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

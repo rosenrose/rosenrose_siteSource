@@ -1,7 +1,7 @@
 ---
 title: "빼빼로데이 히나니토리"
 tags: "トリブリ 캐릭터_카와시로_니토리 캐릭터_카기야마_히나 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2970/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2970/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"></strong><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 1"
 tags: "にーこ 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 바이오_놀이"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2685/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2685/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "한번이라도 좋으니 밟아 주십시오"
 tags: "うぐいす餅 @3535carrot 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5672/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5672/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

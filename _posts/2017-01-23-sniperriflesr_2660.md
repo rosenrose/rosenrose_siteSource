@@ -1,7 +1,7 @@
 ---
 title: "크리스마스 유카리 유유코"
 tags: "ふくらはぎ魚丸 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2660/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2660/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "성덕 봄바이에"
 tags: "동인지 亜光速エンジン"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-09-blog-post_154/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-09-blog-post_154/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4660198186101138774" itemprop="description articleBody">

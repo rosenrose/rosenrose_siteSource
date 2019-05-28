@@ -1,7 +1,7 @@
 ---
 title: "기껏 수화를 배웠는데 전혀 전해지지 않는 사구메님"
 tags: "手負い 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1758/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1758/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

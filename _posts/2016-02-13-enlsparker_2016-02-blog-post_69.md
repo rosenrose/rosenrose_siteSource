@@ -1,7 +1,7 @@
 ---
 title: "파츄리 폭발하다"
 tags: "동인지 赤色バニラ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post_69/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-02-blog-post_69/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6646125632722607718" itemprop="description articleBody">

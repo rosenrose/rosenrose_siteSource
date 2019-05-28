@@ -1,7 +1,7 @@
 ---
 title: "First contact - the first volume"
 tags: "동인지 あるたな"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-10-first-contact-first-volume/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-10-first-contact-first-volume/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5365572021490508149" itemprop="description articleBody">

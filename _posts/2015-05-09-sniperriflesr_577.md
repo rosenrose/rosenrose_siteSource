@@ -1,7 +1,7 @@
 ---
 title: "요시카쨩 정말 무능"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 캐릭터_코치야_사나에 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/577/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/577/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

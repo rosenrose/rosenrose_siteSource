@@ -1,7 +1,7 @@
 ---
 title: "바이킹 타는 무라사"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_무라사_미나미츠 캐릭터_쿠모이_이치린 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5975/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5975/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

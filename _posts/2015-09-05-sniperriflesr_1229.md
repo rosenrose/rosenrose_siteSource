@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 11"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_카자미_유카 캐릭터_리글_나이트버그 울지않아_파르시쨩!"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1229/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1229/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

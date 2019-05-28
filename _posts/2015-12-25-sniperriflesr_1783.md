@@ -1,7 +1,7 @@
 ---
 title: "Z전사"
 tags: "マッキー たくあん屋 캐릭터_키신_사구메 캐릭터_레이센_우동게인_이나바 [번역]_4컷／단편만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1783/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1783/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

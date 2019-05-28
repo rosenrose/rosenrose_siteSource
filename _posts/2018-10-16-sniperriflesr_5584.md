@@ -1,7 +1,7 @@
 ---
 title: "미래시들의 디알렉틱"
 tags: "ツヤダシシュウジ 츠야다시_슈지 @demour402 demour402 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_카소다니_쿄코 캐릭터_호쥬_누에 캐릭터_후타츠이와_마미조 캐릭터_코치야_사나에 캐릭터_오카자키_유메미 캐릭터_키타시라카와_치유리 이벤트_c83 시리어스_밝음"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5584/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5584/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

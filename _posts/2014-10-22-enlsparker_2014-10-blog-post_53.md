@@ -1,7 +1,7 @@
 ---
 title: "밤넘어 인터벌"
 tags: "동인지 蓮華座"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_53/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-10-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3946909535903517805" itemprop="description articleBody">

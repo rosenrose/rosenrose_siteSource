@@ -1,7 +1,7 @@
 ---
 title: "Sweet Blanket"
 tags: "동인지 万里の少女"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-08-sweet-blanket/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-08-sweet-blanket/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-592760070729077571" itemprop="description articleBody">

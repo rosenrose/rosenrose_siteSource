@@ -1,7 +1,7 @@
 ---
 title: "지쳐버린 이쿠 씨의 식전기"
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_나가에_이쿠 캐릭터_히메카이도_하타테 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_미즈하시_파르시 캐릭터_홍_메이링 캐릭터_히나나위_텐시 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_레티_화이트락 캐릭터_콘파쿠_요우무 캐릭터_후지와라노_모코우 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_아키_시즈하 캐릭터_아키_미노리코 이벤트_例大祭10 이벤트_예대제_10 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/4983/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/4983/001.jpg"
 ---
 <div class="article">
 <div class="cContentBody" id="contentDiv" style="margin: 0 0 0 0;">

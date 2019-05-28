@@ -1,7 +1,7 @@
 ---
 title: "신신 키키키!!"
 tags: "동인지 茜屋ぐーたら店"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-08-blog-post_22/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2015-08-blog-post_22/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6593680479360232767" itemprop="description articleBody">

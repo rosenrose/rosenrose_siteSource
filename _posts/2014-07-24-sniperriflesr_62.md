@@ -1,7 +1,7 @@
 ---
 title: "제령지옥(第零地獄)"
 tags: "미상 챠도 茶戸 徒步二分 도보이분 캐릭터_코메이지_코이시 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_이자요이_사쿠야 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 시리어스_어두움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/62/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/62/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

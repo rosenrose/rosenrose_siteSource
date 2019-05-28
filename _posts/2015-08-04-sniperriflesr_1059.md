@@ -1,7 +1,7 @@
 ---
 title: "DODO"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_야쿠모_란 캐릭터_카자미_유카 캐릭터_이바라키_카센 이벤트_もりや神社例大祭 이벤트_모리야신사_예대제 시리어스_진지"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1059/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1059/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

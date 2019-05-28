@@ -1,7 +1,7 @@
 ---
 title: "Flying Color's"
 tags: "동인지 gp-kids"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-03-flying-colors/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-03-flying-colors/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2830593554973325099" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "Indigo inherit"
 tags: "동인지 煎餅屋"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-03-indigo-inherit/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-03-indigo-inherit/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4267374081660285733" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "애프터 골드"
 tags: "동인지 ビビットグレー"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-11-blog-post_43/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-11-blog-post_43/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5844081295566996754" itemprop="description articleBody">

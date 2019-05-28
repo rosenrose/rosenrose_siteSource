@@ -1,7 +1,7 @@
 ---
 title: "DOG DAYS"
 tags: "동인지 シャこ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-11-dog-days/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-11-dog-days/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1617069346158274689" itemprop="description articleBody">

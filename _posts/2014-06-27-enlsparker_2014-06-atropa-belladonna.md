@@ -1,7 +1,7 @@
 ---
 title: "왕녀환장 - atropa belladonna"
 tags: "동인지 月夜幻想"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-06-atropa-belladonna/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-06-atropa-belladonna/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6692839994898528786" itemprop="description articleBody">

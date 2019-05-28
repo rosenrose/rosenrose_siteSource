@@ -1,7 +1,7 @@
 ---
 title: "카괴대 홍보짤"
 tags: "ㅁㄴㅇㄹ 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5892/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5892/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

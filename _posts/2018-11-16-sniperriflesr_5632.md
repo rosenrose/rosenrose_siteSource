@@ -1,7 +1,7 @@
 ---
 title: "동정만 뗀 절누나"
 tags: "풍총이신자 캐릭터_호쥬_누에 캐릭터_히지리_뱌쿠렌 캐릭터_토요사토미미노_미코 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5632/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5632/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

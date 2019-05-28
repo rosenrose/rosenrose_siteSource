@@ -1,7 +1,7 @@
 ---
 title: "네가 온다면"
 tags: "기타동인지 少女恋歌"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-12-blog-post/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2018-12-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6385003566030786305" itemprop="description articleBody">

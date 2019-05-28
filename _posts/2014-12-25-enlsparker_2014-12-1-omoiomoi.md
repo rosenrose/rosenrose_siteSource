@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 괴기담 1 “마음마음 OMOIOMOI”"
 tags: "기타동인지 mmu2000"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-12-1-omoiomoi/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-12-1-omoiomoi/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2511961564862444746" itemprop="description articleBody">

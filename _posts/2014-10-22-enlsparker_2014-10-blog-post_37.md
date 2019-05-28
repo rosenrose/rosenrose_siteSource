@@ -1,7 +1,7 @@
 ---
 title: "내 주인님은, 좋은 주인님"
 tags: "기타동인지 貳星"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_37/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-10-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5143436049570464477" itemprop="description articleBody">

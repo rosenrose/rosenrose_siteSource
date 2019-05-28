@@ -1,7 +1,7 @@
 ---
 title: "고민하는 레이센"
 tags: "유동 124．50 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_카미시라사와_케이네 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5955/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5955/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

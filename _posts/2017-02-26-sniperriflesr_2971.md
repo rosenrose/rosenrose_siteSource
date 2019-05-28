@@ -1,7 +1,7 @@
 ---
 title: "포키 게임 [ 유기파르 ]"
 tags: "狗目りんご 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 캐릭터_쿠로다니_야마메 캐릭터_키스메 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2971/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2971/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

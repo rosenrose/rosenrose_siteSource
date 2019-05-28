@@ -1,7 +1,7 @@
 ---
 title: "청아냥냥의 음모 ~연말편~"
 tags: "まくわうに うり畑牧場 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_카쿠_세이가 캐릭터_모노노베노_후토 캐릭터_미야코_요시카 캐릭터_키리사메_마리사 캐릭터_세키반키 이벤트_c87 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1951/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1951/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

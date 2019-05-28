@@ -1,7 +1,7 @@
 ---
 title: "바람의나라 하는 유카리"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5655/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5655/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

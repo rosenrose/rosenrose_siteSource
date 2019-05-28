@@ -1,7 +1,7 @@
 ---
 title: "비봉소녀 컴포트"
 tags: "동인지 ギロチン銀座"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-09-blog-post_2/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-09-blog-post_2/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7259438974706610688" itemprop="description articleBody">

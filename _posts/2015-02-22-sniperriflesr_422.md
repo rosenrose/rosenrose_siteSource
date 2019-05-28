@@ -1,7 +1,7 @@
 ---
 title: "KOMA NOTE [ 코마 노트 ]"
 tags: "無礼るなぉ お澄ましなめこ 캐릭터_오노즈카_코마치 캐릭터_하쿠레이_레이무 캐릭터_야사카_카나코 캐릭터_시키에이키_야마나자두 이벤트_예대제_7 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/422/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/422/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

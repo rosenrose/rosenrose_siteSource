@@ -1,7 +1,7 @@
 ---
 title: "우츠호가 우울증에 걸렸습니다 !"
 tags: "이벤트_紅楼夢6 약"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/184/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/184/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "플라잉 바닐라걸 - 후편"
 tags: "동인지 あさつき堂"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-08-blog-post_78/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-08-blog-post_78/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4750543191899152170" itemprop="description articleBody">

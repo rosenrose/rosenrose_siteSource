@@ -1,7 +1,7 @@
 ---
 title: "으스름달의 사랑"
 tags: "さとうメメ子 satou_memeko 사토우_메메코 米 kemo 케모 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 이벤트_예대제_7 시리어스_밝음"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/284/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/284/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

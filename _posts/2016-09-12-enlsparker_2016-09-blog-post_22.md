@@ -1,7 +1,7 @@
 ---
 title: "정말 좋아"
 tags: "동인지 さやかた紅茶館"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-09-blog-post_22/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-09-blog-post_22/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2139738459589607442" itemprop="description articleBody">

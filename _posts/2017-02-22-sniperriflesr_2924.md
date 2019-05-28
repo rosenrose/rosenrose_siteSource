@@ -1,7 +1,7 @@
 ---
 title: "최후의 도망칠 길"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_호쥬_누에 캐릭터_키진_세이자 캐릭터_첸 캐릭터_이나바_테위 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2924/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2924/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

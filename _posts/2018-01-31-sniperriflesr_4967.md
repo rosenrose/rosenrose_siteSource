@@ -1,7 +1,7 @@
 ---
 title: "공주님 메리와 인스턴트 커피"
 tags: "しろし 시로시 電派絵師団 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/4967/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/4967/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

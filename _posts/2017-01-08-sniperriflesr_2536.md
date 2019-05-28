@@ -1,7 +1,7 @@
 ---
 title: "덜렁이가 된 사쿠야씨"
 tags: "るみや 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_홍_메이링 캐릭터_키리사메_마리사 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2536/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2536/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

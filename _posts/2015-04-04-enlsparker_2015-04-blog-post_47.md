@@ -1,7 +1,7 @@
 ---
 title: "나름대로 대역전"
 tags: "기타동인지 まりおねっと装甲猟兵"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-blog-post_47/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-04-blog-post_47/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1306433163368428885" itemprop="description articleBody">

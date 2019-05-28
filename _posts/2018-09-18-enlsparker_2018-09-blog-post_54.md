@@ -1,7 +1,7 @@
 ---
 title: "자택음주의 비봉구락부"
 tags: "동인지 azmaya あまず"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-09-blog-post_54/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2018-09-blog-post_54/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1247771027504392863" itemprop="description articleBody">

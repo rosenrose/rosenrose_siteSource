@@ -1,7 +1,7 @@
 ---
 title: "본능 발현"
 tags: "ジェット虚無僧 제트_코무소 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/643/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/643/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

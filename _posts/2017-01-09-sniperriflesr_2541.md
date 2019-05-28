@@ -1,7 +1,7 @@
 ---
 title: "유우교토 캣츠워크"
 tags: "son sonと壱 s．a．s 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_科学世紀のカフェテラス_3回 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2541/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2541/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

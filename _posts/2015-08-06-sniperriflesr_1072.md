@@ -1,7 +1,7 @@
 ---
 title: "브랜드 뉴 웨이브 언더 그라운드"
 tags: "綾杉つばき 아야스기_츠바키 まにまに。 마니마니 manimani。 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_이나바_테위 이벤트_例大祭_7 이벤트_예대제_7 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1072/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1072/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

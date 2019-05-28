@@ -1,7 +1,7 @@
 ---
 title: "착각"
 tags: "ジェット虚無僧 제트코무소 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2736/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2736/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

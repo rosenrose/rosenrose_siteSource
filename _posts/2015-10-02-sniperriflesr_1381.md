@@ -1,7 +1,7 @@
 ---
 title: "eratoho 코이시단독엔딩"
 tags: "g소리 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1381/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1381/001.jpg"
 ---
 <div class="article">
 <p style="font-stretch: normal; font-size: 13px; line-height: 20px; font-family: gulim, 굴림; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247);"><br/></p>

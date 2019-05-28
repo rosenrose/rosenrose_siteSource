@@ -1,7 +1,7 @@
 ---
 title: "명련사의 담당자"
 tags: "こみねや @komineya_san 캐릭터_나즈린 캐릭터_카소다니_쿄코 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/4927/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/4927/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

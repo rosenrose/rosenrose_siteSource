@@ -1,7 +1,7 @@
 ---
 title: "마리사의 유언"
 tags: "壱 壱界 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_히에다노_아큐 캐릭터_모리치카_린노스케 이벤트_紅楼夢9 이벤트_홍루몽9 시리어스_슬픔"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2532/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2532/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

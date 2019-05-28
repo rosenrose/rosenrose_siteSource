@@ -1,7 +1,7 @@
 ---
 title: "Idola"
 tags: "동인지 ふあん亭"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-06-idola/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2017-06-idola/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6471997767752689807" itemprop="description articleBody">

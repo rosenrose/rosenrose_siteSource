@@ -1,7 +1,7 @@
 ---
 title: "폭주혜성 키리사메 마리사"
 tags: "동인지 アトモスフィア"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-blog-post_20/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-05-blog-post_20/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3484739314369270091" itemprop="description articleBody">

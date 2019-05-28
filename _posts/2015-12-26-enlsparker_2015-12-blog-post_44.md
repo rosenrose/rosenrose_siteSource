@@ -1,7 +1,7 @@
 ---
 title: "공주님은 마녀!!"
 tags: "동인지 粟米湯"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-12-blog-post_44/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-12-blog-post_44/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7194349733234843121" itemprop="description articleBody">

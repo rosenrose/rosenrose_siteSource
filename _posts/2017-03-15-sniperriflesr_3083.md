@@ -1,7 +1,7 @@
 ---
 title: "그리고 진실이 남았다"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3083/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3083/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

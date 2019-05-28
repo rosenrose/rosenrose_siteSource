@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 댁"
 tags: "기타동인지 セイトゥートーン"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-12-blog-post_79/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-12-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1959188988532933847" itemprop="description articleBody">

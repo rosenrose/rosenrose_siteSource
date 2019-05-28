@@ -1,7 +1,7 @@
 ---
 title: "코메이지 다이얼로그"
 tags: "동인지 dynamo"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_908/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_908/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3441497506282803385" itemprop="description articleBody">

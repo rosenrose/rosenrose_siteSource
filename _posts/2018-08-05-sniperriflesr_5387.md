@@ -1,7 +1,7 @@
 ---
 title: "홍백흑의 트리콜로르 댄스"
 tags: "氷川_翔 히카와_쇼 さくsaku亭 saku-2_tei 사쿠사쿠데이 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_이바라키_카센 캐릭터_하쿠레이_레이무 이벤트_博麗神社_例大祭 이벤트_第15回 이벤트_예대제_15 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5387/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5387/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><font color="#333333"></font><br/></strong></p>

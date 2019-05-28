@@ -1,7 +1,7 @@
 ---
 title: "Lotus Partington Plans"
 tags: "동인지 音速うばぐるま"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-11-lotus-partington-plans/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-11-lotus-partington-plans/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5879518182427594452" itemprop="description articleBody">

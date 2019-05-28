@@ -1,7 +1,7 @@
 ---
 title: "홍마관 CHECK OUT"
 tags: "합동인지"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-02-check-out/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-02-check-out/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3012044959877898955" itemprop="description articleBody">

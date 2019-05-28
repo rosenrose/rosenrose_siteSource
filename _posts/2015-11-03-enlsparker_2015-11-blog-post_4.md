@@ -1,7 +1,7 @@
 ---
 title: "방황"
 tags: "동인지 letra"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-11-blog-post_4/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2015-11-blog-post_4/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6494232669006891125" itemprop="description articleBody">

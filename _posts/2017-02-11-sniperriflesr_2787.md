@@ -1,7 +1,7 @@
 ---
 title: "기죽지 마"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_루미아 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2787/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2787/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

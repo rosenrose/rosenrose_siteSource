@@ -1,7 +1,7 @@
 ---
 title: "작은 케네"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1274/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1274/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

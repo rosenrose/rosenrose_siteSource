@@ -1,7 +1,7 @@
 ---
 title: "염마님 x 요우무쨩"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_시키에이키_야마나자두 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2637/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2637/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

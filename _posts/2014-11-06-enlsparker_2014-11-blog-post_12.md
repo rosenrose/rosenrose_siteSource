@@ -1,7 +1,7 @@
 ---
 title: "마녀들이 마리사를 둘러싸며 큰 일을 벌이고 있습니다"
 tags: "동인지 さいピン×こやき"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-11-blog-post_12/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-11-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6693036006796093021" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "괴력난신"
 tags: "futa なべぞこ 나베조코 캐릭터_호시구마_유기 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3116/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3116/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

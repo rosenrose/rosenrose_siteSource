@@ -1,7 +1,7 @@
 ---
 title: "다케우치 마리야의 멋진 홀리데이를 부르는 사쿠야씨를 그리고 싶었을 뿐"
 tags: "ワイテイ @yt__ 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5973/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5973/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

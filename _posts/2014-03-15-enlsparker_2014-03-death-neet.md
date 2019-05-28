@@ -1,7 +1,7 @@
 ---
 title: "DEATH NEET"
 tags: "동인지 さいピン×こやき"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-03-death-neet/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-03-death-neet/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8530709053258482297" itemprop="description articleBody">

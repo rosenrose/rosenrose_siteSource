@@ -1,7 +1,7 @@
 ---
 title: "지저에서 왔어요"
 tags: "기타동인지 黄昏純情堂"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-06-blog-post_7/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-06-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5892642893303705275" itemprop="description articleBody">

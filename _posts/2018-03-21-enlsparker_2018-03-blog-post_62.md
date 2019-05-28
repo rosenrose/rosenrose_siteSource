@@ -1,7 +1,7 @@
 ---
 title: "누에 성지를 걷다"
 tags: "동인지 スアリテスミ"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-03-blog-post_62/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2018-03-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4097824951562606518" itemprop="description articleBody">

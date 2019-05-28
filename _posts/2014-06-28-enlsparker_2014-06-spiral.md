@@ -1,7 +1,7 @@
 ---
 title: "호족 Spiral"
 tags: "동인지 蒼空市場"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-06-spiral/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-06-spiral/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6612973440959525467" itemprop="description articleBody">

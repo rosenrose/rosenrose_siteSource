@@ -1,7 +1,7 @@
 ---
 title: "Bears"
 tags: "동인지 紅色回転機構"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-10-bears/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-10-bears/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9081410135294353729" itemprop="description articleBody">

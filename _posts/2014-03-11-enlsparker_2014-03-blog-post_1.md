@@ -1,7 +1,7 @@
 ---
 title: "마법사들의 우울"
 tags: "기타동인지 キノコ堂"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-03-blog-post_1/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-03-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3653652628059622534" itemprop="description articleBody">

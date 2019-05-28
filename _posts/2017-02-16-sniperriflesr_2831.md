@@ -1,7 +1,7 @@
 ---
 title: "먹이"
 tags: "トト ひとりオセロ 캐릭터_스쿠나_신묘마루 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2831/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2831/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

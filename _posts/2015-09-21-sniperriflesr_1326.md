@@ -1,7 +1,7 @@
 ---
 title: "리글 나이트버그 주인공 취임!"
 tags: "水中花火 스이츄_하나비 ふすま喫茶 후스마_찻집 캐릭터_리글_나이트버그 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_카소다니_쿄코 캐릭터_치르노 캐릭터_타타라_코가사 이벤트_c87 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1326/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1326/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "레이무쨩과 마리사쨩과 불가사의한 리본"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5684/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5684/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

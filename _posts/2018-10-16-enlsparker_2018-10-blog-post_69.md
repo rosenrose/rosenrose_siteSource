@@ -1,7 +1,7 @@
 ---
 title: "머위 싹이 틀 적에"
 tags: "동인지 矢本堂落書市"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-10-blog-post_69/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-10-blog-post_69/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3850391370150156531" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "창가의 두사람"
 tags: "さとうメメ子 satou_memeko 사토우_메메코 米 kemo 케모 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_밝음"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/254/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/254/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

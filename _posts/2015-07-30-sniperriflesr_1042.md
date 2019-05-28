@@ -1,7 +1,7 @@
 ---
 title: "빗소리에 섞이다"
 tags: "よぬ 요누 よぬりめ 요누리메 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 캐릭터_모리치카_린노스케 이벤트_恋のまほうは魔理沙におまかせ！5 이벤트_사랑의_마법은_마리사에게_맡겨둬!_5 시리어스_밝음"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1042/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1042/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

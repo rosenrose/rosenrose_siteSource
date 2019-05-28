@@ -1,7 +1,7 @@
 ---
 title: "환상향 주민들의 가을"
 tags: "동인지 flipflops"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-blog-post_957/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-05-blog-post_957/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4757020903722185271" itemprop="description articleBody">

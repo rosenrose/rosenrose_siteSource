@@ -1,7 +1,7 @@
 ---
 title: "책상 위 소녀들의 가슴"
 tags: "ハマー [번역]_짤_시리즈"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1302/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1302/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

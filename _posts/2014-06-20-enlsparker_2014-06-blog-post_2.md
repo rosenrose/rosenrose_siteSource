@@ -1,7 +1,7 @@
 ---
 title: "지상의 옥토끼는 뭘보고 뛰나?"
 tags: "동인지 ふあん亭"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-06-blog-post_2/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-06-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2202109397392457286" itemprop="description articleBody">

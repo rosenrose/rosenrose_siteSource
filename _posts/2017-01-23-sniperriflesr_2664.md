@@ -1,7 +1,7 @@
 ---
 title: "짓궂은 질문"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_레이센_우동게인_이나바 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2664/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2664/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

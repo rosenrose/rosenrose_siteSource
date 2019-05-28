@@ -1,7 +1,7 @@
 ---
 title: "동방 화차묘 급편 EXPRESS"
 tags: "동인지 winter_scenery"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-03-express/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-03-express/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1225009630417052065" itemprop="description articleBody">

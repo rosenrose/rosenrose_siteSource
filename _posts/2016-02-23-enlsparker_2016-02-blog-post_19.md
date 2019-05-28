@@ -1,7 +1,7 @@
 ---
 title: "미니어처 포레스트"
 tags: "동인지 万里の少女"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-02-blog-post_19/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-02-blog-post_19/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6042134411496044643" itemprop="description articleBody">

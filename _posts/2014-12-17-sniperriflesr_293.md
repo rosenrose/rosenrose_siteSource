@@ -1,7 +1,7 @@
 ---
 title: "오토메 코멘터리"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_히에다노_아큐 캐릭터_야쿠모_유카리 캐릭터_이누바시리_모미지 캐릭터_하쿠레이_레이무 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_샤메이마루_아야 이벤트_c83 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/293/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/293/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

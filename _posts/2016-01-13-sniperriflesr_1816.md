@@ -1,7 +1,7 @@
 ---
 title: "난생소녀"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1816/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1816/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

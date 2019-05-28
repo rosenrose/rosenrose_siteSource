@@ -1,7 +1,7 @@
 ---
 title: "초월하라 경계를"
 tags: "えなみ教授 에나미교수 캐릭터_이나바_테위 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2070/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2070/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

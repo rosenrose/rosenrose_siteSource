@@ -1,7 +1,7 @@
 ---
 title: "사나에 레지스탕스"
 tags: "기타동인지 友毒屋"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-12-blog-post_0/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-12-blog-post_0/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4245413067416800851" itemprop="description articleBody">

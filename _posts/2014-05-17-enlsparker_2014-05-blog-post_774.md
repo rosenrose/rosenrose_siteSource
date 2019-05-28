@@ -1,7 +1,7 @@
 ---
 title: "백옥루의 정원"
 tags: "기타동인지 岳葉楼"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-05-blog-post_774/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-05-blog-post_774/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4908557518708863517" itemprop="description articleBody">

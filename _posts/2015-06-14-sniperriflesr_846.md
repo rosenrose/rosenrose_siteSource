@@ -1,7 +1,7 @@
 ---
 title: "죽림의 관심희망자"
 tags: "リンメイ 健全パラドックス 캐릭터_이마이즈미_카케로 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/846/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/846/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

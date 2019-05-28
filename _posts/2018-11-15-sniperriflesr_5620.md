@@ -1,7 +1,7 @@
 ---
 title: "동갤러를 바라보는 이치린"
 tags: "보비 캐릭터_쿠모이_이치린 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5620/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5620/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "우도묭 키스 합동지"
 tags: "합동인지"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-01-blog-post_87/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2017-01-blog-post_87/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1330395311153809404" itemprop="description articleBody">

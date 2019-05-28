@@ -1,7 +1,7 @@
 ---
 title: "뽑기"
 tags: "紅わいず @beni_zuwai red_snow_倶楽部 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5538/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5538/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>

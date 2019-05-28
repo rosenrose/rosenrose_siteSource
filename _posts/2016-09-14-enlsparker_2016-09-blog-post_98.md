@@ -1,7 +1,7 @@
 ---
 title: "꿈의 저편에서 만나요."
 tags: "동인지 平成ストロベリー"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-09-blog-post_98/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2016-09-blog-post_98/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8391859807634214017" itemprop="description articleBody">

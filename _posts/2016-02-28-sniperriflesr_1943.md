@@ -1,7 +1,7 @@
 ---
 title: "도레사구 발렌타인"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_세이란 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1943/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1943/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

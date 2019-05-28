@@ -1,7 +1,7 @@
 ---
 title: "링고 세이란 만화"
 tags: "거북이오 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2266/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2266/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

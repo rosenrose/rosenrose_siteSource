@@ -1,7 +1,7 @@
 ---
 title: "만나고 싶지 않은 사람을 만난 마리사쨩입니다"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5365/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5365/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

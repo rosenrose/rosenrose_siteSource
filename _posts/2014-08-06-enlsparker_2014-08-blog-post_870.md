@@ -1,7 +1,7 @@
 ---
 title: "신님의 산책길"
 tags: "동인지 deli-tre"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-08-blog-post_870/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-08-blog-post_870/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5744078074413615519" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "오토메 어트랙션"
 tags: "동인지 ギロチン銀座"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_38/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-10-blog-post_38/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5661264646120035063" itemprop="description articleBody">

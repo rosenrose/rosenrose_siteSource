@@ -1,7 +1,7 @@
 ---
 title: "코메이지 사토리의 짜증"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5260/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5260/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "꼬맹이 관"
 tags: "기타동인지 ななつや"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_329/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_329/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1968469442394305274" itemprop="description articleBody">

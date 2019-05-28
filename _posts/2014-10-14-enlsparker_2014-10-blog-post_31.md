@@ -1,7 +1,7 @@
 ---
 title: "도너츠 플래닛"
 tags: "동인지 airdrop"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-10-blog-post_31/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-10-blog-post_31/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6684385102978228989" itemprop="description articleBody">

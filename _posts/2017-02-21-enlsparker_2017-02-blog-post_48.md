@@ -1,7 +1,7 @@
 ---
 title: "이상요요몽 - 후편"
 tags: "동인지 bitter&better"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-02-blog-post_48/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2017-02-blog-post_48/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7102609790341524112" itemprop="description articleBody">

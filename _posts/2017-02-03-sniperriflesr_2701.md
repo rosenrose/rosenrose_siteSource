@@ -1,7 +1,7 @@
 ---
 title: "HOTEL 지령전"
 tags: "らぱ☆ 라파☆ 平成ストロベリー 헤이세이_스트로베리 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_히메카이도_하타테 캐릭터_레이우지_우츠호 캐릭터_오쿠 이벤트_アンダーグラウンドカーニバル2 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2701/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2701/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

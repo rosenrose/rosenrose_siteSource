@@ -1,7 +1,7 @@
 ---
 title: "어덜트 마리사쨩"
 tags: "동인지 時間屋"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-05-blog-post_84/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-05-blog-post_84/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3911327302068618617" itemprop="description articleBody">

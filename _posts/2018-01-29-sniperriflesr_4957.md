@@ -1,7 +1,7 @@
 ---
 title: "기상 몰카"
 tags: "しぐま @signalmass 캐릭터_아키_시즈하 캐릭터_아키_미노리코 캐릭터_레티_화이트락 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/4957/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/4957/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

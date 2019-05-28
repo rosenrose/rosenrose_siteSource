@@ -1,7 +1,7 @@
 ---
 title: "유유코"
 tags: "동인지 さやかた紅茶館"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-08-blog-post_594/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-08-blog-post_594/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5512408123787753793" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "히나 해피 웨딩"
 tags: "いすぃ 캐릭터_카기야마_히나 왜곡된_사랑"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1460/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1460/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "와카사기쨩"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2165/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2165/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

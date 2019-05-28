@@ -1,7 +1,7 @@
 ---
 title: "힘내라 사나에 씨 & 힘내라 사나에 짱"
 tags: "동인지 くらっしゅハウス"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-02-blog-post_969/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-02-blog-post_969/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3291512602200891347" itemprop="description articleBody">

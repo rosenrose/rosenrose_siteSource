@@ -1,7 +1,7 @@
 ---
 title: "그런 당신도 나쁘지 않아"
 tags: "futa なべぞこ 나베조코 캐릭터_후타츠이와_마미조 캐릭터_타타라_코가사 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/652/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/652/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

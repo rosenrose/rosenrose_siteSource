@@ -1,7 +1,7 @@
 ---
 title: "내장 배터리"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_치르노 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5507/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5507/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

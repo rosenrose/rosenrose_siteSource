@@ -1,7 +1,7 @@
 ---
 title: "코코로 관찰기"
 tags: "동인지 徒歩二分"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-06-blog-post_11/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-06-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6282945345755393784" itemprop="description articleBody">

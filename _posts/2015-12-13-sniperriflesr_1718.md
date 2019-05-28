@@ -1,7 +1,7 @@
 ---
 title: "죽음에 이르는 계보"
 tags: "水鏡ひより 미카가미_히요리 氷坂透 히사카_토오루 ストカメ 스토카메 캐릭터_마에리베리_한 캐릭터_첸 캐릭터_우사미_렌코 이벤트_c83 시리어스_진지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1718/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/1718/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

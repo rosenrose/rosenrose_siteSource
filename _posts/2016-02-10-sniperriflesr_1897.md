@@ -1,7 +1,7 @@
 ---
 title: "Zauberei das kochen"
 tags: "柳月湊 時間屋 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 이벤트_c78 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1897/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1897/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

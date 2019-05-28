@@ -1,7 +1,7 @@
 ---
 title: "Sonnen Stragh -THERMOSPHERE-"
 tags: "기타동인지 lost_rage"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-05-sonnen-stragh-thermosphere/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-05-sonnen-stragh-thermosphere/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5121782881165952704" itemprop="description articleBody">

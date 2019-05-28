@@ -1,7 +1,7 @@
 ---
 title: "스트레스와 달콤한 거유"
 tags: "동인지 さやかた紅茶館"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-06-blog-post_41/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-06-blog-post_41/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-816614396330057939" itemprop="description articleBody">

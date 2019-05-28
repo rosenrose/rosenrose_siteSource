@@ -1,7 +1,7 @@
 ---
 title: "이자나미환상"
 tags: "菊壱モンジ 1569 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_境界から視えた外界-廻- 이벤트_경계로부터_보이는_바깥세계-메구루- 시리어스_어두움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1357/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1357/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

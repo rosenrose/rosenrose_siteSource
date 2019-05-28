@@ -1,7 +1,7 @@
 ---
 title: "스미모코"
 tags: "동인지 あみだ屑"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-02-blog-post_62/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2016-02-blog-post_62/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1700251459608043647" itemprop="description articleBody">

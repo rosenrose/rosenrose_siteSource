@@ -1,7 +1,7 @@
 ---
 title: "저 하늘에 비추어"
 tags: "동인지 スアリテスミ"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-05-blog-post_4/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2018-05-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8238627175564230223" itemprop="description articleBody">

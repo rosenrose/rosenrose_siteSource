@@ -1,7 +1,7 @@
 ---
 title: "FUCK TO THE FUTURE"
 tags: "동인지 オチンチンリーチ!"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-03-fuck-to-future/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-03-fuck-to-future/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3318262506322803136" itemprop="description articleBody">

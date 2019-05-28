@@ -1,7 +1,7 @@
 ---
 title: "맥주 마시는 오린"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_카엔뵤_린 캐릭터_오린 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5680/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5680/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

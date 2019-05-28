@@ -1,7 +1,7 @@
 ---
 title: "동캐로 차린 제사상"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5964/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5964/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "여동생 옷 빌려입은 사토리"
 tags: "かっさんどら @cassandra0412 青春カツサンド 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5688/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5688/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

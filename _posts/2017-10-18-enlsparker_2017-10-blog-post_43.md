@@ -1,7 +1,7 @@
 ---
 title: "만작 두 번째"
 tags: "동인지 うり畑牧場"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-10-blog-post_43/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2017-10-blog-post_43/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3606531221955214976" itemprop="description articleBody">

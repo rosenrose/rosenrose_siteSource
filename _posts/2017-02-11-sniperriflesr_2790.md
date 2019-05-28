@@ -1,7 +1,7 @@
 ---
 title: "신부의 밥이 위험해"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_야쿠모_란 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2790/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2790/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "여행의 요리가미 자매"
 tags: "じる @jirufun じるランド 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_히나나위_텐시 시리어스_밝음"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/4928/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/4928/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

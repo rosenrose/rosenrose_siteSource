@@ -1,7 +1,7 @@
 ---
 title: "모코미스"
 tags: "합동인지 その他大勢 にくたまそば"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-02-blog-post_15/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-02-blog-post_15/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1895157281870576585" itemprop="description articleBody">

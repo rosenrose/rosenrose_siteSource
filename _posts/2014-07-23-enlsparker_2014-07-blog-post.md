@@ -1,7 +1,7 @@
 ---
 title: "복숭아빛 오토메 기행"
 tags: "동인지 ギロチン銀座"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-07-blog-post/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-07-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6560547662355697143" itemprop="description articleBody">

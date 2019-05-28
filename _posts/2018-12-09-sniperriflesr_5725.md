@@ -1,7 +1,7 @@
 ---
 title: "자기 능력을 교육에 좋지 않는 방법으로만 쓰는 유카리"
 tags: "政長 @naga_masanaga 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5725/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5725/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

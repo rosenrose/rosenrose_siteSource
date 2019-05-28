@@ -1,7 +1,7 @@
 ---
 title: "WRIGGLE NIGHTBUG VS.THE THIEVES"
 tags: "동인지 羊箱"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-wriggle-nightbug-vsthe-thieves/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-wriggle-nightbug-vsthe-thieves/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1084220059858444050" itemprop="description articleBody">

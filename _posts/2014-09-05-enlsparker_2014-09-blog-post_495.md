@@ -1,7 +1,7 @@
 ---
 title: "별 빛나는 하늘의 산타 콜링 (코우린, 강림)"
 tags: "18sbunny 기타동인지"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_495/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-blog-post_495/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-50215777234178058" itemprop="description articleBody">

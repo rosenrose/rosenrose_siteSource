@@ -1,7 +1,7 @@
 ---
 title: "에이린과 노팬티 수행"
 tags: "三味線 캐릭터_키신_사구메 캐릭터_야고코로_에이린 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 캐릭터_호라이산_카구야 [번역]_4컷／단편만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1770/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1770/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

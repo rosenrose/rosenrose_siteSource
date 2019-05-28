@@ -1,7 +1,7 @@
 ---
 title: "이름없는 사랑의 노래"
 tags: "합동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_632/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_632/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4875454785927869383" itemprop="description articleBody">

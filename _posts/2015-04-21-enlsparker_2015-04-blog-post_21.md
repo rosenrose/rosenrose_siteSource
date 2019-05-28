@@ -1,7 +1,7 @@
 ---
 title: "여름색 샹그리라"
 tags: "동인지 ヘ蝶々"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-04-blog-post_21/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2015-04-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9191565473037978713" itemprop="description articleBody">

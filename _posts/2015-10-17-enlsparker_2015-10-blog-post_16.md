@@ -1,7 +1,7 @@
 ---
 title: "휴일에도!! 구웠어요 유카씨"
 tags: "동인지 柚子桃ジャム"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-10-blog-post_16/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-10-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2608966582315583023" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "놔 멍청아 !!"
 tags: "6 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/857/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/857/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "연심 다크 스파크"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_하쿠레이_레이무 이벤트_c84 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1107/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1107/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

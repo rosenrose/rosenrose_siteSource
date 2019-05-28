@@ -1,7 +1,7 @@
 ---
 title: "환남충과 함께하는 동캐낚시 -1"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_요리가미_시온 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5536/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5536/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

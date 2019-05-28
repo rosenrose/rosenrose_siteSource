@@ -1,7 +1,7 @@
 ---
 title: "아직 그 맛을 알지 못하기에"
 tags: "동인지 なべぞこ"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-04-blog-post_82/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-04-blog-post_82/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9002832770967177073" itemprop="description articleBody">

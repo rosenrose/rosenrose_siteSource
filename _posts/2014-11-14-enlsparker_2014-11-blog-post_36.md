@@ -1,7 +1,7 @@
 ---
 title: "어서오세요 스쿠나 공주"
 tags: "동인지 薬味さらい こもりきり。 にゃんにゃんお!"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-11-blog-post_36/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-11-blog-post_36/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9208687229294426250" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "결투"
 tags: "さこ さこちん bbsacon @sacosaco 黄泉比良坂 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5780/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5780/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

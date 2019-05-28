@@ -1,7 +1,7 @@
 ---
 title: "홍법대사 잿날"
 tags: "ハカノシンシ 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2806/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2806/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

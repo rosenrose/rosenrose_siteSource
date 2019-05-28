@@ -1,7 +1,7 @@
 ---
 title: "비밀의 재료"
 tags: "めえこ アルパカ牧場 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_슬픔"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2982/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2982/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

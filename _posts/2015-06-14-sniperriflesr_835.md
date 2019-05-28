@@ -1,7 +1,7 @@
 ---
 title: "광기의 눈동자"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/835/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/835/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

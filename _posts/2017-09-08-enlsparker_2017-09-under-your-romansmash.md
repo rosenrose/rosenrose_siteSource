@@ -1,7 +1,7 @@
 ---
 title: "Under Your Romansmash"
 tags: "동인지 蓮華座"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2017-09-under-your-romansmash/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2017-09-under-your-romansmash/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4324851846500006256" itemprop="description articleBody">

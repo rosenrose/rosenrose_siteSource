@@ -1,7 +1,7 @@
 ---
 title: "거울"
 tags: "기타동인지 セイトゥートーン"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-05-blog-post_77/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2018-05-blog-post_77/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5382690790534126426" itemprop="description articleBody">

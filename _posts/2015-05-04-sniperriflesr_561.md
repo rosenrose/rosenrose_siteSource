@@ -1,7 +1,7 @@
 ---
 title: "봉래"
 tags: "캐릭터_메디슨_멜랑콜리 캐릭터_앨리스_마가트로이드 캐릭터_호라이 캐릭터_하타노_코코로 캐릭터_키리사메_마리사 캐릭터_상하이 이벤트_제_1회_추계_예대제 이벤트_第一回_秋季例大祭 합동-귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/561/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/561/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

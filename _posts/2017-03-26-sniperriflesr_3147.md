@@ -1,7 +1,7 @@
 ---
 title: "갭모에"
 tags: "ワキエ 캐릭터_호시구마_유기 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3147/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3147/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

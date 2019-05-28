@@ -1,7 +1,7 @@
 ---
 title: "레이사쿠 단풍잎 만화"
 tags: "暇人でらっくす @himajinsan0401 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5679/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5679/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

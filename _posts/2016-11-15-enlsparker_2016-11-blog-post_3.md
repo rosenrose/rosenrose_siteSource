@@ -1,7 +1,7 @@
 ---
 title: "로리 샌드"
 tags: "동인지 なんとか生きてます。"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-11-blog-post_3/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-11-blog-post_3/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8588336867680121707" itemprop="description articleBody">

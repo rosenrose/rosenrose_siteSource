@@ -1,7 +1,7 @@
 ---
 title: "아야쨩은 부탁하면 박게 해준다"
 tags: "スーパーま 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2254/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2254/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "싫증쟁이"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 시리어스_진지"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5848/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5848/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

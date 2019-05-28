@@ -1,7 +1,7 @@
 ---
 title: "시간에 상냥하게 시간에 엄격하게"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_플랑드르_스칼렛 캐릭터_이나바_테위 급식첸_만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2606/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2606/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "우사미 스미레코는 학교를 모른다"
 tags: "蒼 아오 蒼空市場 창공시장 캐릭터_우사미_스미레코 캐릭터_키리사메_마리사 캐릭터_하타노_코코로 캐릭터_하쿠레이_레이무 캐릭터_후타츠이와_마미조 캐릭터_모리치카_린노스케 캐릭터_카미시라사와_케이네 이벤트_例大祭13 이벤트_예대제_13 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3296/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3296/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong></strong><br/></p>

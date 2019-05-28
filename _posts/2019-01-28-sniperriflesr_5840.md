@@ -1,7 +1,7 @@
 ---
 title: "강간 위협에 시달리는 레이무"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5840/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5840/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

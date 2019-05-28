@@ -1,7 +1,7 @@
 ---
 title: "공상 Antique Phonoqrapher"
 tags: "동인지 airdrop"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-05-antique-phonoqrapher/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-05-antique-phonoqrapher/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4050524983497008526" itemprop="description articleBody">

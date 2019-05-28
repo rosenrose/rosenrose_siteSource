@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 58"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 울지않아_파르시쨩!"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2377/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2377/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "가출묘"
 tags: "동인지 北国もやし製造所"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-04-blog-post_24/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-04-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4788721903825981032" itemprop="description articleBody">

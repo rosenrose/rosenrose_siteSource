@@ -1,7 +1,7 @@
 ---
 title: "동갤러들이 클라운에게 품은 감정"
 tags: "지상인 동프갤 캐릭터_클라운피스 왜곡된_사랑"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1162/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1162/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

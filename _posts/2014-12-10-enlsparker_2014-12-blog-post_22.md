@@ -1,7 +1,7 @@
 ---
 title: "키리사메 마리사와 비밀의 열쇠"
 tags: "동인지 赤色バニラ"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-12-blog-post_22/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-12-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6647244481862569329" itemprop="description articleBody">

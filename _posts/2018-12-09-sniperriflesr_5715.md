@@ -1,7 +1,7 @@
 ---
 title: "게임 코너"
 tags: "しお @shioshio1600 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5715/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5715/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>

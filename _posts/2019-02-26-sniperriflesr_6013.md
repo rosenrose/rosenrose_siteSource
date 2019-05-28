@@ -1,7 +1,7 @@
 ---
 title: "진심 초코"
 tags: "미상 캐릭터_야쿠모_유카리 캐릭터_모토오리_코스즈 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/6013/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/6013/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "마법이라도!? 구웠어요 유카씨"
 tags: "동인지 柚子桃ジャム"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-08-blog-post_97/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-08-blog-post_97/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2985851837726381857" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "저기. 어머니?"
 tags: "ハトの水槽 캐릭터_신키 캐릭터_앨리스_마가트로이드 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/926/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/926/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

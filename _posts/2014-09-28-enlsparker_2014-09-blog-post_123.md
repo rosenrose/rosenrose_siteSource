@@ -1,7 +1,7 @@
 ---
 title: "훈풍설"
 tags: "동인지 dynamo"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_123/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_123/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8172705027602529" itemprop="description articleBody">

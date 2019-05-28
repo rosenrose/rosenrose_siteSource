@@ -1,7 +1,7 @@
 ---
 title: "Star Ship Spot - 사탕 뒤 민트·걸"
 tags: "동인지 ふすま喫茶"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-star-ship-spot/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-star-ship-spot/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8537244419764900717" itemprop="description articleBody">

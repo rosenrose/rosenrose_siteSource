@@ -1,7 +1,7 @@
 ---
 title: "비봉 청소 구락부"
 tags: "동인지 ゆめのね。"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-10-blog-post_43/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-10-blog-post_43/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7365563113474763623" itemprop="description articleBody">

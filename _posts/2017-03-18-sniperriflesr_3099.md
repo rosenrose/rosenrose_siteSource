@@ -1,7 +1,7 @@
 ---
 title: "40년만의 만남"
 tags: "海野プリン 海之天切 캐릭터_레이센_우동게인_이나바 캐릭터_링고 캐릭터_세이란 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3099/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3099/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

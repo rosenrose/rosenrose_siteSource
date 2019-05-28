@@ -1,7 +1,7 @@
 ---
 title: "니트가 모코우를 짝사랑"
 tags: "トンファー あぶお @abuosann 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 이메레스"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5275/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5275/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "부르고 있어요! 앨리스씨!"
 tags: "おいなり 오이나리 天災族 천재족 캐릭터_앨리스_마가트로이드 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_소악마 캐릭터_이자요이_사쿠야 캐릭터_신키 이벤트_七色魔女の人形舞踏会。 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/316/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/316/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "Sweet Blanket"
 tags: "ながろ 나가로 万里の少女 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 캐릭터_카자미_유카 이벤트_c84 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1343/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1343/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

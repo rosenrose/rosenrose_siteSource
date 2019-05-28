@@ -1,7 +1,7 @@
 ---
 title: "봄색묘비"
 tags: "동인지 paseri"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-04-blog-post_19/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-04-blog-post_19/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4173034027906769644" itemprop="description articleBody">

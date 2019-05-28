@@ -1,7 +1,7 @@
 ---
 title: "비봉 오토메 칵테일"
 tags: "ギロチン girotin 길로틴 @girotinginza ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_博麗神社_例大祭 이벤트_第15回 이벤트_예대제_15 이벤트_例大祭_15 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5972/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5972/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><br/></strong></p>

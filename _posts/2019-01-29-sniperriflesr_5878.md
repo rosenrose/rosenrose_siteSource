@@ -1,7 +1,7 @@
 ---
 title: "질린 토지코"
 tags: "miata @miata86 캐릭터_소가노_토지코 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5878/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5878/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

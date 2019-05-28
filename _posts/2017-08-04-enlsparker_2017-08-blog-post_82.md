@@ -1,7 +1,7 @@
 ---
 title: "요누리메는 어떠십니까"
 tags: "동인지 よぬりめ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-08-blog-post_82/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2017-08-blog-post_82/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3097700455325097962" itemprop="description articleBody">

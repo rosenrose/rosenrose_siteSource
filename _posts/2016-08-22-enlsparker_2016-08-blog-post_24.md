@@ -1,7 +1,7 @@
 ---
 title: "이런거 다 못마셔요"
 tags: "동인지 月兎一途"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-08-blog-post_24/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-08-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3731314553186914190" itemprop="description articleBody">

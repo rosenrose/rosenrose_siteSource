@@ -1,7 +1,7 @@
 ---
 title: "우정과 모정"
 tags: "えなみ教授 에나미교수 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2369/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2369/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "오늘도 당신 곁에 있고싶어!"
 tags: "동인지 ねこのさけごと"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-11-blog-post_56/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-11-blog-post_56/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7867799305406000466" itemprop="description articleBody">

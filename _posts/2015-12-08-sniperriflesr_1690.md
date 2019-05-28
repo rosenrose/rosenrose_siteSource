@@ -1,7 +1,7 @@
 ---
 title: "사구메와 지적호기심이 왕성한 에이린"
 tags: "三味線 캐릭터_키신_사구메 캐릭터_야고코로_에이린 [번역]_4컷／단편만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1690/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1690/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

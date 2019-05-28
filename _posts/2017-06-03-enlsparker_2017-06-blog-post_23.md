@@ -1,7 +1,7 @@
 ---
 title: "나의 귀엽고 귀여운 식신"
 tags: "동인지 その他大勢"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-06-blog-post_23/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2017-06-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5237315562381858046" itemprop="description articleBody">

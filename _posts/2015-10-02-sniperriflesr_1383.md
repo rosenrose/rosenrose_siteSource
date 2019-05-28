@@ -1,7 +1,7 @@
 ---
 title: "아마노자쿠 플레이"
 tags: "神無月羽兎 칸나즈키_하토 winter_scenery 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 캐릭터_이마이즈미_카케로 이벤트_예대제_12 이벤트_例大祭_12 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1383/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1383/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

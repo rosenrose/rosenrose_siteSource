@@ -1,7 +1,7 @@
 ---
 title: "잔상 장인"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_대요정 캐릭터_히메카이도_하타테 캐릭터_치르노 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5752/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5752/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

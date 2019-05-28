@@ -1,7 +1,7 @@
 ---
 title: "우와앗"
 tags: "동인지 小さい方がいい。"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_91/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2947989517977066299" itemprop="description articleBody">

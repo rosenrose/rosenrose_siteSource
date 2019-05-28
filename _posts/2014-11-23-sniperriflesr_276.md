@@ -1,7 +1,7 @@
 ---
 title: "울고 있는 마리사를 안아주고 싶어"
 tags: "櫻井マコト 사쿠라이_마코토 sakurai_makoto カスタムサイズ 커스텀_사이즈 custom_size 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 이벤트_c78 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/276/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/276/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

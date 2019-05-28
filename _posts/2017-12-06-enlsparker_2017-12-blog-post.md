@@ -1,7 +1,7 @@
 ---
 title: "고양이 무녀랑 여름나기"
 tags: "동인지 なべぞこ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-12-blog-post/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2017-12-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3071303646137126629" itemprop="description articleBody">

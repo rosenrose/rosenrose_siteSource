@@ -1,7 +1,7 @@
 ---
 title: "무녀는 위험해"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3090/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3090/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

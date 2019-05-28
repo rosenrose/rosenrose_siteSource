@@ -1,7 +1,7 @@
 ---
 title: "이게 무슨 일인가"
 tags: "けぬー ちりわぁく 캐릭터_나즈린 캐릭터_토라마루_쇼 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_무게츠 캐릭터_겐게츠 캐릭터_유메코 캐릭터_신키 캐릭터_나가에_이쿠 캐릭터_이부키_스이카 캐릭터_히나나위_텐시 캐릭터_코치야_사나에 캐릭터_유키 캐릭터_마이 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 이벤트_c87 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/795/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/795/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

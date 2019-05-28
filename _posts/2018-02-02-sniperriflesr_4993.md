@@ -1,7 +1,7 @@
 ---
 title: "아이스크림을 먹는 요리가미 자매"
 tags: "유동아님 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/4993/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/4993/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

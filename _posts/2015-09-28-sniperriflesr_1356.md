@@ -1,7 +1,7 @@
 ---
 title: "전차의 나라로"
 tags: "桜庭友紀 사쿠라바_유키 personal_color 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_c85 시리어스_밝음"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1356/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1356/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

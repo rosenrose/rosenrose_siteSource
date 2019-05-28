@@ -1,7 +1,7 @@
 ---
 title: "별에 소원을"
 tags: "るみや 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_레밀리아_스칼렛 이벤트_c78 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2539/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2539/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

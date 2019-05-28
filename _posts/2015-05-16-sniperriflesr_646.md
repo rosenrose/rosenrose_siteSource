@@ -1,7 +1,7 @@
 ---
 title: "사제"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_토요사토미미노_미코 캐릭터_카쿠_세이가 캐릭터_히지리_뱌쿠렌 캐릭터_하타노_코코로 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_나가에_이쿠 캐릭터_미야코_요시카 캐릭터_미스티아_로렐라이 이벤트_例大祭_12 이벤트_예대제_12 시리어스_밝음"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/646/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/646/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

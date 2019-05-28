@@ -1,7 +1,7 @@
 ---
 title: "두근두근 대작전"
 tags: "dynamo 캐릭터_타타라_코가사 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_토라마루_쇼 캐릭터_호쥬_누에 캐릭터_무라사_미나미츠 캐릭터_히지리_뱌쿠렌 캐릭터_후타츠이와_마미조 캐릭터_쿠모이_이치린 이벤트_例大祭_9 이벤트_예대제_9 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1002/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1002/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

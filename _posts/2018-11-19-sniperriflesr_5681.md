@@ -1,7 +1,7 @@
 ---
 title: "사랑의 텐시온 극장"
 tags: "じる @jirufun じるランド 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5681/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5681/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

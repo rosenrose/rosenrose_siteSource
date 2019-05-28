@@ -1,7 +1,7 @@
 ---
 title: "이쿠마겟돈 - 최대 결혼활동 토너먼트"
 tags: "동인지 ぜのさいど"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-11-blog-post_16/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-11-blog-post_16/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-504002616874053569" itemprop="description articleBody">

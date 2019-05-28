@@ -1,7 +1,7 @@
 ---
 title: "루미아라도 계속할 수 있는 직업을 생각해줘!"
 tags: "cato 캐릭터_루미아 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/3134/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/3134/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

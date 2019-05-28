@@ -1,7 +1,7 @@
 ---
 title: "자립의 아침"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히나나위_텐시 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_키진_세이자 캐릭터_나가에_이쿠 캐릭터_플랑드르_스칼렛 캐릭터_첸 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3249/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3249/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

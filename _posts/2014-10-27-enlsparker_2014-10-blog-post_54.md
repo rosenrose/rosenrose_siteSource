@@ -1,7 +1,7 @@
 ---
 title: "리글에게 꽃이 피지못한 이야기"
 tags: "동인지 ふすま喫茶"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_54/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-10-blog-post_54/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1812641148968629859" itemprop="description articleBody">

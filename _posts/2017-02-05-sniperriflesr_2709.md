@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 17"
 tags: "にーこ 캐릭터_플랑드르_스칼렛 캐릭터_첸 캐릭터_이나바_테위 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_미스티아_로렐라이 캐릭터_루미아 캐릭터_사이교우지_유유코 캐릭터_치르노 캐릭터_콘파쿠_요우무 캐릭터_샤메이마루_아야 바이오_놀이"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2709/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2709/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

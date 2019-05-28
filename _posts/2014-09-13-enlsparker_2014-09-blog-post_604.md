@@ -1,7 +1,7 @@
 ---
 title: "천재는 잊었을 무렵에 온다!!"
 tags: "동인지 粟米湯"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_604/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-blog-post_604/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2826625503987779820" itemprop="description articleBody">

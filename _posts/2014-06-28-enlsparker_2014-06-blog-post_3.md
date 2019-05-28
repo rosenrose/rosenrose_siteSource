@@ -1,7 +1,7 @@
 ---
 title: "유카링의 트리오 대책회의"
 tags: "동인지 葉庭の出店"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-06-blog-post_3/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-06-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8671998541151997950" itemprop="description articleBody">

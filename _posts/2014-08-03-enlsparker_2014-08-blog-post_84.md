@@ -1,7 +1,7 @@
 ---
 title: "지하에서 위로 올라가자"
 tags: "동인지 happy_flame_time"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-08-blog-post_84/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-08-blog-post_84/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7798917873337731600" itemprop="description articleBody">

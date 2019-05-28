@@ -1,7 +1,7 @@
 ---
 title: "하이컬러 소녀와 자그만한 방문자"
 tags: "동인지 蓮華座"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-blog-post_81/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-04-blog-post_81/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8338181820478200153" itemprop="description articleBody">

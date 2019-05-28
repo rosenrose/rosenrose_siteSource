@@ -1,7 +1,7 @@
 ---
 title: "히나인형의 액막이 상담소"
 tags: "동인지 winter_scenery"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-08-blog-post_6/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-08-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8479087398918552092" itemprop="description articleBody">

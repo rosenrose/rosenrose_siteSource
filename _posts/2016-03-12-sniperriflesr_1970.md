@@ -1,7 +1,7 @@
 ---
 title: "크리스마스 크라이시스 ~붉은 악마와 징글벨~"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_야고코로_에이린 캐릭터_홍_메이링 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 이벤트_c79 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1970/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1970/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"></b><br/></p>

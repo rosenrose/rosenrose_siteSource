@@ -1,7 +1,7 @@
 ---
 title: "Recollection RED"
 tags: "동인지 ua"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-02-recollection-red/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-02-recollection-red/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3481173063576956273" itemprop="description articleBody">

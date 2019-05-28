@@ -1,7 +1,7 @@
 ---
 title: "히메카이도 하타테의 위꼴테러 신문"
 tags: "동인지 風に靡く巣箱"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-blog-post_23/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-02-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9093557959298361569" itemprop="description articleBody">

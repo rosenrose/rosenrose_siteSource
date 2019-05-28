@@ -1,7 +1,7 @@
 ---
 title: "사람을 잘못 본 코이시"
 tags: "古河おどろ よまいり先生 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2838/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2838/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "아마노자쿠의 기쁨의 노래"
 tags: "기타동인지 水銀革命"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-10-blog-post_54/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2018-10-blog-post_54/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8498441967715463394" itemprop="description articleBody">

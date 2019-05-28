@@ -1,7 +1,7 @@
 ---
 title: "짐승"
 tags: "えなみ教授 에나미교수 캐릭터_키리사메_마리사 캐릭터_첸 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_란 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_하타노_코코로 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2091/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2091/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

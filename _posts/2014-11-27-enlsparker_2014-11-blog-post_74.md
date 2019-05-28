@@ -1,7 +1,7 @@
 ---
 title: "편도 러브레터"
 tags: "동인지 なんとか生きてます。"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-11-blog-post_74/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-11-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3258074711681439964" itemprop="description articleBody">

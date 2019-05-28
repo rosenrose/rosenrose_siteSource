@@ -1,7 +1,7 @@
 ---
 title: "풀복코 텐구"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_샤메이마루_아야 캐릭터_아키_미노리코 캐릭터_아키_시즈하 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_루미아 캐릭터_리글_나이트버그 캐릭터_사이교우지_유유코 캐릭터_카자미_유카 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 약"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/24/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/24/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

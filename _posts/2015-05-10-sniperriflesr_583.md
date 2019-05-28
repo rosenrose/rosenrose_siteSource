@@ -1,7 +1,7 @@
 ---
 title: "쇼우의 치매"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_토라마루_쇼 캐릭터_나즈린 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/583/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/583/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

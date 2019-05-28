@@ -1,7 +1,7 @@
 ---
 title: "잔영(残映) 후편"
 tags: "동인지 dynamo"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_636/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-09-blog-post_636/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5545633014312705480" itemprop="description articleBody">

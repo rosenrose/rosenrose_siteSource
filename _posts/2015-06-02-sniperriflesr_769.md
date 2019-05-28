@@ -1,7 +1,7 @@
 ---
 title: "플랑과 코이시 만화"
 tags: "毒コロネ 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 시리어스_밝음"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/769/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/769/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

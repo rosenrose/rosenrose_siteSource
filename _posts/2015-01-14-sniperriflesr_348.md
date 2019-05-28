@@ -1,7 +1,7 @@
 ---
 title: "비봉오토메 아라모드"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_마에리베리_한 캐릭터_우사미_렌코 이벤트_境界から視えた外界 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/348/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/348/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "동방 소극장 산뜻한 메이링씨"
 tags: "春日優希 카스가_유키 わいるどらびっつ 와일드_래빗츠 야생토끼 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 이벤트_紅楼夢7 이벤트_홍루몽7 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2523/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2523/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

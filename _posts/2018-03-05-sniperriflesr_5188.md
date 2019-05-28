@@ -1,7 +1,7 @@
 ---
 title: "샤메이마루씨의 소지품"
 tags: "川科 木綿シリコン moment_silicon 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5188/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5188/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

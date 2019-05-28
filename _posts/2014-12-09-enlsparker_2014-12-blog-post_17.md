@@ -1,7 +1,7 @@
 ---
 title: "산장 블레이즈"
 tags: "동인지 徒歩二分"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-12-blog-post_17/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-12-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3772129614714141435" itemprop="description articleBody">

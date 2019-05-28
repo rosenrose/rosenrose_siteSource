@@ -1,7 +1,7 @@
 ---
 title: "당신의 미소가 보고 싶으니까"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_타타라_코가사 급식첸_만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2473/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2473/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "소녀들한테 마사지를 해 보았다"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1510/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1510/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

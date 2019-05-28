@@ -1,7 +1,7 @@
 ---
 title: "코마치가 땡땡이친 만화"
 tags: "륜 캐릭터_시키에이키_야마나자두 캐릭터_후지와라노_모코우 캐릭터_오노즈카_코마치 캐릭터_리글_나이트버그 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2856/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2856/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

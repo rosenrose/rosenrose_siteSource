@@ -1,7 +1,7 @@
 ---
 title: "마리사 공략"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2954/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2954/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

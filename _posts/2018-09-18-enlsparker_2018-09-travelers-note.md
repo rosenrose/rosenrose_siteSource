@@ -1,7 +1,7 @@
 ---
 title: "TRAVELER's NOTE"
 tags: "동인지 primarystage"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-09-travelers-note/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2018-09-travelers-note/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2374649940506648326" itemprop="description articleBody">

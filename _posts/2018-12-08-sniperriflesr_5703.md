@@ -1,7 +1,7 @@
 ---
 title: "발을 간지럼 당하는 미코"
 tags: "もも @mksc_c tofu_on_fire 캐릭터_토요사토미미노_미코 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5703/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5703/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

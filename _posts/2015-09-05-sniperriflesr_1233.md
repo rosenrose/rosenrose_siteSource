@@ -1,7 +1,7 @@
 ---
 title: "한스러운 육아미스"
 tags: "はやしつかさ 刑部堂 캐릭터_키진_세이자 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1233/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1233/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

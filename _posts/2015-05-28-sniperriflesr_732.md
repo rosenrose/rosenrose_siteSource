@@ -1,7 +1,7 @@
 ---
 title: "그-런건가를 따라해보았습니다 !"
 tags: "ジェット虚無僧 제트코무소 캐릭터_코치야_사나에 캐릭터_루미아 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/732/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/732/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

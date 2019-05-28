@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 15"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_콘파쿠_요우무 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 바이오_놀이"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2707/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2707/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "넘칠듯한 감정으로!!"
 tags: "동인지 こげコロッケ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-08-blog-post_5/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-08-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5260594062067939094" itemprop="description articleBody">

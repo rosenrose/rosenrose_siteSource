@@ -1,7 +1,7 @@
 ---
 title: "몸은 정직한 늑대양 / 머리문지르기에 의해 완벽히 몰락한 늑대쨩"
 tags: "みづきいちご_原稿いちご 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3057/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/3057/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

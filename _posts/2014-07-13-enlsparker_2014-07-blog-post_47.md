@@ -1,7 +1,7 @@
 ---
 title: "모코랑 러브"
 tags: "동인지 アトモスフィア"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-blog-post_47/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-07-blog-post_47/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8677263966148005103" itemprop="description articleBody">

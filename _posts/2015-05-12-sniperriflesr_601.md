@@ -1,7 +1,7 @@
 ---
 title: "제자를 보내는 스승의 마음"
 tags: "futa なべぞこ 나베조코 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/601/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/601/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

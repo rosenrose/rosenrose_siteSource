@@ -1,7 +1,7 @@
 ---
 title: "관상학 가르치는 사나에"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_코치야_사나에 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5617/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5617/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

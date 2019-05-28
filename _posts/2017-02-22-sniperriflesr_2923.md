@@ -1,7 +1,7 @@
 ---
 title: "앗 낙서 4컷 1~5"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카자미_유카 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_호쥬_누에 캐릭터_이나바_테위 캐릭터_야쿠모_란 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 캐릭터_카와시로_니토리 캐릭터_타타라_코가사 급식첸_만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2923/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2923/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>

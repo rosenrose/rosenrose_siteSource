@@ -1,7 +1,7 @@
 ---
 title: "츤데레 사구메 만화"
 tags: "륜 동프갤 캐릭터_키신_사구메 캐릭터_헤카티아_라피스라줄리 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1789/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1789/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

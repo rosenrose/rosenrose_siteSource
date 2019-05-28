@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 이바라키 카센"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_이바라키_카센 반역의_세이자"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/631/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/631/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

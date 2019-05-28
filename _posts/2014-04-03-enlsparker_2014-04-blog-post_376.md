@@ -1,7 +1,7 @@
 ---
 title: "천연지옥온천 하쿠레이 탕"
 tags: "기타동인지 kalmia"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-04-blog-post_376/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-04-blog-post_376/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2318840964066510424" itemprop="description articleBody">

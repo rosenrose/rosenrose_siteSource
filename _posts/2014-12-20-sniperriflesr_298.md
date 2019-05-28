@@ -1,7 +1,7 @@
 ---
 title: "썩었어도 소녀라니까요!"
 tags: "cis carcharias! 캐릭터_토요사토미미노_미코 캐릭터_미야코_요시카 캐릭터_히지리_뱌쿠렌 캐릭터_하타노_코코로 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 캐릭터_카쿠_세이가 캐릭터_코치야_사나에 이벤트_紅楼夢9 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/298/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/298/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

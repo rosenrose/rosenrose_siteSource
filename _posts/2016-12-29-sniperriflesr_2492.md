@@ -1,7 +1,7 @@
 ---
 title: "잘 됐네 잘 됐어"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카자미_유카 캐릭터_첸 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 급식첸_만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2492/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2492/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "휴재공지"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3245/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3245/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

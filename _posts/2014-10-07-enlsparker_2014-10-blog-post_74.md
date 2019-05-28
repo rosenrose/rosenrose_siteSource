@@ -1,7 +1,7 @@
 ---
 title: "지저에서 여름을 보내는 방법"
 tags: "기타동인지 予定は未定、"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_74/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-10-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1228467622763314505" itemprop="description articleBody">

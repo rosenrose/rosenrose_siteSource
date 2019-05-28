@@ -1,7 +1,7 @@
 ---
 title: "만작 ~ 세키반키의 저녁 반주 이야기 ~"
 tags: "まくわうに 마쿠와우니 うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_세키반키 캐릭터_토요사토미미노_미코 캐릭터_와카사기히메 캐릭터_후타츠이와_마미조 캐릭터_츠쿠모_벤벤 캐릭터_츠쿠모_야츠하시 캐릭터_호리카와_라이코 이벤트_例大祭11 이벤트_예대제_11 시리어스_밝음"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3091/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3091/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "다듬지 않은 태자님은 헝클어진 머리"
 tags: "春雨 하루사메 @harusame13 運命のイカスミ 운명의_이카스미 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4992/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/4992/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

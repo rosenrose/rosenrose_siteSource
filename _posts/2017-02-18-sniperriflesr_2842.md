@@ -1,7 +1,7 @@
 ---
 title: "지금까지의 게스트 만화나 일러스트 정리"
 tags: "baba baba精米所 캐릭터_스쿠나_신묘마루 캐릭터_호쥬_누에 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2842/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2842/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

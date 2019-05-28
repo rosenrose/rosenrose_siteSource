@@ -1,7 +1,7 @@
 ---
 title: "HiGH TiME - 사나에 세 번 승부"
 tags: "동인지 gp-kids"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-high-time/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-02-high-time/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3926786880482339781" itemprop="description articleBody">

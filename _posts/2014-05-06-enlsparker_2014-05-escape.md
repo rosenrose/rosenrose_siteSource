@@ -1,7 +1,7 @@
 ---
 title: "Escape"
 tags: "鳩血 동인지"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-escape/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-05-escape/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7923681233117929707" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "(●ω●)"
 tags: "동인지 紅色回転機構"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_8/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-266128165088225916" itemprop="description articleBody">

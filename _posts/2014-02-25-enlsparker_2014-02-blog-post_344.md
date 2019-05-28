@@ -1,7 +1,7 @@
 ---
 title: "이자요이 사쿠야 베고, 달리다! - 디렉터즈 컷 최종판"
 tags: "동인지 ヘルメットが直せません。"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-02-blog-post_344/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-02-blog-post_344/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8766773191003373665" itemprop="description articleBody">

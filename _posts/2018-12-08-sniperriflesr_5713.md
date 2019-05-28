@@ -1,7 +1,7 @@
 ---
 title: "터무니없는 착각을 하고 있는 마리사쨩입니다"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5713/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5713/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

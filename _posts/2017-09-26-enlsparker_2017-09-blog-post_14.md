@@ -1,7 +1,7 @@
 ---
 title: "나는 너에게 도저히 친절하게 될 수 없다"
 tags: "합동인지 seemu なんとか生きてます。"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-09-blog-post_14/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2017-09-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3712824541003198228" itemprop="description articleBody">

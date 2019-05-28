@@ -1,7 +1,7 @@
 ---
 title: "피버 나가에 이쿠 합동지"
 tags: "합동인지"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-08-blog-post_18/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-08-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7587309752747052187" itemprop="description articleBody">

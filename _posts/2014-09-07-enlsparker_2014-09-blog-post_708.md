@@ -1,7 +1,7 @@
 ---
 title: "어떻게 대해야 할지 모르겠어요"
 tags: "기타동인지 sacred_spell"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_708/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_708/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1233157868824366610" itemprop="description articleBody">

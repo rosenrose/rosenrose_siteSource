@@ -1,7 +1,7 @@
 ---
 title: "인간 무서워"
 tags: "雑草丸子 캐릭터_이마이즈미_카케로 캐릭터_세키반키 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5277/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5277/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

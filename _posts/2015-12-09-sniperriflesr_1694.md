@@ -1,7 +1,7 @@
 ---
 title: "헤카T와 유쾌한 친구들"
 tags: "캐릭터_순호 캐릭터_클라운피스 캐릭터_히에다노_아큐 캐릭터_헤카티아_라피스라줄리 캐릭터_모리치카_린노스케 캐릭터_코치야_사나에 캐릭터_카미시라사와_케이네 캐릭터_코메이지_코이시 캐릭터_하타노_코코로 캐릭터_토요사토미미노_미코 약"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1694/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1694/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

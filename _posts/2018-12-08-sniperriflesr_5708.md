@@ -1,7 +1,7 @@
 ---
 title: "서로를 부러워하는 마리사와 스미레코"
 tags: "るーらら @luurara64 캐릭터_키리사메_마리사 캐릭터_우사미_스미레코 캐릭터_하쿠레이_레이무 캐릭터_후지와라노_모코우 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5708/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5708/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"><br/></b></p>

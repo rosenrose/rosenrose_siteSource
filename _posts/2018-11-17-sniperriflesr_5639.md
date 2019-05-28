@@ -1,7 +1,7 @@
 ---
 title: "쿄코를 보고 레이센한테 귀엽다는 소리를 들으려고 같은 행동을 해보는 소녀틱한 테위"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5639/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5639/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

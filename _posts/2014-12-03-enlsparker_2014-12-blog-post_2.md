@@ -1,7 +1,7 @@
 ---
 title: "사랑색 메갈로니아"
 tags: "동인지 うり畑牧場"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-12-blog-post_2/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-12-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6194798518750126958" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "4월 26일은 목욕의 날"
 tags: "ジェット虚無僧 제트코무소 @lexus_6737 com僧．com 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5710/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5710/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

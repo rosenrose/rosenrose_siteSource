@@ -1,7 +1,7 @@
 ---
 title: "복장 교환"
 tags: "茹でピー animal_passion 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2950/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2950/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

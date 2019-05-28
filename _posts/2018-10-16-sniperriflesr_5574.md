@@ -1,7 +1,7 @@
 ---
 title: "닮은 가족"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5574/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5574/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

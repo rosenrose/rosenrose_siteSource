@@ -1,7 +1,7 @@
 ---
 title: "KISS 22"
 tags: "信號 英雄☆作戰 이메레스"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2865/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2865/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

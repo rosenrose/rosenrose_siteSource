@@ -1,7 +1,7 @@
 ---
 title: "영원정의 흰토끼"
 tags: "기타동인지 永遠亭訪問委員会"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-10-blog-post_84/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-10-blog-post_84/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1126093327635827279" itemprop="description articleBody">

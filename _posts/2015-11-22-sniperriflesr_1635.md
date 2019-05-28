@@ -1,7 +1,7 @@
 ---
 title: "팬티"
 tags: "ぽりあねす 캐릭터_소악마 캐릭터_파츄리_널릿지 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1635/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1635/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

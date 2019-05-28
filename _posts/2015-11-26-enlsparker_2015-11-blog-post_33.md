@@ -1,7 +1,7 @@
 ---
 title: "근로감사 카니발"
 tags: "乃屋 동인지"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-11-blog-post_33/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-11-blog-post_33/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5999807935347894828" itemprop="description articleBody">

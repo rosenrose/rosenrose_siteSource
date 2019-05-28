@@ -1,7 +1,7 @@
 ---
 title: "선물주는 카게로"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5982/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5982/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

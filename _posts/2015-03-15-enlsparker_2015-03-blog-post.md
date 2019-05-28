@@ -1,7 +1,7 @@
 ---
 title: "상기의 길"
 tags: "동인지 ふあん亭"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-03-blog-post/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-03-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-868054652793391245" itemprop="description articleBody">

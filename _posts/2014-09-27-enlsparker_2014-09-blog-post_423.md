@@ -1,7 +1,7 @@
 ---
 title: "선물받은 봄"
 tags: "기타동인지 one_night_stand"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_423/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_423/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7047801494196868952" itemprop="description articleBody">

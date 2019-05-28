@@ -1,7 +1,7 @@
 ---
 title: "폴터에고이스트가 찾는 이"
 tags: "동인지 運命のイカスミ"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-05-blog-post_46/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2017-05-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3346018736016657018" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "사랑할 각오"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_야고코로_에이린 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2494/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2494/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

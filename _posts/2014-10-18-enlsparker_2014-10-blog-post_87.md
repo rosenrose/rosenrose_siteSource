@@ -1,7 +1,7 @@
 ---
 title: "날이 저무는 곳에서 만나요"
 tags: "동인지 poprication"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-10-blog-post_87/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-10-blog-post_87/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8890639676176782213" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "죽이고싶은 남자가 생겼습니다"
 tags: "yamoto 야모토 矢本堂落書市 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_야고코로_에이린 캐릭터_모리치카_린노스케 이벤트_紅楼夢_6 이벤트_홍루몽_6 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/823/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/823/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

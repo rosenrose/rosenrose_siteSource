@@ -1,7 +1,7 @@
 ---
 title: "진실을 깨달은 클라운피스"
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_클라운피스 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_헤카티아_라피스라줄리 캐릭터_앨리스_마가트로이드 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5576/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5576/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

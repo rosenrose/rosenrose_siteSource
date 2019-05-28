@@ -1,7 +1,7 @@
 ---
 title: "허전함 [ Lonesome ]"
 tags: "南方純 pure 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 이벤트_紅楼夢6 이벤트_홍루몽6 시리어스_슬픔"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2524/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2524/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

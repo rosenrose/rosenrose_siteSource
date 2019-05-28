@@ -1,7 +1,7 @@
 ---
 title: "무언의 달라붙음 + 달의 현자의 방심"
 tags: "しぐま 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3201/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/3201/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

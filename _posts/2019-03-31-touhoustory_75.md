@@ -1,7 +1,7 @@
 ---
 title: "사족일 뿐."
 tags: "동인지"
-image: "https://d1quptcelcb84e.cloudfront.net/touhoustory/75/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/touhoustory/75/001.jpg"
 ---
 <div class="article">
 <div class="article">

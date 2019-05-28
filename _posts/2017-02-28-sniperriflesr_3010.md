@@ -1,7 +1,7 @@
 ---
 title: "환상향 먹보 삼총사"
 tags: "みつもと 미츠모토 캐릭터_레티_화이트락 캐릭터_하쿠레이_레이무 캐릭터_이자요이_사쿠야 캐릭터_사이교우지_유유코 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3010/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3010/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

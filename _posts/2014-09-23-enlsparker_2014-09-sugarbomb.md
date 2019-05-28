@@ -1,7 +1,7 @@
 ---
 title: "환상향 Sugarbomb"
 tags: "동인지 ハチミツザクラ"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-sugarbomb/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-sugarbomb/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6480829873413217328" itemprop="description articleBody">

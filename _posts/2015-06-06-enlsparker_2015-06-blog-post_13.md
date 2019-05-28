@@ -1,7 +1,7 @@
 ---
 title: "○×△□"
 tags: "기타동인지 心恋色"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-06-blog-post_13/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2015-06-blog-post_13/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5334028996265303762" itemprop="description articleBody">

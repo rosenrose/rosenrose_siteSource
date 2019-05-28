@@ -1,7 +1,7 @@
 ---
 title: "미스치-의 맛있는 부위"
 tags: "宮嶋星矢 ミヤジ デッドラインブレイカー deadline_breaker 데드라인_브레이커 캐릭터_미스티아_로렐라이 캐릭터_치르노 캐릭터_루미아 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_리글_나이트버그 이벤트_c87 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/755/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/755/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

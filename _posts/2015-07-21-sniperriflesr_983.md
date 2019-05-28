@@ -1,7 +1,7 @@
 ---
 title: "꼽냐?"
 tags: "미샤 캐릭터_미마 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/983/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/983/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

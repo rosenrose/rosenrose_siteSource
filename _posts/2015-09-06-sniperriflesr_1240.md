@@ -1,7 +1,7 @@
 ---
 title: "아마노자쿠 집의 일상"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키신_사구메 캐릭터_키진_세이자 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1240/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1240/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

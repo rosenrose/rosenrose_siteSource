@@ -1,7 +1,7 @@
 ---
 title: "반키짱은 소꿉친구가 질색?"
 tags: "기타동인지 うろのふくろう。"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-12-blog-post_37/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2018-12-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7617561670052704515" itemprop="description articleBody">

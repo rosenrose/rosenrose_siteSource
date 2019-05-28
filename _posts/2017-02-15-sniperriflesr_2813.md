@@ -1,7 +1,7 @@
 ---
 title: "플랑과 무게츠로 오도리 만담"
 tags: "けぬー 케누 ちりわぁく 치리와아쿠 캐릭터_플랑드르_스칼렛 캐릭터_무게츠 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2813/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2813/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

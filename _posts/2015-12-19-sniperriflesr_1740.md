@@ -1,7 +1,7 @@
 ---
 title: "메아리"
 tags: "ジェット虚無僧 제트코무소 캐릭터_카소다니_쿄코 캐릭터_치르노 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1740/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1740/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

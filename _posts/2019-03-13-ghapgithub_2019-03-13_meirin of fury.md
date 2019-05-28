@@ -1,7 +1,7 @@
 ---
 title: "meirin of fury"
 tags: "武士的魂 장르_개그 캐릭터_메이링 캐릭터_사쿠야 캐릭터_소악마 캐릭터_치르노 캐릭터_파츄리 御月ユウヤ 동방／동인지／이쪽_번역"
-image: "https://d1quptcelcb84e.cloudfront.net/ghapgithub/2019-03-13_meirin of fury/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/ghapgithub/2019-03-13_meirin of fury/001.jpg"
 ---
 <div class="article">
 <div class="article-entry" itemprop="articleBody">

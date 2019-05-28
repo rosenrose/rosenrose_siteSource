@@ -1,7 +1,7 @@
 ---
 title: "동방 멜로 드라마틱!!"
 tags: "기타동인지 twinkle_snows"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_213/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_213/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2322688714973683666" itemprop="description articleBody">

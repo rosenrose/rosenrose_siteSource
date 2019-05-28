@@ -1,7 +1,7 @@
 ---
 title: "Blanket"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 이벤트_홍루몽_6 시리어스_밝음"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/355/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/355/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

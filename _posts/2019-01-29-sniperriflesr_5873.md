@@ -1,7 +1,7 @@
 ---
 title: "코가사 밥주는 네무노"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_사카타_네무노 캐릭터_타타라_코가사 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5873/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5873/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

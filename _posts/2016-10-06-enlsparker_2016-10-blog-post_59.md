@@ -1,7 +1,7 @@
 ---
 title: "이사 오브 원더랜드"
 tags: "동인지 personal_color"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-10-blog-post_59/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-10-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4382164932406503662" itemprop="description articleBody">

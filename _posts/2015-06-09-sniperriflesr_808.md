@@ -1,7 +1,7 @@
 ---
 title: "만전 ・ 책의 보호"
 tags: "futa なべぞこ 나베조코 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/808/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/808/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 8"
 tags: "にーこ 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_루미아 캐릭터_치르노 캐릭터_미스티아_로렐라이 캐릭터_이나바_테위 바이오_놀이"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2692/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2692/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

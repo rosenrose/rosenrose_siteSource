@@ -1,7 +1,7 @@
 ---
 title: "버드나무에 있는 건 인간인가 요괴인가"
 tags: "市葉葉市 w-⑱ 캐릭터_세키반키 캐릭터_시키에이키_야마나자두 캐릭터_키리사메_마리사 캐릭터_히지리_뱌쿠렌 캐릭터_카와시로_니토리 캐릭터_쿠모이_이치린 캐릭터_토요사토미미노_미코 캐릭터_하쿠레이_레이무 이벤트_例大祭_12 이벤트_예대제_12 시리어스_진지"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/794/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/794/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

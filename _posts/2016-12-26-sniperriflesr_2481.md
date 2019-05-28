@@ -1,7 +1,7 @@
 ---
 title: "슬픈 법도"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_이나바_테위 캐릭터_첸 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 급식첸_만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2481/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2481/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"><br/></b></p>

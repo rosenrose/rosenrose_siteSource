@@ -1,7 +1,7 @@
 ---
 title: "아야님 정말 싫어요!"
 tags: "합동인지 かるーあみるく さくsaku亭"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-12-blog-post_32/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2017-12-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1687550223341201424" itemprop="description articleBody">

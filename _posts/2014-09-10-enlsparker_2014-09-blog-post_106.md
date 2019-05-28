@@ -1,7 +1,7 @@
 ---
 title: "내일도 내일모레도"
 tags: "기타동인지 いちごさいず"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_106/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_106/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5729909426645901666" itemprop="description articleBody">

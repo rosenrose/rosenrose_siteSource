@@ -1,7 +1,7 @@
 ---
 title: "지구가 멸망하지 않은 탓에"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2474/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2474/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

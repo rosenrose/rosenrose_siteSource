@@ -1,7 +1,7 @@
 ---
 title: "WHITE NAME"
 tags: "동인지 gp-kids"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-white-name/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-02-white-name/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4450168667304101945" itemprop="description articleBody">

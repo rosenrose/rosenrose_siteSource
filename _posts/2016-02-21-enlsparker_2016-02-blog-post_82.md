@@ -1,7 +1,7 @@
 ---
 title: "아마노자쿠 플레이"
 tags: "동인지 winter_scenery"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-02-blog-post_82/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2016-02-blog-post_82/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8086584378993634778" itemprop="description articleBody">

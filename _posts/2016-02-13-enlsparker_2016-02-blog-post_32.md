@@ -1,7 +1,7 @@
 ---
 title: "저와 당신의 패러렐라인"
 tags: "동인지 うり畑牧場"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-02-blog-post_32/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-02-blog-post_32/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8991284316817441459" itemprop="description articleBody">

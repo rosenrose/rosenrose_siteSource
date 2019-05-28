@@ -1,7 +1,7 @@
 ---
 title: "어서오세요, 모노노베"
 tags: "蒼 아오 蒼空市場 창공시장 캐릭터_모노노베노_후토 캐릭터_이바라키_카센 캐릭터_레밀리아_스칼렛 캐릭터_소가노_토지코 캐릭터_이자요이_사쿠야 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 이벤트_예대제_10 이벤트_例大祭10 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1731/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1731/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

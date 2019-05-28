@@ -1,7 +1,7 @@
 ---
 title: "소녀의 낭만"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2585/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2585/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

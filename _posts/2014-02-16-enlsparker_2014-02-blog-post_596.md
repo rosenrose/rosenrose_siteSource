@@ -1,7 +1,7 @@
 ---
 title: "지상의 바람이 불어오는 다리에서"
 tags: "기타동인지 超あるまじろくらぶ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-blog-post_596/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-02-blog-post_596/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7784481821365107761" itemprop="description articleBody">

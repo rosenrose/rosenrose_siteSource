@@ -1,7 +1,7 @@
 ---
 title: "도레사구 만화 - 주인과 펫"
 tags: "黒羽ラピッド 쿠로바네_라피드 ラピスラズリ鉱石 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1932/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1932/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

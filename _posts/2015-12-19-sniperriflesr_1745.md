@@ -1,7 +1,7 @@
 ---
 title: "채팅방에서도 과묵하신 사구메님"
 tags: "ジェット虚無僧 제트코무소 캐릭터_도레미_스위트 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1745/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1745/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

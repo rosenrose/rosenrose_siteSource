@@ -1,7 +1,7 @@
 ---
 title: "오토메 콜렉티브"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_히에다노_아큐 캐릭터_이나바_테위 캐릭터_호라이산_카구야 캐릭터_와카사기히메 이벤트_c86 약"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/235/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/235/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

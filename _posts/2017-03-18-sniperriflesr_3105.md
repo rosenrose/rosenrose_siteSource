@@ -1,7 +1,7 @@
 ---
 title: "세이란과 링고"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3105/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3105/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

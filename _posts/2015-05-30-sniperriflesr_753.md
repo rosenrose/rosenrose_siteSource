@@ -1,7 +1,7 @@
 ---
 title: "가을에 맑아지는 고적"
 tags: "水炊き 미즈타키 みずたたき 미즈타타키 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_이부키_스이카 캐릭터_야고코로_에이린 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_호라이산_카구야 캐릭터_키리사메_마리사 이벤트_sunshine_creation_33 이벤트_サンシャインクリエイション_33 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/753/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/753/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

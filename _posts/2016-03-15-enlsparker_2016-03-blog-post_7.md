@@ -1,7 +1,7 @@
 ---
 title: "렌코와 메리와 푸딩의 행방"
 tags: "기타동인지 アトリエ_レーテスト"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-03-blog-post_7/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-03-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5307922702574918641" itemprop="description articleBody">

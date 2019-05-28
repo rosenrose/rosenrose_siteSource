@@ -1,7 +1,7 @@
 ---
 title: "도레미씨를 화나게 하는 사람들"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_야고코로_에이린 캐릭터_헤카티아_라피스라줄리 [번역]_4컷／단편만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1687/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1687/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

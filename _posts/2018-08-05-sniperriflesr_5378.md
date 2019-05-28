@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 34화"
 tags: "みつもと 미츠모토 @mitsumotocs にくたまそば 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 요스즈메와_불사조"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5378/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5378/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

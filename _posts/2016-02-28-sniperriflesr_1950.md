@@ -1,7 +1,7 @@
 ---
 title: "엄진근 4컷만화"
 tags: "こんぽた 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1950/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1950/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

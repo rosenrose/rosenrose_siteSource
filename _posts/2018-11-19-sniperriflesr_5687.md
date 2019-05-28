@@ -1,7 +1,7 @@
 ---
 title: "참견"
 tags: "하늘빛여우 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5687/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5687/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

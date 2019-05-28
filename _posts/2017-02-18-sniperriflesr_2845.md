@@ -1,7 +1,7 @@
 ---
 title: "달의 꿈, 그 끝에...... (후편)"
 tags: "アドン丸 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_후지와라노_모코우 캐릭터_샤메이마루_아야 캐릭터_파츄리_널릿지 캐릭터_히에다노_아큐 시리어스_슬픔"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2845/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2845/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "환상향의 바다"
 tags: "기타동인지 遊閑地"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_41/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-blog-post_41/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-735716219040181203" itemprop="description articleBody">

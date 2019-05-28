@@ -1,7 +1,7 @@
 ---
 title: "우동게를 「픽」하고 울리기 대회"
 tags: "じぜる 지제루 캐릭터_레이센_우동게인_이나바 캐릭터_이나바_테위 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1907/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1907/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

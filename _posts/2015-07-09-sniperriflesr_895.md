@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 2화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 캐릭터_미스티아_로렐라이 사랑하는_야작_[完]"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/895/001.gif"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/895/001.gif"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

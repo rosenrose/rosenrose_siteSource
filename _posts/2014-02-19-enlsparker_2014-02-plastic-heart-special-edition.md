@@ -1,7 +1,7 @@
 ---
 title: "Plastic Heart SPECIAL EDITION"
 tags: "동인지 ロケット燃料★21"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-02-plastic-heart-special-edition/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-02-plastic-heart-special-edition/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-319587277982338857" itemprop="description articleBody">

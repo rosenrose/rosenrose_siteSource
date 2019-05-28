@@ -1,7 +1,7 @@
 ---
 title: "환혹의 죽음과 스승과"
 tags: "동인지 さくsaku亭"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-04-blog-post_15/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-04-blog-post_15/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2339822518602582821" itemprop="description articleBody">

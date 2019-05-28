@@ -1,7 +1,7 @@
 ---
 title: "아큐와 코스즈, 마미조의 만화"
 tags: "しろし 시로시 電派絵師団 캐릭터_후타츠이와_마미조 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 시리어스_어두움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2171/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2171/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

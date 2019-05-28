@@ -1,7 +1,7 @@
 ---
 title: "안단테"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_히에다노_아큐 캐릭터_후지와라노_모코우 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_파츄리_널릿지 캐릭터_하쿠레이_레이무 캐릭터_호시구마_유기 캐릭터_야사카_카나코 캐릭터_야쿠모_란 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/128/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/128/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

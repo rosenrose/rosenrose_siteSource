@@ -1,7 +1,7 @@
 ---
 title: "프리즈믹스"
 tags: "동인지 蓮華座"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-11-blog-post_24/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-11-blog-post_24/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6197693476838922043" itemprop="description articleBody">

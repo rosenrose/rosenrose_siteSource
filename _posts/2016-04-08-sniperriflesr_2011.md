@@ -1,7 +1,7 @@
 ---
 title: "네버엔드 친목회!"
 tags: "おいもとじろう 오이모토지로우 おいもと 오이모토 캐릭터_키신_사구메 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_우사미_스미레코 캐릭터_도레미_스위트 캐릭터_야쿠모_유카리 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_세이란 캐릭터_링고 캐릭터_레이센_우동게인_이나바 캐릭터_와타츠키노_요리히메 캐릭터_후지와라노_모코우 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_코치야_사나에 이벤트_c89 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2011/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2011/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

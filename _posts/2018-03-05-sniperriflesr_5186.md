@@ -1,7 +1,7 @@
 ---
 title: "죠온쨩의 산속 생활"
 tags: "アリヌ @arinutan 캐릭터_요리가미_조온 캐릭터_사카타_네무노 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5186/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5186/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><span style="; "></span><br/></b></p>

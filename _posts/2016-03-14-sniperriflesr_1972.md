@@ -1,7 +1,7 @@
 ---
 title: "MOMENT"
 tags: "高菜しんの synno_takana 타카나_신노 gp-kids 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_샤메이마루_아야 캐릭터_앨리스_마가트로이드 캐릭터_모리야_스와코 캐릭터_사이교우지_유유코 캐릭터_이자요이_사쿠야 이벤트_c89 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1972/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1972/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong><br/></strong></p>

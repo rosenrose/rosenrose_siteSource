@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 미야마키요라"
 tags: "동인지 青"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-05-blog-post_30/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-05-blog-post_30/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5848096320536146836" itemprop="description articleBody">

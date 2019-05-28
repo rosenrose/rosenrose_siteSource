@@ -1,7 +1,7 @@
 ---
 title: "핏쨩과 헤카티아 만화"
 tags: "kongthegrain 곡물시리즈 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_와타츠키노_요리히메 캐릭터_우사미_스미레코 캐릭터_세키반키 캐릭터_이마이즈미_카케로 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1891/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1891/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

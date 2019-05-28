@@ -1,7 +1,7 @@
 ---
 title: "마리사의 연애"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5587/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5587/001.png"
 ---
 <div class="article">
 <p style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; text-align: center;"><b><br/></b></p>

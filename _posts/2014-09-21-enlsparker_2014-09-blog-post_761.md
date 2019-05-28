@@ -1,7 +1,7 @@
 ---
 title: "브와르의 어느 하루"
 tags: "기타동인지 zinfandel"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_761/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_761/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1556230209793742231" itemprop="description articleBody">

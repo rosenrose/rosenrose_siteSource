@@ -1,7 +1,7 @@
 ---
 title: "오랜 기억"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_조온 캐릭터_히지리_뱌쿠렌 시리어스_진지"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5850/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5850/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

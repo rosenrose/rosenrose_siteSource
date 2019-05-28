@@ -1,7 +1,7 @@
 ---
 title: "그것이 당신의 꿈이라면"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3247/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3247/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

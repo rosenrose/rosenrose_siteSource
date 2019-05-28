@@ -1,7 +1,7 @@
 ---
 title: "아이돌스타 치르노"
 tags: "동인지 イカ足10本"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-08-blog-post_10/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-08-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1943378573157878718" itemprop="description articleBody">

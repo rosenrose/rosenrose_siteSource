@@ -1,7 +1,7 @@
 ---
 title: "The 렌코 귀여움~마에리베리 한의 관찰기록~"
 tags: "高菜しんの synno_takana 타카나_신노 gp-kids 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_紅楼夢11 이벤트_홍루몽_11 약"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3235/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3235/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

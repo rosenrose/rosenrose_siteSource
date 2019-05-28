@@ -1,7 +1,7 @@
 ---
 title: "둘 다 어떻든 괜찮은 건 아니다"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5380/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5380/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

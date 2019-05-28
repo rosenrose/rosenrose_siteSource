@@ -1,7 +1,7 @@
 ---
 title: "치르노를 응원하는 대요정"
 tags: "めぶら 原稿のため低浮上めぶら @mebura_kazama めだま渓谷 캐릭터_대요정 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5658/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5658/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

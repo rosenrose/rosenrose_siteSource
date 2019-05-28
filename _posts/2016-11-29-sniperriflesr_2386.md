@@ -1,7 +1,7 @@
 ---
 title: "그대의 이름은 뭔가?"
 tags: "miata 캐릭터_레이센_우동게인_이나바 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_야고코로_에이린 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2386/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2386/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

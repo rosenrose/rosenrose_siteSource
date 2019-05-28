@@ -1,7 +1,7 @@
 ---
 title: "ORANGEMARY Side：YELLOW"
 tags: "동인지 kfc"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-orangemary-sideyellow/001.JPG"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-02-orangemary-sideyellow/001.JPG"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8035659353608400661" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "왕은 누우구?"
 tags: "기타동인지 べーたかろちん"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-08-blog-post_11/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-08-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2828237291616316263" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "계절을 잘못 찾아온 여름의 노래"
 tags: "동인지 いよかん。"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_193/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-09-blog-post_193/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1502595587928669358" itemprop="description articleBody">

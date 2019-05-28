@@ -1,7 +1,7 @@
 ---
 title: "우사미 스미레코, 취직하다!"
 tags: "朱衣子 @moconone ゆめのね。 캐릭터_우사미_스미레코 캐릭터_키리사메_마리사 캐릭터_모토오리_코스즈 캐릭터_야쿠모_유카리 캐릭터_후지와라노_모코우 캐릭터_히에다노_아큐 캐릭터_야쿠모_란 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_루미아 캐릭터_나즈린 이벤트_c91 시리어스_진지"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/4982/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/4982/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

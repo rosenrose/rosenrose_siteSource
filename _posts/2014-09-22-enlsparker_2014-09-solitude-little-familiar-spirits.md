@@ -1,7 +1,7 @@
 ---
 title: "Solitude - A little familiar spirits"
 tags: "기타동인지 井村屋あゆか"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-solitude-little-familiar-spirits/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-solitude-little-familiar-spirits/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-987433187556121640" itemprop="description articleBody">

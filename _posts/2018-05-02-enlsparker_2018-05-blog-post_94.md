@@ -1,7 +1,7 @@
 ---
 title: "환상향 베이비즈"
 tags: "동인지 アコウクロウ"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-05-blog-post_94/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2018-05-blog-post_94/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1863168447534939379" itemprop="description articleBody">

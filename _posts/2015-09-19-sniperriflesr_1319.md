@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 가슴에 여러가지를 끼워보았다"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1319/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1319/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

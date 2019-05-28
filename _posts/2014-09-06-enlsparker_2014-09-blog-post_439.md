@@ -1,7 +1,7 @@
 ---
 title: "귀여운 레이무랑 결혼하고싶다"
 tags: "기타동인지 lemlaml"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_439/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-09-blog-post_439/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1451985924072107839" itemprop="description articleBody">

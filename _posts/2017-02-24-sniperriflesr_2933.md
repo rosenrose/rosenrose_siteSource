@@ -1,7 +1,7 @@
 ---
 title: "하늘의 동굴의 입구"
 tags: "じぜる 지제루 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2933/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2933/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

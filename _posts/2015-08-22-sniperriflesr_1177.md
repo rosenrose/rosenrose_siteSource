@@ -1,7 +1,7 @@
 ---
 title: "비봉구락부 부원모집중"
 tags: "ふあん亭 후앙정 캐릭터_우사미_스미레코 캐릭터_쿠모이_이치린 캐릭터_모노노베노_후토 캐릭터_토요사토미미노_미코 캐릭터_하쿠레이_레이무 캐릭터_히지리_뱌쿠렌 캐릭터_야고코로_에이린 캐릭터_모토오리_코스즈 이벤트_c88 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1177/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1177/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

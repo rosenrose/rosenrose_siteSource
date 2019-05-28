@@ -1,7 +1,7 @@
 ---
 title: "KOKORO STEP"
 tags: "동인지 ふあん亭"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-02-kokoro-step/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-02-kokoro-step/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4673442170931290897" itemprop="description articleBody">

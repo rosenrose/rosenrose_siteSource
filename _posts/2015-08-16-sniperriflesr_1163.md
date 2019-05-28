@@ -1,7 +1,7 @@
 ---
 title: "왜 얘를 왕따로 만들어"
 tags: "동프갤 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1163/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1163/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

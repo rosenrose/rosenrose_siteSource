@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 코메이지 사토리"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_코메이지_사토리 캐릭터_스쿠나_신묘마루 반역의_세이자"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/639/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/639/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

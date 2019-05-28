@@ -1,7 +1,7 @@
 ---
 title: "예상치 못한 세번째 만남"
 tags: "동인지 faintly_citrus"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_917/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_917/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1908554244860679255" itemprop="description articleBody">

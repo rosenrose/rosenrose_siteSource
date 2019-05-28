@@ -1,7 +1,7 @@
 ---
 title: "다단식 뉴스하운드"
 tags: "アシロク 아시로쿠 風に靡く巣箱 바람에_휘는_상자 캐릭터_이부키_스이카 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_하쿠레이_레이무 캐릭터_카와시로_니토리 이벤트_예대제_11 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/451/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/451/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

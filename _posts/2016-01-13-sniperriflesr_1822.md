@@ -1,7 +1,7 @@
 ---
 title: "또.모.리.야.인.가"
 tags: "ベル助 ベルの巣 캐릭터_세이란 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1822/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1822/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "안티에이징!"
 tags: "기타동인지 an_autumn_wind"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_475/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_475/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6228776899051862193" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "우동게밖에 눈에 들어오지 않는다"
 tags: "しぐま 캐릭터_순호 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3195/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/3195/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

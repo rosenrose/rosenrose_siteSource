@@ -1,7 +1,7 @@
 ---
 title: "네가 있다 내가 없다"
 tags: "前山_三都里 @yoe_maeyama 倉橋書院 캐릭터_오카자키_유메미 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_우사미_스미레코 이벤트_c91 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5391/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5391/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>

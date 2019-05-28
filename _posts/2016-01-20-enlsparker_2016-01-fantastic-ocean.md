@@ -1,7 +1,7 @@
 ---
 title: "Fantastic Ocean"
 tags: "기타동인지 少年少女隊"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-01-fantastic-ocean/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-01-fantastic-ocean/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7468844102996278689" itemprop="description articleBody">

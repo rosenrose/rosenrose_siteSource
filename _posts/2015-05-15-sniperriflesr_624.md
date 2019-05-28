@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 레이무와 마리사 2"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_와카사기히메 반역의_세이자"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/624/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/624/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

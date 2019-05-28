@@ -1,7 +1,7 @@
 ---
 title: "죽음을 다루는 정도의 능력"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1252/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1252/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

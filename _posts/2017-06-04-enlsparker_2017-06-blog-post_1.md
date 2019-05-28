@@ -1,7 +1,7 @@
 ---
 title: "구비경사"
 tags: "동인지 w-18"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-06-blog-post_1/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2017-06-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-880091590272032662" itemprop="description articleBody">

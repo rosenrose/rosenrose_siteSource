@@ -1,7 +1,7 @@
 ---
 title: "모미지와 오뎅"
 tags: "yaise 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2850/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2850/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

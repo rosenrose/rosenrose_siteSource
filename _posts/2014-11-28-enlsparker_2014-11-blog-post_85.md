@@ -1,7 +1,7 @@
 ---
 title: "아가씨의 우울"
 tags: "동인지 ひとみしり"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-11-blog-post_85/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-11-blog-post_85/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-33350887615925628" itemprop="description articleBody">

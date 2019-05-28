@@ -1,7 +1,7 @@
 ---
 title: "Logic*Logic"
 tags: "동인지 天災族"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-logiclogic/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-09-logiclogic/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2719727628189921315" itemprop="description articleBody">

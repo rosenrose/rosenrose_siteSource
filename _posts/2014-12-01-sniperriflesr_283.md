@@ -1,7 +1,7 @@
 ---
 title: "꼬마 아가씨 ~유유몽편~"
 tags: "matilda 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_레티_화이트락 캐릭터_첸 캐릭터_앨리스_마가트로이드 캐릭터_루나사_프리즘리버 캐릭터_메를랑_프리즘리버 캐릭터_리리카_프리즘리버 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 이벤트_유명앵 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/283/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/283/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

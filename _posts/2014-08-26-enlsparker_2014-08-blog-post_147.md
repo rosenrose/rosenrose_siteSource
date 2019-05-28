@@ -1,7 +1,7 @@
 ---
 title: "꽃밭에 어서와!"
 tags: "동인지 ハンモック"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-blog-post_147/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-08-blog-post_147/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5102525095324060167" itemprop="description articleBody">

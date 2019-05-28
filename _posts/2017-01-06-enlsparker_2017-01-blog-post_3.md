@@ -1,7 +1,7 @@
 ---
 title: "주문이 많은 메이드 카페"
 tags: "동인지 みずまんじゅう"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-01-blog-post_3/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-01-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8760763215530610081" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "나만의 여자아이"
 tags: "동인지 赤色バニラ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-10-blog-post_19/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-10-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8289024142178021598" itemprop="description articleBody">

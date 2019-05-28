@@ -1,7 +1,7 @@
 ---
 title: "물거울"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 시리어스_어두움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/56/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/56/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

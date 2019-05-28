@@ -1,7 +1,7 @@
 ---
 title: "성련선 만화"
 tags: "캐릭터_카소다니_쿄코 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2792/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2792/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

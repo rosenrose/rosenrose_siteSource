@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 9화"
 tags: "みつもと 미츠모토 캐릭터_후지와라노_모코우 캐릭터_리글_나이트버그 요스즈메와_불사조"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1432/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1432/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

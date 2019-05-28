@@ -1,7 +1,7 @@
 ---
 title: "신년 새해 복 많이 받으세요"
 tags: "にげサポ @nigesapo にげるサポート 캐릭터_대요정 캐릭터_치르노 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5795/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5795/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

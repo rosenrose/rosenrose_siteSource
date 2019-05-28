@@ -1,7 +1,7 @@
 ---
 title: "Lunatic Drops"
 tags: "ぽて 閑古鳥茶園 캐릭터_순호 캐릭터_키신_사구메 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_우사미_스미레코 캐릭터_레이센_우동게인_이나바 캐릭터_헤카티아_라피스라줄리 캐릭터_세이란 캐릭터_클라운피스 캐릭터_링고 캐릭터_후지와라노_모코우 캐릭터_도레미_스위트 캐릭터_레이센 캐릭터_와타츠키노_토요히메 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_코치야_사나에 캐릭터_이나바_테위 캐릭터_하쿠레이_레이무 캐릭터_카쿠_세이가 캐릭터_미야코_요시카 이벤트_椰麟祭7 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2531/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2531/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

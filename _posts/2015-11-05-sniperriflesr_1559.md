@@ -1,7 +1,7 @@
 ---
 title: "토지코쨩과 아이 만들기!!"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_소가노_토지코 [번역]_4컷／단편만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1559/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1559/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

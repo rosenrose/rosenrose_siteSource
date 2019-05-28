@@ -1,7 +1,7 @@
 ---
 title: "모코메로"
 tags: "ユーゴ 유고 yugo アトモスフィア 애트모스피어 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/105/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/105/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

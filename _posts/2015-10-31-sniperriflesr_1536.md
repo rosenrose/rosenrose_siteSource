@@ -1,7 +1,7 @@
 ---
 title: "소녀들에게 「안 입혀 봤다」"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1536/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1536/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

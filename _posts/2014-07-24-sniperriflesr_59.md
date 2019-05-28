@@ -1,7 +1,7 @@
 ---
 title: "월하상작"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_야고코로_에이린 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/59/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/59/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "동백의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2880/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2880/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

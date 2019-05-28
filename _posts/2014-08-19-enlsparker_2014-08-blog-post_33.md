@@ -1,7 +1,7 @@
 ---
 title: "그녀는 내 장난감이야"
 tags: "동인지 米"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-08-blog-post_33/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-08-blog-post_33/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1571524563238191541" itemprop="description articleBody">

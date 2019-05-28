@@ -1,7 +1,7 @@
 ---
 title: "Plastic song - latter volume"
 tags: "동인지 カナリアとつばめ"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-04-plastic-song-latter-volume/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-04-plastic-song-latter-volume/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7059507993127319930" itemprop="description articleBody">

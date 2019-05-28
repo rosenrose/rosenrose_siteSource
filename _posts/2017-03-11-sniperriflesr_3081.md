@@ -1,7 +1,7 @@
 ---
 title: "사우나라구!! 동방감주전 전원집합"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_세이란 캐릭터_링고 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_클라운피스 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3081/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3081/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

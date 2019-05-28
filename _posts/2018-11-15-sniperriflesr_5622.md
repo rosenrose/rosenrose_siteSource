@@ -1,7 +1,7 @@
 ---
 title: "꽤 기분 좋게 해주었다"
 tags: "ろくねん @6nen 캐릭터_야사카_카나코 캐릭터_모리야_스와코 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5622/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5622/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b><br/></b></font></p>

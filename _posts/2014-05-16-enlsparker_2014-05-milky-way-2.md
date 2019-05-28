@@ -1,7 +1,7 @@
 ---
 title: "Milky Way 2"
 tags: "동인지 reverse_noise"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-05-milky-way-2/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-05-milky-way-2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2356959984135108319" itemprop="description articleBody">

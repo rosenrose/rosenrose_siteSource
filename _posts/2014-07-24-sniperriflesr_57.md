@@ -1,7 +1,7 @@
 ---
 title: "물거울 예고편"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 시리어스_어두움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/57/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/57/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

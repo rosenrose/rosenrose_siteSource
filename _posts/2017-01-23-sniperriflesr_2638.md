@@ -1,7 +1,7 @@
 ---
 title: "애 & 어른"
 tags: "あどみーせらせら ねじれ学会 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2638/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2638/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

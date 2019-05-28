@@ -1,7 +1,7 @@
 ---
 title: "신 심야참새식당 2 [ 두 번째 잔 ]"
 tags: "ねことうふ 네코두부 grinp 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_미스티아_로렐라이 캐릭터_키신_사구메 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_우사미_스미레코 캐릭터_후지와라노_모코우 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 캐릭터_샤메이마루_아야 캐릭터_이부키_스이카 캐릭터_카와시로_니토리 캐릭터_홍_메이링 캐릭터_오노즈카_코마치 캐릭터_히나나위_텐시 캐릭터_이바라키_카센 이벤트_例大祭13 이벤트_예대제_13 심야_참새식당"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2834/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2834/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif;"></strong><br/></p>

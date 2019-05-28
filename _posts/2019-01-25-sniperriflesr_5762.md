@@ -1,7 +1,7 @@
 ---
 title: "술게임해서 지면 옷벗는 망가"
 tags: "니트아조시 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_치르노 캐릭터_이부키_스이카 캐릭터_호시구마_유기 캐릭터_대요정 캐릭터_모노노베노_후토 캐릭터_요리가미_조온 캐릭터_카쿠_세이가 캐릭터_청아 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_모리치카_린노스케 캐릭터_카와시로_니토리 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5762/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5762/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

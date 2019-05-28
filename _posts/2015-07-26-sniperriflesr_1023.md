@@ -1,7 +1,7 @@
 ---
 title: "렌코와 메리와 푸딩의 행방"
 tags: "s-syogo エスショゴ アトリエ_レーテスト 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_七色魔女の人形舞踏会。_4 이벤트_칠색마녀의_인형무도회_4 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1023/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1023/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

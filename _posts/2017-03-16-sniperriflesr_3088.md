@@ -1,7 +1,7 @@
 ---
 title: "호의적인 백옥루"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3088/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3088/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

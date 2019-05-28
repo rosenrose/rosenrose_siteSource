@@ -1,7 +1,7 @@
 ---
 title: "미쳐버릴 것 같아요!"
 tags: "동인지 さやかた紅茶館"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-05-blog-post_1/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-05-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1502503958007993296" itemprop="description articleBody">

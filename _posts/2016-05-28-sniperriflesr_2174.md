@@ -1,7 +1,7 @@
 ---
 title: "늑대가 나타났다 우사-!!"
 tags: "べべねこ 캐릭터_이나바_테위 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2174/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2174/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

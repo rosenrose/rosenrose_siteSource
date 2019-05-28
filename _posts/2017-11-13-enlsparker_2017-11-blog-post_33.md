@@ -1,7 +1,7 @@
 ---
 title: "탐스러운 섬머 파라다이스"
 tags: "동인지 dr．vermilion"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-11-blog-post_33/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2017-11-blog-post_33/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3738797364281107985" itemprop="description articleBody">

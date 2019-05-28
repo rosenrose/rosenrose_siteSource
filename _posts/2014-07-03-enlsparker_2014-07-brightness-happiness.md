@@ -1,7 +1,7 @@
 ---
 title: "BrightNess HappiNess"
 tags: "동인지 gp-kids"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-07-brightness-happiness/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-07-brightness-happiness/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6058853062741473353" itemprop="description articleBody">

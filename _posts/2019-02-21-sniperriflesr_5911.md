@@ -1,7 +1,7 @@
 ---
 title: "엄청 긍정적인 아야쨩"
 tags: "鯨井みなと @kujiraxminato 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5911/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5911/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

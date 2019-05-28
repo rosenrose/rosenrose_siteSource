@@ -1,7 +1,7 @@
 ---
 title: "소녀의 자존심"
 tags: "동인지 dynamo"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-11-blog-post_86/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-11-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5463560733782926268" itemprop="description articleBody">

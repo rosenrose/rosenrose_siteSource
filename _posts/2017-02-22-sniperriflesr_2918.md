@@ -1,7 +1,7 @@
 ---
 title: "사토리자매 4컷만화"
 tags: "캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2918/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2918/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

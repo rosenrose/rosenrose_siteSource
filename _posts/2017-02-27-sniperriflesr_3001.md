@@ -1,7 +1,7 @@
 ---
 title: "타협해버리고 만 신묘마루"
 tags: "ジェット虚無僧 제트코무소 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3001/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/3001/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

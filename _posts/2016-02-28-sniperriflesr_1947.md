@@ -1,7 +1,7 @@
 ---
 title: "준코이모 미아 데려다주는 만화"
 tags: "woogoon 동갤 캐릭터_준코 캐릭터_카미시라사와_케이네 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1947/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1947/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

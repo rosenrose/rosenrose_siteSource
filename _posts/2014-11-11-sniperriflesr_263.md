@@ -1,7 +1,7 @@
 ---
 title: "Ride on Shooting Star"
 tags: "蒼 아오 蒼空市場 창공시장 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 이벤트_예대제_11 이벤트_例大祭11 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/263/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/263/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

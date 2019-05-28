@@ -1,7 +1,7 @@
 ---
 title: "수증기 White"
 tags: "동인지 イカ足10本"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-08-white/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-08-white/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5711677040196319726" itemprop="description articleBody">

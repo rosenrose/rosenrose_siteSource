@@ -1,7 +1,7 @@
 ---
 title: "거미폼지 야마메"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_쿠로다니_야마메 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5996/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5996/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "꽁꽁"
 tags: "futa なべぞこ 나베조코 캐릭터_치르노 캐릭터_대요정 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/704/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/704/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

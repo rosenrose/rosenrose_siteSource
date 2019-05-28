@@ -1,7 +1,7 @@
 ---
 title: "후토각"
 tags: "ぶーわ_‏ 캐릭터_토요사토미미노_미코 캐릭터_카쿠_세이가 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/760/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/760/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

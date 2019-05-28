@@ -1,7 +1,7 @@
 ---
 title: "라이코의 태고 교실!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_호리카와_라이코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/573/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/573/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

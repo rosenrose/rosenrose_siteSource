@@ -1,7 +1,7 @@
 ---
 title: "링고와 사구메님"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_링고 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1688/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1688/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

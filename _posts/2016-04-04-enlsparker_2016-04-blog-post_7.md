@@ -1,7 +1,7 @@
 ---
 title: "비밀스런 사구메"
 tags: "泥舟海運 동인지 海運"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-04-blog-post_7/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-04-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-795737852431078598" itemprop="description articleBody">

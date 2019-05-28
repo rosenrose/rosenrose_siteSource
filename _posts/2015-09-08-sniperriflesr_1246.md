@@ -1,7 +1,7 @@
 ---
 title: "파닥파닥"
 tags: "三味線 캐릭터_레밀리아_스칼렛 캐릭터_와타츠키노_요리히메 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1246/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1246/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

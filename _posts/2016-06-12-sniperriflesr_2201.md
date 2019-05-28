@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 50"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_코치야_사나에 울지않아_파르시쨩!"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2201/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2201/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "나카키요"
 tags: "동인지 煎餅屋"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-09-blog-post_6/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-09-blog-post_6/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2679667320642829021" itemprop="description articleBody">

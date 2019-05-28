@@ -1,7 +1,7 @@
 ---
 title: "어느 한 전장의 카메라맨 [ 어느 한 종군기자 ]"
 tags: "壱 sonと壱 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 캐릭터_코메이지_사토리 캐릭터_콘파쿠_요우무 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 이벤트_例大祭_13 이벤트_예대제_13 시리어스_슬픔"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3209/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3209/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><br/></p>

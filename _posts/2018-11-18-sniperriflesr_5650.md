@@ -1,7 +1,7 @@
 ---
 title: "적극적으로 변하는 계절"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_치르노 캐릭터_대요정 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5650/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5650/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

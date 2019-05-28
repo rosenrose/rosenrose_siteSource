@@ -1,7 +1,7 @@
 ---
 title: "10점짜리 펫"
 tags: "ワイテイ @yt__ 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5388/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5388/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

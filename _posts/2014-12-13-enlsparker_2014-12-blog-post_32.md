@@ -1,7 +1,7 @@
 ---
 title: "스키유리"
 tags: "동인지 よぬりめ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-12-blog-post_32/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-12-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8563093399702669527" itemprop="description articleBody">

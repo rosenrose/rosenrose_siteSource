@@ -1,7 +1,7 @@
 ---
 title: "느긋한 식사의 타누키 소바"
 tags: "동인지 四方山"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-06-blog-post_94/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-06-blog-post_94/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-128653682191792863" itemprop="description articleBody">

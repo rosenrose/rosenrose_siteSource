@@ -1,7 +1,7 @@
 ---
 title: "여름의 미스치 , 무라사 , 쿄코"
 tags: "緑肉 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2663/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2663/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

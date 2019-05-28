@@ -1,7 +1,7 @@
 ---
 title: "토끼의 보은"
 tags: "마사키 正木 こげコロッケ 코게코로케 이벤트_c75 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/334/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/334/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

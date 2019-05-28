@@ -1,7 +1,7 @@
 ---
 title: "a Puppet Show (인형극) 총집편 ~ Perfect doll Action ~"
 tags: "レフトハソド 레프트핸드 left_hand しぐれえび 시구레_에비 캐릭터_앨리스_마가트로이드 캐릭터_상하이 캐릭터_신키 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_키리사메_마리사 캐릭터_카기야마_히나 캐릭터_나즈린 캐릭터_오노즈카_코마치 이벤트_例大祭sp2 시리어스_진지"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/215/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/215/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

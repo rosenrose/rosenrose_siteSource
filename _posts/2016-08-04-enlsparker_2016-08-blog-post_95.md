@@ -1,7 +1,7 @@
 ---
 title: "환상같은 나날의 앞에"
 tags: "동인지 うり畑牧場"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-08-blog-post_95/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-08-blog-post_95/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4665544450810155220" itemprop="description articleBody">

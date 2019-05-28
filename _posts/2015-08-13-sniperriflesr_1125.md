@@ -1,7 +1,7 @@
 ---
 title: "짐승 플로랄 냄새"
 tags: "チェけん 체켄 캐릭터_야쿠모_란 캐릭터_모리치카_린노스케 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1125/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1125/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

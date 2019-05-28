@@ -1,7 +1,7 @@
 ---
 title: "화끈한 카구야"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5777/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5777/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

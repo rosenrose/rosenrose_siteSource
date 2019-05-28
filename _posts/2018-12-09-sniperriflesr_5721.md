@@ -1,7 +1,7 @@
 ---
 title: "마타라씨가 마리사쨩에게 차를 대접받는 만화"
 tags: "鮫かまぼこ @samekamanew 月鮫工房 캐릭터_마타라_오키나 캐릭터_테이레이다_마이 캐릭터_니시다_사토노 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5721/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5721/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

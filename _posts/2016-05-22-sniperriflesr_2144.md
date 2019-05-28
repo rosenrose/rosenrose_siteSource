@@ -1,7 +1,7 @@
 ---
 title: "코메이지의 여러가지 잡다한 이야기"
 tags: "ワイテイ 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2144/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2144/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

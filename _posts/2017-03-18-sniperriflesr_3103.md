@@ -1,7 +1,7 @@
 ---
 title: "밤을 기다리는 공주님"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3103/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/3103/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

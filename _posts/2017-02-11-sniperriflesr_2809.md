@@ -1,7 +1,7 @@
 ---
 title: "세계 사회 정의의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_대요정 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2809/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2809/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "카구모코 만화"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/6000/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/6000/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

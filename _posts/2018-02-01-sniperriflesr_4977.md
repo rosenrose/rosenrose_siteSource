@@ -1,7 +1,7 @@
 ---
 title: "아야쨩과 120시간 챌린지"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_샤메이마루_아야 sexual_theme"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/4977/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/4977/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

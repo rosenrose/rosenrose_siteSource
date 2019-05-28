@@ -1,7 +1,7 @@
 ---
 title: "보니 상처가"
 tags: "けぬー 케누 ちりわぁく 치리와아쿠 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3121/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3121/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

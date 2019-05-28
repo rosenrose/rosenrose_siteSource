@@ -1,7 +1,7 @@
 ---
 title: "부풀지 않았다."
 tags: "동인지 赤色バニラ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-02-blog-post_35/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-02-blog-post_35/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7139666887726890288" itemprop="description articleBody">

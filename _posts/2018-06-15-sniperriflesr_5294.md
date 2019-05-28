@@ -1,7 +1,7 @@
 ---
 title: "태어난 날의 이야기"
 tags: "ワイテイ @yt__ 시리어스_밝음"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5294/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5294/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="line-height: 1.6;"><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>

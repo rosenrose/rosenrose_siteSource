@@ -1,7 +1,7 @@
 ---
 title: "늑대풀은 토끼를 먹겠지"
 tags: "동인지 夢のチョモラン王国"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-07-blog-post_74/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-07-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3859519530026927721" itemprop="description articleBody">

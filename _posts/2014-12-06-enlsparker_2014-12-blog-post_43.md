@@ -1,7 +1,7 @@
 ---
 title: "창가의 둘"
 tags: "동인지 米"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-12-blog-post_43/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-12-blog-post_43/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6553847078918380925" itemprop="description articleBody">

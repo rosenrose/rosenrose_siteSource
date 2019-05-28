@@ -1,7 +1,7 @@
 ---
 title: "LOVE LOVE LOVER Librarian!"
 tags: "동인지 悠久機関車"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-love-love-lover-librarian/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-love-love-lover-librarian/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5206181810232172686" itemprop="description articleBody">

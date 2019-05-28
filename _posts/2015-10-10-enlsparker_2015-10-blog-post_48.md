@@ -1,7 +1,7 @@
 ---
 title: "땅거미가 질때의 행복의 노래"
 tags: "동인지 おいもと"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-10-blog-post_48/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-10-blog-post_48/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7048145527778126682" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "치르노가 사과합니다"
 tags: "シノ 시노 ぽんじゆうす？ 폰주스？ 캐릭터_치르노 캐릭터_대요정 캐릭터_카미시라사와_케이네 이벤트_c84 시리어스_진지"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1732/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1732/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

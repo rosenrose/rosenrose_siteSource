@@ -1,7 +1,7 @@
 ---
 title: "좋아하는 캐릭터들을 노래방에 데리고 가보았다"
 tags: "けぬー ちりわぁく 캐릭터_히나나위_텐시 캐릭터_앨리스_마가트로이드 캐릭터_나가에_이쿠 캐릭터_상하이 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_신키 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/989/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/989/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

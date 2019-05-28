@@ -1,7 +1,7 @@
 ---
 title: "변태의 센스"
 tags: "えなみ教授 에나미교수 캐릭터_후지와라노_모코우 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_야쿠모_란 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2054/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2054/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

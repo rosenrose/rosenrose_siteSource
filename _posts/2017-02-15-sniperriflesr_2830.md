@@ -1,7 +1,7 @@
 ---
 title: "토지코 & 후토"
 tags: "卯林 こもりきり。 캐릭터_소가노_토지코 캐릭터_모노노베노_후토 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2830/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2830/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; font-size: 9pt;"></b><br/></p>

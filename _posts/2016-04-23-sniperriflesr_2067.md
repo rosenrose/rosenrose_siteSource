@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 25화"
 tags: "みつもと 미츠모토 캐릭터_호라이산_카구야 캐릭터_미스티아_로렐라이 요스즈메와_불사조"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2067/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2067/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

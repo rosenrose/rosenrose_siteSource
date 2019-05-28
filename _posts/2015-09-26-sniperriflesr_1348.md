@@ -1,7 +1,7 @@
 ---
 title: "텐구의 변명"
 tags: "べるっこ すずねいろ 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_카와시로_니토리 캐릭터_이누바시리_모미지 이벤트_c85 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1348/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1348/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

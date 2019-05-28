@@ -1,7 +1,7 @@
 ---
 title: "비에 깃든 것"
 tags: "동인지 スアリテスミ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-12-blog-post_95/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2018-12-blog-post_95/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4241236316669743179" itemprop="description articleBody">

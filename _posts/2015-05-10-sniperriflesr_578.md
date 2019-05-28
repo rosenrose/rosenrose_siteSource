@@ -1,7 +1,7 @@
 ---
 title: "파르시가 용기있게 우산같이 쓰자고 했더니 , 스모"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_호시구마_유기 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/578/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/578/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

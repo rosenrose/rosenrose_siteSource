@@ -1,7 +1,7 @@
 ---
 title: "파츄리와 플랑의 야키니쿠 대전쟁!!"
 tags: "기타동인지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-12-blog-post_46/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2018-12-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8773168319952787096" itemprop="description articleBody">

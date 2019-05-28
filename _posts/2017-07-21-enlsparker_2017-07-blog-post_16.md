@@ -1,7 +1,7 @@
 ---
 title: "덜렁이가 된 사쿠야씨"
 tags: "3d 기타동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-07-blog-post_16/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-07-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2857281298399548521" itemprop="description articleBody">

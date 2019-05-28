@@ -1,7 +1,7 @@
 ---
 title: "냉정하게 생각해보면"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2156/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2156/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

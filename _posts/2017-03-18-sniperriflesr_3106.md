@@ -1,7 +1,7 @@
 ---
 title: "절대 안 된다고 생각했다."
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_카미시라사와_케이네 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/3106/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/3106/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

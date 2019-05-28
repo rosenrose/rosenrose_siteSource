@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 노라쿠바네"
 tags: "동인지 青"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-11-blog-post_52/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-11-blog-post_52/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2218665854719767018" itemprop="description articleBody">

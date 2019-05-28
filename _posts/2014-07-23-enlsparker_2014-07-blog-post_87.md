@@ -1,7 +1,7 @@
 ---
 title: "후지와라 수상록"
 tags: "鎌倉橋停留所 기타동인지"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-07-blog-post_87/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-07-blog-post_87/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8939518207388054603" itemprop="description articleBody">

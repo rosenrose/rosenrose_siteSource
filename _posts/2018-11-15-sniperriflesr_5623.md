@@ -1,7 +1,7 @@
 ---
 title: "사회파 르포라이터 핫팬츠 아야쨩"
 tags: "逸しん @itusin3 캐릭터_샤메이마루_아야 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5623/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5623/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "미안해"
 tags: "6 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_슬픔"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/838/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/838/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

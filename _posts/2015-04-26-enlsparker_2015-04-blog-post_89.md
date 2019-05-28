@@ -1,7 +1,7 @@
 ---
 title: "흐르고, 휩쓸리는."
 tags: "기타동인지 zed_chop"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-blog-post_89/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-04-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3710477227415849514" itemprop="description articleBody">

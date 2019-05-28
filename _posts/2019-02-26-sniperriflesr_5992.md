@@ -1,7 +1,7 @@
 ---
 title: "할로윈 사구메와 둔감 도레미"
 tags: "野生の新垢奴 @ataro11802 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5992/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5992/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>

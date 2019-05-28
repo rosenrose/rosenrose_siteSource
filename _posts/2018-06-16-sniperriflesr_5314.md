@@ -1,7 +1,7 @@
 ---
 title: "아침 쿄코쨩"
 tags: "テラzip @terazip 圧縮工房 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5314/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5314/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "쿠로모코"
 tags: "기타동인지 zk軍団"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2017-06-blog-post_12/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2017-06-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1150011110310035120" itemprop="description articleBody">

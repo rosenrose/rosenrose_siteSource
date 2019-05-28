@@ -1,7 +1,7 @@
 ---
 title: "기욤 드 로리스에게 꽃다발을"
 tags: "동인지 夢防衛少女隊"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-12-blog-post_42/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-12-blog-post_42/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7430081732064571258" itemprop="description articleBody">

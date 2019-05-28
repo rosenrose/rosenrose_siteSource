@@ -1,7 +1,7 @@
 ---
 title: "외딴자의 라멘토"
 tags: "동인지 アトキンソン"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-12-blog-post_79/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-12-blog-post_79/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7936049374117356823" itemprop="description articleBody">

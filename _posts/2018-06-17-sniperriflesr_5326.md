@@ -1,7 +1,7 @@
 ---
 title: "카구야로부터의 한 마디"
 tags: "ガードベント淳 캐릭터_호라이산_카구야 짤／1컷만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/5326/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/5326/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

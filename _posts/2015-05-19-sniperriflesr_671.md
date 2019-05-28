@@ -1,7 +1,7 @@
 ---
 title: "프리 핫스팟, 후LAN도-르·스칼렛"
 tags: "ジェット虚無僧 제트_코무소 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/671/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/671/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

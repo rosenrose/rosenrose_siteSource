@@ -1,7 +1,7 @@
 ---
 title: "BLOOD BERRY TRAP"
 tags: "동인지 pure"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-04-blood-berry-trap_30/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-04-blood-berry-trap_30/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3199450613904518017" itemprop="description articleBody">

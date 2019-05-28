@@ -1,7 +1,7 @@
 ---
 title: "당신과 콤비가 되어 함께하는 홍마관 마트"
 tags: "기타동인지 rrr"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_444/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_444/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6888665764983110474" itemprop="description articleBody">

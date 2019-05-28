@@ -1,7 +1,7 @@
 ---
 title: "언젠가 봤던 색의 하늘"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_히지리_뱌쿠렌 캐릭터_무라사_미나미츠 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_쿠모이_이치린 캐릭터_첸 캐릭터_호쥬_누에 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3084/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3084/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

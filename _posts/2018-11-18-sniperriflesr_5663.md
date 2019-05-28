@@ -1,7 +1,7 @@
 ---
 title: "부끄러운 나"
 tags: "しぐま @signalmass 시그마 signalmass 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5663/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5663/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

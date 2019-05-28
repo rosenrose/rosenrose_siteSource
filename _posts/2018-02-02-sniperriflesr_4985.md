@@ -1,7 +1,7 @@
 ---
 title: "어머니의 사랑의 가치"
 tags: "fkey 캐릭터_이자요이_사쿠야 캐릭터_하쿠레이_레이무 캐릭터_레밀리아_스칼렛 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/4985/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/4985/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

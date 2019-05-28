@@ -1,7 +1,7 @@
 ---
 title: "아..이제 먹히는구나..."
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 [번역]_짤"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1654/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1654/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

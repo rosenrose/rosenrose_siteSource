@@ -1,7 +1,7 @@
 ---
 title: "발렌타인 나즈린 만화"
 tags: "ロリメイト ロリメイト製造工場 캐릭터_나즈린 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1977/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1977/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

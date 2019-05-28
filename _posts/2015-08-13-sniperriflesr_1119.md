@@ -1,7 +1,7 @@
 ---
 title: "어느쪽이 좋아?"
 tags: "미샤 캐릭터_타타라_코가사 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1119/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1119/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

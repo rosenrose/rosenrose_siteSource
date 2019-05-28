@@ -1,7 +1,7 @@
 ---
 title: "깨닫는다는 것"
 tags: "기타동인지 djb2"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_29/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2990375263157763394" itemprop="description articleBody">

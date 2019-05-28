@@ -1,7 +1,7 @@
 ---
 title: "모미지와 코이시"
 tags: "フウザサ 후우자사 風前ランプ 캐릭터_이누바시리_모미지 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_호시구마_유기 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_이부키_스이카 캐릭터_샤메이마루_아야 이벤트_c87 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1631/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1631/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

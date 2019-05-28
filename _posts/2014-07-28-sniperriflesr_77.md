@@ -1,7 +1,7 @@
 ---
 title: "Secret photosession(시크릿 포토세션)"
 tags: "真田一輝 사나다_잇키 harvestmoon 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 캐릭터_카와시로_니토리 이벤트_c84 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/77/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/77/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

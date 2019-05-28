@@ -1,7 +1,7 @@
 ---
 title: "후타 웹코믹 1~6"
 tags: "그림_번역／후타"
-image: "https://d1quptcelcb84e.cloudfront.net/touhoustory/38/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/touhoustory/38/001.jpg"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/38/001.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/38/002.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/38/003.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/38/004.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/38/005.jpg"/></p><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver8 }}/touhoustory/38/006.jpg"/></p><p style="text-align: center; clear: none; float: none;"><span style="font-size: 18pt;">futa(</span><span style='font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif; font-size: 18pt; font-style: inherit; white-space: nowrap;'>@Futa313255)</span></p><p style="text-align: center;"><span style="font-size: 18pt; color: rgb(0, 0, 0);"><br/></span></p><p style="text-align: center;"><span style="font-size: 11pt;">이번에도 번역 시작한 부분부터 1번 입니다</span></p> </div></div><br/>

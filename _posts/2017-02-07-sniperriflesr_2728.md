@@ -1,7 +1,7 @@
 ---
 title: "노"
 tags: "yaise 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2728/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2728/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

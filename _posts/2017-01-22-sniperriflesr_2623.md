@@ -1,7 +1,7 @@
 ---
 title: "할로윈 - 코마에키 [ 2014 ]"
 tags: "きつね丸 葉々庵 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2623/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2623/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

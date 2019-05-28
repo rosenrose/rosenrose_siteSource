@@ -1,7 +1,7 @@
 ---
 title: "결계를 넘은 유실물"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_오카자키_유메미 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 캐릭터_샤메이마루_아야 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_호리카와_라이코 캐릭터_하쿠레이_레이무 이벤트_例大祭12 이벤트_예대제12 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5374/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5374/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

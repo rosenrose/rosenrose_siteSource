@@ -1,7 +1,7 @@
 ---
 title: "산타가 필요해"
 tags: "じぜる 지제루 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5105/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5105/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

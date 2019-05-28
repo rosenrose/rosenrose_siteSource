@@ -1,7 +1,7 @@
 ---
 title: "플랑쨩과 이상한 그 카드"
 tags: "동인지 hollowplus"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-09-blog-post_10/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2017-09-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-677945007131481040" itemprop="description articleBody">

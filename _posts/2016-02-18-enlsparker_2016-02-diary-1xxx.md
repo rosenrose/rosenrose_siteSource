@@ -1,7 +1,7 @@
 ---
 title: "Diary - 1/xxx"
 tags: "동인지 赤色バニラ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-02-diary-1xxx/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-02-diary-1xxx/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5282063615098664845" itemprop="description articleBody">

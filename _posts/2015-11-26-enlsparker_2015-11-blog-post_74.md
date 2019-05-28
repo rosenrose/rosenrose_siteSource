@@ -1,7 +1,7 @@
 ---
 title: "꼬마 코이시"
 tags: "동인지 くまのとおるみち"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-11-blog-post_74/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-11-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3405653591554739401" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "개구리의 나라"
 tags: "동인지 薬味さらい"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-12-blog-post_62/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-12-blog-post_62/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7505380850084554764" itemprop="description articleBody">

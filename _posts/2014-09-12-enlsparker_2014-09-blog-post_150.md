@@ -1,7 +1,7 @@
 ---
 title: "차가운 독꽃 시작했습니다"
 tags: "기타동인지 tilde．"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_150/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_150/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1759493393732084153" itemprop="description articleBody">

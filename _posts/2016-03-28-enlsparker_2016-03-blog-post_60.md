@@ -1,7 +1,7 @@
 ---
 title: "각성해라! (;;) 드래곤"
 tags: "기타동인지 ドリル乳繰り ルナティック少年院"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-03-blog-post_60/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-03-blog-post_60/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3225431194962448018" itemprop="description articleBody">

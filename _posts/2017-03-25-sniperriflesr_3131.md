@@ -1,7 +1,7 @@
 ---
 title: "명탐정 사나에"
 tags: "ナイスタック 나이스택 캐릭터_후지와라노_모코우 캐릭터_코치야_사나에 캐릭터_치르노 캐릭터_타타라_코가사 약"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3131/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3131/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

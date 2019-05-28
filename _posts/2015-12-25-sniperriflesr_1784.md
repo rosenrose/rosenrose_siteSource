@@ -1,7 +1,7 @@
 ---
 title: "홍마조/자기조와 크리스마스를 보내봤다"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1784/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1784/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

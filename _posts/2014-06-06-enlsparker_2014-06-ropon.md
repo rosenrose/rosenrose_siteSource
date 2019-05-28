@@ -1,7 +1,7 @@
 ---
 title: "오늘도 활기차게 야쿠모RO☆PON!!"
 tags: "동인지 happy_flame_time"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-06-ropon/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-06-ropon/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1166253468029185017" itemprop="description articleBody">

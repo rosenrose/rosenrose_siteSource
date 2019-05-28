@@ -1,7 +1,7 @@
 ---
 title: "달토끼의 사랑하는 법"
 tags: "동인지 rump"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2018-01-blog-post_6/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2018-01-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1512870158280324890" itemprop="description articleBody">

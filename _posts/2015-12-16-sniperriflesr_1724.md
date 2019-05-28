@@ -1,7 +1,7 @@
 ---
 title: "이자요이 사쿠야가 환상들이 ~더블 스칼렛 외전~"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_야쿠모_유카리 이벤트_例大祭7 이벤트_예대제7 시리어스_밝음"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1724/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1724/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

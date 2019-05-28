@@ -1,7 +1,7 @@
 ---
 title: "소녀환장 판타즘 - 전편"
 tags: "동인지 visionnerz"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-07-blog-post_14/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-07-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2358604970083609783" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "빙하 플라워"
 tags: "기타동인지 ハネゴヤ"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-04-blog-post_75/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-04-blog-post_75/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5625517919033839057" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "사토리와 유두개발"
 tags: "パイン 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 sexual_theme"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1805/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1805/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

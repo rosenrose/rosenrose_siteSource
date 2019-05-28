@@ -1,7 +1,7 @@
 ---
 title: "슈가이터"
 tags: "동인지 dynamo"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_80/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-10-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5224491108938796602" itemprop="description articleBody">

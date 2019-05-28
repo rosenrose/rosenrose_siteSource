@@ -1,7 +1,7 @@
 ---
 title: "「달에소원을 ·1」"
 tags: "さこ cocco 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 시리어스_진지"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/114/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/114/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

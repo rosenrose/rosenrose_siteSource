@@ -1,7 +1,7 @@
 ---
 title: "샹하이 워킹"
 tags: "ぶちマル 부치마루 旅人 타비토 캐릭터_상하이 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 이벤트_c77 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/445/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/445/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

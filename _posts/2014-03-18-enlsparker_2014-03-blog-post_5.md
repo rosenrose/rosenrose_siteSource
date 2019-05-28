@@ -1,7 +1,7 @@
 ---
 title: "휘성 패러사이트"
 tags: "동인지 徒歩二分"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-03-blog-post_5/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-03-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3086159617221587408" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 호시우츠로"
 tags: "동인지 青"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_528/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_528/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5970044997560758018" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "영원할 순 없어"
 tags: "마사키 正木 こげコロッケ 코게코로케 캐릭터_호라이산_카구야 캐릭터_이나바_테위 캐릭터_야고코로_에이린 캐릭터_후지와라노_모코우 이벤트_c82 시리어스_슬픔"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/175/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/175/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

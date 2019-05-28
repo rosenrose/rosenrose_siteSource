@@ -1,7 +1,7 @@
 ---
 title: "우동게와 요우무 쨩"
 tags: "기타동인지 イチヨンロク"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-03-blog-post_93/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-03-blog-post_93/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4492320049214812411" itemprop="description articleBody">

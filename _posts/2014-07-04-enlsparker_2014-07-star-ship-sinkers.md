@@ -1,7 +1,7 @@
 ---
 title: "Star Ship Sinkers"
 tags: "동인지 ふすま喫茶"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-star-ship-sinkers/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-07-star-ship-sinkers/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8473872690326092219" itemprop="description articleBody">

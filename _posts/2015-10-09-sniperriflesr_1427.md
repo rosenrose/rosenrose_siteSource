@@ -1,7 +1,7 @@
 ---
 title: "밤은 짧아 걸어 아가씨야."
 tags: "ナオスケ 盛岡社中 moriokasyachu 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_紅楼夢7 이벤트_홍루몽7 시리어스_진지"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1427/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1427/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

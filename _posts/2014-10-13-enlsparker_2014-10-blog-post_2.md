@@ -1,7 +1,7 @@
 ---
 title: "후토쨩 고간 위기일발"
 tags: "동인지 ぜのさいど"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_2/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-10-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-466169689836366955" itemprop="description articleBody">

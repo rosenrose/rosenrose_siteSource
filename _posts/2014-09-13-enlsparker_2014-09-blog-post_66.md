@@ -1,7 +1,7 @@
 ---
 title: "히다마리의 사이라카스"
 tags: "동인지 ビビットグレー"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_66/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8897430811750681522" itemprop="description articleBody">

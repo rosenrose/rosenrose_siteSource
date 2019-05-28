@@ -1,7 +1,7 @@
 ---
 title: "요정대탈옥"
 tags: "기타동인지 エントゲーゲン"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-12-blog-post_13/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2018-12-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4769150768162852614" itemprop="description articleBody">

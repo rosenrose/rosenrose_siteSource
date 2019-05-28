@@ -1,7 +1,7 @@
 ---
 title: "요요회석"
 tags: "동인지 ふすま喫茶"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-blog-post_22/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-05-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6568558255091774062" itemprop="description articleBody">

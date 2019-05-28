@@ -1,7 +1,7 @@
 ---
 title: "어떻게 그녀를 그 방으로 초대하게 되었던가"
 tags: "동인지 personal_color"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-12-blog-post_80/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-12-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6605457791762425715" itemprop="description articleBody">

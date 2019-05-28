@@ -1,7 +1,7 @@
 ---
 title: "소녀의 정원"
 tags: "えなみ教授 에나미교수 캐릭터_플랑드르_스칼렛 캐릭터_키진_세이자 캐릭터_토라마루_쇼 캐릭터_샤메이마루_아야 캐릭터_나즈린 캐릭터_카미시라사와_케이네 캐릭터_이누바시리_모미지 캐릭터_키리사메_마리사 캐릭터_이나바_테위 캐릭터_첸 캐릭터_히메카이도_하타테 캐릭터_호쥬_누에 캐릭터_하쿠레이_레이무 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2064/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2064/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

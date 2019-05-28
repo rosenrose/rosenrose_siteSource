@@ -1,7 +1,7 @@
 ---
 title: "요리가미 만화"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_히나나위_텐시 캐릭터_스쿠나_신묘마루 캐릭터_요리가미_조온 캐릭터_토라마루_쇼 캐릭터_히지리_뱌쿠렌 캐릭터_쿠모이_이치린 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5846/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5846/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

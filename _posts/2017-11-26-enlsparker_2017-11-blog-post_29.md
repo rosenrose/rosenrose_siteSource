@@ -1,7 +1,7 @@
 ---
 title: "소년린노스케고물수집기담 - 오니의 장"
 tags: "동인지 マグニ厨度711"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-11-blog-post_29/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2017-11-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9140022847246674510" itemprop="description articleBody">

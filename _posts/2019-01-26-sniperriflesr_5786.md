@@ -1,7 +1,7 @@
 ---
 title: "아마즈박스"
 tags: "あまず 아마즈 amaz 이벤트_c86 합동-귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5786/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5786/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

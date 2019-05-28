@@ -1,7 +1,7 @@
 ---
 title: "Three Fairies ~ Little Stone Heart ~ Vol.1"
 tags: "比良坂_真琴 히라사카_마코토 makoto_hirasaka くらっしゅハウス clash_house 크래쉬_하우스 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_써니_밀크 캐릭터_하쿠레이_레이무 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 이벤트_c87 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/460/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/460/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

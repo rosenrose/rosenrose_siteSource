@@ -1,7 +1,7 @@
 ---
 title: "사구메 vs. Siri"
 tags: "ぶなしめじ 부나시메시 캐릭터_키신_사구메 캐릭터_링고 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1942/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1942/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

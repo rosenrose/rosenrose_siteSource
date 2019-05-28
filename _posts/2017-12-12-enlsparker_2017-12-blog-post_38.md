@@ -1,7 +1,7 @@
 ---
 title: "데드 데드 데이트"
 tags: "犬で言うと2さい。 기타동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-12-blog-post_38/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-12-blog-post_38/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3639263014490630431" itemprop="description articleBody">

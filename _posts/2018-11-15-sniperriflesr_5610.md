@@ -1,7 +1,7 @@
 ---
 title: "사쿠야의 못된 장난"
 tags: "時雨1213バーチャルモデラー @teichi7teichi3 @ibnk7rqw03kpili_‬ 캐릭터_앨리스_마가트로이드 캐릭터_이자요이_사쿠야 sexual_theme"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5610/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5610/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

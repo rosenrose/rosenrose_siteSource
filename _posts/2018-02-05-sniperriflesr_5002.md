@@ -1,7 +1,7 @@
 ---
 title: "우동순호의 콩뿌리기"
 tags: "しぐま @signalmass 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_순호 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5002/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5002/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

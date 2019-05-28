@@ -1,7 +1,7 @@
 ---
 title: "Inarekiezoka"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_샤메이마루_아야 캐릭터_미스티아_로렐라이 캐릭터_리글_나이트버그 이벤트_例大祭8 이벤트_하쿠레이_예대제_8 시리어스_밝음"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/495/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/495/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

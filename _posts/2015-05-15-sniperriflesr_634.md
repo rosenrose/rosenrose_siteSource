@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 히지리 뱌쿠렌"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_히지리_뱌쿠렌 캐릭터_토라마루_쇼 캐릭터_쿠모이_이치린 반역의_세이자"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/634/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/634/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

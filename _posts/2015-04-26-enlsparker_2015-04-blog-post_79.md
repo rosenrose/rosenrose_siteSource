@@ -1,7 +1,7 @@
 ---
 title: "원더 마인 트레져"
 tags: "동인지 ビビットグレー"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-04-blog-post_79/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-04-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4133800711673506856" itemprop="description articleBody">

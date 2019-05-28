@@ -1,7 +1,7 @@
 ---
 title: "맛이 어때?"
 tags: "セキチク 캐릭터_세이란 캐릭터_링고 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1099/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1099/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

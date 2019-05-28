@@ -1,7 +1,7 @@
 ---
 title: "아 이거 못핤것갓은대"
 tags: "썅 ssyang 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5512/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5512/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

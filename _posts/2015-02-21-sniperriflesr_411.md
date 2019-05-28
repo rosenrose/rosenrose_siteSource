@@ -1,7 +1,7 @@
 ---
 title: "피안 여성 앤솔로지"
 tags: "ムラ黒江 무라_쿠로에 トイヘルベッケ 캐릭터_시키에이키_야마나자두 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_카자미_유카 캐릭터_오노즈카_코마치 캐릭터_하쿠레이_레이무 캐릭터_히에다노_아큐 이벤트_c74 시리어스_진지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/411/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/411/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

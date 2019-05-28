@@ -1,7 +1,7 @@
 ---
 title: "오린과 코메이지 자매"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_키리사메_마리사 캐릭터_모토오리_코스즈 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5264/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5264/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

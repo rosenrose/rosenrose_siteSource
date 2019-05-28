@@ -1,7 +1,7 @@
 ---
 title: "아름다운 렌다이노"
 tags: "동인지 そぞろ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-11-blog-post_84/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2017-11-blog-post_84/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7245963805145924581" itemprop="description articleBody">

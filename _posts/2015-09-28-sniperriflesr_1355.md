@@ -1,7 +1,7 @@
 ---
 title: "DESIRE DOOR"
 tags: "ふあん亭 후앙정 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_앨리스_마가트로이드 이벤트_境界から視えた外界-廻- 이벤트_경계로부터_보이는_바깥세계-메구루- 시리어스_밝음"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1355/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1355/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "아카노 히로바"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카기야마_히나 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2900/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2900/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

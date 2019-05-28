@@ -1,7 +1,7 @@
 ---
 title: "누에 세이자와 파피코"
 tags: "ぷちみりん @pcmrn_hcmt6 はちみつぷりん 캐릭터_호쥬_누에 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5293/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5293/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

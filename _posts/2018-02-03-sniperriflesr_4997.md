@@ -1,7 +1,7 @@
 ---
 title: "요리가미 자매 episode : winter"
 tags: "みづきいちご @kyunkyunhawawa 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/4997/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/4997/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

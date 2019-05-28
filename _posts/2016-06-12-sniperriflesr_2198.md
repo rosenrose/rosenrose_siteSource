@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 47"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 울지않아_파르시쨩!"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2198/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2198/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

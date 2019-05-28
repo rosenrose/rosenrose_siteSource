@@ -1,7 +1,7 @@
 ---
 title: "히다마리의 사이라카스"
 tags: "シノアサ 시노아사 vivit_gray ビビットグレー 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_소악마 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 이벤트_例大祭9 시리어스_밝음"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/357/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/357/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

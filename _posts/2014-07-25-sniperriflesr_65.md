@@ -1,7 +1,7 @@
 ---
 title: "69"
 tags: "ネジキリオ 네지키리오 black†angel angel_type 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_소악마 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/65/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/65/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: justify"> </p>

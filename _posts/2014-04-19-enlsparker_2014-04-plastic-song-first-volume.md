@@ -1,7 +1,7 @@
 ---
 title: "Plastic song - First volume"
 tags: "동인지 カナリアとつばめ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-04-plastic-song-first-volume/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-04-plastic-song-first-volume/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-536353074959597419" itemprop="description articleBody">

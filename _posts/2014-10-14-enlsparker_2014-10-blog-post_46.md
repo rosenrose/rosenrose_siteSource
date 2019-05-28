@@ -1,7 +1,7 @@
 ---
 title: "꿈같은 기분이 드는 온천에서는 모르는 게 약이다"
 tags: "동인지 ねこのさけごと"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-10-blog-post_46/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-10-blog-post_46/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5168217101543801605" itemprop="description articleBody">

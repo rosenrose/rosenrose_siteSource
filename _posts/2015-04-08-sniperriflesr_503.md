@@ -1,7 +1,7 @@
 ---
 title: "지금 네 곁에 있어 !!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_앨리스_마가트로이드 캐릭터_상하이 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_샤메이마루_아야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 이벤트_comi_comi_14 시리어스_밝음"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/503/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/503/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "홍동몽경"
 tags: "기타동인지 ground-zero"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-blog-post_888/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-09-blog-post_888/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8619767721849184130" itemprop="description articleBody">

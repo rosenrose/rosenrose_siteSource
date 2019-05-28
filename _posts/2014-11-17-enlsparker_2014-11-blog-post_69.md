@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 무로사키"
 tags: "동인지 青"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-11-blog-post_69/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-11-blog-post_69/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2911174018689563079" itemprop="description articleBody">

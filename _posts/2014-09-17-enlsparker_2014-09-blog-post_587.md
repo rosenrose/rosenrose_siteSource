@@ -1,7 +1,7 @@
 ---
 title: "그리고 이름을 부르기 위하여"
 tags: "동인지 リレバ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_587/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_587/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8935211183646220276" itemprop="description articleBody">

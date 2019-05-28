@@ -1,7 +1,7 @@
 ---
 title: "죽림 헬스케어 서바이벌"
 tags: "동인지 うり畑牧場"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-06-blog-post_91/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2017-06-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6447823191422480682" itemprop="description articleBody">

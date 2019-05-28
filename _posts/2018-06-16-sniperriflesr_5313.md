@@ -1,7 +1,7 @@
 ---
 title: "처음끼리"
 tags: "テラzip @terazip 圧縮工房 캐릭터_카소다니_쿄코 캐릭터_미스티아_로렐라이 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5313/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5313/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

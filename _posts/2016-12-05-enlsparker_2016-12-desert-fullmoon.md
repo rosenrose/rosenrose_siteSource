@@ -1,7 +1,7 @@
 ---
 title: "Desert Fullmoon"
 tags: "기타동인지 so_what!"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-12-desert-fullmoon/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2016-12-desert-fullmoon/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5883859029756374716" itemprop="description articleBody">

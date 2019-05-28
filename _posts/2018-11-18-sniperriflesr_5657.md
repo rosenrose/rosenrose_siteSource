@@ -1,7 +1,7 @@
 ---
 title: "마이크로 비키니입고 복싱하는 죠시온자매"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_요리가미_시온 캐릭터_요리가미_조온 짤／1컷만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5657/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5657/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

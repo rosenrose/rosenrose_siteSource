@@ -1,7 +1,7 @@
 ---
 title: "사토리와 코이시의 두근두근 온천여행 +α"
 tags: "기타동인지 たけのこ。"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-11-blog-post_21/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2017-11-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6927885374154252123" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "명련사의 유쾌한 친구들"
 tags: "동인지 dynamo"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_85/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-09-blog-post_85/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3038300854691961120" itemprop="description articleBody">

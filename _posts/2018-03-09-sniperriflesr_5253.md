@@ -1,7 +1,7 @@
 ---
 title: "아야 목조르기"
 tags: "赤崎セカイ @kireinatetete 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5253/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5253/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

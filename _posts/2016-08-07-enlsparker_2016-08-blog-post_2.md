@@ -1,7 +1,7 @@
 ---
 title: "레밀리아의 특훈"
 tags: "동인지 イカ足10本"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-08-blog-post_2/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-08-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7404101401402290509" itemprop="description articleBody">

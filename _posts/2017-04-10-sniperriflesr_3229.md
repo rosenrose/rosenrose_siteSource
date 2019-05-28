@@ -1,7 +1,7 @@
 ---
 title: "연주하는 건 사랑의 선율"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 급식첸_만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3229/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3229/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

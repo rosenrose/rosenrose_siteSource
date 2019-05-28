@@ -1,7 +1,7 @@
 ---
 title: "카케로쨩을 울려보았다"
 tags: "しらこさん しらこmarket☆ しらこ codeしらこ @kokusin_neko 캐릭터_이마이즈미_카케로 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5325/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5325/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

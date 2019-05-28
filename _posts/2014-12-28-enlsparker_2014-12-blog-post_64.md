@@ -1,7 +1,7 @@
 ---
 title: "빗소리에 섞이다"
 tags: "동인지 よぬりめ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-12-blog-post_64/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-12-blog-post_64/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8060908200142458341" itemprop="description articleBody">

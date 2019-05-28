@@ -1,7 +1,7 @@
 ---
 title: "회색 별과 붉은 꽃"
 tags: "동인지 こげコロッケ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-12-blog-post_56/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2015-12-blog-post_56/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4244973058905308461" itemprop="description articleBody">

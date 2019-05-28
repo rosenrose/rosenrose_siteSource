@@ -1,7 +1,7 @@
 ---
 title: "Darker Than Bloodyred"
 tags: "기타동인지 mmu2000"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-05-darker-than-bloodyred/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-05-darker-than-bloodyred/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-282688612681688397" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "우사레타마"
 tags: "동인지 carcharias!"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-10-blog-post_70/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-10-blog-post_70/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5528934768955368720" itemprop="description articleBody">

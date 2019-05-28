@@ -1,7 +1,7 @@
 ---
 title: "악마네 집 - 트러블 스칼렛"
 tags: "乃屋 동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-07-blog-post_80/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-07-blog-post_80/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1087047316219119873" itemprop="description articleBody">

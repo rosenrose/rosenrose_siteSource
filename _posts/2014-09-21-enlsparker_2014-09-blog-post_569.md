@@ -1,7 +1,7 @@
 ---
 title: "임해 센티멘트"
 tags: "동인지 木綿シリコン"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-09-blog-post_569/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-09-blog-post_569/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6387767886233860361" itemprop="description articleBody">

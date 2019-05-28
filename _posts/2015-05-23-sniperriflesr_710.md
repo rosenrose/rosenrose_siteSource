@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 레밀리아 스칼렛"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_키진_세이자 반역의_세이자"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/710/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/710/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

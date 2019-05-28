@@ -1,7 +1,7 @@
 ---
 title: "붕붕마루 신문 요정대특집"
 tags: "동인지 梅の実画報"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_19/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-08-blog-post_19/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1075706356271761534" itemprop="description articleBody">

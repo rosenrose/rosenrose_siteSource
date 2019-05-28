@@ -1,7 +1,7 @@
 ---
 title: "신부의 상처입은 표정연습 - 사토리"
 tags: "お茶漬け 캐릭터_코메이지_사토리 이메레스"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2824/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2824/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

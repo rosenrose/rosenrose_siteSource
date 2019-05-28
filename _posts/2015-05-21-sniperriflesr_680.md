@@ -1,7 +1,7 @@
 ---
 title: "히메의 소원을 이뤄주는 만화"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_이마이즈미_카케로 캐릭터_와카사기히메 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/680/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/680/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

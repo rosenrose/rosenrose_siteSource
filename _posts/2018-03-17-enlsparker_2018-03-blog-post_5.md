@@ -1,7 +1,7 @@
 ---
 title: "내 맘대로 일본 문화"
 tags: "乃屋 동인지"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-03-blog-post_5/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-03-blog-post_5/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8522079600490264109" itemprop="description articleBody">

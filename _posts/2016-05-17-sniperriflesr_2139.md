@@ -1,7 +1,7 @@
 ---
 title: "모코우에게 사랑한다고 해보았다."
 tags: "スペース人 캐릭터_후지와라노_모코우 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2139/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2139/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

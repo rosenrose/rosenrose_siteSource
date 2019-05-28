@@ -1,7 +1,7 @@
 ---
 title: "TENGU OVER"
 tags: "동인지 ふあん亭"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-tengu-over/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-04-tengu-over/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5010127695063589747" itemprop="description articleBody">

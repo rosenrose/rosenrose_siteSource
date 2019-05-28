@@ -1,7 +1,7 @@
 ---
 title: "사욕 디자이어 카니발!!"
 tags: "합동인지"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_98/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_98/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4273917959517638460" itemprop="description articleBody">

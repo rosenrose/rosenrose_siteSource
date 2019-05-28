@@ -1,7 +1,7 @@
 ---
 title: "판자집을 만들다 ~현장입지 독립편~"
 tags: "dra どら area-s エリアエス 캐릭터_쿠모이_이치린 캐릭터_운잔 캐릭터_쿠로다니_야마메 캐릭터_나즈린 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_야사카_카나코 캐릭터_토라마루_쇼 이벤트_예대제_9 시리어스_밝음"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/245/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/245/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

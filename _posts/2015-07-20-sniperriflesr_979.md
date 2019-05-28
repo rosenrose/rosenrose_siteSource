@@ -1,7 +1,7 @@
 ---
 title: "돌뿌리 아리가또"
 tags: "6 캐릭터_레이센_우동게인_이나바 캐릭터_와타츠키노_요리히메 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/979/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/979/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

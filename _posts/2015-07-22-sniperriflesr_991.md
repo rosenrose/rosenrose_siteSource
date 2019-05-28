@@ -1,7 +1,7 @@
 ---
 title: "SANA×AYA ~미라클☆플래시~"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー vivitgray 캐릭터_샤메이마루_아야 캐릭터_코치야_사나에 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_카기야마_히나 캐릭터_카와시로_니토리 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_루미아 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 캐릭터_모리야_스와코 캐릭터_야사카_카나코 이벤트_紅楼夢_8 이벤트_홍루몽_8 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/991/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/991/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

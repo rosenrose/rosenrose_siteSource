@@ -1,7 +1,7 @@
 ---
 title: "마리사가 기억상실증에 걸린 것 같은데요!"
 tags: "기타동인지 tiger_and_bulls"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-11-blog-post_18/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-11-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2706142499559938445" itemprop="description articleBody">

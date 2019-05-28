@@ -1,7 +1,7 @@
 ---
 title: "My little sister"
 tags: "기타동인지 h2o"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-11-my-little-sister/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-11-my-little-sister/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3983158683904385150" itemprop="description articleBody">

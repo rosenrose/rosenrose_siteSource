@@ -1,7 +1,7 @@
 ---
 title: "뾱뾱 무녀 레이무 씨 - 1"
 tags: "柳月湊 時間屋 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1743/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1743/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

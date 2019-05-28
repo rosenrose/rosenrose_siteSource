@@ -1,7 +1,7 @@
 ---
 title: "스즈나 로직"
 tags: "동인지 蓮華座"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-11-blog-post_91/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-11-blog-post_91/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1924604935854172227" itemprop="description articleBody">

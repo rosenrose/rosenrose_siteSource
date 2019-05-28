@@ -1,7 +1,7 @@
 ---
 title: "소멸 폭탄"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_조온 캐릭터_히지리_뱌쿠렌 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5534/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5534/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><br/></b></p>

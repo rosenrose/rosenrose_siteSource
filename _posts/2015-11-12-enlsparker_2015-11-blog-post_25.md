@@ -1,7 +1,7 @@
 ---
 title: "플랑쨩 대분주!"
 tags: "동인지 garimpeiro"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-11-blog-post_25/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-11-blog-post_25/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7045115730295506196" itemprop="description articleBody">

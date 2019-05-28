@@ -1,7 +1,7 @@
 ---
 title: "가출한 요우무가 신세 좀 지겠습니다!!"
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 이벤트_例大祭10 이벤트_예대제10 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/198/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/198/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

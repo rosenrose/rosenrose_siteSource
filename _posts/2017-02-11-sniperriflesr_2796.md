@@ -1,7 +1,7 @@
 ---
 title: "친구에게 애인이 생겼을때"
 tags: "銘宮 風切羽 캐릭터_키스메 캐릭터_미즈하시_파르시 캐릭터_호시구마_유기 캐릭터_쿠로다니_야마메 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2796/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2796/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

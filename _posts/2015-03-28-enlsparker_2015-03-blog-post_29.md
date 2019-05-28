@@ -1,7 +1,7 @@
 ---
 title: "대쉬! 홍마향 - 상"
 tags: "기타동인지 yohitama"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-03-blog-post_29/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-03-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7523283019810170376" itemprop="description articleBody">

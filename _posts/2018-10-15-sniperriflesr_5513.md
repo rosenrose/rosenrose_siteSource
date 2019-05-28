@@ -1,7 +1,7 @@
 ---
 title: "수능 보는 렌코"
 tags: "륜 118．42 캐릭터_우사미_렌코 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5513/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5513/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

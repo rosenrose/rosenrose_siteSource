@@ -1,7 +1,7 @@
 ---
 title: "지저를 빛내주오"
 tags: "동인지 アトモスフィア"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-07-blog-post_690/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-07-blog-post_690/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2083826283046849206" itemprop="description articleBody">

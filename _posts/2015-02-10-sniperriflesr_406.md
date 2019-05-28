@@ -1,7 +1,7 @@
 ---
 title: "크리스마스는 너와 함께"
 tags: "ミハル 미하루 ttt 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 이벤트_c75 시리어스_슬픔"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/406/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/406/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

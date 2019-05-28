@@ -1,7 +1,7 @@
 ---
 title: "동생의 마음을 모르겠어요"
 tags: "くまだ 쿠마다 くまのとおるみち 쿠마노토오루미치 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 이벤트_홍루몽_5 시리어스_밝음"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/412/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/412/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

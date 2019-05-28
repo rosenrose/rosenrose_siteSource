@@ -1,7 +1,7 @@
 ---
 title: "거유의 대가 , 빈유의 은혜"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/906/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/906/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

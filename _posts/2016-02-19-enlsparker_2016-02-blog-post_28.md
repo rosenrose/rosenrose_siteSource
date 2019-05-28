@@ -1,7 +1,7 @@
 ---
 title: "더부살이"
 tags: "동인지 煎餅屋"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-02-blog-post_28/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-02-blog-post_28/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1214203143355484978" itemprop="description articleBody">

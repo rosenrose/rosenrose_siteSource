@@ -1,7 +1,7 @@
 ---
 title: "우타가이"
 tags: "동인지 ハイパーサマーウォーズ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-blog-post_29/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-04-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1819397813384476246" itemprop="description articleBody">

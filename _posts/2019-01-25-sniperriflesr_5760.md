@@ -1,7 +1,7 @@
 ---
 title: "추운 달의 도시의 생활 - 푹신푹신한 둥근 덩어리가 된 사구메님"
 tags: "蛍光流動 형광유동 @fluorescentflow 蛍光流速 형광유속 캐릭터_키신_사구메 캐릭터_링고 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5760/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5760/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

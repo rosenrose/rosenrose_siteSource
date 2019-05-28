@@ -1,7 +1,7 @@
 ---
 title: "아마노자쿠의 기쁨의 노래"
 tags: "やつき 야츠키 水銀革命 캐릭터_미스티아_로렐라이 캐릭터_리글_나이트버그 이벤트_例大祭10 이벤트_예대제10 시리어스_진지"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5318/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5318/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

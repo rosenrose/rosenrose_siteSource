@@ -1,7 +1,7 @@
 ---
 title: "맹목의 코코로 에듀케~이션"
 tags: "동인지 rainbow_vanilla"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-04-blog-post_32/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2016-04-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5162037734536790051" itemprop="description articleBody">

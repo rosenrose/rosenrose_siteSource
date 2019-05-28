@@ -1,7 +1,7 @@
 ---
 title: "마리사쨩은 자신에게 이정도는 자만해주는 것이 귀엽다고 생각합니다"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5400/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5400/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

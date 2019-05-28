@@ -1,7 +1,7 @@
 ---
 title: "토끼의 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_카소다니_쿄코 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2876/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2876/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

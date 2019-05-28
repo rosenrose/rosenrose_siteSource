@@ -1,7 +1,7 @@
 ---
 title: "호랑이의 포트레이트"
 tags: "동인지 dynamo"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-01-blog-post_67/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2016-01-blog-post_67/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5606255531369602887" itemprop="description articleBody">

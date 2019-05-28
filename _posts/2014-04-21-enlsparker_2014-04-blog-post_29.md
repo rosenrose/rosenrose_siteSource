@@ -1,7 +1,7 @@
 ---
 title: "후와후루"
 tags: "동인지 ハラペーニョチップス"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-04-blog-post_29/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-04-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6556414412084379083" itemprop="description articleBody">

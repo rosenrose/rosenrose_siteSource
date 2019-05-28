@@ -1,7 +1,7 @@
 ---
 title: "고양이의 날이었습니다."
 tags: "アリヌ 캐릭터_아키_미노리코 캐릭터_아키_시즈하 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1927/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1927/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "아이리스"
 tags: "동인지 あまず"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-12-blog-post_57/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-12-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5441094494628672792" itemprop="description articleBody">

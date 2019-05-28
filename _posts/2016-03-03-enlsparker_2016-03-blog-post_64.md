@@ -1,7 +1,7 @@
 ---
 title: "시키에이키 취임"
 tags: "동인지 まるしき"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2016-03-blog-post_64/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2016-03-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1653194748089562178" itemprop="description articleBody">

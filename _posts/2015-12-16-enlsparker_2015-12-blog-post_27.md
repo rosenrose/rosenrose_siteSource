@@ -1,7 +1,7 @@
 ---
 title: "타천자"
 tags: "동인지 薬味さらい"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-12-blog-post_27/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-12-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5658504373263910550" itemprop="description articleBody">

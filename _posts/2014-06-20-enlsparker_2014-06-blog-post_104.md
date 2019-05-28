@@ -1,7 +1,7 @@
 ---
 title: "여름 햇볕을 쪼이며"
 tags: "동인지 happy_flame_time"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-06-blog-post_104/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-06-blog-post_104/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3556534310104548843" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그럭저럭"
 tags: "동인지 小さい方がいい。"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_54/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-09-blog-post_54/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5008699495107978352" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "간단 마이 퍼펫"
 tags: "両神了 모로가미_료 石切場 ishikiriba 이시키리바 캐릭터_상하이 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 이벤트_例大祭9 이벤트_예대제_9 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/754/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/754/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

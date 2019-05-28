@@ -1,7 +1,7 @@
 ---
 title: "RULER OF PHANTASM - 아마노자쿠"
 tags: "기타동인지 baba精米所"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-01-ruler-of-phantasm/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-01-ruler-of-phantasm/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-769997317849205918" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "아이와 놀아주는 쇼우ver. + 꿈 속 분들 ver."
 tags: "しお @shioshio1600 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_카소다니_쿄코 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5948/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5948/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

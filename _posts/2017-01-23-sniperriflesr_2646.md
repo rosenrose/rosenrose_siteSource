@@ -1,7 +1,7 @@
 ---
 title: "빨간 마스크"
 tags: "futa なべぞこ 나베조코 캐릭터_호라이산_카구야 캐릭터_하타노_코코로 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2646/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2646/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

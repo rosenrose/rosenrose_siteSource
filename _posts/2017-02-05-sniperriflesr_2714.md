@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 22"
 tags: "にーこ 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_란 캐릭터_치르노 캐릭터_이나바_테위 캐릭터_첸 캐릭터_콘파쿠_요우무 캐릭터_이자요이_사쿠야 캐릭터_코치야_사나에 캐릭터_사이교우지_유유코 캐릭터_미야코_요시카 바이오_놀이"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2714/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2714/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"></p>

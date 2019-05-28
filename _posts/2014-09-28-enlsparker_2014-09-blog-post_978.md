@@ -1,7 +1,7 @@
 ---
 title: "책상난로에서 밀감이랑 술 마시자"
 tags: "동인지 さくsaku亭"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_978/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_978/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1421664019100469672" itemprop="description articleBody">

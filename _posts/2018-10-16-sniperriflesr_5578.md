@@ -1,7 +1,7 @@
 ---
 title: "그리고 비봉에 이르다"
 tags: "桜庭友紀 사쿠라바_유키 pc @kyomoneko_2 ねこ personal_color 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_c90 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5578/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5578/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

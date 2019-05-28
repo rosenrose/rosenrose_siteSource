@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 32화"
 tags: "みつもと 미츠모토 캐릭터_카미시라사와_케이네 캐릭터_미스티아_로렐라이 캐릭터_후지와라노_모코우 사랑하는_야작_[完]"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/952/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/952/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "란사마와의 멋진 밤"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 sexual_theme"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2062/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2062/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

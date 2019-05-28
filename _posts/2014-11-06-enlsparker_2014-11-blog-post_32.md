@@ -1,7 +1,7 @@
 ---
 title: "하녀 마리사"
 tags: "동인지 にくたまそば"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-11-blog-post_32/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-11-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3999596317238878691" itemprop="description articleBody">

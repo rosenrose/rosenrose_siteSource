@@ -1,7 +1,7 @@
 ---
 title: "앨리스의 인형"
 tags: "동인지 winter_scenery"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-11-blog-post_94/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-11-blog-post_94/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1721905055103257286" itemprop="description articleBody">

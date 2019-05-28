@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 앵하연화"
 tags: "동인지 青"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-03-blog-post_78/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-03-blog-post_78/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8193323711779998670" itemprop="description articleBody">

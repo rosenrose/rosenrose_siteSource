@@ -1,7 +1,7 @@
 ---
 title: "광기, 새로운 지평"
 tags: "色めきオーバードライブ 캐릭터_레이센_우동게인_이나바 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1293/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1293/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

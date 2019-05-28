@@ -1,7 +1,7 @@
 ---
 title: "벗긴다・확장・자극적"
 tags: "ハマー 헤머 サンセットビーチ sexual_theme"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1895/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1895/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

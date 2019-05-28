@@ -1,7 +1,7 @@
 ---
 title: "짐승 소녀들의 발정"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/1817/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/1817/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

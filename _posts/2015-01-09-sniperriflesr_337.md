@@ -1,7 +1,7 @@
 ---
 title: "이것이 우리 도서관 사서!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_키리사메_마리사 캐릭터_대요정 캐릭터_플랑드르_스칼렛 캐릭터_앨리스_마가트로이드 이벤트_c86 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/337/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/337/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

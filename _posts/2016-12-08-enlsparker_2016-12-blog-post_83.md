@@ -1,7 +1,7 @@
 ---
 title: "환상향 리얼 성격왕 결정전"
 tags: "見切り発車 기타동인지"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-12-blog-post_83/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-12-blog-post_83/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3078769733476460786" itemprop="description articleBody">

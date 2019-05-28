@@ -1,7 +1,7 @@
 ---
 title: "부츠의 비밀"
 tags: "기타동인지 gallery_culter"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2017-11-blog-post_6/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2017-11-blog-post_6/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2028871613222328824" itemprop="description articleBody">

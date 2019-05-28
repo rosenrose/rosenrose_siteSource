@@ -1,7 +1,7 @@
 ---
 title: "카페 다이쨩!"
 tags: "にげサポ @nigesapo 캐릭터_대요정 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5641/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5641/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

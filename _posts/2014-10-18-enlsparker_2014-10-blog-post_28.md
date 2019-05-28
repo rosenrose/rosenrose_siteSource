@@ -1,7 +1,7 @@
 ---
 title: "고양이의 울음"
 tags: "기타동인지 透き通る風"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_28/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-10-blog-post_28/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4749178802688029289" itemprop="description articleBody">

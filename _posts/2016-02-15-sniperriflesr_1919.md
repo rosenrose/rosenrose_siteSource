@@ -1,7 +1,7 @@
 ---
 title: "사라지는 마구같은 상냥함"
 tags: "細井コウゾウ ヒステリックタイフーン 캐릭터_코치야_사나에 캐릭터_호쥬_누에 캐릭터_타타라_코가사 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1919/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1919/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

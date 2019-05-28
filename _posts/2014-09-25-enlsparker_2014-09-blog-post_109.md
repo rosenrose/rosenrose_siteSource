@@ -1,7 +1,7 @@
 ---
 title: "묭한 보물상자"
 tags: "동인지 daddy_leaf_square"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_109/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-09-blog-post_109/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3266243264632972752" itemprop="description articleBody">

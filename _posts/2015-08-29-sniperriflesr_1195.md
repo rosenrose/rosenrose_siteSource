@@ -1,7 +1,7 @@
 ---
 title: "카미시라사와 케이네의 탈주 (전편)"
 tags: "캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_모리치카_린노스케 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_이바라키_카센 캐릭터_히지리_뱌쿠렌 약"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1195/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1195/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

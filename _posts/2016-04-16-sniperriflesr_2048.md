@@ -1,7 +1,7 @@
 ---
 title: "선택지"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_키진_세이자 캐릭터_이나바_테위 급식첸_만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2048/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2048/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

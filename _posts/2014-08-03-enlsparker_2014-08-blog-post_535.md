@@ -1,7 +1,7 @@
 ---
 title: "동방 수렁 극장 강시 파라다이스"
 tags: "기타동인지 屋代スペース少年団"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-08-blog-post_535/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-08-blog-post_535/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7825996224348263683" itemprop="description articleBody">

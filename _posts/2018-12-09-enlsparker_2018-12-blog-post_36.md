@@ -1,7 +1,7 @@
 ---
 title: "레드 라이트 하트"
 tags: "동인지 tatoele"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-12-blog-post_36/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-12-blog-post_36/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2503653188141268711" itemprop="description articleBody">

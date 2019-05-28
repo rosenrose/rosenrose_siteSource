@@ -1,7 +1,7 @@
 ---
 title: "사구메님에게 야단맞는 바쿠"
 tags: "黒羽ラピッド 쿠로바네_라피드 ラピスラズリ鉱石 캐릭터_키신_사구메 캐릭터_도레미_스위트 [번역]_4컷／단편만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1871/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1871/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

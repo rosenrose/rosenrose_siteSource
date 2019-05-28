@@ -1,7 +1,7 @@
 ---
 title: "헷갈리네"
 tags: "6 캐릭터_야고코로_에이린 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1189/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1189/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

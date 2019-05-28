@@ -1,7 +1,7 @@
 ---
 title: "우동순의 제13회 동방 인기 투표 결과 베스트 파트너 부문"
 tags: "しぐま 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3197/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3197/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

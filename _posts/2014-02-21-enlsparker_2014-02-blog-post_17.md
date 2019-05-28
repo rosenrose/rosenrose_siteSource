@@ -1,7 +1,7 @@
 ---
 title: "유카와 앨리스의 핑크빛 공간 해바라기밭"
 tags: "합동인지"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-02-blog-post_17/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-02-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7337433721819709025" itemprop="description articleBody">

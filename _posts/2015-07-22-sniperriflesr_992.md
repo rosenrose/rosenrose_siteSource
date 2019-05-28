@@ -1,7 +1,7 @@
 ---
 title: "낙원보다 빠르게"
 tags: "シノアサ 시노아사 shinoasa vivit_gray ビビットグレー vivitgray 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_야쿠모_란 캐릭터_카자미_유카 캐릭터_야쿠모_유카리 이벤트_c84 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/992/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/992/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

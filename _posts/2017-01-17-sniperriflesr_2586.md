@@ -1,7 +1,7 @@
 ---
 title: "단지 그것 뿐"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_이나바_테위 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 급식첸_만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2586/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2586/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

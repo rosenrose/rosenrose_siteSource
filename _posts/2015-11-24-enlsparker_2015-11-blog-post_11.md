@@ -1,7 +1,7 @@
 ---
 title: "아가씨에게 스포트라이트"
 tags: "동인지 鈴鳴堂"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-11-blog-post_11/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2015-11-blog-post_11/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4880055089714295162" itemprop="description articleBody">

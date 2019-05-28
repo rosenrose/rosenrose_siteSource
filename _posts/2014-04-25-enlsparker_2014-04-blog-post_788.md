@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 재연"
 tags: "동인지 青"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-04-blog-post_788/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-04-blog-post_788/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8316735163851071413" itemprop="description articleBody">

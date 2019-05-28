@@ -1,7 +1,7 @@
 ---
 title: "퓨어 메이드"
 tags: "기타동인지 できたて甘栗"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-02-blog-post_21/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-02-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9066930732298864728" itemprop="description articleBody">

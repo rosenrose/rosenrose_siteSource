@@ -1,7 +1,7 @@
 ---
 title: "죽음이 두 사람을 가르려 해도"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2496/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2496/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt; line-height: 1.6;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "초록의 날"
 tags: "らいな まるちら 캐릭터_미즈하시_파르시 캐릭터_이부키_스이카 캐릭터_키스메 이벤트_c78 시리어스_슬픔"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/3044/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/3044/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

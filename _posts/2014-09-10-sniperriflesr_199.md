@@ -1,7 +1,7 @@
 ---
 title: "JK마리사와 이자요이 회장"
 tags: "matilda 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 이벤트_例大祭10 이벤트_예대제_10 시리어스_슬픔"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/199/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/199/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

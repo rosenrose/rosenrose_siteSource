@@ -1,7 +1,7 @@
 ---
 title: "금붕어와 수조"
 tags: "동인지 色は匂えど"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-09-blog-post_55/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2016-09-blog-post_55/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3764259484659670505" itemprop="description articleBody">

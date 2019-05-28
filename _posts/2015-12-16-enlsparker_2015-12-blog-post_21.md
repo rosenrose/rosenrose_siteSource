@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 레이무, 가끔은 무녀!"
 tags: "동인지 石切場"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-12-blog-post_21/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-12-blog-post_21/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5812130501691727432" itemprop="description articleBody">

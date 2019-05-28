@@ -1,7 +1,7 @@
 ---
 title: "권유받은 대로"
 tags: "じぜる 지제루 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2454/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2454/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "꽃피우는 플랑"
 tags: "캐릭터_플랑드르_스칼렛 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 オッポレ☆コッポレ 이벤트_유명앵 시리어스_밝음"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/13/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/13/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

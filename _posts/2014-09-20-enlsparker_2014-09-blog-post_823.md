@@ -1,7 +1,7 @@
 ---
 title: "이누사쿠야"
 tags: "동인지 angel_type"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_823/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_823/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3817260619945364010" itemprop="description articleBody">

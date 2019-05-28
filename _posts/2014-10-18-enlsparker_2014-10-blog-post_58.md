@@ -1,7 +1,7 @@
 ---
 title: "아마 코코로의 그 마음 속에는"
 tags: "동인지 蒼空市場"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-10-blog-post_58/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-10-blog-post_58/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6816727984533107154" itemprop="description articleBody">

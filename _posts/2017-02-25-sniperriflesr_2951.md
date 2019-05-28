@@ -1,7 +1,7 @@
 ---
 title: "홍마관 일부 남체화"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2951/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2951/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

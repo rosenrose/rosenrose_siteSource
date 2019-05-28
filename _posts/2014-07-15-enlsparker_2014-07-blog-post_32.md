@@ -1,7 +1,7 @@
 ---
 title: "리틀 블로섬"
 tags: "동인지 からあげ屋さん"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-07-blog-post_32/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-07-blog-post_32/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3299019441993988078" itemprop="description articleBody">

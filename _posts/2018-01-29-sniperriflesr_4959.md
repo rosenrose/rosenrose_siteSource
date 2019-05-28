@@ -1,7 +1,7 @@
 ---
 title: "만족스럽지 않아"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/4959/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/4959/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

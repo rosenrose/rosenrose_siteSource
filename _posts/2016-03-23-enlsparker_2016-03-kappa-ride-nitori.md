@@ -1,7 +1,7 @@
 ---
 title: "KAPPA RIDE NITORI"
 tags: "동인지 fp_works"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-03-kappa-ride-nitori/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-03-kappa-ride-nitori/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6809650377800451033" itemprop="description articleBody">

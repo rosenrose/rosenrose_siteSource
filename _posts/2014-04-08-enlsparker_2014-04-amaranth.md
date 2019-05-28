@@ -1,7 +1,7 @@
 ---
 title: "AMARANTH"
 tags: "동인지 gp-kids"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-04-amaranth/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-04-amaranth/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1783016197120959340" itemprop="description articleBody">

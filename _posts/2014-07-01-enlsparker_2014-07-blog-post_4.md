@@ -1,7 +1,7 @@
 ---
 title: "궁극가학생물 유카의 플라워 샵 카자미 - 세기말 버전"
 tags: "동인지 kemonomichi"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-blog-post_4/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-07-blog-post_4/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8749323611080807716" itemprop="description articleBody">

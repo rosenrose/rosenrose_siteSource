@@ -1,7 +1,7 @@
 ---
 title: "먹고 자면 또 내일 !"
 tags: "柳月湊 時間屋 캐릭터_키리사메_마리사 캐릭터_모리치카_린노스케 캐릭터_하쿠레이_레이무 이벤트_例大祭_9 이벤트_예대제_9 시리어스_밝음"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1896/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1896/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

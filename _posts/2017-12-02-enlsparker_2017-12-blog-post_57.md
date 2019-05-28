@@ -1,7 +1,7 @@
 ---
 title: "바람도 되지 못하고"
 tags: "동인지 薬味さらい"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-12-blog-post_57/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2017-12-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2931152471156892468" itemprop="description articleBody">

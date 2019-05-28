@@ -1,7 +1,7 @@
 ---
 title: "스와나즈나!"
 tags: "기타동인지 matsushiba_electronics"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-10-blog-post_14/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-10-blog-post_14/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4834155148501244279" itemprop="description articleBody">

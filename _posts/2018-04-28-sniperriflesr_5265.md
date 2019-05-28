@@ -1,7 +1,7 @@
 ---
 title: "오린과 마을의 당고가게"
 tags: "チャプス 怪獣王チャプス @madoukusya 消像軒 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_세이란 캐릭터_링고 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5265/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5265/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

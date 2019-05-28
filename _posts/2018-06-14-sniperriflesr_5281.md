@@ -1,7 +1,7 @@
 ---
 title: "선생님은 다 알아주신다"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_치르노 캐릭터_대요정 캐릭터_첸 캐릭터_카미시라사와_케이네 캐릭터_루미아 캐릭터_릴리_화이트 캐릭터_후지와라노_모코우 캐릭터_써니_밀크 캐릭터_스타_사파이어 캐릭터_루나_차일드 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5281/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5281/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

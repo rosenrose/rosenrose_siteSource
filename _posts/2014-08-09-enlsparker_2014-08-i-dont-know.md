@@ -1,7 +1,7 @@
 ---
 title: "I DON’T KNOW!"
 tags: "동인지 悠久機関車"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-08-i-dont-know/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-08-i-dont-know/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8111363377476770883" itemprop="description articleBody">

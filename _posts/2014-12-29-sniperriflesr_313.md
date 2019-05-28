@@ -1,7 +1,7 @@
 ---
 title: "당신에게 제일 잘 어울리는 것!!"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_치르노 캐릭터_이자요이_사쿠야 캐릭터_대요정 캐릭터_키리사메_마리사 캐릭터_홍_메이링 캐릭터_플랑드르_스칼렛 이벤트_예대제8 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/313/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/313/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

@@ -1,7 +1,7 @@
 ---
 title: "동방유녀난무"
 tags: "高久屋 기타동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-08-blog-post_79/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-08-blog-post_79/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5993553301042089222" itemprop="description articleBody">

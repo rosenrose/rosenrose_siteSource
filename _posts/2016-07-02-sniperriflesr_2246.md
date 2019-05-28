@@ -1,7 +1,7 @@
 ---
 title: "밀랍의 날개를 만들고서"
 tags: "えなみ教授 에나미교수 캐릭터_카미시라사와_케이네 캐릭터_첸 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_미스티아_로렐라이 캐릭터_리글_나이트버그 급식첸_만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2246/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2246/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"></b><br/></p>

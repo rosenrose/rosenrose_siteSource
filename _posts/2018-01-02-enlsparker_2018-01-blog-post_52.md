@@ -1,7 +1,7 @@
 ---
 title: "세키반키"
 tags: "동인지 にゃんにゃんお!"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2018-01-blog-post_52/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2018-01-blog-post_52/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7102736567873507445" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "이게 우리들의 당주님!"
 tags: "負け組クラブ 합동인지 わいるどらびっつ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-02-blog-post_76/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2017-02-blog-post_76/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5998122760177633190" itemprop="description articleBody">

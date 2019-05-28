@@ -1,7 +1,7 @@
 ---
 title: "앨리스 ・ 인 ・ 상하이"
 tags: "えなみ教授 에나미교수 캐릭터_앨리스_마가트로이드 캐릭터_카미시라사와_케이네 캐릭터_이나바_테위 캐릭터_플랑드르_스칼렛 캐릭터_코메이지_코이시 급식첸_만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2023/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2023/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

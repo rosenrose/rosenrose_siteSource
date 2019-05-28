@@ -1,7 +1,7 @@
 ---
 title: "사람 인(人)이라는 글자는 사람과 사람이 서로 떠받쳐서 이러쿵 저러쿵"
 tags: "동인지 粟米湯"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-08-blog-post_16/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-08-blog-post_16/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2768591095268395050" itemprop="description articleBody">

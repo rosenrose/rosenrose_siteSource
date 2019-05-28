@@ -1,7 +1,7 @@
 ---
 title: "어머니에게~ 딸에게~"
 tags: "ぼこちょ 보코쵸 bococho-farm 캐릭터_신키 캐릭터_앨리스_마가트로이드 캐릭터_카자미_유카 캐릭터_유메코 캐릭터_하쿠레이_레이무 이벤트_例大祭7 이벤트_예대제7 귀여움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1049/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1049/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

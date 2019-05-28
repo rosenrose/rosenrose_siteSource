@@ -1,7 +1,7 @@
 ---
 title: "밴드 악기"
 tags: "ジェット虚無僧 제트코무소 캐릭터_호리카와_라이코 캐릭터_타타라_코가사 캐릭터_샤메이마루_아야 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/702/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/702/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

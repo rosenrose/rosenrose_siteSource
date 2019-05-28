@@ -1,7 +1,7 @@
 ---
 title: "SPOIL - 上"
 tags: "기타동인지 砂亭"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-10-spoil/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2018-10-spoil/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2820453328652187974" itemprop="description articleBody">

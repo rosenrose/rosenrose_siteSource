@@ -1,7 +1,7 @@
 ---
 title: "월요일의 사구메님"
 tags: "唖秋 캐릭터_키신_사구메 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2634/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2634/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

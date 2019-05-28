@@ -1,7 +1,7 @@
 ---
 title: "항구와 은하 그리고 나무삼"
 tags: "동인지 蓮華座"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_141/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-09-blog-post_141/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5318066097746346213" itemprop="description articleBody">

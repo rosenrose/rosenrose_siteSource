@@ -1,7 +1,7 @@
 ---
 title: "남색의 꿈과 나비와 파라큐비"
 tags: "기타동인지 baneiro"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-12-blog-post_46/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2016-12-blog-post_46/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4258991187974567896" itemprop="description articleBody">

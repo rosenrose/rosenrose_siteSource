@@ -1,7 +1,7 @@
 ---
 title: "PACHECK x LOGIC"
 tags: "기타동인지 ありすの宝箱"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-pacheck-x-logic/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-pacheck-x-logic/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3515704199368887627" itemprop="description articleBody">

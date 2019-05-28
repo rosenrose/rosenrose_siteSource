@@ -1,7 +1,7 @@
 ---
 title: "Go for it"
 tags: "동인지 gp-kids"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-11-go-for-it/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-11-go-for-it/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3774457089683201565" itemprop="description articleBody">

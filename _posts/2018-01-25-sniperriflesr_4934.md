@@ -1,7 +1,7 @@
 ---
 title: "오키나 그리는 법"
 tags: "敷戸 @siki_door 캐릭터_마타라_오키나 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/4934/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/4934/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

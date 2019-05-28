@@ -1,7 +1,7 @@
 ---
 title: "당신이 좋아하는 콘파쿠 요우무는 어느쪽?"
 tags: "三日月ネコ 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3056/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3056/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

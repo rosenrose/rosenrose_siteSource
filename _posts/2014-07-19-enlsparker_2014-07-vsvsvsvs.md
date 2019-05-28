@@ -1,7 +1,7 @@
 ---
 title: "현인신VS치르노VS대요정VS마리사VS탐폰"
 tags: "기타동인지 アビオン村f"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-07-vsvsvsvs/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-07-vsvsvsvs/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2522898587740181772" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "오토메 테이밍"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_카자미_유카 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_히나나위_텐시 캐릭터_히메카이도_하타테 캐릭터_나가에_이쿠 이벤트_c80 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/331/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/331/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

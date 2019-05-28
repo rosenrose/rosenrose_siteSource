@@ -1,7 +1,7 @@
 ---
 title: "(・´ ｀Ｕ가 있는 풍경 - 하쿠레이 신사편"
 tags: "기타동인지 あるちゃーむ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-03-blog-post_20/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-03-blog-post_20/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7935896743072611044" itemprop="description articleBody">

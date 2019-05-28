@@ -1,7 +1,7 @@
 ---
 title: "안녕 Old history"
 tags: "동인지 お前らの愛で字数制限超えた"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-08-old-history/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-08-old-history/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-289063537341644896" itemprop="description articleBody">

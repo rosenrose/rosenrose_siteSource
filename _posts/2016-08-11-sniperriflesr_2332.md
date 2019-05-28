@@ -1,7 +1,7 @@
 ---
 title: "와타츠키 무쌍-샤크라 어센션-"
 tags: "pfalz caelestis． 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 캐릭터_이바라키_카센 캐릭터_카와시로_니토리 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_후지와라노_모코우 캐릭터_히나나위_텐시 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_코치야_사나에 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_키진_세이자 캐릭터_스쿠나_신묘마루 캐릭터_나가에_이쿠 이벤트_例大祭11 이벤트_예대제_11 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2332/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2332/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"><br/></b></p>

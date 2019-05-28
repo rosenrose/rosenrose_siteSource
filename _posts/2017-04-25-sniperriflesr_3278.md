@@ -1,7 +1,7 @@
 ---
 title: "감주전은 위험해 책"
 tags: "あまず 아마즈 amaz 캐릭터_클라운피스 캐릭터_키리사메_마리사 캐릭터_세이란 캐릭터_순호 캐릭터_키신_사구메 캐릭터_코치야_사나에 캐릭터_헤카티아_라피스라줄리 캐릭터_링고 캐릭터_도레미_스위트 캐릭터_이나바_테위 캐릭터_하쿠레이_레이무 캐릭터_야사카_카나코 이벤트_秋季例大祭2 이벤트_추계예대제_2 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3278/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3278/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif" style="font-family: 돋움, dotum, verdana, sans-serif;"><b></b><br/></font></p>

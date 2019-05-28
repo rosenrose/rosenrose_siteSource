@@ -1,7 +1,7 @@
 ---
 title: "First contact ~ the second volume ~"
 tags: "薙派 あるたな 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_호쥬_누에 캐릭터_플랑드르_스칼렛 캐릭터_하쿠레이_레이무 캐릭터_루미아 이벤트_c83 시리어스_밝음"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2538/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2538/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "레이무 일행이 오기 전의 순호와 클라운피스의 이야기"
 tags: "あわかわ 캐릭터_헤카티아_라피스라줄리 캐릭터_클라운피스 캐릭터_순호 시리어스_밝음"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1629/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1629/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

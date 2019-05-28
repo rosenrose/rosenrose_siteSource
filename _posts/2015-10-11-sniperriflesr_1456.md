@@ -1,7 +1,7 @@
 ---
 title: "너를 만나러 왔어"
 tags: "まか子 마카코 夢防衛少女隊 꿈방위소녀대 캐릭터_와카사기히메 캐릭터_홍_메이링 캐릭터_이마이즈미_카케로 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 이벤트_c88 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1456/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1456/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "한결같이 무모한 작자들"
 tags: "友部キヌコ dynamo 캐릭터_나즈린 캐릭터_타타라_코가사 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_샤메이마루_아야 캐릭터_토라마루_쇼 캐릭터_히지리_뱌쿠렌 캐릭터_호쥬_누에 캐릭터_야쿠모_란 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/55/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/55/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

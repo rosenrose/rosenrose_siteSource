@@ -1,7 +1,7 @@
 ---
 title: "린노 마리사 4컷"
 tags: "ㅋㄷㅇㅇ 콥등잉여 캐릭터_모리치카_린노스케 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3294/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3294/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

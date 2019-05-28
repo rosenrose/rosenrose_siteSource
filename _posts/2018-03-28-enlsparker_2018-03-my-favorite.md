@@ -1,7 +1,7 @@
 ---
 title: "MY FAVORITE!"
 tags: "동인지 こげコロッケ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-03-my-favorite/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-03-my-favorite/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4900643087244561237" itemprop="description articleBody">

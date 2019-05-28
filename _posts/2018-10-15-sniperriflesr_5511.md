@@ -1,7 +1,7 @@
 ---
 title: "편지"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_헤카티아_라피스라줄리 캐릭터_하쿠레이_레이무 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5511/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5511/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

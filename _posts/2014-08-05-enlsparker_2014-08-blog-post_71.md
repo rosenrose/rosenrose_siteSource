@@ -1,7 +1,7 @@
 ---
 title: "전설의 교사"
 tags: "기타동인지 櫻井大エネルギー"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-blog-post_71/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-08-blog-post_71/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7396251354948863058" itemprop="description articleBody">

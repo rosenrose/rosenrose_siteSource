@@ -1,7 +1,7 @@
 ---
 title: "해질녘의 별"
 tags: "son sonと壱 s．a．s 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 이벤트_秋季例大祭 이벤트_추계예대제 시리어스_밝음"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3048/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3048/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

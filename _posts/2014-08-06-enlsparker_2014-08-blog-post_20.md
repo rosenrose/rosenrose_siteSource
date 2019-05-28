@@ -1,7 +1,7 @@
 ---
 title: "홍마관에서 펑"
 tags: "동인지 bococho-farm"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-08-blog-post_20/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-08-blog-post_20/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7046139156202585292" itemprop="description articleBody">

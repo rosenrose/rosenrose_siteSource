@@ -1,7 +1,7 @@
 ---
 title: "마네의 고양이"
 tags: "えなみ教授 에나미교수 캐릭터_야쿠모_유카리 캐릭터_야쿠모_란 캐릭터_첸 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2097/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2097/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

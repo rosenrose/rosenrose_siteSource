@@ -1,7 +1,7 @@
 ---
 title: "여기 비었어"
 tags: "泥舟海運 동인지 海運"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-03-blog-post_8/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-03-blog-post_8/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3774936895275283335" itemprop="description articleBody">

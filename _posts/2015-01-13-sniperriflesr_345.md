@@ -1,7 +1,7 @@
 ---
 title: "피버 나가에 이쿠 합동지"
 tags: "캐릭터_나가에_이쿠 캐릭터_이부키_스이카 캐릭터_호시구마_유기 캐릭터_히나나위_텐시 캐릭터_키리사메_마리사 캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_야고코로_에이린 캐릭터_레이센_우동게인_이나바 캐릭터_오노즈카_코마치 이벤트_예대제_7 합동_4서클_이상"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/345/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/345/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

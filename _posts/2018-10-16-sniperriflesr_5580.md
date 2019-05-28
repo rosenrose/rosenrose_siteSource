@@ -1,7 +1,7 @@
 ---
 title: "자매의 속내"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5580/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5580/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

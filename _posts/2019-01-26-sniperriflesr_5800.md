@@ -1,7 +1,7 @@
 ---
 title: "매도하는 오린"
 tags: "보비 캐릭터_카엔뵤_린 캐릭터_오린 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5800/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5800/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "플랑퍼 레퍼"
 tags: "동인지 イヌーピーの犬小屋"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-02-blog-post_34/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2016-02-blog-post_34/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-53839985463576464" itemprop="description articleBody">

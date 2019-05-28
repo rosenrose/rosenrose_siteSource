@@ -1,7 +1,7 @@
 ---
 title: "종착역을 못 찾아서 우주까지 왔어"
 tags: "古河おどろ よまいり先生 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/3139/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/3139/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 레이무는 조용히 잠자리에 들고 싶다"
 tags: "동인지 優先席"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-03-blog-post_83/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-03-blog-post_83/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3716865776600294360" itemprop="description articleBody">

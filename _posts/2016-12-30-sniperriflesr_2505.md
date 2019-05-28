@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 29화"
 tags: "みつもと 미츠모토 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 캐릭터_미스티아_로렐라이 요스즈메와_불사조"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2505/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2505/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

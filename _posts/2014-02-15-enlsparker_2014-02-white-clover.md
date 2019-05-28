@@ -1,7 +1,7 @@
 ---
 title: "White clover ~약속의 꽃~"
 tags: "鳩血 동인지"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-white-clover/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-02-white-clover/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2195386406642981788" itemprop="description articleBody">

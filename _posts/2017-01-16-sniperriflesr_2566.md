@@ -1,7 +1,7 @@
 ---
 title: "가버릴 정도가 가장 기분좋답니다"
 tags: "ふあん亭 후앙정 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_하타노_코코로 캐릭터_카미시라사와_케이네 캐릭터_모노노베노_후토 캐릭터_야사카_카나코 캐릭터_서니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_모리야_스와코 캐릭터_코치야_사나에 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_모토오리_코스즈 캐릭터_신키 캐릭터_앨리스_마가트로이드 이벤트_例大祭13 이벤트_예대제_13 [번역]_귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2566/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2566/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

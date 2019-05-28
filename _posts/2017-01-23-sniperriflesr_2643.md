@@ -1,7 +1,7 @@
 ---
 title: "기준"
 tags: "futa なべぞこ 나베조코 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_유카리 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2643/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2643/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6; font-size: 9pt;"><br/></b></p>

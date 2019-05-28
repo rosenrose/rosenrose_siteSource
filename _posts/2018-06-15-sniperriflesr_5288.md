@@ -1,7 +1,7 @@
 ---
 title: "주변을 의식하지 않고 핥는 첸때문에 곤란한 오린"
 tags: "ロリメイト @lolimate ロリメイト製造工場 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_첸 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5288/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5288/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><font face="돋움, dotum, verdana, sans-serif"><b></b><br/></font></p>

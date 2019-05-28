@@ -1,7 +1,7 @@
 ---
 title: "(・´ ｀Ｕ가 있는 풍경 - 인간 마을 편"
 tags: "기타동인지 あるちゃーむ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-05-blog-post/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2018-05-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6496849040864897054" itemprop="description articleBody">

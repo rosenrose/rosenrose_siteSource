@@ -1,7 +1,7 @@
 ---
 title: "요괴를 본다면 죽여라"
 tags: "동인지 area-s"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-11-blog-post_22/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-11-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7804791602879606890" itemprop="description articleBody">

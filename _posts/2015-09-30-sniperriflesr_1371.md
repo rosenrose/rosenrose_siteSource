@@ -1,7 +1,7 @@
 ---
 title: "더 같이 있자"
 tags: "金子ねコ 優先席 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_모노노베노_후토 캐릭터_야쿠모_유카리 캐릭터_하쿠레이_레이무 캐릭터_카쿠_세이가 이벤트_c86 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1371/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1371/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

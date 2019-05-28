@@ -1,7 +1,7 @@
 ---
 title: "먹으면 안돼요 사구메씨"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2133/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2133/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

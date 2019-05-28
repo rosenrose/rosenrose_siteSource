@@ -1,7 +1,7 @@
 ---
 title: "후토투성이"
 tags: "동인지 ふあん亭"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-04-blog-post_77/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-04-blog-post_77/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4850442938152331038" itemprop="description articleBody">

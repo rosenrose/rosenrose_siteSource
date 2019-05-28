@@ -1,7 +1,7 @@
 ---
 title: "꿈의 맛"
 tags: "天地ハル @tenchihal 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5286/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5286/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

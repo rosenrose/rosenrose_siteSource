@@ -1,7 +1,7 @@
 ---
 title: "환자가 많은 환상향 [ 순호 ]"
 tags: "秋ら 캐릭터_순호 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/3254/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/3254/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "Heart By Heart"
 tags: "동인지 悠久機関車"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-heart-by-heart/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-05-heart-by-heart/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1727505914858904709" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "SHOW ME YOUR SMILE!"
 tags: "-sakimiya- 기타동인지"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2016-11-show-me-your-smile/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2016-11-show-me-your-smile/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1951945345866123913" itemprop="description articleBody">

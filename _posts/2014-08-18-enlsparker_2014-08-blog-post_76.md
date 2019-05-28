@@ -1,7 +1,7 @@
 ---
 title: "공허의 인형과 지키는 자"
 tags: "동인지 葉庭の出店"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_76/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-08-blog-post_76/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6619524564682831040" itemprop="description articleBody">

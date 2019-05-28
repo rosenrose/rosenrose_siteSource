@@ -1,7 +1,7 @@
 ---
 title: "플라잉 스파게티 몬스터즈"
 tags: "동인지 笛鳴下ソシアルクラブ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-02-blog-post_48/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-02-blog-post_48/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7715860369724350466" itemprop="description articleBody">

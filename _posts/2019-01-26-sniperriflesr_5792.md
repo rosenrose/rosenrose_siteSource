@@ -1,7 +1,7 @@
 ---
 title: "격하게 테니스치는 메리랑 렌코"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5792/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5792/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

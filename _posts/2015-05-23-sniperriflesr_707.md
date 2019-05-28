@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 이자요이 사쿠야"
 tags: "ユーキ 유키 有機化合物 유기화합물 캐릭터_와카사기히메 캐릭터_이자요이_사쿠야 캐릭터_키진_세이자 캐릭터_홍_메이링 반역의_세이자"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/707/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/707/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

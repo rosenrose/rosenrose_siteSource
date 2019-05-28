@@ -1,7 +1,7 @@
 ---
 title: "PENGUIN [ 펭귄 ]"
 tags: "flanvia 캐릭터_카와시로_니토리 시리어스_슬픔"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2543/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2543/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; ">NORIYUKI MAKIHARA [ 槇原敬之 ] 의 PENGUIN입니다.</span><br/></b></p>

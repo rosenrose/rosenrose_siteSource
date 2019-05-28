@@ -1,7 +1,7 @@
 ---
 title: "환상향 소녀들에게 어디에 입맞춤 해주면 좋겠냐고 물어봤다"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1643/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1643/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

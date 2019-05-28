@@ -1,7 +1,7 @@
 ---
 title: "미스치한테 에로를 목적으로 최면술을 걸었다"
 tags: "緑肉 @midori_niku しもふりグリーンミート 캐릭터_미스티아_로렐라이 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5653/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5653/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

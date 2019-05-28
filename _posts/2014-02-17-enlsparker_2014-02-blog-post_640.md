@@ -1,7 +1,7 @@
 ---
 title: "저널리스트 아야야"
 tags: "동인지 石切場"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-02-blog-post_640/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-02-blog-post_640/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4054048074764001845" itemprop="description articleBody">

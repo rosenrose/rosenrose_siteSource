@@ -1,7 +1,7 @@
 ---
 title: "장난꾸러기 유유코님"
 tags: "北嶋ゆうき 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2464/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2464/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

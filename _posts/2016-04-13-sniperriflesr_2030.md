@@ -1,7 +1,7 @@
 ---
 title: "텔레폰 클럽으로 오RingRing"
 tags: "らぱ☆ 라파☆ 平成ストロベリー 헤이세이_스트로베리 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_우사미_스미레코 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_하쿠레이_레이무 이벤트_c88 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2030/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2030/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "코코로 5연속 귀여운 표정"
 tags: "唖秋㌠ 唖秋 @asyu109 캐릭터_코메이지_코이시 캐릭터_하타노_코코로 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5550/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5550/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

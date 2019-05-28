@@ -1,7 +1,7 @@
 ---
 title: "마리사~"
 tags: "あやの @ayn398 아야노 캐릭터_하쿠레이_레이무 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5434/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5434/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

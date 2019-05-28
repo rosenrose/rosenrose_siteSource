@@ -1,7 +1,7 @@
 ---
 title: "사이좋은 동인 ~동방 티격태격~ (일부)"
 tags: "동인지 火鳥でできるもん!"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-10-blog-post_5/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-10-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8861431780813285012" itemprop="description articleBody">

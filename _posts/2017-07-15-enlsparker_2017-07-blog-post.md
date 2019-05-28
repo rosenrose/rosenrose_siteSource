@@ -1,7 +1,7 @@
 ---
 title: "홍마관은 피서지입니다"
 tags: "기타동인지 オーガウィロウ"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2017-07-blog-post/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2017-07-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8339850641040777599" itemprop="description articleBody">

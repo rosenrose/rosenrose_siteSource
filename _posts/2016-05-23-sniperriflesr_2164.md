@@ -1,7 +1,7 @@
 ---
 title: "반키쨩"
 tags: "じぜる 지제루 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 캐릭터_세키반키 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2164/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2164/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

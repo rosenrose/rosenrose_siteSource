@@ -1,7 +1,7 @@
 ---
 title: "에이코마극장"
 tags: "まるサン まるしき 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2872/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2872/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

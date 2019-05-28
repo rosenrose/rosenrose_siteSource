@@ -1,7 +1,7 @@
 ---
 title: "텐구의 SM장난"
 tags: "캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1458/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1458/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

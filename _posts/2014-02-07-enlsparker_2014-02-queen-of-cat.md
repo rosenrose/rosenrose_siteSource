@@ -1,7 +1,7 @@
 ---
 title: "QUEEN OF CAT"
 tags: "동인지 angel_type"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-02-queen-of-cat/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-02-queen-of-cat/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6093631535755515917" itemprop="description articleBody">

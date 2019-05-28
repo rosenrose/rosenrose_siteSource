@@ -1,7 +1,7 @@
 ---
 title: "흡입력이 떨어지지않는 유일한 유유코"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/575/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/575/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

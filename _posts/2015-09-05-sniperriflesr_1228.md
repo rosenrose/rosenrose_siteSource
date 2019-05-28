@@ -1,7 +1,7 @@
 ---
 title: "재채기 레미요리"
 tags: "6 캐릭터_레밀리아_스칼렛 캐릭터_와타츠키노_요리히메 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1228/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1228/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "입맞춤 후 헤어지는 게 비봉의 운명"
 tags: "青竹せいじろう @aotksejiro 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5316/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5316/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

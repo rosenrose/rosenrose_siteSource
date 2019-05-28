@@ -1,7 +1,7 @@
 ---
 title: "겨울 코메이지"
 tags: "동인지 くまのとおるみち"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-03-blog-post_18/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-03-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8640985970897496870" itemprop="description articleBody">

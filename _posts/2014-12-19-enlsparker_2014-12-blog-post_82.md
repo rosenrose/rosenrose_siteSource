@@ -1,7 +1,7 @@
 ---
 title: "칠색 이모션"
 tags: "동인지 天災族"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-12-blog-post_82/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-12-blog-post_82/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1536801644752212695" itemprop="description articleBody">

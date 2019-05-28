@@ -1,7 +1,7 @@
 ---
 title: "First contact ~ the first volume ~"
 tags: "薙派 あるたな 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_플랑드르_스칼렛 캐릭터_호쥬_누에 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_호시구마_유기 이벤트_c82 시리어스_슬픔"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2537/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2537/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "전미개오 ( 転迷開悟 )"
 tags: "うがつまつき 우가츠마츠키 아사츠키당 あさつき堂 캐릭터_콘파쿠_요우무 캐릭터_콘파쿠_요우키 캐릭터_야쿠모_유카리 캐릭터_사이교우지_유유코 캐릭터_하쿠레이_레이무 시리어스_진지"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/63/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/63/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

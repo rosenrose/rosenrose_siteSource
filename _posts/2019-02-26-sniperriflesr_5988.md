@@ -1,7 +1,7 @@
 ---
 title: "앨리스의 커피"
 tags: "suo @suo117 すおーずこーひー 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 이벤트_紅楼夢_14 이벤트_홍루몽_14 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5988/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5988/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "살기 좋은 향에"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_치르노 캐릭터_첸 캐릭터_플랑드르_스칼렛 급식첸_만화"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2577/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2577/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

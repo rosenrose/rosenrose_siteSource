@@ -1,7 +1,7 @@
 ---
 title: "케이네쌤 수업은 너무 졸려요"
 tags: "기타동인지 たいさんち"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2018-03-blog-post_98/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2018-03-blog-post_98/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5679274684860116904" itemprop="description articleBody">

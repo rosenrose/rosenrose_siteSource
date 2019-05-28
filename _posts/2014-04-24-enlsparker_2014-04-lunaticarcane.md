@@ -1,7 +1,7 @@
 ---
 title: "LunaticArcane"
 tags: "동인지 kfc"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-04-lunaticarcane/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-04-lunaticarcane/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-668963395542041450" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "환상 강시즈"
 tags: "동인지 うり畑牧場"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-05-blog-post_27/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-05-blog-post_27/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6630464933795211766" itemprop="description articleBody">

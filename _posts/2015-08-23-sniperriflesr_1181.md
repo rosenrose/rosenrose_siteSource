@@ -1,7 +1,7 @@
 ---
 title: "⑨ vs. 바보"
 tags: "ジェット虚無僧 제트코무소 캐릭터_치르노 캐릭터_모노노베노_후토 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1181/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1181/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

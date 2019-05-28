@@ -1,7 +1,7 @@
 ---
 title: "이제부터 갈 자들에게"
 tags: "동인지 ホットドックチャック"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-11-blog-post_89/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-11-blog-post_89/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6645790046536039159" itemprop="description articleBody">

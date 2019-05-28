@@ -1,7 +1,7 @@
 ---
 title: "서투른 포커페이스"
 tags: "동인지 うり畑牧場"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2018-04-blog-post/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2018-04-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2494487134344208082" itemprop="description articleBody">

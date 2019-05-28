@@ -1,7 +1,7 @@
 ---
 title: "썩었어도 소녀라니까요!"
 tags: "동인지 carcharias!"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-02-blog-post_22/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-02-blog-post_22/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1239477719720329847" itemprop="description articleBody">

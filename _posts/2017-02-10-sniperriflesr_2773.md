@@ -1,7 +1,7 @@
 ---
 title: "당신이 좋아하는 카소다니 쿄코는 어느 쪽 ?"
 tags: "三日月ネコ 캐릭터_카소다니_쿄코 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2773/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2773/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

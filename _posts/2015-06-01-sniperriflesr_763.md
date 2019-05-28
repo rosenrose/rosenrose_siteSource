@@ -1,7 +1,7 @@
 ---
 title: "이것이 나의 주인님"
 tags: "さぺ 사구 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/763/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/763/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

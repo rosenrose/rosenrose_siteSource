@@ -1,7 +1,7 @@
 ---
 title: "Lost Children"
 tags: "しろし 시로시 電派絵師団 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_앨리스_마가트로이드 캐릭터_야쿠모_유카리 이벤트_紅楼夢6 이벤트_홍루몽_6 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2548/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2548/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

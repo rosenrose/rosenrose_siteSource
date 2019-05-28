@@ -1,7 +1,7 @@
 ---
 title: "빙의화의 카피책"
 tags: "あとき @atoki アトキンソン 캐릭터_도레미_스위트 캐릭터_키신_사구메 캐릭터_우사미_스미레코 캐릭터_호시구마_유기 캐릭터_미즈하시_파르시 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_코치야_사나에 캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 캐릭터_레이센_우동게인_이나바 캐릭터_후지와라노_모코우 이벤트_秋例大祭 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5577/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5577/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6; font-size: 9pt;"><br/></strong></p>

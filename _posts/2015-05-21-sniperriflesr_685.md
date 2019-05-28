@@ -1,7 +1,7 @@
 ---
 title: "만능 이쿠씨"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_나가에_이쿠 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/685/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/685/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

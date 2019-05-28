@@ -1,7 +1,7 @@
 ---
 title: "소악마와의 하룻밤 이야기"
 tags: "ハマー 헤머 サンセットビーチ 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1557/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1557/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

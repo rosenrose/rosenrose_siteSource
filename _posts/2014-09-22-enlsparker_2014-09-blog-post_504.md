@@ -1,7 +1,7 @@
 ---
 title: "위협받는 토끼씨"
 tags: "동인지 たまごやき"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_504/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_504/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-993520941268274220" itemprop="description articleBody">

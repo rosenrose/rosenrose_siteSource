@@ -1,7 +1,7 @@
 ---
 title: "모리야씨댁의 어떤사정"
 tags: "九木隹 기타동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-05-blog-post_951/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-05-blog-post_951/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5364800780777028890" itemprop="description articleBody">

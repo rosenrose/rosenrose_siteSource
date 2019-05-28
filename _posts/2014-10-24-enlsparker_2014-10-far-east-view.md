@@ -1,7 +1,7 @@
 ---
 title: "FAR EAST VIEW"
 tags: "동인지 皇designs"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-far-east-view/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-10-far-east-view/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7406260233919504591" itemprop="description articleBody">

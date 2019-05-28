@@ -1,7 +1,7 @@
 ---
 title: "69-okome soudatusen!!"
 tags: "동인지 el2"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-04-69-okome-soudatusen/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-04-69-okome-soudatusen/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2282777012668572480" itemprop="description articleBody">

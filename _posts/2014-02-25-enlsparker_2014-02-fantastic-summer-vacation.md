@@ -1,7 +1,7 @@
 ---
 title: "Fantastic Summer vacation"
 tags: "동인지 teddy-plaza"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-fantastic-summer-vacation/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-02-fantastic-summer-vacation/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1597706167255259080" itemprop="description articleBody">

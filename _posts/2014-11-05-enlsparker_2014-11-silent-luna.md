@@ -1,7 +1,7 @@
 ---
 title: "Silent Luna"
 tags: "동인지 運命のイカスミ"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-11-silent-luna/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-11-silent-luna/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3409672521948424936" itemprop="description articleBody">

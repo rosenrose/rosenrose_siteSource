@@ -1,7 +1,7 @@
 ---
 title: "좋아하는 이성 타입은? ( 일상에서/침대위에서 ) □ EX 보스편 1~2"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1709/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1709/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

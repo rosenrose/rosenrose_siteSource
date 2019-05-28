@@ -1,7 +1,7 @@
 ---
 title: "미니 마리 주의"
 tags: "동인지 十誤一会"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-01-blog-post_11/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2018-01-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4410818040354642476" itemprop="description articleBody">

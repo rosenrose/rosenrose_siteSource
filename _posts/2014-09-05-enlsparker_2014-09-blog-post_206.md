@@ -1,7 +1,7 @@
 ---
 title: "꽃에 물을 주는 러브송"
 tags: "동인지 蓮華座"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_206/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-09-blog-post_206/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6187223944766058008" itemprop="description articleBody">

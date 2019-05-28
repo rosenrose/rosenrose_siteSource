@@ -1,7 +1,7 @@
 ---
 title: "신령묘 판타즘"
 tags: "기타동인지 夏季のタネ"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-12-blog-post_45/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-12-blog-post_45/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2618171370818903794" itemprop="description articleBody">

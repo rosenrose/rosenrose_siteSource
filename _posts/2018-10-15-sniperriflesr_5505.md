@@ -1,7 +1,7 @@
 ---
 title: "익숙해졌기 때문에 가능하다"
 tags: "塩八 시오하치 @shiohachi saltyyard 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5505/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5505/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

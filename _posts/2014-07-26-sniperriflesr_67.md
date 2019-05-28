@@ -1,7 +1,7 @@
 ---
 title: "레이센 교환생활"
 tags: "辻一穂 캐릭터_이나바_테위 캐릭터_레이센 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_와타츠키노_토요히메 캐릭터_와타츠키노_요리히메 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/67/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/67/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

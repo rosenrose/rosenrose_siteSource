@@ -1,7 +1,7 @@
 ---
 title: "내가 요우무고 네가 마리사."
 tags: "さざなみみぉ 사자나미미오 ねこのさけごと 네코노사케고토 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_콘파쿠_요우무 캐릭터_사이교우지_유유코 이벤트_例大祭12 이벤트_예대제12 귀여움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1106/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1106/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

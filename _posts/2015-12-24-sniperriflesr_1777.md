@@ -1,7 +1,7 @@
 ---
 title: "고요한 밤을 보내게 하지 않는 세이자쨩"
 tags: "ハトの水槽 캐릭터_키신_사구메 캐릭터_키진_세이자 [번역]_4컷／단편만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1777/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1777/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "프리즈미케이션"
 tags: "동인지 蓮華座"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-10-blog-post_95/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-10-blog-post_95/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4045781943844089990" itemprop="description articleBody">

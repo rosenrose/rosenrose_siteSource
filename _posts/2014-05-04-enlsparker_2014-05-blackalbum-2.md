@@ -1,7 +1,7 @@
 ---
 title: "BLACK♣ALBUM 2"
 tags: "동인지 neko_worki"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-blackalbum-2/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-05-blackalbum-2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6377111912442325462" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "분명 이유같은건 필요없으니"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_하쿠레이_레이무 급식첸_만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2049/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2049/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

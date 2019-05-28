@@ -1,7 +1,7 @@
 ---
 title: "코코로의 생활"
 tags: "동인지 まぜもの"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-10-blog-post_84/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-10-blog-post_84/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6063558956750809528" itemprop="description articleBody">

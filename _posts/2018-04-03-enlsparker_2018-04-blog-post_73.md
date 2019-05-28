@@ -1,7 +1,7 @@
 ---
 title: "난폭행패 텐구"
 tags: "동인지 薬味さらい"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2018-04-blog-post_73/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2018-04-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6275962354149453196" itemprop="description articleBody">

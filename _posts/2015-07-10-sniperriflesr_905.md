@@ -1,7 +1,7 @@
 ---
 title: "어제 장보러 갈때 본 광경"
 tags: "futa なべぞこ 나베조코 캐릭터_우사미_렌코 캐릭터_메디슨_멜랑콜리 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/905/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/905/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

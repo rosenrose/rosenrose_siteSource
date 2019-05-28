@@ -1,7 +1,7 @@
 ---
 title: "⑨라도 감기에 걸린다고!!"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_치르노 캐릭터_대요정 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/569/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/569/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

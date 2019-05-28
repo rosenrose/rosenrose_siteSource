@@ -1,7 +1,7 @@
 ---
 title: "자제심"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_조온 캐릭터_히지리_뱌쿠렌 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_토요사토미미노_미코 캐릭터_이부키_스이카 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5843/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5843/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

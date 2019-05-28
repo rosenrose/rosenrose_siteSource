@@ -1,7 +1,7 @@
 ---
 title: "소녀들의 잠자리를 덮쳐보았다"
 tags: "ハマー 헤머 [번역]_짤_시리즈"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1509/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1509/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

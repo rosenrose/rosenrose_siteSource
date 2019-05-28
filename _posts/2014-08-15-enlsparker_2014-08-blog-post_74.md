@@ -1,7 +1,7 @@
 ---
 title: "사랑한다 라고 하는 쪽이"
 tags: "極彩色 동인지"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-08-blog-post_74/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-08-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5874506881219969508" itemprop="description articleBody">

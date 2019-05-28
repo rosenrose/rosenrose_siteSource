@@ -1,7 +1,7 @@
 ---
 title: "봄이여 오라!"
 tags: "동인지 ホットドックチャック"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-05-blog-post_10/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-05-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4629629937949384659" itemprop="description articleBody">

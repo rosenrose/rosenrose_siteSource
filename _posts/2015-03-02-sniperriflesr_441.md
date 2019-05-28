@@ -1,7 +1,7 @@
 ---
 title: "용돈살이 레미랴"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_홍_메이링 이벤트_예대제_8 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/441/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/441/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

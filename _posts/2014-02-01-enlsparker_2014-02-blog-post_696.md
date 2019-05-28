@@ -1,7 +1,7 @@
 ---
 title: "게으름뱅이 코마치"
 tags: "동인지 みずたたき"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-02-blog-post_696/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-02-blog-post_696/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3011502450388739766" itemprop="description articleBody">

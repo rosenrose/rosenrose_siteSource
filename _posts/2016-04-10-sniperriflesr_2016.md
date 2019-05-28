@@ -1,7 +1,7 @@
 ---
 title: "마음의 죽음"
 tags: "えなみ教授 에나미교수 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_야쿠모_유카리 캐릭터_카자미_유카 급식첸_만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2016/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2016/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

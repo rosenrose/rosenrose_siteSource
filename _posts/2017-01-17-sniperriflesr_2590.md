@@ -1,7 +1,7 @@
 ---
 title: "탬플릿"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_이나바_테위 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 급식첸_만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2590/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2590/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "역병신의 갈등"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_히지리_뱌쿠렌 시리어스_진지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5575/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5575/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

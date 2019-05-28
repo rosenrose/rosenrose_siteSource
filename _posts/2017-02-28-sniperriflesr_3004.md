@@ -1,7 +1,7 @@
 ---
 title: "하지마 사토리 코이시"
 tags: "ゆぬき_うた 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/3004/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/3004/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

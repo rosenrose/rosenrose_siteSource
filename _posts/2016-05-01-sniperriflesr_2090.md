@@ -1,7 +1,7 @@
 ---
 title: "악마가 오고있다"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_모토오리_코스즈 캐릭터_히에다노_아큐 캐릭터_플랑드르_스칼렛 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2090/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2090/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

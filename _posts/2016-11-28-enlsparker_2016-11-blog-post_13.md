@@ -1,7 +1,7 @@
 ---
 title: "건강해져라아"
 tags: "동인지 くまのとおるみち"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-11-blog-post_13/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-11-blog-post_13/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3257834542957397186" itemprop="description articleBody">

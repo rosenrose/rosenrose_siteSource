@@ -1,7 +1,7 @@
 ---
 title: "즐거운 사토리 동물원"
 tags: "합동인지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_5/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-09-blog-post_5/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7200122148681428143" itemprop="description articleBody">

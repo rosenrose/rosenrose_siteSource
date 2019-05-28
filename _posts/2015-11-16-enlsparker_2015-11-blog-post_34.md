@@ -1,7 +1,7 @@
 ---
 title: "살아있는 것의 온기"
 tags: "동인지 色は匂えど"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-11-blog-post_34/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2015-11-blog-post_34/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7381375909568260453" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "그 희망, 그 절망"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_첸 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_토라마루_쇼 급식첸_만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2615/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2615/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

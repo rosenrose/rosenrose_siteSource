@@ -1,7 +1,7 @@
 ---
 title: "야작연악담"
 tags: "동인지 りょくや"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2015-04-blog-post_27/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2015-04-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5952153171157620870" itemprop="description articleBody">

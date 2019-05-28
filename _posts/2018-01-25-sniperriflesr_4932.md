@@ -1,7 +1,7 @@
 ---
 title: "압수"
 tags: "桐谷 @kiri_tani_ 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/4932/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/4932/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

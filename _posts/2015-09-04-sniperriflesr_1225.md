@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 9"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_히지리_뱌쿠렌 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_타타라_코가사 캐릭터_미야코_요시카 울지않아_파르시쨩!"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1225/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1225/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

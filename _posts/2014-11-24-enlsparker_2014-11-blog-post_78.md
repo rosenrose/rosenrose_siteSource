@@ -1,7 +1,7 @@
 ---
 title: "나와 그녀의 대항관계!"
 tags: "동인지 風に靡く巣箱"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-11-blog-post_78/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-11-blog-post_78/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7772927381328550412" itemprop="description articleBody">

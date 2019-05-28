@@ -1,7 +1,7 @@
 ---
 title: "너같은건 내게 필요없어 !"
 tags: "귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/164/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/164/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

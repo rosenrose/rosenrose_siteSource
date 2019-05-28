@@ -1,7 +1,7 @@
 ---
 title: "사구메의 능력"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_키신_사구메 캐릭터_키진_세이자 [번역]_4컷／단편만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1653/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1653/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

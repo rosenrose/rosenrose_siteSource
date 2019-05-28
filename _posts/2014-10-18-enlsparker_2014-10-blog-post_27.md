@@ -1,7 +1,7 @@
 ---
 title: "퇴출됐다!!"
 tags: "동인지 こげコロッケ"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-10-blog-post_27/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-10-blog-post_27/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4742622198538375220" itemprop="description articleBody">

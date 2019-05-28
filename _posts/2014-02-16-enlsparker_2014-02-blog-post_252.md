@@ -1,7 +1,7 @@
 ---
 title: "나라카고쿠 멜트아웃"
 tags: "동인지 蓮華座"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-02-blog-post_252/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-02-blog-post_252/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5742170929685739282" itemprop="description articleBody">

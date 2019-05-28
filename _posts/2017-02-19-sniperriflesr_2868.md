@@ -1,7 +1,7 @@
 ---
 title: "이과 니토리 만화"
 tags: "至る イスタンブール・ハイソックス 캐릭터_카와시로_니토리 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2868/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2868/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

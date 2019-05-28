@@ -1,7 +1,7 @@
 ---
 title: "모두 정말 좋아하는 홍마관"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_홍_메이링 캐릭터_이자요이_사쿠야 캐릭터_파츄리_널릿지 캐릭터_레밀리아_스칼렛 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2493/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2493/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

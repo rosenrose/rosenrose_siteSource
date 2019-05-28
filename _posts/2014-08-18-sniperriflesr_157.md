@@ -1,7 +1,7 @@
 ---
 title: "붉은 역사에 푸른 향신료 -스파이스-"
 tags: "凡 범 rump 캐릭터_카미시라사와_케이네 캐릭터_백택 캐릭터_후지와라노_모코우 캐릭터_히에다노_아큐 캐릭터_야고코로_에이린 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_레이센_우동게인_이나바 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/157/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/157/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

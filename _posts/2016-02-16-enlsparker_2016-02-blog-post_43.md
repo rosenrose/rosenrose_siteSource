@@ -1,7 +1,7 @@
 ---
 title: "환상향 맛있는 반찬 - 봄 여름"
 tags: "동인지 赤色バニラ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-02-blog-post_43/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-02-blog-post_43/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6406643262886107156" itemprop="description articleBody">

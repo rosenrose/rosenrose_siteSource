@@ -1,7 +1,7 @@
 ---
 title: "선생님 모코우게 붙어있어요"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_카미시라사와_케이네 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/566/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/566/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "거꾸로 아마노자쿠"
 tags: "동인지 こげコロッケ"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-08-blog-post_0/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-08-blog-post_0/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4020284276572309033" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "미적지근한 파르시"
 tags: "夏谷リオ オーガウィロウ 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1542/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1542/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

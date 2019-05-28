@@ -1,7 +1,7 @@
 ---
 title: "야쿠모가! ~소중하고 소중한 가족이니까~"
 tags: "もりのほん n2fc 森の蟲 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_야쿠모_유카리 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_카자미_유카 캐릭터_오카자키_유메미 캐릭터_미마 캐릭터_신키 캐릭터_하쿠레이_레이무 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/68/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/68/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

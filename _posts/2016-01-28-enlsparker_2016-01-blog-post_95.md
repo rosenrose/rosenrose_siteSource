@@ -1,7 +1,7 @@
 ---
 title: "여기만 체리블라섬"
 tags: "기타동인지 ノビタグラフ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-01-blog-post_95/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-01-blog-post_95/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5746876601225595968" itemprop="description articleBody">

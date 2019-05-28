@@ -1,7 +1,7 @@
 ---
 title: "만약에 기적이 일어난다면"
 tags: "동인지 pocapoca"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-12-blog-post_66/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-12-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-657042218098394871" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "이자요이 스크램블"
 tags: "동인지 strange_chameleon"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_58/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_58/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5229753340116801253" itemprop="description articleBody">

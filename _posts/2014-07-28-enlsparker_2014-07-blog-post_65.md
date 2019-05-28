@@ -1,7 +1,7 @@
 ---
 title: "침각월의 비"
 tags: "동인지 kemonomichi"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-blog-post_65/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-07-blog-post_65/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4861657473597933955" itemprop="description articleBody">

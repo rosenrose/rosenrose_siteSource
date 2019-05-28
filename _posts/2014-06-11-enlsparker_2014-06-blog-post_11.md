@@ -1,7 +1,7 @@
 ---
 title: "극동 하루시네이션 - 콘파쿠 요우무의 장"
 tags: "동인지 flipflops"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-06-blog-post_11/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-06-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8104614918866913533" itemprop="description articleBody">

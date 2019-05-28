@@ -1,7 +1,7 @@
 ---
 title: "열대야"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 캐릭터_대요정 캐릭터_와카사기히메 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_써니_밀크 귀여움／가벼움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5571/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5571/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

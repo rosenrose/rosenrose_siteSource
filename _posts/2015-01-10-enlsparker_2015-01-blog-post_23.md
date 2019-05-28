@@ -1,7 +1,7 @@
 ---
 title: "사람이여, 사람처럼"
 tags: "동인지 色は匂えど"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-01-blog-post_23/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-01-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7958040352891699896" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "히지미코만화"
 tags: "풍총이신자 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2731/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2731/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

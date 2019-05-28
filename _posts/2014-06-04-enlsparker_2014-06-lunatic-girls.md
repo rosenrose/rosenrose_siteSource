@@ -1,7 +1,7 @@
 ---
 title: "죽취비상 - Lunatic Girls"
 tags: "동인지 visionnerz"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-06-lunatic-girls/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-06-lunatic-girls/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5263041845179847768" itemprop="description articleBody">

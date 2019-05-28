@@ -1,7 +1,7 @@
 ---
 title: "레이무한테 고기요릴 잔뜩 대접받는 마리사"
 tags: "米山ことら＊ @mochi547 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5189/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5189/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "아리와즈라히"
 tags: "동인지 ハラペーニョチップス"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_96/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-10-blog-post_96/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1459653582160638034" itemprop="description articleBody">

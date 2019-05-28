@@ -1,7 +1,7 @@
 ---
 title: "절 보지 마세요!!"
 tags: "동인지 鈴鳴堂"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2015-06-blog-post_33/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2015-06-blog-post_33/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2769602838698613713" itemprop="description articleBody">

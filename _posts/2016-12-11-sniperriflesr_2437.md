@@ -1,7 +1,7 @@
 ---
 title: "바보비치 오쿠쨩"
 tags: "str おしゃれどろぼう 캐릭터_레이우지_우츠호 짤／1컷만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2437/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2437/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

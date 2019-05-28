@@ -1,7 +1,7 @@
 ---
 title: "사랑하는 야작 48화"
 tags: "みつもと 미츠모토 캐릭터_미스티아_로렐라이 캐릭터_후지와라노_모코우 사랑하는_야작_[完]"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/970/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/970/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

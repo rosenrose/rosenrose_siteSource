@@ -1,7 +1,7 @@
 ---
 title: "너 같은건 내게 필요없어!"
 tags: "동인지 あさつき堂"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-01-blog-post_8/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-01-blog-post_8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4174266964648002609" itemprop="description articleBody">

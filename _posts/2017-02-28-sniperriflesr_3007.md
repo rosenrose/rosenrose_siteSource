@@ -1,7 +1,7 @@
 ---
 title: "뭐냐 이 조합은"
 tags: "캐릭터_모노노베노_후토 캐릭터_코메이지_사토리 짤／1컷만화"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3007/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/3007/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

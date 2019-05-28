@@ -1,7 +1,7 @@
 ---
 title: "요리가미 조온 낙서"
 tags: "ワイテイ @yt__ 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5278/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5278/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

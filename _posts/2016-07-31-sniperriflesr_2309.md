@@ -1,7 +1,7 @@
 ---
 title: "왼쪽을 보라"
 tags: "ひそな 히소나 スアリテスミ 스아리테미스 캐릭터_키신_사구메 캐릭터_키진_세이자 캐릭터_도레미_스위트 캐릭터_호쥬_누에 캐릭터_히지리_뱌쿠렌 캐릭터_카소다니_쿄코 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 캐릭터_나즈린 캐릭터_코메이지_사토리 캐릭터_야고코로_에이린 이벤트_例大祭_13 이벤트_예대제_13 시리어스_진지"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2309/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2309/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

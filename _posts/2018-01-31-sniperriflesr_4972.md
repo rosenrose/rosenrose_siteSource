@@ -1,7 +1,7 @@
 ---
 title: "사랑의 형태"
 tags: "ルドンモレレン 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 왜곡된_사랑"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/4972/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/4972/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

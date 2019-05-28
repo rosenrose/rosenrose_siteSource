@@ -1,7 +1,7 @@
 ---
 title: "해후에 이르는 기억"
 tags: "동인지 strange_chameleon ストカメ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2018-04-blog-post_86/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2018-04-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5436186586686206871" itemprop="description articleBody">

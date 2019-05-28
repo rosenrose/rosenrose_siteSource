@@ -1,7 +1,7 @@
 ---
 title: "경계표류담 ~ Iron Box ~"
 tags: "캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 캐릭터_첸 캐릭터_야쿠모_유카리 이벤트_秋季例大祭 이벤트_추계예대제 합동-진지[밝음]"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2234/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2234/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

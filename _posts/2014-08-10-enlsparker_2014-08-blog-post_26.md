@@ -1,7 +1,7 @@
 ---
 title: "참으로 복실복실 우냐우냐라 묘이육구로다 이자 냐무삼!"
 tags: "동인지 ギガメーカー"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-08-blog-post_26/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-08-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8337442732747947855" itemprop="description articleBody">

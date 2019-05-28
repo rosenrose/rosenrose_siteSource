@@ -1,7 +1,7 @@
 ---
 title: "유성"
 tags: "동인지 ふあん亭"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-04-blog-post_82/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-04-blog-post_82/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2771787724362374746" itemprop="description articleBody">

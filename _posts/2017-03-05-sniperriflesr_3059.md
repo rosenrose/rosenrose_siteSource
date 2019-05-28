@@ -1,7 +1,7 @@
 ---
 title: "오린이 히메를 태워주는 만화"
 tags: "yaise 캐릭터_와카사기히메 캐릭터_카엔뵤_린 캐릭터_오린 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3059/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3059/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

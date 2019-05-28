@@ -1,7 +1,7 @@
 ---
 title: "MOONRIVER 영제조 외전①"
 tags: "동인지 deli-tre"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-09-moonriver/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-09-moonriver/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1275378697352283485" itemprop="description articleBody">

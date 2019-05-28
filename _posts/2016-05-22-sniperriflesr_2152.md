@@ -1,7 +1,7 @@
 ---
 title: "기대에 응하고싶다"
 tags: "futa なべぞこ 나베조코 캐릭터_타타라_코가사 캐릭터_루미아 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/2152/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/2152/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

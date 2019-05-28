@@ -1,7 +1,7 @@
 ---
 title: "그러니까 도시전설 주세요!"
 tags: "동인지 蓮華座"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2017-01-blog-post_37/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2017-01-blog-post_37/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8971686024604796537" itemprop="description articleBody">

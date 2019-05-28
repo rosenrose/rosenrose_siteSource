@@ -1,7 +1,7 @@
 ---
 title: "플라네타리움 - 비봉구락부 합동지"
 tags: "합동인지"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-07-blog-post_26/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-07-blog-post_26/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6594485741279373738" itemprop="description articleBody">

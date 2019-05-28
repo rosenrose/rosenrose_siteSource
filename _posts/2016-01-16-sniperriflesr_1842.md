@@ -1,7 +1,7 @@
 ---
 title: "5천명 뽑아주기 도전 란님"
 tags: "ハマー 헤머 サンセットビーチ 캐릭터_야쿠모_란 [번역]_4컷／단편만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1842/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1842/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

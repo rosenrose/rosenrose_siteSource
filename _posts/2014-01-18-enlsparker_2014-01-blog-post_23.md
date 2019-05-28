@@ -1,7 +1,7 @@
 ---
 title: "한낮에 웃는 이매망량"
 tags: "동인지 双月亭"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-01-blog-post_23/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-01-blog-post_23/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6408936688624655379" itemprop="description articleBody">

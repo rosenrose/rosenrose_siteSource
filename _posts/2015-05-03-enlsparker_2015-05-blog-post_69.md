@@ -1,7 +1,7 @@
 ---
 title: "오토메 매뉴버"
 tags: "동인지 ギロチン銀座"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-05-blog-post_69/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-05-blog-post_69/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4608072428380593445" itemprop="description articleBody">

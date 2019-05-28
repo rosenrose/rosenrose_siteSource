@@ -1,7 +1,7 @@
 ---
 title: "나라카고쿠 멜트아웃"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_시키에이키_야마나자두 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_코메이지_사토리 캐릭터_오노즈카_코마치 캐릭터_미즈하시_파르시 캐릭터_야쿠모_유카리 캐릭터_리리카_프리즘리버 캐릭터_샤메이마루_아야 이벤트_예대제_7 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/307/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/307/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

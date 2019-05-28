@@ -1,7 +1,7 @@
 ---
 title: "꽃피우는 텐구"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_샤메이마루_아야 캐릭터_치르노 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 캐릭터_카자미_유카 캐릭터_미스티아_로렐라이 캐릭터_클라운피스 캐릭터_대요정 캐릭터_릴리_화이트 캐릭터_루미아 캐릭터_스타_사파이어 캐릭터_루나_차일드 캐릭터_써니_밀크 캐릭터_카와시로_니토리 이벤트_c89 시리어스_밝음"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5645/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5645/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

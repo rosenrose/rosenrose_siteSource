@@ -1,7 +1,7 @@
 ---
 title: "만약에 모리야 신사의 현인신이 도킨스의『만들어진 신』을 읽는다면"
 tags: "동인지 オチンチンリーチ!"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-08-blog-post_10/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-08-blog-post_10/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4830256255935458894" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "네 이야기"
 tags: "기타동인지 竪穴住居"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-03-blog-post_25/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-03-blog-post_25/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-370088660712499802" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "백옥야쿠모"
 tags: "正木 마사키 こげコロッケ 코게코로케 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/72/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/72/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

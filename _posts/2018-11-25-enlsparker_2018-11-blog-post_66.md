@@ -1,7 +1,7 @@
 ---
 title: "빗소리가 맺다"
 tags: "동인지 よぬりめ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2018-11-blog-post_66/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2018-11-blog-post_66/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3389985290035834220" itemprop="description articleBody">

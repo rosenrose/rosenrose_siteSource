@@ -1,7 +1,7 @@
 ---
 title: "본능 그대로 3"
 tags: "ヒロユキ 히로유키 自称清純派 자칭청순파 캐릭터_하쿠레이_레이무 캐릭터_모리치카_린노스케 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 이벤트_c78 약"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/258/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/258/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

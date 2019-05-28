@@ -1,7 +1,7 @@
 ---
 title: "00 / 99+"
 tags: "ベル助 ベルの巣 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1884/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1884/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

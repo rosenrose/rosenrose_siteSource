@@ -1,7 +1,7 @@
 ---
 title: "연기파"
 tags: "えなみ教授 에나미교수 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_소악마 캐릭터_첸 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/2020/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/2020/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

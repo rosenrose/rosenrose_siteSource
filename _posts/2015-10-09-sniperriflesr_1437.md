@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 14화"
 tags: "みつもと 미츠모토 캐릭터_미스티아_로렐라이 캐릭터_리글_나이트버그 요스즈메와_불사조"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1437/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1437/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

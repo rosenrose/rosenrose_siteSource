@@ -1,7 +1,7 @@
 ---
 title: "콘트라스트는 물들고 말았다 - 귤빛의 편"
 tags: "기타동인지 luminary"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2018-09-blog-post_40/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2018-09-blog-post_40/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8399216420418946912" itemprop="description articleBody">

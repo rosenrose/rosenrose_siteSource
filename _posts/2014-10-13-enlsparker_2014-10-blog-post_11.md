@@ -1,7 +1,7 @@
 ---
 title: "비봉괴기록 - 둘"
 tags: "동인지 四方山"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_11/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-10-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3586847444603704" itemprop="description articleBody">

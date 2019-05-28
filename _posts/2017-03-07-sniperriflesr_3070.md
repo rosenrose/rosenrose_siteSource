@@ -1,7 +1,7 @@
 ---
 title: "다양한 상황에서의 보지말아주세요"
 tags: "真菜 つるべじ。 캐릭터_레이센_우동게인_이나바 이메레스"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3070/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3070/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><br/></b></p>

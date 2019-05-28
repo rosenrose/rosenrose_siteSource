@@ -1,7 +1,7 @@
 ---
 title: "코이코코 만화"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_하타노_코코로 캐릭터_코메이지_코이시 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2650/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2650/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

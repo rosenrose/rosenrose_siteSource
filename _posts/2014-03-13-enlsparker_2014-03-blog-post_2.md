@@ -1,7 +1,7 @@
 ---
 title: "부탁해요 레밀리아"
 tags: "동인지 負け組クラブ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-03-blog-post_2/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-03-blog-post_2/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2982472976251522581" itemprop="description articleBody">

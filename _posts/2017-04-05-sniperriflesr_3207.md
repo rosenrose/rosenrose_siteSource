@@ -1,7 +1,7 @@
 ---
 title: "어느 한 종군기자의 최후의 사진"
 tags: "壱 壱界 이치카이 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_이누바시리_모미지 캐릭터_아키_미노리코 캐릭터_카와시로_니토리 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_콘파쿠_요우무 캐릭터_호시구마_유기 캐릭터_코메이지_사토리 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_야고코로_에이린 캐릭터_루미아 캐릭터_리글_나이트버그 캐릭터_야쿠모_란 캐릭터_첸 캐릭터_치르노 이벤트_c85 시리어스_슬픔"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/3207/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/3207/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b></b><br/></p>

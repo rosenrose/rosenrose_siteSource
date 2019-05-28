@@ -1,7 +1,7 @@
 ---
 title: "바쿠가 할 일"
 tags: "기타동인지 天壌kuchen"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2018-04-blog-post_64/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2018-04-blog-post_64/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1897971650904210341" itemprop="description articleBody">

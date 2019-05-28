@@ -1,7 +1,7 @@
 ---
 title: "Summer25. Loveα"
 tags: "기타동인지 スパイス検索"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-04-summer25-love/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-04-summer25-love/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8268831665801336792" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "썸"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 시리어스_진지"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/862/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/862/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

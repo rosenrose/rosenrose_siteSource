@@ -1,7 +1,7 @@
 ---
 title: "코가사x누에"
 tags: "미샤 캐릭터_호쥬_누에 캐릭터_타타라_코가사 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/889/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/889/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

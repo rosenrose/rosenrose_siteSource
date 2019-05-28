@@ -1,7 +1,7 @@
 ---
 title: "앨리스의 인형"
 tags: "空中線とらきゃっと 기타동인지"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2014-04-blog-post_862/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2014-04-blog-post_862/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6873461771557161734" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "울지않아 파르시쨩! 42"
 tags: "퓨엔테 ピュエンテ fuente 캐릭터_미즈하시_파르시 캐릭터_이자요이_사쿠야 울지않아_파르시쨩!"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2189/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2189/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6; font-size: 9pt;"><span style="; "></span><br/></b></p>

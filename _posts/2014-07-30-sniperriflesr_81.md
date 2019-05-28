@@ -1,7 +1,7 @@
 ---
 title: "Hunted Hunter"
 tags: "ねことうふ 네코두부 네코토우후 grinp 캐릭터_미스티아_로렐라이 캐릭터_홍_메이링 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_오노즈카_코마치 캐릭터_시키에이키_야마나자두 캐릭터_파츄리_널릿지 캐릭터_키리사메_마리사 캐릭터_카와시로_니토리 캐릭터_하쿠레이_레이무 심야_참새식당"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/81/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/81/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

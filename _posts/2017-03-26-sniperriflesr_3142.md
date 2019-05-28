@@ -1,7 +1,7 @@
 ---
 title: "비 온 뒤 사구메"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키신_사구메 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3142/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/3142/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

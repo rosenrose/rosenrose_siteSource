@@ -1,7 +1,7 @@
 ---
 title: "수영복"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_써니_밀크 캐릭터_루나_차일드 캐릭터_스타_사파이어 캐릭터_클라운피스 캐릭터_대요정 캐릭터_치르노 캐릭터_카와시로_니토리 캐릭터_루미아 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/5519/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/5519/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

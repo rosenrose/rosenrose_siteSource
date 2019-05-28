@@ -1,7 +1,7 @@
 ---
 title: "누구~게"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_순호 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1619/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1619/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

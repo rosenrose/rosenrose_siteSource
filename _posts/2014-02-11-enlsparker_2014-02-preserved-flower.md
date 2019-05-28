@@ -1,7 +1,7 @@
 ---
 title: "Preserved flower"
 tags: "동인지 matilda"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-preserved-flower/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-02-preserved-flower/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8798040384094074302" itemprop="description articleBody">

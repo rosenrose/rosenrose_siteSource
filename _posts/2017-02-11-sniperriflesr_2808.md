@@ -1,7 +1,7 @@
 ---
 title: "강제수용 당한 걸 잊지 않는 날"
 tags: "ハカノシンシ 하카노_신시 破り処 캐릭터_대요정 짤／1컷만화"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2808/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2808/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

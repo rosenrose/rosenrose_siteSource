@@ -1,7 +1,7 @@
 ---
 title: "내가 환상향에 친해질 수 없는건 아무리 생각해도 너희들 때문이야!"
 tags: "동인지 蒼空市場"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-09-blog-post_845/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-09-blog-post_845/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6340454760582215383" itemprop="description articleBody">

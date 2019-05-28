@@ -1,7 +1,7 @@
 ---
 title: "고양이"
 tags: "동인지 ふあん亭"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-07-blog-post_44/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-07-blog-post_44/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4836383387281027906" itemprop="description articleBody">

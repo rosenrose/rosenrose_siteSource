@@ -1,7 +1,7 @@
 ---
 title: "모코랑 러브"
 tags: "ユーゴ 유고 yugo アトモスフィア 애트모스피어 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 이벤트_c77 약"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/104/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/104/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

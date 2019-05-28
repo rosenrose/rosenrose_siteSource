@@ -1,7 +1,7 @@
 ---
 title: "Dark"
 tags: "아사츠키당 あさつき堂 캐릭터_모리야_스와코 캐릭터_야사카_카나코 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_야쿠모_유카리 시리어스_어두움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/7/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/7/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><strong> </strong></p>

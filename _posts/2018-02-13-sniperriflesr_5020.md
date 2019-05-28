@@ -1,7 +1,7 @@
 ---
 title: "최면 암소 비키니 케이네 교사의 특별 커리큘럼"
 tags: "悪いお友達roki roki @roki360 캐릭터_카미시라사와_케이네 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5020/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5020/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

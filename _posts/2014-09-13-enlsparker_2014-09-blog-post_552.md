@@ -1,7 +1,7 @@
 ---
 title: "둔☆통 크레이지 - 사랑과 눈물의 대못"
 tags: "동인지 さやかた紅茶館"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_552/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_552/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5311186950561404445" itemprop="description articleBody">

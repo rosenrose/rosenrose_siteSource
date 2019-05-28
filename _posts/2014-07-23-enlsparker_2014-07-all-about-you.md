@@ -1,7 +1,7 @@
 ---
 title: "ALL ABOUT YOU"
 tags: "동인지 gp-kids"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2014-07-all-about-you/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2014-07-all-about-you/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8470898160999814411" itemprop="description articleBody">

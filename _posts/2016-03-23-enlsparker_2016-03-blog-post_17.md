@@ -1,7 +1,7 @@
 ---
 title: "러브☆마리"
 tags: "동인지 カスタムサイズ"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2016-03-blog-post_17/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2016-03-blog-post_17/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1862880081485383503" itemprop="description articleBody">

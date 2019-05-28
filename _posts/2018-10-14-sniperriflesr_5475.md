@@ -1,7 +1,7 @@
 ---
 title: "우동게 발치"
 tags: "赤崎セカイ @kireinatetete 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 왜곡된_사랑"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5475/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5475/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b></b><br/></p>

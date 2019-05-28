@@ -1,7 +1,7 @@
 ---
 title: "유유코님과"
 tags: "ハマー 헤머 サンセットビーチ sexual_theme"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2202/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2202/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>

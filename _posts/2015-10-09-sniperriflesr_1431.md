@@ -1,7 +1,7 @@
 ---
 title: "요스즈메와 불사조 8화"
 tags: "みつもと 미츠모토 캐릭터_리글_나이트버그 요스즈메와_불사조"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1431/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1431/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

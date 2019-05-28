@@ -1,7 +1,7 @@
 ---
 title: "언니의 선물"
 tags: "さとうきび 사토우키비 粟米湯 su_mi_tan 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_소악마 캐릭터_이자요이_사쿠야 이벤트_c79 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/484/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/484/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 야쿠모 란"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_첸 캐릭터_야쿠모_란 반역의_세이자"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/629/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/629/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

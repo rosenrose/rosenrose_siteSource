@@ -1,7 +1,7 @@
 ---
 title: "紅く染まる風を切って"
 tags: "동인지 夢屋本舗"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-04-blog-post_24/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-04-blog-post_24/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6123000644509858170" itemprop="description articleBody">

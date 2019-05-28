@@ -1,7 +1,7 @@
 ---
 title: "동방견문록"
 tags: "기타동인지 windarteam"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-08-blog-post_11/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-08-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5092397240841533634" itemprop="description articleBody">

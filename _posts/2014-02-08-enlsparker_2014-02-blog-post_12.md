@@ -1,7 +1,7 @@
 ---
 title: "피안미수"
 tags: "동인지 みずたたき"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-blog-post_12/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-02-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1313837107464470319" itemprop="description articleBody">

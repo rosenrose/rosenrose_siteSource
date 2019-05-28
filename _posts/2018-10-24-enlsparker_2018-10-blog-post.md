@@ -1,7 +1,7 @@
 ---
 title: "리버브 이터"
 tags: "동인지 鳥取さばく帝国"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-10-blog-post/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-10-blog-post/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-714364378019508063" itemprop="description articleBody">

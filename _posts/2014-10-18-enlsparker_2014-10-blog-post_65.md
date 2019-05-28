@@ -1,7 +1,7 @@
 ---
 title: "코치야 사나에의 비밀스런 일상"
 tags: "동인지 あらもーど ノヘッパdo!"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-10-blog-post_65/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-10-blog-post_65/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2418061628638599392" itemprop="description articleBody">

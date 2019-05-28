@@ -1,7 +1,7 @@
 ---
 title: "Dawn"
 tags: "miya9 白ネギ屋 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 캐릭터_앨리스_마가트로이드 이벤트_紅楼夢10 이벤트_홍루몽_10 시리어스_밝음"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2526/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2526/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

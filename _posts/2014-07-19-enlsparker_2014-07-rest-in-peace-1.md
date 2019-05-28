@@ -1,7 +1,7 @@
 ---
 title: "Rest in peace 1"
 tags: "동인지 kirororo"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-rest-in-peace-1/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-07-rest-in-peace-1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3306424949468454046" itemprop="description articleBody">

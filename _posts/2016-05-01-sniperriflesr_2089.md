@@ -1,7 +1,7 @@
 ---
 title: "속죄"
 tags: "えなみ教授 에나미교수 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_치르노 캐릭터_호쥬_누에 캐릭터_이나바_테위 캐릭터_리글_나이트버그 캐릭터_키진_세이자 캐릭터_카미시라사와_케이네 급식첸_만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2089/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2089/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

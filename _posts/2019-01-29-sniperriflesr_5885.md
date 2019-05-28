@@ -1,7 +1,7 @@
 ---
 title: "케이네 선생님은 아이가 좋아"
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_카미시라사와_케이네 짤／1컷만화"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/5885/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/5885/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"><br/></strong></p>

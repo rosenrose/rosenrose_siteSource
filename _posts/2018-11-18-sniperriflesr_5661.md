@@ -1,7 +1,7 @@
 ---
 title: "주사위겜을 하는 레이무"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_코치야_사나에 캐릭터_하쿠레이_레이무 캐릭터_콘파쿠_요우무 짤／1컷만화"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5661/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5661/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "로즈낙원"
 tags: "高速グリハリ亭 기타동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2015-03-blog-post_7/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2015-03-blog-post_7/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1299360269494302723" itemprop="description articleBody">

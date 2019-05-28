@@ -1,7 +1,7 @@
 ---
 title: "전차의 나라로"
 tags: "동인지 personal_color"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-10-blog-post_42/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-10-blog-post_42/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3684030476056047183" itemprop="description articleBody">

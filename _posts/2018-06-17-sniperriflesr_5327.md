@@ -1,7 +1,7 @@
 ---
 title: "어째서 \"좋아해\"라는 심한 소릴 하는 건데?"
 tags: "いーはとーぶ @1810_touhou 캐릭터_키리사메_마리사 왜곡된_사랑"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5327/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5327/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "거듭 바람에 쐐기를"
 tags: "동인지 武者プルーン"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-blog-post_59/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-blog-post_59/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2143909833427154330" itemprop="description articleBody">

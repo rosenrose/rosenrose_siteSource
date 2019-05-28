@@ -1,7 +1,7 @@
 ---
 title: "비봉소녀 컴포트"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_境界から視えた外界-結- 이벤트_경계로부터_보이는_바깥세계_무스비_결 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2132/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2132/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><strong style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></strong><br/></p>

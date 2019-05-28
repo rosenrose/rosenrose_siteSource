@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 여린 파랑"
 tags: "동인지 青"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_691/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_691/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-237138916705311016" itemprop="description articleBody">

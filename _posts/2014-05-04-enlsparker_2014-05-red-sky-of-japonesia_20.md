@@ -1,7 +1,7 @@
 ---
 title: "Red Sky Of Japonesia - 후편"
 tags: "동인지 さやかた紅茶館"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-red-sky-of-japonesia_20/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-05-red-sky-of-japonesia_20/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2635315718346131263" itemprop="description articleBody">

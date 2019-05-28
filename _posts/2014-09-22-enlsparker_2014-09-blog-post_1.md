@@ -1,7 +1,7 @@
 ---
 title: "카구야가 홍마관의 메이드가 되었다고 합니다"
 tags: "기타동인지 ボディマハッタ屋"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_1/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7079366241547439572" itemprop="description articleBody">

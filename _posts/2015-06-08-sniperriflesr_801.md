@@ -1,7 +1,7 @@
 ---
 title: "본능 「 이드의 해방 」"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_코메이지_코이시 캐릭터_하쿠레이_레이무 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/801/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/801/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

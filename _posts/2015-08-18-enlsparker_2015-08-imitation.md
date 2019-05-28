@@ -1,7 +1,7 @@
 ---
 title: "Imitation"
 tags: "기타동인지 松山ノ家"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-08-imitation/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2015-08-imitation/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6700829923423097269" itemprop="description articleBody">

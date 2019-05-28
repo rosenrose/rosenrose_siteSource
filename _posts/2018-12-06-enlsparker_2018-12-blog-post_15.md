@@ -1,7 +1,7 @@
 ---
 title: "하쿠레이 섬머 홀리데이"
 tags: "동인지 poprication"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-12-blog-post_15/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-12-blog-post_15/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1674443246482868006" itemprop="description articleBody">

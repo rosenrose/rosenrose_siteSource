@@ -1,7 +1,7 @@
 ---
 title: "바쿠는 잠들지 않는다"
 tags: "気泡_緩衝材 kk88 캐릭터_도레미_스위트 캐릭터_키신_사구메 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2236/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2236/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

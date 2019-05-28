@@ -1,7 +1,7 @@
 ---
 title: "앨리스의 집이 불타는 만화"
 tags: "cwarock 캐릭터_모토오리_코스즈 캐릭터_키리사메_마리사 캐릭터_샤메이마루_아야 캐릭터_앨리스_마가트로이드 캐릭터_카자미_유카 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1549/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1549/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

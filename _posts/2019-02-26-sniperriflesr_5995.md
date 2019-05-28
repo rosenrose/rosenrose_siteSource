@@ -1,7 +1,7 @@
 ---
 title: "음료수 마시는 파츄리"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_소악마 캐릭터_파츄리_널릿지 짤／1컷만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5995/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5995/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

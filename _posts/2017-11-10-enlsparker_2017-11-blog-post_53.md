@@ -1,7 +1,7 @@
 ---
 title: "바콰르텟 나우!"
 tags: "기타동인지 レア少女"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2017-11-blog-post_53/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2017-11-blog-post_53/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8421506970314354996" itemprop="description articleBody">

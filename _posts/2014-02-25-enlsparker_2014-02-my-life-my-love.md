@@ -1,7 +1,7 @@
 ---
 title: "My Life My Love"
 tags: "동인지 kfc"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-02-my-life-my-love/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-02-my-life-my-love/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1520268993041236700" itemprop="description articleBody">

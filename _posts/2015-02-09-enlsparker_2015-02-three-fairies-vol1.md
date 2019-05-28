@@ -1,7 +1,7 @@
 ---
 title: "Three Fairies Vol.1"
 tags: "동인지 くらっしゅハウス"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-02-three-fairies-vol1/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2015-02-three-fairies-vol1/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2849194529030606181" itemprop="description articleBody">

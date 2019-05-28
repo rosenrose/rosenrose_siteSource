@@ -1,7 +1,7 @@
 ---
 title: "수밀도 - 해저판"
 tags: "劇団文七 동인지"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2017-10-blog-post_83/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2017-10-blog-post_83/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4195648072038236836" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "마지코이! - Magical Coincidence"
 tags: "동인지 ているこんちぇると(仮)"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-09-magical-coincidence/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-09-magical-coincidence/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1405436518599899877" itemprop="description articleBody">

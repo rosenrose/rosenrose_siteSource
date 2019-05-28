@@ -1,7 +1,7 @@
 ---
 title: "스와코의 가면"
 tags: "동인지 ニイ工房"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-05-blog-post_48/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2017-05-blog-post_48/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6678951743016355289" itemprop="description articleBody">

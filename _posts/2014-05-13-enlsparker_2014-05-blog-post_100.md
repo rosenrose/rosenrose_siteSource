@@ -1,7 +1,7 @@
 ---
 title: "아홉가지 이야기"
 tags: "동인지 鵺箱"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-05-blog-post_100/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-05-blog-post_100/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2685656210178951723" itemprop="description articleBody">

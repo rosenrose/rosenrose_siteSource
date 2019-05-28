@@ -1,7 +1,7 @@
 ---
 title: "마인"
 tags: "챠도 茶戸 徒步二分 도보이분 캐릭터_히지리_뱌쿠렌 캐릭터_호쥬_누에 캐릭터_쿠모이_이치린 캐릭터_무라사_미나미츠 캐릭터_토라마루_쇼 캐릭터_운잔 이벤트_예대제_10 이벤트_例大祭10 시리어스_밝음"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/271/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/271/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

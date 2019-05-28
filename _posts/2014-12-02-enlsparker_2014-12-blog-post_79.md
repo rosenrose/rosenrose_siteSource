@@ -1,7 +1,7 @@
 ---
 title: "서브터레이니언 쇼핑!"
 tags: "동인지 show_and_tell"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-12-blog-post_79/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-12-blog-post_79/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5973119002368461602" itemprop="description articleBody">

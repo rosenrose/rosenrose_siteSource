@@ -1,7 +1,7 @@
 ---
 title: "일방통행 메모랜덤"
 tags: "동인지 四方山"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-10-blog-post_50/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-10-blog-post_50/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2330813579920386396" itemprop="description articleBody">

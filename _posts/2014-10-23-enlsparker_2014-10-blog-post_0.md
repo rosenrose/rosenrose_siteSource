@@ -1,7 +1,7 @@
 ---
 title: "비봉구락부단편집 - 스페이스 데브리"
 tags: "동인지 電派絵師団"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-10-blog-post_0/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-10-blog-post_0/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8671237555480232034" itemprop="description articleBody">

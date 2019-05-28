@@ -1,7 +1,7 @@
 ---
 title: "내가 요우무고 네가 마리사"
 tags: "동인지 ねこのさけごと"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-02-blog-post_99/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-02-blog-post_99/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2595138720524317002" itemprop="description articleBody">

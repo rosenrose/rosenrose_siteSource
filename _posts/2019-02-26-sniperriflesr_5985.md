@@ -1,7 +1,7 @@
 ---
 title: "조온의 벌크업 시리즈"
 tags: "暇人☆いず @arnusi 暇人のいず 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5985/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5985/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

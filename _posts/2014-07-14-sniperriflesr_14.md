@@ -1,7 +1,7 @@
 ---
 title: "카구야와 안개속 사랑"
 tags: "水炊き 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 캐릭터_이바라키_카센 캐릭터_야고코로_에이린 시리어스_밝음"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/14/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/14/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

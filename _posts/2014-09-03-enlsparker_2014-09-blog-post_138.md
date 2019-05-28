@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 유카리의 환상 이야기"
 tags: "동인지 gauloises_blue"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-09-blog-post_138/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-09-blog-post_138/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4537408805556852755" itemprop="description articleBody">

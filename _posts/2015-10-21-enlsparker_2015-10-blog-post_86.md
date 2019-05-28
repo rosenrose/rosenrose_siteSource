@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 양쪽에서의 떠들썩한 소리"
 tags: "동인지 青"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-10-blog-post_86/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-10-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8543397411975630415" itemprop="description articleBody">

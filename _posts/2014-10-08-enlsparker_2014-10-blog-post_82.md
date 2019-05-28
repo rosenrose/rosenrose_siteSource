@@ -1,7 +1,7 @@
 ---
 title: "우츠호의 경계- 환각잔류"
 tags: "기타동인지 こいくちきなこ"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-10-blog-post_82/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-10-blog-post_82/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2378351749849340931" itemprop="description articleBody">

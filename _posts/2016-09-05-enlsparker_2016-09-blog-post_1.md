@@ -1,7 +1,7 @@
 ---
 title: "스탠・바이・미"
 tags: "기타동인지 オレナンカドーセ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2016-09-blog-post_1/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2016-09-blog-post_1/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7999376862401771382" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "네가 온다면"
 tags: "シノバ 시노바 少女恋歌 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 캐릭터_야쿠모_유카리 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_콘파쿠_요우무 이벤트_秋季例大祭3 이벤트_추계예대제_3 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2568/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2568/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

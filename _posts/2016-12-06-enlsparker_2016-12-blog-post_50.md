@@ -1,7 +1,7 @@
 ---
 title: "크레이지 지령전 - 옛 도시의 장"
 tags: "동인지 よつみわーくす"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-12-blog-post_50/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-12-blog-post_50/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3046188594651869568" itemprop="description articleBody">

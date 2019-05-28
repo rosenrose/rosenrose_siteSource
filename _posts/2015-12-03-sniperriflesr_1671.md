@@ -1,7 +1,7 @@
 ---
 title: "토지코쨩은 부끄러워하는 순간 한 번에 공략하는 게 저는 정답이라고 생각합니다"
 tags: "シクシク 시쿠시쿠 あまもりウィークリー 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 [번역]_짤"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1671/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1671/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

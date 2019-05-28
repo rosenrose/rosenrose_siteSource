@@ -1,7 +1,7 @@
 ---
 title: "나의 두 번째 해피 벌스데이"
 tags: "동인지 アルパカ牧場 もぐもぐ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-12-blog-post_93/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-12-blog-post_93/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4291223337776864882" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "Rondo side：C SunshineShower"
 tags: "동인지 gp-kids"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-12-rondo-sidec-sunshineshower/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-12-rondo-sidec-sunshineshower/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6293043929912370217" itemprop="description articleBody">

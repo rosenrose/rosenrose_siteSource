@@ -1,7 +1,7 @@
 ---
 title: "굶주린 호랑이"
 tags: "동인지 薬味さらい"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-09-blog-post_12/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-09-blog-post_12/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2556565326676293130" itemprop="description articleBody">

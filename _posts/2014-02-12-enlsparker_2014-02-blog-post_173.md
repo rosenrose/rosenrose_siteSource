@@ -1,7 +1,7 @@
 ---
 title: "달과 나비와 검은메이드"
 tags: "동인지 さぷり"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-02-blog-post_173/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-02-blog-post_173/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3980472768139388779" itemprop="description articleBody">

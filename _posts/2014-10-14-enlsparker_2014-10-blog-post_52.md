@@ -1,7 +1,7 @@
 ---
 title: "사쿠야의 생각과 감정"
 tags: "동인지 ぽぽぽ"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-10-blog-post_52/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-10-blog-post_52/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-391368859052047330" itemprop="description articleBody">

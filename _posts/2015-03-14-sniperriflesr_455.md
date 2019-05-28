@@ -1,7 +1,7 @@
 ---
 title: "동방유녀난무"
 tags: "高久としひこ 타카쿠_토시히코 高久屋 타카쿠야 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 캐릭터_후지와라노_모코우 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_카와시로_니토리 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_나가에_이쿠 캐릭터_히나나위_텐시 캐릭터_레이센_우동게인_이나바 캐릭터_플랑드르_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 이벤트_c74 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/455/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/455/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

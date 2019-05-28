@@ -1,7 +1,7 @@
 ---
 title: "신 심야참새식당"
 tags: "ねことうふ 네코두부 grinp 캐릭터_이부키_스이카 캐릭터_스쿠나_신묘마루 캐릭터_미스티아_로렐라이 캐릭터_후타츠이와_마미조 캐릭터_하타노_코코로 캐릭터_야쿠모_란 캐릭터_코메이지_사토리 캐릭터_코메이지_코이시 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 이벤트_例大祭12 이벤트_예대제_12 심야_참새식당"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1663/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1663/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

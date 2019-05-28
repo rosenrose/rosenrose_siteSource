@@ -1,7 +1,7 @@
 ---
 title: "기적"
 tags: "398 동인지"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2017-05-blog-post_37/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2017-05-blog-post_37/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2872201445269201454" itemprop="description articleBody">

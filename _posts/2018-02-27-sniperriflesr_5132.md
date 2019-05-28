@@ -1,7 +1,7 @@
 ---
 title: "크리스마스 전에 애인이 생긴 파르시쨩"
 tags: "ごくう 御供 @acoloredpencil 캐릭터_미즈하시_파르시 짤／1컷만화"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5132/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5132/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

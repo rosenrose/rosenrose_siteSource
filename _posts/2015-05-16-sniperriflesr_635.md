@@ -1,7 +1,7 @@
 ---
 title: "반역의 세이자 줄여서『반정』(세이자 중심 4컷 만화) VS 콘파쿠 요우무"
 tags: "ユーキ 캐릭터_키진_세이자 캐릭터_콘파쿠_요우무 반역의_세이자"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/635/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/635/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

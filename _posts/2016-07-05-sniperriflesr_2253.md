@@ -1,7 +1,7 @@
 ---
 title: "친구를 데려온 레이센"
 tags: "スペース人 스페이스진 캐릭터_이나바_테위 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/2253/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/2253/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

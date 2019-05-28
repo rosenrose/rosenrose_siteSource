@@ -1,7 +1,7 @@
 ---
 title: "같은 빚의 너구리"
 tags: "うりうり show_and_tell 캐릭터_미스티아_로렐라이 캐릭터_후타츠이와_마미조 캐릭터_모토오리_코스즈 캐릭터_세키반키 캐릭터_이마이즈미_카케로 이벤트_c85 시리어스_진지"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/919/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/919/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

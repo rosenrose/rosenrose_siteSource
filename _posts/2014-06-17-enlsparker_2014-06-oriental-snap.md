@@ -1,7 +1,7 @@
 ---
 title: "ORIENTAL SNAP"
 tags: "동인지 御奈的主義"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-06-oriental-snap/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-06-oriental-snap/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1336241360493257785" itemprop="description articleBody">

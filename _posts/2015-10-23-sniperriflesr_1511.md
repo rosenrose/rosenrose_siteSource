@@ -1,7 +1,7 @@
 ---
 title: "때묻지 않은 침략"
 tags: "インド僧 いんどの宮殿! 캐릭터_키신_사구메 캐릭터_링고 캐릭터_세이란 [번역]_4컷／단편만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1511/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1511/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "오토모 첸 일기"
 tags: "동인지 yc-tv"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-11-blog-post_11/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-11-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3297830753777645814" itemprop="description articleBody">

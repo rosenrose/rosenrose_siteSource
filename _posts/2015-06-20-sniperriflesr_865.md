@@ -1,7 +1,7 @@
 ---
 title: "공포의 기억"
 tags: "futa なべぞこ 나베조코 캐릭터_키리사메_마리사 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/865/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/865/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

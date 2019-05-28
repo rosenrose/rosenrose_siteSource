@@ -1,7 +1,7 @@
 ---
 title: "역전해서 휠 오브 포츈"
 tags: "ベル助 ベルの巣 캐릭터_키신_사구메 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1883/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1883/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

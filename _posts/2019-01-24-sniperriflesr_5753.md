@@ -1,7 +1,7 @@
 ---
 title: "순호 스타일의 마키나"
 tags: "shan シャン @shan0x0shan 캐릭터_순호 캐릭터_헤카티아_라피스라줄리 캐릭터_마타라_오키나 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5753/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5753/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

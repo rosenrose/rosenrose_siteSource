@@ -1,7 +1,7 @@
 ---
 title: "영웅 소망"
 tags: "futa なべぞこ 나베조코 캐릭터_레이센_우동게인_이나바 캐릭터_도레미_스위트 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_코치야_사나에 캐릭터_야고코로_에이린 캐릭터_호라이산_카구야 캐릭터_이나바_테위 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1289/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1289/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

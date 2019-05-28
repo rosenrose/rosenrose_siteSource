@@ -1,7 +1,7 @@
 ---
 title: "신이 되다"
 tags: "ゾウノセ 조우노세 薬味さらい 야쿠미사라이 양념갈퀴 양념다음다음 캐릭터_코치야_사나에 캐릭터_키리사메_마리사 캐릭터_카미시라사와_케이네 캐릭터_후지와라노_모코우 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_야사카_카나코 캐릭터_모리야_스와코 캐릭터_하쿠레이_레이무 이벤트_例大祭_11 이벤트_예대제_11 시리어스_슬픔"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/650/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/650/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

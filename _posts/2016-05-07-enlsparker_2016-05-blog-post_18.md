@@ -1,7 +1,7 @@
 ---
 title: "마리사와 나"
 tags: "동인지 ロケット燃料★21"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-05-blog-post_18/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2016-05-blog-post_18/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4712514318516407523" itemprop="description articleBody">

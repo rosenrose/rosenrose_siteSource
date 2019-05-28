@@ -1,7 +1,7 @@
 ---
 title: "사과하러 왔습니다"
 tags: "暇魔神のいず‏ @arnusi 캐릭터_타타라_코가사 캐릭터_카자미_유카 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4996/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/4996/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

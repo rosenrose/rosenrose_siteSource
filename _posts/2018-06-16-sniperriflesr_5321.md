@@ -1,7 +1,7 @@
 ---
 title: "시력검사"
 tags: "よしだほのか 캐릭터_코메이지_코이시 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_야고코로_에이린 캐릭터_이누바시리_모미지 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5321/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5321/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b style=""><br/></b></p>

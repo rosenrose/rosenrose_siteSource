@@ -1,7 +1,7 @@
 ---
 title: "선인님은 달콤한 것을 좋아하신다"
 tags: "동인지 一酸化硫黄"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-10-blog-post_681/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-10-blog-post_681/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6237458116953359000" itemprop="description articleBody">

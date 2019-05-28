@@ -1,7 +1,7 @@
 ---
 title: "소중한 것"
 tags: "기타동인지 無重力ばなな"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-05-blog-post_63/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-05-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6242911242714522293" itemprop="description articleBody">

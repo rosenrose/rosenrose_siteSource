@@ -1,7 +1,7 @@
 ---
 title: "휴일엔 오로지 하타테 사냥"
 tags: "柳田史太 야다기다_시타 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 sexual_theme"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/767/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/767/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

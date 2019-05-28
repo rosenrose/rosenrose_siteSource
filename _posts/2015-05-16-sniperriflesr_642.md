@@ -1,7 +1,7 @@
 ---
 title: "야쿠모 LAN"
 tags: "ジェット虚無僧 제트_코무소 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/642/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/642/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

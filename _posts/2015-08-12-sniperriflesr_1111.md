@@ -1,7 +1,7 @@
 ---
 title: "아침에 일어나면 언니의 한심한 LINE이 쌓인다"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_플랑드르_스칼렛 짤／1컷만화"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/1111/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/1111/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

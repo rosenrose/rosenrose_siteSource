@@ -1,7 +1,7 @@
 ---
 title: "루미아와의 하룻밤 이야기"
 tags: "ハマー 캐릭터_루미아 sexual_theme"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1288/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1288/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

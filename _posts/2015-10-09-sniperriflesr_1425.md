@@ -1,7 +1,7 @@
 ---
 title: "이상한 T셔츠를 입은 녀석이 화제가 되어서 마음에 안드는 세이자"
 tags: "ぽよすけ 캐릭터_헤카티아_라피스라줄리 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1425/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1425/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

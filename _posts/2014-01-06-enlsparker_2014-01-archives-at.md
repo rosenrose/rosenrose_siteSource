@@ -1,7 +1,7 @@
 ---
 title: "러브그레이즈 Archives At"
 tags: "동인지 ノヘッパdo!"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-01-archives-at/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-01-archives-at/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8921817346266722255" itemprop="description articleBody">

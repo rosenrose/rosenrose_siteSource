@@ -1,7 +1,7 @@
 ---
 title: "부탁해요 플랑도르 ~ 부탁해요 레밀리아 기획편 2 ~"
 tags: "ゼファー 負け組クラブ 패배조_클럽 캐릭터_플랑드르_스칼렛 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_치르노 캐릭터_대요정 캐릭터_릴리_화이트 캐릭터_소악마 캐릭터_홍_메이링 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_샤메이마루_아야 캐릭터_파츄리_널릿지 이벤트_例大祭_8 이벤트_예대제_8 귀여움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/2429/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/2429/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

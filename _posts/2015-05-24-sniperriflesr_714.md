@@ -1,7 +1,7 @@
 ---
 title: "야작연악담 ~ 분발하는 밤참새 ~"
 tags: "ヲザワ 오자와 りょくや 료쿠야 ryokuya 캐릭터_미스티아_로렐라이 캐릭터_카미시라사와_케이네 캐릭터_하쿠레이_레이무 캐릭터_레이센_우동게인_이나바 캐릭터_키리사메_마리사 캐릭터_레밀리아_스칼렛 캐릭터_카자미_유카 캐릭터_루미아 캐릭터_메디슨_멜랑콜리 이벤트_c80 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/714/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/714/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

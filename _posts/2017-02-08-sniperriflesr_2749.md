@@ -1,7 +1,7 @@
 ---
 title: "바이오 놀이 31"
 tags: "にーこ 캐릭터_미스티아_로렐라이 캐릭터_루미아 캐릭터_치르노 캐릭터_샤메이마루_아야 캐릭터_레이센_우동게인_이나바 캐릭터_카자미_유카 캐릭터_리글_나이트버그 캐릭터_이나바_테위 캐릭터_첸 캐릭터_코메이지_사토리 캐릭터_스쿠나_신묘마루 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 캐릭터_콘파쿠_요우무 캐릭터_미야코_요시카 캐릭터_레이우지_우츠호 캐릭터_오쿠 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_나즈린 캐릭터_대요정 바이오_놀이"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2749/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2749/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><span style="; "></span><br/></b></p>

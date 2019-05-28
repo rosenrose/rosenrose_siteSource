@@ -1,7 +1,7 @@
 ---
 title: "가르쳐줘! 요우무 선생"
 tags: "동인지 ねこのさけごと"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-10-blog-post_56/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-10-blog-post_56/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7944555490261311495" itemprop="description articleBody">

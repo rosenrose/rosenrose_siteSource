@@ -1,7 +1,7 @@
 ---
 title: "겨울, 야쿠모, 푹신푹신"
 tags: "liya crowclock 캐릭터_야쿠모_란 캐릭터_야쿠모_유카리 캐릭터_첸 캐릭터_하쿠레이_레이무 캐릭터_사이교우지_유유코 캐릭터_콘파쿠_요우무 이벤트_c91 귀여움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/3280/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/3280/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

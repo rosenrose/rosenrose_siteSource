@@ -1,7 +1,7 @@
 ---
 title: "오토메 프리즌"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_샤메이마루_아야 캐릭터_스타_사파이어 캐릭터_루나_차일드 캐릭터_써니_밀크 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 캐릭터_야쿠모_유카리 캐릭터_호시구마_유기 캐릭터_코메이지_코이시 캐릭터_코메이지_사토리 캐릭터_미즈하시_파르시 캐릭터_카와시로_니토리 캐릭터_치르노 캐릭터_대요정 캐릭터_시키에이키_야마나자두 이벤트_例大祭12 이벤트_예대제12 시리어스_어두움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1003/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1003/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

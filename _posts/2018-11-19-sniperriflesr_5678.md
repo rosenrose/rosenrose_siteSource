@@ -1,7 +1,7 @@
 ---
 title: "마술"
 tags: "yaise @yaise 캐릭터_파츄리_널릿지 캐릭터_이자요이_사쿠야 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/5678/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/5678/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "철벽모코"
 tags: "6 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1183/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1183/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "칠색홍차관"
 tags: "동인지 ふすま喫茶"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-05-blog-post_592/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-05-blog-post_592/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2880954457432390388" itemprop="description articleBody">

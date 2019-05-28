@@ -1,7 +1,7 @@
 ---
 title: "벚꽃색 이야기"
 tags: "동인지 airdrop"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-02-blog-post_27/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-02-blog-post_27/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5297502900114431154" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "세상에서 제일 멋진 언니!!"
 tags: "동인지 粟米湯"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-11-blog-post_33/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-11-blog-post_33/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1641279564796358886" itemprop="description articleBody">

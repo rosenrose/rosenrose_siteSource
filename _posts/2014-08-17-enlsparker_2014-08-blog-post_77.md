@@ -1,7 +1,7 @@
 ---
 title: "마음의 행방, 그 저편"
 tags: "동인지 くまのとおるみち"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-08-blog-post_77/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-08-blog-post_77/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6932862570772519733" itemprop="description articleBody">

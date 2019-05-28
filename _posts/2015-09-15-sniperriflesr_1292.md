@@ -1,7 +1,7 @@
 ---
 title: "클라운피스 능력쓰는만화(상)"
 tags: "노랑씨앗 동프갤 캐릭터_하쿠레이_레이무 캐릭터_클라운피스 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1292/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1292/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "토라마루의 사랑 20XX 3.14"
 tags: "캐릭터_토라마루_쇼 캐릭터_히지리_뱌쿠렌 캐릭터_호쥬_누에 캐릭터_나즈린 캐릭터_무라사_미나미츠 이벤트_例大祭7 이벤트_예대제_7 합동-귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/628/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/628/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

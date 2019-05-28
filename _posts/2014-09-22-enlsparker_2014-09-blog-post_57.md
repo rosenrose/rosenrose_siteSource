@@ -1,7 +1,7 @@
 ---
 title: "지상의 공주"
 tags: "동인지 あみだ屑"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_57/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_57/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1591431389402864837" itemprop="description articleBody">

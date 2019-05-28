@@ -1,7 +1,7 @@
 ---
 title: "나라카고쿠 데스티네이션"
 tags: "乾ぬい 이누이누이 inui_nui 蓮華座 연화좌 rengeza 캐릭터_시키에이키_야마나자두 캐릭터_코메이지_사토리 캐릭터_오노즈카_코마치 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_키스메 캐릭터_쿠로다니_야마메 캐릭터_호시구마_유기 이벤트_c80 시리어스_진지"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/417/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/417/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

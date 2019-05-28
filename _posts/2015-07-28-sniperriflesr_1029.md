@@ -1,7 +1,7 @@
 ---
 title: "나의 영원에 미치도록 피어라 우담홧 약사 에-링의 무모편"
 tags: "sen astronomy 캐릭터_레이센_우동게인_이나바 캐릭터_야고코로_에이린 캐릭터_이나바_테위 캐릭터_호라이산_카구야 이벤트_崇敬祭_1 이벤트_숭경제_1회 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/1029/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/1029/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

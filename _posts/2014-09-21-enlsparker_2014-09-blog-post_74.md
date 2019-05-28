@@ -1,7 +1,7 @@
 ---
 title: "스트레인지 스트롱"
 tags: "동인지 なかむら屋"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-09-blog-post_74/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-09-blog-post_74/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4585452536369836431" itemprop="description articleBody">

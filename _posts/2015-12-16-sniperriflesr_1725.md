@@ -1,7 +1,7 @@
 ---
 title: "근로감사 카니발"
 tags: "ノヤマコト 노야_마코토 乃屋 노야 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_플랑드르_스칼렛 캐릭터_홍_메이링 캐릭터_파츄리_널릿지 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_모리치카_린노스케 캐릭터_소악마 이벤트_例大祭_9 이벤트_예대제_9 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/1725/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/1725/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

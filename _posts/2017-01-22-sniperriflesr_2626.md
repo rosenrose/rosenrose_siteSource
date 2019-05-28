@@ -1,7 +1,7 @@
 ---
 title: "발렌타인 - 코마에키 [ 2014 ]"
 tags: "きつね丸 葉々庵 캐릭터_시키에이키_야마나자두 캐릭터_오노즈카_코마치 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/2626/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/2626/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

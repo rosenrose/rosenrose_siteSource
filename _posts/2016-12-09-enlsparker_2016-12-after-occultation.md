@@ -1,7 +1,7 @@
 ---
 title: "After Occultation"
 tags: "합동인지 かるーあみるく さくsaku亭"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2016-12-after-occultation/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2016-12-after-occultation/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6513957830536808168" itemprop="description articleBody">

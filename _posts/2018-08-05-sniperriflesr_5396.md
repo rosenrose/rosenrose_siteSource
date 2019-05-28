@@ -1,7 +1,7 @@
 ---
 title: "원자력열차의 밤"
 tags: "伊月_朱 いつき_あけ @ake8901 redcap 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 이벤트_c87 이벤트_コミックマーケット87 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5396/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5396/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

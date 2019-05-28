@@ -1,7 +1,7 @@
 ---
 title: "아야야의 야야야"
 tags: "梅干 매실장아찌 lazy★lazy 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_히메카이도_하타테 캐릭터_이부키_스이카 귀여움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/110/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/110/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"> </p>

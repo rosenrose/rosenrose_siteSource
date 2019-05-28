@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 새벽의 벚꽃"
 tags: "동인지 青"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2014-07-blog-post_58/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2014-07-blog-post_58/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4697146902362272872" itemprop="description articleBody">

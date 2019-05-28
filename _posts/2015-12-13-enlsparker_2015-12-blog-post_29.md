@@ -1,7 +1,7 @@
 ---
 title: "로우 앵글"
 tags: "＋legacy 동인지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2015-12-blog-post_29/001.png"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2015-12-blog-post_29/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3263835126369952241" itemprop="description articleBody">

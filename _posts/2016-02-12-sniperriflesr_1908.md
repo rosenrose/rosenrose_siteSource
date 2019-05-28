@@ -1,7 +1,7 @@
 ---
 title: "단풍(모미지) 사냥"
 tags: "じぜる 지제루 캐릭터_이누바시리_모미지 캐릭터_샤메이마루_아야 캐릭터_카와시로_니토리 캐릭터_카기야마_히나 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1908/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1908/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

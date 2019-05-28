@@ -1,7 +1,7 @@
 ---
 title: "마루 밑 나즈린 - 화이트"
 tags: "동인지 武士的魂"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-07-blog-post_88/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-07-blog-post_88/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7522318790077873520" itemprop="description articleBody">

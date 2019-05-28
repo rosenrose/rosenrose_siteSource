@@ -1,7 +1,7 @@
 ---
 title: "Natural Born Darkness"
 tags: "동인지 ふあん亭"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-03-natural-born-darkness/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-03-natural-born-darkness/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1702574422722603219" itemprop="description articleBody">

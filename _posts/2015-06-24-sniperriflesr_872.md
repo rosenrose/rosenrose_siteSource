@@ -1,7 +1,7 @@
 ---
 title: "카구모코가 케이네를 키우는 만화"
 tags: "6 캐릭터_후지와라노_모코우 캐릭터_카미시라사와_케이네 캐릭터_호라이산_카구야 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/872/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/872/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

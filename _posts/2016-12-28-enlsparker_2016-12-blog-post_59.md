@@ -1,7 +1,7 @@
 ---
 title: "시로가네 엣지"
 tags: "동인지 薬味さらい"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/enlsparker/2016-12-blog-post_59/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/enlsparker/2016-12-blog-post_59/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-442184339618521982" itemprop="description articleBody">

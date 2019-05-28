@@ -1,7 +1,7 @@
 ---
 title: "후룸라이드 타는 신묘말"
 tags: "六合ダイスケ 캐릭터_하쿠레이_레이무 캐릭터_스쿠나_신묘마루 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2340/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2340/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

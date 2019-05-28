@@ -1,7 +1,7 @@
 ---
 title: "짝사랑 , 하고있습니다"
 tags: "6 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 캐릭터_토요사토미미노_미코 이메레스"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/837/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/837/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

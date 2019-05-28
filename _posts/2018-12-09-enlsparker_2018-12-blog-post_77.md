@@ -1,7 +1,7 @@
 ---
 title: "미야코 요시카라 하는 자 있었나니"
 tags: "동인지 鵺箱"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2018-12-blog-post_77/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2018-12-blog-post_77/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-192664049196151795" itemprop="description articleBody">

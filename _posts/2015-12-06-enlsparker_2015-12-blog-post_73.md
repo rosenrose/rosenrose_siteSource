@@ -1,7 +1,7 @@
 ---
 title: "꽃시계"
 tags: "동인지 アルパカ牧場 もぐもぐ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2015-12-blog-post_73/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2015-12-blog-post_73/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5785243526774375121" itemprop="description articleBody">

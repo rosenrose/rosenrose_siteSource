@@ -1,7 +1,7 @@
 ---
 title: "그러니까 도시전설 주세요!"
 tags: "캐릭터_스쿠나_신묘마루 캐릭터_키진_세이자 캐릭터_이자요이_사쿠야 캐릭터_쿠모이_이치린 캐릭터_운잔 캐릭터_레이센_우동게인_이나바 캐릭터_콘파쿠_요우무 캐릭터_야쿠모_란 캐릭터_하쿠레이_레이무 캐릭터_히지리_뱌쿠렌 캐릭터_후지와라노_모코우 캐릭터_우사미_스미레코 캐릭터_카미시라사와_케이네 캐릭터_후타츠이와_마미조 캐릭터_모토오리_코스즈 이벤트_c88 귀여움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2459/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2459/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

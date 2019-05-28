@@ -1,7 +1,7 @@
 ---
 title: "아름답게 빛나는 노랑색"
 tags: "동인지 show_and_tell"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-09-blog-post_979/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-09-blog-post_979/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8634016364467260646" itemprop="description articleBody">

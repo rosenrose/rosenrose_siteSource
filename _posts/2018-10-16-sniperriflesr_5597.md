@@ -1,7 +1,7 @@
 ---
 title: "히지미코랑 죠온쟝"
 tags: "桐谷 @kiri_tani_ 캐릭터_토요사토미미노_미코 캐릭터_히지리_뱌쿠렌 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5597/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5597/001.png"
 ---
 <div class="article">
 <p style="line-height: 19.2px; text-align: center;"><br/></p>

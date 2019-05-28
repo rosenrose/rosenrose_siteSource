@@ -1,7 +1,7 @@
 ---
 title: "좋아하는 사람으로부터 이런 말을 들어버렸다"
 tags: "느응 캐릭터_순호 이메레스"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5705/001.png"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5705/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

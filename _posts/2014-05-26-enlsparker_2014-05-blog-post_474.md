@@ -1,7 +1,7 @@
 ---
 title: "이별 서리"
 tags: "동인지 赤色バニラ"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-05-blog-post_474/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-05-blog-post_474/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3218541330214716611" itemprop="description articleBody">

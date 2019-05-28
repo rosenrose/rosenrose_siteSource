@@ -1,7 +1,7 @@
 ---
 title: "묭 괴롭히기"
 tags: "ハマー 헤머 サンセットビーチ 짤_시리즈"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/1699/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/1699/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

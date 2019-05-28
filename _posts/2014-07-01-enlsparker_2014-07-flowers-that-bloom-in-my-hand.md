@@ -1,7 +1,7 @@
 ---
 title: "Flowers that Bloom in my Hand"
 tags: "동인지 梅の実画報"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-07-flowers-that-bloom-in-my-hand/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-07-flowers-that-bloom-in-my-hand/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1895852212728119176" itemprop="description articleBody">

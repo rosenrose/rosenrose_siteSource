@@ -1,7 +1,7 @@
 ---
 title: "축 Marriage short story - 혼인단편집"
 tags: "동인지 ロケット燃料★21"
-image: "https://d2wmzxqert2xsk.cloudfront.net/enlsparker/2016-02-marriage-short-story/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/enlsparker/2016-02-marriage-short-story/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1302073748318666395" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "사나에 씨 축하해요! Extra~!"
 tags: "기타동인지 체온도둑"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-05-extra/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-05-extra/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-599430752279970874" itemprop="description articleBody">

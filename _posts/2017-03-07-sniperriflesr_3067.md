@@ -1,7 +1,7 @@
 ---
 title: "라이프ㆍ이즈ㆍ뷰티플"
 tags: "えなみ教授 에나미교수 居眠りチョコミント 캐릭터_카미시라사와_케이네 캐릭터_하타노_코코로 캐릭터_호쥬_누에 캐릭터_첸 캐릭터_플랑드르_스칼렛 캐릭터_코메이지_코이시 급식첸_만화"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/3067/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/3067/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="font-size: 9pt;"><br/></b></p>

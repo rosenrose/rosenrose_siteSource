@@ -1,7 +1,7 @@
 ---
 title: "sepia"
 tags: "동인지 ひとみしり"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2015-05-sepia/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2015-05-sepia/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-109645629415333396" itemprop="description articleBody">

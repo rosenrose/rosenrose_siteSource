@@ -1,7 +1,7 @@
 ---
 title: "동방사구초③"
 tags: "기타동인지 スナックよし江"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-04-blog-post_3/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-04-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7379949512197039111" itemprop="description articleBody">

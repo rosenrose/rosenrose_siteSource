@@ -1,7 +1,7 @@
 ---
 title: "유메카나에"
 tags: "はなだひょう 砂蒸しパンキャビン 모래찐빵_캐빈 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_야쿠모_유카리 캐릭터_우사미_렌코 시리어스_슬픔"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1349/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1349/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

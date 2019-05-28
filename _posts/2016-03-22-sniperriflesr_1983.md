@@ -1,7 +1,7 @@
 ---
 title: "떠나가는 자"
 tags: "坂奈 사카나 サカナキドリ 캐릭터_키신_사구메 캐릭터_도레미_스위트 시리어스_진지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/1983/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/1983/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

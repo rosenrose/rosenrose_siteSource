@@ -1,7 +1,7 @@
 ---
 title: "카게로 짱과 연회에서"
 tags: "夜霧 よぎり @mofumisutin 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/5311/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/5311/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

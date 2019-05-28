@@ -1,7 +1,7 @@
 ---
 title: "사구메씨는 이야기가 하고싶다"
 tags: "まくわうに 마쿠와우니 うり畑牧場 우리바타케_보쿠죠우 참외밭_목장 캐릭터_키신_사구메 캐릭터_도레미_스위트 캐릭터_링고 캐릭터_세이란 이벤트_名華祭10 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/2187/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/2187/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif; line-height: 1.6;"></b><br/></p>

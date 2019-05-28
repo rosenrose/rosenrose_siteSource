@@ -1,7 +1,7 @@
 ---
 title: "당일치기 괴기담"
 tags: "동인지 ふあん亭"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2014-07-blog-post_86/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2014-07-blog-post_86/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1340308035656669437" itemprop="description articleBody">

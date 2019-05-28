@@ -1,7 +1,7 @@
 ---
 title: "메리의 가슴주머니"
 tags: "ムナカタ 黄色い目のクジラ 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_우사미_렌코 약"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/3052/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/3052/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

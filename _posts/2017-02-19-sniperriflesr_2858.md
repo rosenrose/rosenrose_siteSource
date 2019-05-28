@@ -1,7 +1,7 @@
 ---
 title: "누에 x 사나에"
 tags: "五郎丸 560 캐릭터_코치야_사나에 캐릭터_호쥬_누에 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2858/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2858/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "발렌타인"
 tags: "春日優希 카스가_유키 わいるどらびっつ 와일드_래빗츠 야생토끼 캐릭터_토라마루_쇼 캐릭터_나즈린 귀여움／가벼움"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/677/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/677/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

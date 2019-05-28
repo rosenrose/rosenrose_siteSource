@@ -1,7 +1,7 @@
 ---
 title: "날개를 접고 한 걸음 더"
 tags: "동인지 木綿シリコン"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2017-02-blog-post_8/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2017-02-blog-post_8/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4281702720416571424" itemprop="description articleBody">

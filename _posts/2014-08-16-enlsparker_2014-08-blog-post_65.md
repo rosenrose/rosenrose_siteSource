@@ -1,7 +1,7 @@
 ---
 title: "두근! 마이 하트"
 tags: "동인지 その他大勢"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-08-blog-post_65/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-08-blog-post_65/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8486644616689330705" itemprop="description articleBody">

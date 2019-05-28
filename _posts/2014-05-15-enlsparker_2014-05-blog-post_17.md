@@ -1,7 +1,7 @@
 ---
 title: "ゐなれきゑぞか"
 tags: "동인지 ビビットグレー"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-05-blog-post_17/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-05-blog-post_17/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7352851938597131438" itemprop="description articleBody">

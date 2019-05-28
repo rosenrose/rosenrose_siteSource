@@ -1,7 +1,7 @@
 ---
 title: "[30센치시리즈] 신묘마루"
 tags: "100 000원의행복 캐릭터_스쿠나_신묘마루 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5794/001.png"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5794/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

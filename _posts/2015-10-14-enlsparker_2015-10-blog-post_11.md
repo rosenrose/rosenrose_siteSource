@@ -1,7 +1,7 @@
 ---
 title: "와타츠키무쌍 아키노미쿠마리"
 tags: "동인지 caelestis．"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2015-10-blog-post_11/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2015-10-blog-post_11/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-348291181098302685" itemprop="description articleBody">

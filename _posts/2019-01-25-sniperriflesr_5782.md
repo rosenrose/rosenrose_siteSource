@@ -1,7 +1,7 @@
 ---
 title: "인기인 시온"
 tags: "야퍄퍄 캐릭터_요리가미_시온 캐릭터_요리가미_조온 캐릭터_히나나위_텐시 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/5782/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/5782/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

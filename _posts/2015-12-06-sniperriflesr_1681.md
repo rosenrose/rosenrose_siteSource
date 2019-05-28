@@ -1,7 +1,7 @@
 ---
 title: "공포"
 tags: "けぬー 케누 ちりわぁく 캐릭터_토요사토미미노_미코 캐릭터_소가노_토지코 캐릭터_와타츠키노_요리히메 [번역]_짤"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/sniperriflesr/1681/001.jpg"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/sniperriflesr/1681/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

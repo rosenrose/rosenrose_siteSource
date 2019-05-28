@@ -1,7 +1,7 @@
 ---
 title: "빛보다 빨리!"
 tags: "동인지 さくsaku亭"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_520/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_520/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6737525198584052202" itemprop="description articleBody">

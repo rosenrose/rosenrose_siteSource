@@ -1,7 +1,7 @@
 ---
 title: "두 사람은 사이좋아"
 tags: "さとうメメ子 satou_memeko 사토우_메메코 米 kemo 케모 캐릭터_후지와라노_모코우 캐릭터_호라이산_카구야 캐릭터_카미시라사와_케이네 이벤트_미상 귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1101/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1101/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

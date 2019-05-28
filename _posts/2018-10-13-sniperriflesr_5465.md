@@ -1,7 +1,7 @@
 ---
 title: "보호자"
 tags: "もや造 @moyashiseizoujo 北国もやし製造所 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_루나_차일드 캐릭터_써니_밀크 캐릭터_미스티아_로렐라이 캐릭터_이누바시리_모미지 캐릭터_스타_사파이어 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5465/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5465/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

@@ -1,7 +1,7 @@
 ---
 title: "이리로 와 유카마리"
 tags: "동인지 カナリアとつばめ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2016-11-blog-post_40/001.png"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2016-11-blog-post_40/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5266255286220405839" itemprop="description articleBody">

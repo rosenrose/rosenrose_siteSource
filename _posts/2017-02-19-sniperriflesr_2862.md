@@ -1,7 +1,7 @@
 ---
 title: "마음 읽는 레이무"
 tags: "うにゃ 우냐 うにゃ吉 @unyanai あんずの木 캐릭터_하쿠레이_레이무 캐릭터_코메이지_사토리 귀여움／가벼움"
-image: "https://d380selndl63m.cloudfront.net/sniperriflesr/2862/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/sniperriflesr/2862/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"><br/></b></p>

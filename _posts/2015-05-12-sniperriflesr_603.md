@@ -1,7 +1,7 @@
 ---
 title: "신앙이 흔들린 날"
 tags: "futa なべぞこ 나베조코 캐릭터_코치야_사나에 캐릭터_모리야_스와코 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/603/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/603/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

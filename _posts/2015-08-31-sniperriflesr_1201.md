@@ -1,7 +1,7 @@
 ---
 title: "살의의 백합"
 tags: "インド僧 いんどの宮殿! 캐릭터_순호 캐릭터_준코 캐릭터_호라이산_카구야 캐릭터_레이센_우동게인_이나바 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1201/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1201/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

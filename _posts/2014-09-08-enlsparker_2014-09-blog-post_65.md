@@ -1,7 +1,7 @@
 ---
 title: "일상우연무미무취"
 tags: "동인지 なかむら屋"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_65/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_65/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3433785304301385225" itemprop="description articleBody">

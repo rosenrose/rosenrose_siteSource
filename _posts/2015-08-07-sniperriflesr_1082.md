@@ -1,7 +1,7 @@
 ---
 title: "이열치냉"
 tags: "6 캐릭터_와타츠키노_요리히메 캐릭터_와타츠키노_토요히메 캐릭터_레이센 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1082/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1082/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

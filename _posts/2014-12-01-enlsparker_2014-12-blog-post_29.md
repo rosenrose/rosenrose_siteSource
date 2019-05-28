@@ -1,7 +1,7 @@
 ---
 title: "누택담화"
 tags: "동인지 あみだ屑"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-12-blog-post_29/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-12-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6354084279007954590" itemprop="description articleBody">

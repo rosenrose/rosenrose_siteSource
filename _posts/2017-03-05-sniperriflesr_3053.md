@@ -1,7 +1,7 @@
 ---
 title: "카케로씨와 와카사기씨"
 tags: "鱗士 캐릭터_와카사기히메 캐릭터_이마이즈미_카케로 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/3053/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/3053/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

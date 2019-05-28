@@ -1,7 +1,7 @@
 ---
 title: "협박하는 레밀리아"
 tags: "보비 캐릭터_레밀리아_스칼렛 짤／1컷만화"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/5804/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/5804/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

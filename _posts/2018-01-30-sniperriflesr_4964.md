@@ -1,7 +1,7 @@
 ---
 title: "부담 가지실까봐"
 tags: "しぐま @signalmass 캐릭터_토라마루_쇼 캐릭터_나즈린 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/4964/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/4964/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

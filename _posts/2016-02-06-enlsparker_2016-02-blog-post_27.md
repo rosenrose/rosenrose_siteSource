@@ -1,7 +1,7 @@
 ---
 title: "이 구역의 메이드장은 접니다."
 tags: "동인지 まにまに。"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2016-02-blog-post_27/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2016-02-blog-post_27/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2023876462724508950" itemprop="description articleBody">

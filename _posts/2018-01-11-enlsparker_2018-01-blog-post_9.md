@@ -1,7 +1,7 @@
 ---
 title: "동방청첩 - 습유 후지네즈미"
 tags: "동인지 青"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2018-01-blog-post_9/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2018-01-blog-post_9/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-5249651269235360576" itemprop="description articleBody">

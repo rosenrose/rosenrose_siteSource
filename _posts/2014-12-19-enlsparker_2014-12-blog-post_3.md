@@ -1,7 +1,7 @@
 ---
 title: "청아 냥냥의 이상한 애정"
 tags: "동인지 蓮華座"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2014-12-blog-post_3/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2014-12-blog-post_3/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-192665612860060012" itemprop="description articleBody">

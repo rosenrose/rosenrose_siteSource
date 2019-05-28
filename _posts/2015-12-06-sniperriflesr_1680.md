@@ -1,7 +1,7 @@
 ---
 title: "수화"
 tags: "けぬー 케누 ちりわぁく 캐릭터_레이센_우동게인_이나바 캐릭터_키신_사구메 [번역]_4컷／단편만화"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1680/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1680/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

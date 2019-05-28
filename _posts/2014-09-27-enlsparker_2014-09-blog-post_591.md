@@ -1,7 +1,7 @@
 ---
 title: "간단 마이 퍼펫"
 tags: "동인지 石切場"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2014-09-blog-post_591/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2014-09-blog-post_591/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4088670274444388220" itemprop="description articleBody">

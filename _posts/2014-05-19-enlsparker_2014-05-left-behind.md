@@ -1,7 +1,7 @@
 ---
 title: "Left Behind"
 tags: "＋legacy 동인지"
-image: "https://d396uhqh54mlcz.cloudfront.net/enlsparker/2014-05-left-behind/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/enlsparker/2014-05-left-behind/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1605100264311232871" itemprop="description articleBody">

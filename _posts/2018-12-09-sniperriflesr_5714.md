@@ -1,7 +1,7 @@
 ---
 title: "일이 막히면 방해하러 가는 사구메님"
 tags: "蛍光流動 형광유동 @fluorescentflow 蛍光流速 형광유속 캐릭터_키신_사구메 캐릭터_도레미_스위트 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5714/001.jpg"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5714/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b><br/></b></p>

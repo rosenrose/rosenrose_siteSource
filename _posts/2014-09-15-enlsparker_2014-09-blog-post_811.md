@@ -1,7 +1,7 @@
 ---
 title: "스텝핑 스톤"
 tags: "동인지 四方山"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_811/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-09-blog-post_811/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-9061462524366472443" itemprop="description articleBody">

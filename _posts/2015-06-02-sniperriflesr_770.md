@@ -1,7 +1,7 @@
 ---
 title: "이사 오브 원더랜드"
 tags: "桜庭友紀 사쿠라바_유키 personal_color 캐릭터_앨리스_마가트로이드 캐릭터_키리사메_마리사 캐릭터_파츄리_널릿지 이벤트_c87 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/770/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/770/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "안녕하세요!!"
 tags: "하늘빛여우 캐릭터_나즈린 캐릭터_카소다니_쿄코 귀여움／가벼움"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5723/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5723/001.png"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

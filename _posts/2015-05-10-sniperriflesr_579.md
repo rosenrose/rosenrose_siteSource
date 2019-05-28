@@ -1,7 +1,7 @@
 ---
 title: "신묘마루쨩은 정말 정직해"
 tags: "ジェット虚無僧 제트_코무소 캐릭터_히나나위_텐시 캐릭터_레밀리아_스칼렛 캐릭터_스쿠나_신묘마루 캐릭터_사이교우지_유유코 귀여움／가벼움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/579/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/579/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

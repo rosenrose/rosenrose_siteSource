@@ -1,7 +1,7 @@
 ---
 title: "초이렛달 사쿠야"
 tags: "기타동인지 きなこもちら～めん"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-04-blog-post_97/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2015-04-blog-post_97/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2223730969321810600" itemprop="description articleBody">

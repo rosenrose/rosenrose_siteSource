@@ -1,7 +1,7 @@
 ---
 title: "소녀들과 가위바위보로 옷 벗기기"
 tags: "ハマー 헤머 サンセットビーチ [번역]_짤_시리즈"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1532/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1532/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "마녀사냥"
 tags: "동인지 ふあん亭"
-image: "https://d1quptcelcb84e.cloudfront.net/enlsparker/2015-10-blog-post_63/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/enlsparker/2015-10-blog-post_63/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4282735655447152219" itemprop="description articleBody">

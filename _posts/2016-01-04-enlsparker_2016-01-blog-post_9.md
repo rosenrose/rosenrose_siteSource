@@ -1,7 +1,7 @@
 ---
 title: "사토에이 콤플렉스"
 tags: "동인지 蓮華座"
-image: "https://d227u6es37tepu.cloudfront.net/enlsparker/2016-01-blog-post_9/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/enlsparker/2016-01-blog-post_9/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8510921543358073878" itemprop="description articleBody">

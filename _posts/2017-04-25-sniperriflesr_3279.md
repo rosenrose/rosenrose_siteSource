@@ -1,7 +1,7 @@
 ---
 title: "그대가 있는 행복"
 tags: "キレロ kirororo 캐릭터_이자요이_사쿠야 캐릭터_레밀리아_스칼렛 캐릭터_파츄리_널릿지 캐릭터_홍_메이링 이벤트_例大祭13 이벤트_예대제_13 시리어스_밝음"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/3279/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/3279/001.jpg"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style="font-family: 돋움, dotum, verdana, sans-serif;"></b><br/></p>

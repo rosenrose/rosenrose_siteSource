@@ -1,7 +1,7 @@
 ---
 title: "1차 엉덩이 대전"
 tags: "piyotycho ひらのまさのり @heidon black_dwarf 캐릭터_야쿠모_란 캐릭터_이나바_테위 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 캐릭터_첸 캐릭터_샤메이마루_아야 캐릭터_하쿠레이_레이무 캐릭터_키리사메_마리사 귀여움"
-image: "https://d2wmzxqert2xsk.cloudfront.net/sniperriflesr/4986/001.jpg"
+image: "https://d1jugg4tefwtah.cloudfront.net/sniperriflesr/4986/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b><br/></b></p>

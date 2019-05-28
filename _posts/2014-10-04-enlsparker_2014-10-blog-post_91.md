@@ -1,7 +1,7 @@
 ---
 title: "그레이트 이스케이프"
 tags: "蒼空市場 합동인지 strange_chameleon ストカメ"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-10-blog-post_91/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-10-blog-post_91/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-998780310808420926" itemprop="description articleBody">

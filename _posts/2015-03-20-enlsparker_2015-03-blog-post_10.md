@@ -1,7 +1,7 @@
 ---
 title: "더 같이 있자"
 tags: "동인지 優先席"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2015-03-blog-post_10/001.png"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2015-03-blog-post_10/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-3765722256715401423" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "나의 세계"
 tags: "七輪大社 캐릭터_사라 캐릭터_루이즈 캐릭터_앨리스_마가트로이드 캐릭터_유키 캐릭터_마이 캐릭터_유메코 캐릭터_신키 캐릭터_키리사메_마리사 이벤트_例大祭11 이벤트_예대제_11 합동-귀여움"
-image: "https://d396uhqh54mlcz.cloudfront.net/sniperriflesr/1185/001.jpg"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/sniperriflesr/1185/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

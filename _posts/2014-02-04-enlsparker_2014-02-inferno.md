@@ -1,7 +1,7 @@
 ---
 title: "상쇄 INFERNO"
 tags: "徒歩二分 합동인지 letra"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-02-inferno/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-02-inferno/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-1124034502082775030" itemprop="description articleBody">

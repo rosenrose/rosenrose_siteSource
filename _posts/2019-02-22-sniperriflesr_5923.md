@@ -1,7 +1,7 @@
 ---
 title: "폰겜에 돈지르는 카구야"
 tags: "ㅋㄷㅇㅇ 49．175 캐릭터_호라이산_카구야 캐릭터_야고코로_에이린 귀여움／가벼움"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/5923/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/5923/001.jpg"
 ---
 <div class="article">
 <p style="text-align: center;"><b></b><br/></p>

@@ -1,7 +1,7 @@
 ---
 title: "이승삼문"
 tags: "동인지 シャこ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-09-blog-post_55/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-09-blog-post_55/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7214440490622239474" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "사나에의 장난"
 tags: "그림_번역／로쿠넨"
-image: "https://d396uhqh54mlcz.cloudfront.net/touhoustory/21/001.png"
+image: "https://d1r1ofl10x3cvx.cloudfront.net/touhoustory/21/001.png"
 ---
 <div class="article">
 <div class="tt_article_useless_p_margin"><p style="text-align: center; clear: none; float: none;"><img src="{{ site.imgserver7 }}/touhoustory/21/001.png"/></p><p style="text-align: center;"><span style="background-color: rgb(247, 247, 247); color: rgb(51, 51, 51); font-family: 나눔고딕, NanumGothic, 돋움, Dotum, helvetica, sans-serif, tahoma; font-size: 18.6667px; text-align: center;">ろくねん(@6nen)</span></p> </div></div><br/>

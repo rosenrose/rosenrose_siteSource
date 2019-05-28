@@ -1,7 +1,7 @@
 ---
 title: "Give me your Heart"
 tags: "ぽて 포테 @ptkankodori 閑古鳥茶園 캐릭터_마타라_오키나 캐릭터_테이레이다_마이 캐릭터_니시다_사토노 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/5461/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/5461/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b style=""></b><br/></p>

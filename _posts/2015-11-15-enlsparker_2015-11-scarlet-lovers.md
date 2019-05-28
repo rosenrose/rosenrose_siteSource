@@ -1,7 +1,7 @@
 ---
 title: "Scarlet LoverS"
 tags: "동인지 garimpeiro"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2015-11-scarlet-lovers/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2015-11-scarlet-lovers/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-6826122223608378414" itemprop="description articleBody">

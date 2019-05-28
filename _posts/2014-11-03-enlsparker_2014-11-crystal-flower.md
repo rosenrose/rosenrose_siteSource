@@ -1,7 +1,7 @@
 ---
 title: "Crystal Flower"
 tags: "기타동인지 corniche_arts"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/enlsparker/2014-11-crystal-flower/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/enlsparker/2014-11-crystal-flower/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-4887208293645236330" itemprop="description articleBody">

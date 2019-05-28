@@ -1,7 +1,7 @@
 ---
 title: "버려진 가난신"
 tags: "是乃 ぜの @zenokaiza 제노 ぜのさいど 제노사이드 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/4948/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/4948/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><strong style="line-height: 1.6;"></strong><br/></p>

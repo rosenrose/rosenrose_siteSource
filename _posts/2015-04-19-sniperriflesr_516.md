@@ -1,7 +1,7 @@
 ---
 title: "묭 키츠네 ~ 겨울날"
 tags: "都桜_和 토자쿠라_나고미 tozakura_nagomi thw．jp 캐릭터_사이교우지_유유코 캐릭터_야쿠모_유카리 캐릭터_콘파쿠_요우무 캐릭터_첸 캐릭터_야쿠모_란 캐릭터_나즈린 캐릭터_타타라_코가사 캐릭터_토라마루_쇼 캐릭터_무라사_미나미츠 캐릭터_운잔 캐릭터_쿠모이_이치린 이벤트_c77 귀여움"
-image: "https://d1quptcelcb84e.cloudfront.net/sniperriflesr/516/001.jpg"
+image: "https://d19j6j9wjau9qp.cloudfront.net/sniperriflesr/516/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

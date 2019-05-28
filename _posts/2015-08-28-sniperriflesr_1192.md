@@ -1,7 +1,7 @@
 ---
 title: "주인님 NTR당한 클라운피스"
 tags: "ｱﾊﾞ 캐릭터_도레미_스위트 캐릭터_클라운피스 캐릭터_순호 캐릭터_준코 캐릭터_헤카티아_라피스라줄리 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/1192/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/1192/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

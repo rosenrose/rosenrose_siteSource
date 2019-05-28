@@ -1,7 +1,7 @@
 ---
 title: "만작 - 세키반키의 저녁 반주 이야기"
 tags: "동인지 うり畑牧場"
-image: "https://dxpc2233q2b6a.cloudfront.net/enlsparker/2017-10-blog-post_29/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/enlsparker/2017-10-blog-post_29/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-78327660949171221" itemprop="description articleBody">

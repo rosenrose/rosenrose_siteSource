@@ -1,7 +1,7 @@
 ---
 title: "히지리 바쿠렌이 찾아왔다!"
 tags: "동인지 ギガメーカー"
-image: "https://d2qlf8dy658u2n.cloudfront.net/enlsparker/2014-10-blog-post_88/001.jpg"
+image: "https://d13d8depeciczd.cloudfront.net/enlsparker/2014-10-blog-post_88/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-7258041425595073541" itemprop="description articleBody">

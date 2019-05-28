@@ -1,7 +1,7 @@
 ---
 title: "리얼충 폭파 삼총사"
 tags: "古河おどろ よまいり先生 캐릭터_코메이지_코이시 캐릭터_카엔뵤_린 캐릭터_오린 캐릭터_히메카이도_하타테 캐릭터_미즈하시_파르시 귀여움／가벼움"
-image: "https://d2qlf8dy658u2n.cloudfront.net/sniperriflesr/2222/001.png"
+image: "https://d13d8depeciczd.cloudfront.net/sniperriflesr/2222/001.png"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

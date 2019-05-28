@@ -1,7 +1,7 @@
 ---
 title: "착한아이의 인생주사위"
 tags: "기타동인지 ヒトマチコ"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2017-03-blog-post/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2017-03-blog-post/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-2687891320874615609" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "흥정"
 tags: "桐谷 @kiri_tani_ 키리타니 캐릭터_요리가미_시온 캐릭터_요리가미_조온 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/5530/001.png"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/5530/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; text-align: center;"><b><font face="돋움, dotum, verdana, sans-serif"><br/></font></b></p>

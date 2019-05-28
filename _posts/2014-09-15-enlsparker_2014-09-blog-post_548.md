@@ -1,7 +1,7 @@
 ---
 title: "우산밑의 그대에게 알린다"
 tags: "동인지 羊ほえほえ"
-image: "https://d380selndl63m.cloudfront.net/enlsparker/2014-09-blog-post_548/001.jpg"
+image: "https://d3htrgpmip1qax.cloudfront.net/enlsparker/2014-09-blog-post_548/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8881673812636263596" itemprop="description articleBody">

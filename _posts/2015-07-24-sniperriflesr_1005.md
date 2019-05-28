@@ -1,7 +1,7 @@
 ---
 title: "오토메 엑시비션"
 tags: "ギロチン girotin 길로틴 ギロチン銀座 길로틴긴자 girotin_ginza 캐릭터_히메카이도_하타테 캐릭터_샤메이마루_아야 캐릭터_이누바시리_모미지 캐릭터_야쿠모_란 캐릭터_후지와라노_모코우 캐릭터_치르노 이벤트_紅楼夢_7 이벤트_홍루몽_7 귀여움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/1005/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/1005/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

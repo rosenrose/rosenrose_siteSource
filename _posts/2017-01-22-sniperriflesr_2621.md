@@ -1,7 +1,7 @@
 ---
 title: "하트 볼 포토그래프"
 tags: "鳥居すみ airdrop 캐릭터_우사미_렌코 캐릭터_마에리베리_한 캐릭터_메리 캐릭터_이자요이_사쿠야 캐릭터_오노즈카_코마치 캐릭터_사이교우지_유유코 캐릭터_샤메이마루_아야 캐릭터_히메카이도_하타테 캐릭터_키리사메_마리사 캐릭터_하쿠레이_레이무 캐릭터_이바라키_카센 캐릭터_우사미_스미레코 이벤트_例大祭13 이벤트_예대제_13 귀여움"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/2621/001.png"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/2621/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><b style="line-height: 1.6;"></b><br/></p>

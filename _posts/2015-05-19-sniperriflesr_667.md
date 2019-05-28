@@ -1,7 +1,7 @@
 ---
 title: "마법사의 비밀"
 tags: "みつなら 미츠나라 398 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 캐릭터_하쿠레이_레이무 캐릭터_코치야_사나에 이벤트_例大祭_12 이벤트_예대제_12 시리어스_진지"
-image: "https://d1xbsow2hxcyjr.cloudfront.net/sniperriflesr/667/001.jpg"
+image: "https://d1opk41f0tyet.cloudfront.net/sniperriflesr/667/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

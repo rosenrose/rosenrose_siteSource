@@ -1,7 +1,7 @@
 ---
 title: "Shooting Bullet"
 tags: "동인지 風に靡く巣箱"
-image: "https://d28m3gpsoauueh.cloudfront.net/enlsparker/2014-12-shooting-bullet/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/enlsparker/2014-12-shooting-bullet/001.jpg"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8178287017448500878" itemprop="description articleBody">

@@ -1,7 +1,7 @@
 ---
 title: "갈림길"
 tags: "るーらら @luurara64 캐릭터_레이센_우동게인_이나바 캐릭터_우동게 시리어스_진지"
-image: "https://d2mc8yflsr3zqe.cloudfront.net/sniperriflesr/5551/001.png"
+image: "https://dh33lpduw37to.cloudfront.net/sniperriflesr/5551/001.png"
 ---
 <div class="article">
 <p style="line-height: 1.6; font-family: 돋움, dotum, verdana, sans-serif; text-align: center;"><br/></p>

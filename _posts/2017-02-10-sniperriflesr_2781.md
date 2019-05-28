@@ -1,7 +1,7 @@
 ---
 title: "새댁 세이쟈"
 tags: "是乃 제노 ぜのさいど 제노사이드 캐릭터_키진_세이자 귀여움／가벼움"
-image: "https://d227u6es37tepu.cloudfront.net/sniperriflesr/2781/001.jpg"
+image: "https://d1m5akpojyq0wd.cloudfront.net/sniperriflesr/2781/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

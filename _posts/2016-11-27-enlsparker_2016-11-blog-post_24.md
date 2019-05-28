@@ -1,7 +1,7 @@
 ---
 title: "말로 세상은 바뀐다"
 tags: "犬娘院 기타동인지"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2016-11-blog-post_24/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2016-11-blog-post_24/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-104412904125502967" itemprop="description articleBody">

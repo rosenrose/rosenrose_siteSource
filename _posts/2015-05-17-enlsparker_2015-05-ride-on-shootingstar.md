@@ -1,7 +1,7 @@
 ---
 title: "RIDE ON SHOOTINGSTAR"
 tags: "동인지 蒼空市場"
-image: "https://d1l1ue9r5wvfs2.cloudfront.net/enlsparker/2015-05-ride-on-shootingstar/001.png"
+image: "https://d2ii1zcpu2dht0.cloudfront.net/enlsparker/2015-05-ride-on-shootingstar/001.png"
 ---
 <div class="article">
 <div class="post-body entry-content" id="post-body-8241384374585320917" itemprop="description articleBody">

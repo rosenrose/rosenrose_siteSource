@@ -1,7 +1,7 @@
 ---
 title: "애인을 상처입힌 표정연습"
 tags: "がおー 캐릭터_코메이지_코이시 이메레스"
-image: "https://d28m3gpsoauueh.cloudfront.net/sniperriflesr/1369/001.jpg"
+image: "https://d3hknah3u6pf18.cloudfront.net/sniperriflesr/1369/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>

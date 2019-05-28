@@ -1,7 +1,7 @@
 ---
 title: "권태moratorium"
 tags: "鶴亀 ああ言えばこういう 캐릭터_소악마 캐릭터_파츄리_널릿지 캐릭터_사이교우지_유유코 캐릭터_코메이지_사토리 캐릭터_레밀리아_스칼렛 캐릭터_이자요이_사쿠야 캐릭터_키리사메_마리사 캐릭터_앨리스_마가트로이드 이벤트_홍루몽_5 이벤트_紅楼夢5 약"
-image: "https://dxpc2233q2b6a.cloudfront.net/sniperriflesr/2274/001.jpg"
+image: "https://d3iolf2bs625b0.cloudfront.net/sniperriflesr/2274/001.jpg"
 ---
 <div class="article">
 <p style="TEXT-ALIGN: center"><br/></p>
